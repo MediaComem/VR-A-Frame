@@ -64,6 +64,7 @@ class: center, middle
 - Immersion
 - Déplacements
 - Performances graphiques
+- Audio
 - Réflexion/discussion: UX et interfaces de jeux VR
 ---
 
@@ -241,28 +242,81 @@ De manière générale, une application VR ne doit pas permettre de prendre le c
 
   <img src="https://external-preview.redd.it/lmskdQbKiWAh14j5dxhCPn-iLTx_uBkHcwZksUQz328.jpg?auto=webp&s=93735d53c775da1b0702cb0fa8126363426f9d53" style="width: 300px" />
 ---
+
 # Etat de l'art: Immersion
 ##  [Aliasing](https://fr.wikipedia.org/wiki/Anticr%C3%A9nelage)
   - L'effet: les arrondis sont saccadés
   - Cause: les pixels sont carré, les courbes sont pas possible sur écran
   - Anti-aliasing: technique  d'"anticrénelage" (FR) pour lisser les courbes et diagonales, grâce au flou
 
+
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/24/Antialiasing_comparaison.gif" style="width: 600px" />
 ---
 
 # Etat de l'art: Immersion
-## Glare ou God rays
+## [Glare ou God rays](https://3dinsider.com/vr-lenses/)
   - L'effet: En cas de forts contrastes, ça "bave". On voit les rayons lumineux.
+  - Cause: Les lentilles dans le casques.
+  - Solution: limiter les forts contraste dans le design du jeu/de l'app.
 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/24/Antialiasing_comparaison.gif" style="width: 600px" />
+
+  <img src="http://i.vimeocdn.com/video/569557579_1280.jpg" style="width: 500px" />
 ---
 
 # Etat de l'art: Déplacements
+### Les déplacements sont problématiques dans la VR.
+## Problèmes:
+- Mal du voyage (ou moiton sickness) lorsque le déplacement visualisé est décalé de celui contrôlé par l'utilisateur.
+- L'espace réel est souvent restreint: dans une pièce, souvent 2-3m2
+
+### Comment garder le réalisme des déplacements, sans les permettre en réalité?
+---
+
+# Etat de l'art: Déplacements
+### Différentes solutions
+- **Le chaperon**: faire des murs virtuels quand y a des murs en realité. Mais qu'en est-il pour les mondes infinis?
+- Utiliser des **véhicules**: l'utilisateur reste sur place en réalité, c'est le véhicule qui se déplace dans le virtuel.
+- **La téléportation**: l'utilisateur ne bouge pas.
+- **[Rediect walking](https://www.youtube.com/watch?v=u8pw81VbMUU)**: fausser la perception de l'esprit avec un décalage mouvements réels/virtuels.
+- **Suites de mouvements adaptées à l'univers**, pensés pour que l'utilisateur revienne sur ses pas, et reste dans un espace restreint.
+---
+
+# Etat de l'art: Déplacements
+### Différentes solutions (suite)
+- **Overlapping** des salles pour fausser l'esprit: jeu des distances. Difficile pour le cerveau de se représenter les distances.
+
+<img src="./img/overlapping.png" style="width: 350px" />
+---
+
+# Etat de l'art: Déplacements
+### Différentes solutions (suite)
+
+- **Tapis VR**: permet le déplacement infini. Le problème: ils sont dangereux, besoins de harnais, ou d'une sécurité de soutien.
+
+<img src="https://i.pinimg.com/originals/86/51/71/8651710cd1970bc5c5d6892064fcc03b.jpg" style="width: 500px" />
+---
+
+
+# Etat de l'art: Performances graphiques
+L'idéal serait d'avoir une résolution min. de 8k, avec un FOV de 180°, et une fréquence min. de 90Hz
+
+Le problème: les cartes graphiques actuelles ne le permettent pas.
+
+**Quelques solutions:**
+- **[Le foveated rendering](https://en.wikipedia.org/wiki/Foveated_rendering)**: on améliore le centre de l'image, et de moins en moins en plriphérie de la vision pour réduire le temps de calcul. Avec du eye-tracking intégré aux casque cela pourrait être d'autant plus performant. 
+- **[Asynchronous interleaved reprojection](https://en.wikipedia.org/wiki/Asynchronous_reprojection)**: des images sont chargées, puis adaptées avec les informations de mouvements du casque. 
+
+Voir: [Google light field](https://www.blog.google/products/google-ar-vr/experimenting-light-fields/)
+et [Light-field camera](https://en.wikipedia.org/wiki/Light-field_camera)
 
 ---
 
-# Performances graphiques
+# Etat de l'art: le son en VR
+## Le son en VR est positionnel, donc également en 3D.
+En savoir plus: [VR positional Audio](https://realnewworld.com/vr-positional-audio/)
+
 ---
+
 
 # Réflexion/discussion:
 ## UX/interface de jeux VR, quelles problématiques?
