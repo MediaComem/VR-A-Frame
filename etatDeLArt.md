@@ -26,7 +26,7 @@
 
 #### La VR, un média qui englobe tous les autres ?
 
-## <a name="histo"></a> Historique
+## <a name="histo"></a> Quelques références historiques
 
 XIXe s. - Peintures panoramiques
 
@@ -36,7 +36,7 @@ XIXe s. - Stéréoscopes
 
 ![stereo](./img/stereo.jpg)
 
-1930. - View-Master
+1930 - [View-Master](https://fr.wikipedia.org/wiki/View-Master)
 
 ![master](./img/master.jpg)
 
@@ -220,7 +220,8 @@ En savoir plus: [VR positional Audio](https://realnewworld.com/vr-positional-aud
 - [Geek.com](https://www.geek.com/news/the-history-of-virtual-reality-games-1652225/)
 - [Changing the world: DARPA’s top inventions](https://www.extremetech.com/extreme/105117-inventing-our-world-darpas-top-inventions/2)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY4NDc1NTgxNSw1NzI3NTk4MzMsLTIwNj
-YyODA1NjksLTE2NjYyMDY0MTEsLTIwOTU2MTIwNTQsMTA3NzQw
-ODQ4NCwtMTU2NzE0NjA4MywtODgwMTYxMzEyXX0=
+eyJoaXN0b3J5IjpbMTg3ODc3MzE0LC02ODQ3NTU4MTUsNTcyNz
+U5ODMzLC0yMDY2MjgwNTY5LC0xNjY2MjA2NDExLC0yMDk1NjEy
+MDU0LDEwNzc0MDg0ODQsLTE1NjcxNDYwODMsLTg4MDE2MTMxMl
+19
 -->
