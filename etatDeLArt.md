@@ -1,8 +1,9 @@
 ### IM - Digital Trends - Heig-VD
-# Virtual Reality Tech - Etat de l'art      
+# VR Tech - Etat de l'art      
       
 ### Sommaire
-- [Les applications actuels et futurs de la VR](#application-vr)
+- [Les applications actuelles et futures de la VR](#application-vr)
+- [Historique](
 - Le matériels
 - Exemples d'app à succès
 - Immersion
@@ -197,5 +198,5 @@ En savoir plus: [VR positional Audio](https://realnewworld.com/vr-positional-aud
 - [Geek.com](https://www.geek.com/news/the-history-of-virtual-reality-games-1652225/)
 - [Changing the world: DARPA’s top inventions](https://www.extremetech.com/extreme/105117-inventing-our-world-darpas-top-inventions/2)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NTQxNjI0MzddfQ==
+eyJoaXN0b3J5IjpbLTE1NjA2OTI5MDZdfQ==
 -->
