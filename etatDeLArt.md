@@ -40,7 +40,7 @@ XXe s. - View-Master
 
 ![master](./img/master.jpg)
 
-Début XXe s. - Link Trainer
+Début XXe s. - [Link Trainer]([https://en.wikipedia.org/wiki/Link_Trainer](https://en.wikipedia.org/wiki/Link_Trainer))
 
 ![Link Trainer](./img/link.jpg)
 
@@ -212,7 +212,7 @@ En savoir plus: [VR positional Audio](https://realnewworld.com/vr-positional-aud
 - [Geek.com](https://www.geek.com/news/the-history-of-virtual-reality-games-1652225/)
 - [Changing the world: DARPA’s top inventions](https://www.extremetech.com/extreme/105117-inventing-our-world-darpas-top-inventions/2)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNjYyODA1NjksLTE2NjYyMDY0MTEsLT
-IwOTU2MTIwNTQsMTA3NzQwODQ4NCwtMTU2NzE0NjA4MywtODgw
-MTYxMzEyXX0=
+eyJoaXN0b3J5IjpbOTY4NDE0OTAzLC0yMDY2MjgwNTY5LC0xNj
+Y2MjA2NDExLC0yMDk1NjEyMDU0LDEwNzc0MDg0ODQsLTE1Njcx
+NDYwODMsLTg4MDE2MTMxMl19
 -->
