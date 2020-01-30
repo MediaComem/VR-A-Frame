@@ -82,9 +82,8 @@ Années 60 - Telesphere Mask, premier head-mounted display (HMD), par M. Heilig
 
 ### Systèmes de  suivi de position (*positional tracking*)
 
-- lighthouse (ir pulse)
-- Outside-in camera ir
-- Inside-out tracking
+- Outside-in (Oculus camera ir, Valve lighthouse, ...)
+- Inside-out tracking (
 
 3DOF: Three Degrees Of Freedom ou suivi de rotation
 6DOF: Six Degrees Of Freedom ou suivi de position
@@ -217,6 +216,6 @@ En savoir plus: [VR positional Audio](https://realnewworld.com/vr-positional-aud
 - [Geek.com](https://www.geek.com/news/the-history-of-virtual-reality-games-1652225/)
 - [Changing the world: DARPA’s top inventions](https://www.extremetech.com/extreme/105117-inventing-our-world-darpas-top-inventions/2)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTcwMjA3OTY5LC0yMDk1NjEyMDU0LDEwNz
+eyJoaXN0b3J5IjpbMjMzNDY4NTExLC0yMDk1NjEyMDU0LDEwNz
 c0MDg0ODQsLTE1NjcxNDYwODMsLTg4MDE2MTMxMl19
 -->
