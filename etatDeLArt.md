@@ -2,7 +2,7 @@
 # VR Tech - Etat de l'art      
       
 ### Sommaire
-- Applications de la VR
+- [Applications de la VR](#application-vr)
 - Matériels
 - Exemples d'app à succès
 - Immersion
@@ -11,7 +11,7 @@
 - Audio
 - Réflexion/discussion: UX et interfaces de jeux VR
 
-# Applications de la VR
+# <a nameApplications de la VR
 
 ### Quelles applications à la VR ?
 
@@ -196,3 +196,6 @@ En savoir plus: [VR positional Audio](https://realnewworld.com/vr-positional-aud
 - [Virtual Reality Society](https://www.vrs.org.uk/virtual-reality/history.html)
 - [Geek.com](https://www.geek.com/news/the-history-of-virtual-reality-games-1652225/)
 - [Changing the world: DARPA’s top inventions](https://www.extremetech.com/extreme/105117-inventing-our-world-darpas-top-inventions/2)
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbNDAxNTgwNzAyXX0=
+-->
