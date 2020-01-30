@@ -30,13 +30,11 @@
 
 XIXe s. - [Peintures panoramiques](https://fr.wikipedia.org/wiki/Panorama_(peinture))
 
-![pano](./img/pano.png)
-
 XIXe s. - Stéréoscopes
 
 ![stereo](./img/stereo.jpg)
 
-1930 - [View-Master](https://fr.wikipedia.org/wiki/View-Master)
+1939 - [View-Master](https://fr.wikipedia.org/wiki/View-Master)
 
 ![master](./img/master.jpg)
 
@@ -220,8 +218,8 @@ En savoir plus: [VR positional Audio](https://realnewworld.com/vr-positional-aud
 - [Geek.com](https://www.geek.com/news/the-history-of-virtual-reality-games-1652225/)
 - [Changing the world: DARPA’s top inventions](https://www.extremetech.com/extreme/105117-inventing-our-world-darpas-top-inventions/2)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAyMzU3NDI4MCwxODc4NzczMTQsLTY4ND
-c1NTgxNSw1NzI3NTk4MzMsLTIwNjYyODA1NjksLTE2NjYyMDY0
-MTEsLTIwOTU2MTIwNTQsMTA3NzQwODQ4NCwtMTU2NzE0NjA4My
-wtODgwMTYxMzEyXX0=
+eyJoaXN0b3J5IjpbLTI1Nzc0ODc0NywyMDIzNTc0MjgwLDE4Nz
+g3NzMxNCwtNjg0NzU1ODE1LDU3Mjc1OTgzMywtMjA2NjI4MDU2
+OSwtMTY2NjIwNjQxMSwtMjA5NTYxMjA1NCwxMDc3NDA4NDg0LC
+0xNTY3MTQ2MDgzLC04ODAxNjEzMTJdfQ==
 -->
