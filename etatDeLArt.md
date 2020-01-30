@@ -73,8 +73,11 @@ Années 60 - Telesphere Mask, premier head-mounted display (HMD), par M. Heilig
 https://oculusnext.com/sega-vr/
 
 2011 - My3D Hasbro
+
 2013 - Oculus Rift
+
 2014 - Google Carboard
+
  ...
 
 # Etat de l'art: Matériels VR
@@ -212,6 +215,6 @@ En savoir plus: [VR positional Audio](https://realnewworld.com/vr-positional-aud
 - [Geek.com](https://www.geek.com/news/the-history-of-virtual-reality-games-1652225/)
 - [Changing the world: DARPA’s top inventions](https://www.extremetech.com/extreme/105117-inventing-our-world-darpas-top-inventions/2)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMTg4NDYwNDYsLTE1NjcxNDYwODMsLT
+eyJoaXN0b3J5IjpbLTE2MzgxNTYzOTIsLTE1NjcxNDYwODMsLT
 g4MDE2MTMxMl19
 -->
