@@ -31,36 +31,37 @@
 XIXe s. - Peintures panoramiques
 ![pano](./img/pano.png)
 
-XIXe s. Stéréoscopes
+XIXe s. - Stéréoscopes
 ![stereo](./img/stereo.jpg)
 
-XXe s. View-Master
+XXe s. - View-Master
 ![master](./img/master.jpg)
 
-XXe s. - Link Trainer
+Début XXe s. - Link Trainer
 ![Link Trainer](./img/link.jpg)
 
-## Années 50 - Sensorama + 6 films, par Morton Heilig
+Années 50 - Sensorama + 6 films, par Morton Heilig
 ![Sensorama](./img/sensorama.png)
 
-## Années 60 - Telesphere Mask, premier head-mounted display (HMD), par M. Heilig
+Années 60 - Telesphere Mask, premier head-mounted display (HMD), par M. Heilig
 ![Telesphere](./img/telesphere.jpg)
 
-## 1961 - Headsight, premier HMD avec motion tracking, par Comeau et Bryan
+1961 - Headsight, premier HMD avec motion tracking, par Comeau et Bryan
 ![Headsight](./img/headsight.png)
 
-## 1968 - The Sword of Damocles, premier dispositif VR, par Ivan Sutherland
+1968 - The Sword of Damocles, premier dispositif VR, par Ivan Sutherland
 ![The Sword of Damocles](./img/sword.jpg)
 
-## 1981 - ASPEN MOVIE MAP, propotype de cartes interactives, par le MIT
+1981 - ASPEN MOVIE MAP, propotype de cartes interactives, par le MIT
 ![ASPEN MOVIE MAP](./img/aspen.jpg)
 
-## 1990 - NASA-VIEW (Virtual Interface Environment Workstation), casque, gants et combinaison connectés
+1990 - NASA-VIEW (Virtual Interface Environment Workstation), casque, gants et combinaison connectés
 ![NASA-VIEW](./img/nasaview.jpg)
 
-## 1992-2014
-- SEGA VR/R360 (1992): https://oculusnext.com/sega-vr/
-- My3D Hasbro (2011):
+1992- SEGA VR/R360 
+https://oculusnext.com/sega-vr/
+
+ My3D Hasbro (2011):
 - Oculus Rift (2013):
 - Google Carboard (2014):
 - ...
@@ -200,5 +201,5 @@ En savoir plus: [VR positional Audio](https://realnewworld.com/vr-positional-aud
 - [Geek.com](https://www.geek.com/news/the-history-of-virtual-reality-games-1652225/)
 - [Changing the world: DARPA’s top inventions](https://www.extremetech.com/extreme/105117-inventing-our-world-darpas-top-inventions/2)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDk2ODA2NDAsLTg4MDE2MTMxMl19
+eyJoaXN0b3J5IjpbMTQyNTQ5MDEyOSwtODgwMTYxMzEyXX0=
 -->
