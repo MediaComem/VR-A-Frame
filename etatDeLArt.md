@@ -1,9 +1,9 @@
-## IM - Digital Trends - Heig-VD
-# VR Tech - Etat de l'art      
+### IM - Digital Trends - Heig-VD
+# Virtual Reality Tech - Etat de l'art      
       
 ### Sommaire
-- [Les applications actuels et futurs](#application-vr)
-- Matériels
+- [Les applications actuels et futurs de la VR](#application-vr)
+- Le matériels
 - Exemples d'app à succès
 - Immersion
 - Déplacements
@@ -67,7 +67,7 @@
 
 *Etat de l'art: Matériels VR -  Aujourd'hui*
 
-### Fonctionnalités offertent par les casques de RV
+### Fonctionnalités offertes par les casques de RV
 
 Les casques de RV peuvent aujourd'hui être catégorisés par rapport à la variété de fonctionnalités qu'ils offrent. 
 Ces fonctionnalités sont principalement:
@@ -197,5 +197,5 @@ En savoir plus: [VR positional Audio](https://realnewworld.com/vr-positional-aud
 - [Geek.com](https://www.geek.com/news/the-history-of-virtual-reality-games-1652225/)
 - [Changing the world: DARPA’s top inventions](https://www.extremetech.com/extreme/105117-inventing-our-world-darpas-top-inventions/2)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MzMzNTc2MTddfQ==
+eyJoaXN0b3J5IjpbLTE4NTQxNjI0MzddfQ==
 -->
