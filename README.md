@@ -4,6 +4,9 @@ Ce dépôt contient les différents supports pédagogique nécessaire pour le co
 ## Utilisation
 Les différents supports sont réalisés à partir de la technologie [Remark JS](https://github.com/gnab/remark).
 Pour voir le support, cloner le dépôt et ouvrer le fichier html dans votre navigateur.
-## Autheurs
+## Auteurs
 - Audrey Huguenin
 - Arthur Verdon
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMjQ5NzAwMTZdfQ==
+-->
