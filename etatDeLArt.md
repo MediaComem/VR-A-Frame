@@ -31,11 +31,13 @@
 XIXe s. - Peintures panoramiques
 ![pano](./img/pano.png)
 
-## XIX-XXe s. - Stéréoscopes et View-Master
+XIXe s. Stéréoscopes
 ![stereo](./img/stereo.jpg)
+
+XXe s. View-Master
 ![master](./img/master.jpg)
 
-## Début du XXe s. - Link Trainer
+XXe s. - Link Trainer
 ![Link Trainer](./img/link.jpg)
 
 ## Années 50 - Sensorama + 6 films, par Morton Heilig
@@ -198,5 +200,5 @@ En savoir plus: [VR positional Audio](https://realnewworld.com/vr-positional-aud
 - [Geek.com](https://www.geek.com/news/the-history-of-virtual-reality-games-1652225/)
 - [Changing the world: DARPA’s top inventions](https://www.extremetech.com/extreme/105117-inventing-our-world-darpas-top-inventions/2)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ2ODI1NzI0MCwtODgwMTYxMzEyXX0=
+eyJoaXN0b3J5IjpbNDk2ODA2NDAsLTg4MDE2MTMxMl19
 -->
