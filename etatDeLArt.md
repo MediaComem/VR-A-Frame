@@ -84,7 +84,7 @@ Années 60 - Telesphere Mask, premier head-mounted display (HMD), par M. Heilig
 
 - lighthouse (ir pulse)
 - camera ir
-- inside out tracking
+- insideout tracking
 
 3DOF: Three Degrees Of Freedom ou suivi de rotation
 6DOF: Six Degrees Of Freedom ou suivi de position
@@ -217,6 +217,6 @@ En savoir plus: [VR positional Audio](https://realnewworld.com/vr-positional-aud
 - [Geek.com](https://www.geek.com/news/the-history-of-virtual-reality-games-1652225/)
 - [Changing the world: DARPA’s top inventions](https://www.extremetech.com/extreme/105117-inventing-our-world-darpas-top-inventions/2)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxNDIyOTIwOTcsLTIwOTU2MTIwNTQsMT
-A3NzQwODQ4NCwtMTU2NzE0NjA4MywtODgwMTYxMzEyXX0=
+eyJoaXN0b3J5IjpbMTcyMDk0MzY1OSwtMjA5NTYxMjA1NCwxMD
+c3NDA4NDg0LC0xNTY3MTQ2MDgzLC04ODAxNjEzMTJdfQ==
 -->
