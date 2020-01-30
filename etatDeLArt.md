@@ -28,7 +28,7 @@
 
 ## <a name="histo"></a> Quelques références historiques
 
-XIXe s. - Peintures panoramiques
+XIXe s. - [Peintures panoramiques](https://fr.wikipedia.org/wiki/Panorama_(peinture))
 
 ![pano](./img/pano.png)
 
@@ -220,8 +220,8 @@ En savoir plus: [VR positional Audio](https://realnewworld.com/vr-positional-aud
 - [Geek.com](https://www.geek.com/news/the-history-of-virtual-reality-games-1652225/)
 - [Changing the world: DARPA’s top inventions](https://www.extremetech.com/extreme/105117-inventing-our-world-darpas-top-inventions/2)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg3ODc3MzE0LC02ODQ3NTU4MTUsNTcyNz
-U5ODMzLC0yMDY2MjgwNTY5LC0xNjY2MjA2NDExLC0yMDk1NjEy
-MDU0LDEwNzc0MDg0ODQsLTE1NjcxNDYwODMsLTg4MDE2MTMxMl
-19
+eyJoaXN0b3J5IjpbMjAyMzU3NDI4MCwxODc4NzczMTQsLTY4ND
+c1NTgxNSw1NzI3NTk4MzMsLTIwNjYyODA1NjksLTE2NjYyMDY0
+MTEsLTIwOTU2MTIwNTQsMTA3NzQwODQ4NCwtMTU2NzE0NjA4My
+wtODgwMTYxMzEyXX0=
 -->
