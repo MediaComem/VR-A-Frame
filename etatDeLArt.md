@@ -4,7 +4,7 @@
 ### Sommaire
 - [Les applications actuelles et futures de la VR](#application-vr)
 - [Historique](#histo)
-- Matériel VR
+- [Le matériel VR](#materiel)
 - Exemples d'app à succès
 - Immersion
 - Déplacements
@@ -78,10 +78,7 @@ Années 60 - Telesphere Mask, premier head-mounted display (HMD), par M. Heilig
 
  ...
 
-# Etat de l'art: Matériels VR
-## Aujourd'hui
-
-*Etat de l'art: Matériels VR -  Aujourd'hui*
+## <a name="materiel"></a>Le Matériel VR
 
 ### Fonctionnalités offertes par les casques de RV
 
@@ -213,6 +210,6 @@ En savoir plus: [VR positional Audio](https://realnewworld.com/vr-positional-aud
 - [Geek.com](https://www.geek.com/news/the-history-of-virtual-reality-games-1652225/)
 - [Changing the world: DARPA’s top inventions](https://www.extremetech.com/extreme/105117-inventing-our-world-darpas-top-inventions/2)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQxNjEyMDEzOSwtMTU2NzE0NjA4MywtOD
+eyJoaXN0b3J5IjpbMTIyMjU5MzEwMywtMTU2NzE0NjA4MywtOD
 gwMTYxMzEyXX0=
 -->
