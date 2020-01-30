@@ -80,7 +80,8 @@ Années 60 - Telesphere Mask, premier head-mounted display (HMD), par M. Heilig
 
 ## <a name="materiel"></a>Le matériel VR
 
-### Système de tracking"
+### Systèmes de  suivi positionnel (*positional tracking*)
+
 ### Fonctionnalités offertes par les casques VR
 
 Les casques VR peuvent aujourd'hui être catégorisés par rapport à la variété de fonctionnalités qu'ils offrent.  Ces fonctionnalités sont principalement:
@@ -210,6 +211,6 @@ En savoir plus: [VR positional Audio](https://realnewworld.com/vr-positional-aud
 - [Geek.com](https://www.geek.com/news/the-history-of-virtual-reality-games-1652225/)
 - [Changing the world: DARPA’s top inventions](https://www.extremetech.com/extreme/105117-inventing-our-world-darpas-top-inventions/2)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjI3Mjc4MDk5LDEwNzc0MDg0ODQsLTE1Nj
-cxNDYwODMsLTg4MDE2MTMxMl19
+eyJoaXN0b3J5IjpbMTg1NDQwNSwxMDc3NDA4NDg0LC0xNTY3MT
+Q2MDgzLC04ODAxNjEzMTJdfQ==
 -->
