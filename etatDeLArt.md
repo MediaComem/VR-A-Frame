@@ -80,7 +80,7 @@ Années 60 - Telesphere Mask, premier head-mounted display (HMD), par M. Heilig
 
 ## <a name="materiel"></a>Le matériel VR
 
-### Degrès de liberté
+### Degrés de liberté
 
 3DOF: Three Degrees Of Freedom ou suivi de rotation
 
@@ -96,6 +96,8 @@ Années 60 - Telesphere Mask, premier head-mounted display (HMD), par M. Heilig
 
 
 ### Contrôleurs et systèmes d'interaction VR
+- Gaze controler ?
+- 3DOF controler
 
 ### Casques autonomes versus casques reliés
 
@@ -214,7 +216,7 @@ En savoir plus: [VR positional Audio](https://realnewworld.com/vr-positional-aud
 - [Geek.com](https://www.geek.com/news/the-history-of-virtual-reality-games-1652225/)
 - [Changing the world: DARPA’s top inventions](https://www.extremetech.com/extreme/105117-inventing-our-world-darpas-top-inventions/2)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwOTAzNDEwMDIsNTcyNzU5ODMzLC0yMD
-Y2MjgwNTY5LC0xNjY2MjA2NDExLC0yMDk1NjEyMDU0LDEwNzc0
-MDg0ODQsLTE1NjcxNDYwODMsLTg4MDE2MTMxMl19
+eyJoaXN0b3J5IjpbLTUyMDkwNzUyMSw1NzI3NTk4MzMsLTIwNj
+YyODA1NjksLTE2NjYyMDY0MTEsLTIwOTU2MTIwNTQsMTA3NzQw
+ODQ4NCwtMTU2NzE0NjA4MywtODgwMTYxMzEyXX0=
 -->
