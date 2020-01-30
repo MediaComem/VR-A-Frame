@@ -58,12 +58,12 @@ Années 60 - Telesphere Mask, premier head-mounted display (HMD), par M. Heilig
 1990 - NASA-VIEW (Virtual Interface Environment Workstation), casque, gants et combinaison connectés
 ![NASA-VIEW](./img/nasaview.jpg)
 
-1992- SEGA VR/R360 
+1992 - SEGA VR/R360 
 https://oculusnext.com/sega-vr/
 
- My3D Hasbro (2011):
-- Oculus Rift (2013):
-- Google Carboard (2014):
+2011 - My3D Hasbro
+2013 - Oculus Rift
+2014 - Google Carboard
 - ...
 
 # Etat de l'art: Matériels VR
@@ -201,5 +201,5 @@ En savoir plus: [VR positional Audio](https://realnewworld.com/vr-positional-aud
 - [Geek.com](https://www.geek.com/news/the-history-of-virtual-reality-games-1652225/)
 - [Changing the world: DARPA’s top inventions](https://www.extremetech.com/extreme/105117-inventing-our-world-darpas-top-inventions/2)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQyNTQ5MDEyOSwtODgwMTYxMzEyXX0=
+eyJoaXN0b3J5IjpbLTE1NjcxNDYwODMsLTg4MDE2MTMxMl19
 -->
