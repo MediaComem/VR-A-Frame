@@ -91,6 +91,8 @@ Années 60 - Telesphere Mask, premier head-mounted display (HMD), par M. Heilig
 - Outside-in (Oculus camera ir, Valve lighthouse, ...)
 - Inside-out tracking (simultaneous localization and mapping [SLAM](https://en.wikipedia.org/wiki/Simultaneous_localization_and_mapping))
 
+[https://uploadvr.com/how-vr-tracking-works/](https://uploadvr.com/how-vr-tracking-works/)
+
 
 
 ### Contrôleurs et systèmes d'interaction VR
@@ -212,7 +214,7 @@ En savoir plus: [VR positional Audio](https://realnewworld.com/vr-positional-aud
 - [Geek.com](https://www.geek.com/news/the-history-of-virtual-reality-games-1652225/)
 - [Changing the world: DARPA’s top inventions](https://www.extremetech.com/extreme/105117-inventing-our-world-darpas-top-inventions/2)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTcyNzU5ODMzLC0yMDY2MjgwNTY5LC0xNj
-Y2MjA2NDExLC0yMDk1NjEyMDU0LDEwNzc0MDg0ODQsLTE1Njcx
-NDYwODMsLTg4MDE2MTMxMl19
+eyJoaXN0b3J5IjpbLTIwOTAzNDEwMDIsNTcyNzU5ODMzLC0yMD
+Y2MjgwNTY5LC0xNjY2MjA2NDExLC0yMDk1NjEyMDU0LDEwNzc0
+MDg0ODQsLTE1NjcxNDYwODMsLTg4MDE2MTMxMl19
 -->
