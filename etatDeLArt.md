@@ -3,7 +3,7 @@
       
 ### Sommaire
 - [Les applications actuelles et futures de la VR](#application-vr)
-- [Historique](
+- [Historique](#histo)
 - Le matériels
 - Exemples d'app à succès
 - Immersion
@@ -12,7 +12,7 @@
 - Audio
 - Réflexion/discussion: UX et interfaces de jeux VR
 
-# <a name="application-vr"></a>Applications de la VR
+## <a name="application-vr"></a>Applications de la VR
 
 ### Quelles applications à la VR ?
 
@@ -26,9 +26,9 @@
 
 ### La VR, un média qui englobe tous les autres?
 
-*Etat de l'art: Matériels VR - Historique*
+## <a name="histo"></a> Historique
 
-## XIXe s. - Peintures panoramiques
+XIXe s. - Peintures panoramiques
 ![pano](./img/pano.jpg)
 
 ## XIX-XXe s. - Stéréoscopes et View-Master
@@ -198,5 +198,5 @@ En savoir plus: [VR positional Audio](https://realnewworld.com/vr-positional-aud
 - [Geek.com](https://www.geek.com/news/the-history-of-virtual-reality-games-1652225/)
 - [Changing the world: DARPA’s top inventions](https://www.extremetech.com/extreme/105117-inventing-our-world-darpas-top-inventions/2)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NjA2OTI5MDZdfQ==
+eyJoaXN0b3J5IjpbLTg4MDE2MTMxMl19
 -->
