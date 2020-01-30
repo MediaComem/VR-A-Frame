@@ -4,7 +4,7 @@
 ### Sommaire
 - [Les applications actuelles et futures de la VR](#application-vr)
 - [Historique](#histo)
-- Le matériels
+- Matériel VR
 - Exemples d'app à succès
 - Immersion
 - Déplacements
@@ -24,7 +24,7 @@
 - Télétravail
 - Cinéma (animations)
 
-### La VR, un média qui englobe tous les autres?
+### La VR, un média qui englobe tous les autres ?
 
 ## <a name="histo"></a> Historique
 
@@ -213,6 +213,6 @@ En savoir plus: [VR positional Audio](https://realnewworld.com/vr-positional-aud
 - [Geek.com](https://www.geek.com/news/the-history-of-virtual-reality-games-1652225/)
 - [Changing the world: DARPA’s top inventions](https://www.extremetech.com/extreme/105117-inventing-our-world-darpas-top-inventions/2)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDg3NjI3NTMzLC0xNTY3MTQ2MDgzLC04OD
-AxNjEzMTJdfQ==
+eyJoaXN0b3J5IjpbLTQxNjEyMDEzOSwtMTU2NzE0NjA4MywtOD
+gwMTYxMzEyXX0=
 -->
