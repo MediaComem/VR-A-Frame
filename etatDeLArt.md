@@ -26,7 +26,8 @@
 
 #### La VR, un média qui englobe tous les autres ?
 
-## <a name="histo"></a> Exemples historiques V
+## <a name="histo"></a> Quelques exemples historiques
+
 XIXe s. - [Peintures panoramiques](https://fr.wikipedia.org/wiki/Panorama_(peinture))
 
 XIXe s. - [Stéréoscopes](https://fr.wikipedia.org/wiki/St%C3%A9r%C3%A9oscope)
@@ -209,10 +210,10 @@ En savoir plus: [VR positional Audio](https://realnewworld.com/vr-positional-aud
 - [Geek.com](https://www.geek.com/news/the-history-of-virtual-reality-games-1652225/)
 - [Changing the world: DARPA’s top inventions](https://www.extremetech.com/extreme/105117-inventing-our-world-darpas-top-inventions/2)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI3OTg3ODI1NiwxNTcxMzIwMDgzLC0xNj
-AxNjA3MjY2LC0xOTUzNTg0MTE3LC04MDU1MzA4OTgsLTE4ODQz
-ODI4MDEsMjAyMzU3NDI4MCwxODc4NzczMTQsLTY4NDc1NTgxNS
-w1NzI3NTk4MzMsLTIwNjYyODA1NjksLTE2NjYyMDY0MTEsLTIw
-OTU2MTIwNTQsMTA3NzQwODQ4NCwtMTU2NzE0NjA4MywtODgwMT
-YxMzEyXX0=
+eyJoaXN0b3J5IjpbLTE4NTc5MjE1ODksMTU3MTMyMDA4MywtMT
+YwMTYwNzI2NiwtMTk1MzU4NDExNywtODA1NTMwODk4LC0xODg0
+MzgyODAxLDIwMjM1NzQyODAsMTg3ODc3MzE0LC02ODQ3NTU4MT
+UsNTcyNzU5ODMzLC0yMDY2MjgwNTY5LC0xNjY2MjA2NDExLC0y
+MDk1NjEyMDU0LDEwNzc0MDg0ODQsLTE1NjcxNDYwODMsLTg4MD
+E2MTMxMl19
 -->
