@@ -38,7 +38,7 @@ XIXe s. - [Stéréoscopes](https://fr.wikipedia.org/wiki/St%C3%A9r%C3%A9oscope)
 
 1962 - [Sensorama, Morton Heilig](https://en.wikipedia.org/wiki/Sensorama)
 
-Années 60 - Telesphere Mask, premier head-mounted display (HMD), par M. Heilig
+Années 60 - Telesphere Mask, premier head-mounted display (HMD), Morton Heilig
 
 ![Telesphere](./img/telesphere.jpg)
 
@@ -210,9 +210,9 @@ En savoir plus: [VR positional Audio](https://realnewworld.com/vr-positional-aud
 - [Geek.com](https://www.geek.com/news/the-history-of-virtual-reality-games-1652225/)
 - [Changing the world: DARPA’s top inventions](https://www.extremetech.com/extreme/105117-inventing-our-world-darpas-top-inventions/2)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgwNTUzMDg5OCwtMTg4NDM4MjgwMSwyMD
-IzNTc0MjgwLDE4Nzg3NzMxNCwtNjg0NzU1ODE1LDU3Mjc1OTgz
-MywtMjA2NjI4MDU2OSwtMTY2NjIwNjQxMSwtMjA5NTYxMjA1NC
-wxMDc3NDA4NDg0LC0xNTY3MTQ2MDgzLC04ODAxNjEzMTJdfQ==
-
+eyJoaXN0b3J5IjpbLTE5NTM1ODQxMTcsLTgwNTUzMDg5OCwtMT
+g4NDM4MjgwMSwyMDIzNTc0MjgwLDE4Nzg3NzMxNCwtNjg0NzU1
+ODE1LDU3Mjc1OTgzMywtMjA2NjI4MDU2OSwtMTY2NjIwNjQxMS
+wtMjA5NTYxMjA1NCwxMDc3NDA4NDg0LC0xNTY3MTQ2MDgzLC04
+ODAxNjEzMTJdfQ==
 -->
