@@ -56,7 +56,7 @@ XIXe s. - [Stéréoscopes](https://fr.wikipedia.org/wiki/St%C3%A9r%C3%A9oscope)
 
 1990 - [NASA-VIEW (Virtual Interface Environment Workstation)](https://www.nasa.gov/ames/spinoff/new_continent_of_ideas), casque, gants et combinaison connectés
 
-![NASA-VIEW](./img/nasaview.jpg
+![NASA-VIEW](./img/nasaview.jpg)
 
 1992 - [SEGA VR/R360](https://oculusnext.com/sega-vr/)
 
@@ -210,10 +210,10 @@ En savoir plus: [VR positional Audio](https://realnewworld.com/vr-positional-aud
 - [Geek.com](https://www.geek.com/news/the-history-of-virtual-reality-games-1652225/)
 - [Changing the world: DARPA’s top inventions](https://www.extremetech.com/extreme/105117-inventing-our-world-darpas-top-inventions/2)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDA0NDgyMTA2LC0xODU3OTIxNTg5LDE1Nz
-EzMjAwODMsLTE2MDE2MDcyNjYsLTE5NTM1ODQxMTcsLTgwNTUz
-MDg5OCwtMTg4NDM4MjgwMSwyMDIzNTc0MjgwLDE4Nzg3NzMxNC
-wtNjg0NzU1ODE1LDU3Mjc1OTgzMywtMjA2NjI4MDU2OSwtMTY2
-NjIwNjQxMSwtMjA5NTYxMjA1NCwxMDc3NDA4NDg0LC0xNTY3MT
-Q2MDgzLC04ODAxNjEzMTJdfQ==
+eyJoaXN0b3J5IjpbLTEzMTIyODgxNTMsLTE4NTc5MjE1ODksMT
+U3MTMyMDA4MywtMTYwMTYwNzI2NiwtMTk1MzU4NDExNywtODA1
+NTMwODk4LC0xODg0MzgyODAxLDIwMjM1NzQyODAsMTg3ODc3Mz
+E0LC02ODQ3NTU4MTUsNTcyNzU5ODMzLC0yMDY2MjgwNTY5LC0x
+NjY2MjA2NDExLC0yMDk1NjEyMDU0LDEwNzc0MDg0ODQsLTE1Nj
+cxNDYwODMsLTg4MDE2MTMxMl19
 -->
