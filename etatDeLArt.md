@@ -62,7 +62,7 @@ XIXe s. - [Stéréoscopes](https://fr.wikipedia.org/wiki/St%C3%A9r%C3%A9oscope)
 
 1995 - [Virtual Boy](https://en.wikipedia.org/wiki/Virtual_Boy)
 
-2012 - Oculus Rift
+2012 - [Oculus Rift]((https://en.wikipedia.org/wiki/Oculus_Rift)
 
 2014 - Google Carboard
 
@@ -210,9 +210,9 @@ En savoir plus: [VR positional Audio](https://realnewworld.com/vr-positional-aud
 - [Geek.com](https://www.geek.com/news/the-history-of-virtual-reality-games-1652225/)
 - [Changing the world: DARPA’s top inventions](https://www.extremetech.com/extreme/105117-inventing-our-world-darpas-top-inventions/2)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MDE3MzA2NiwtMTYwMTYwNzI2NiwtMT
-k1MzU4NDExNywtODA1NTMwODk4LC0xODg0MzgyODAxLDIwMjM1
-NzQyODAsMTg3ODc3MzE0LC02ODQ3NTU4MTUsNTcyNzU5ODMzLC
-0yMDY2MjgwNTY5LC0xNjY2MjA2NDExLC0yMDk1NjEyMDU0LDEw
-Nzc0MDg0ODQsLTE1NjcxNDYwODMsLTg4MDE2MTMxMl19
+eyJoaXN0b3J5IjpbLTM4NDcwOTQzLC0xNjAxNjA3MjY2LC0xOT
+UzNTg0MTE3LC04MDU1MzA4OTgsLTE4ODQzODI4MDEsMjAyMzU3
+NDI4MCwxODc4NzczMTQsLTY4NDc1NTgxNSw1NzI3NTk4MzMsLT
+IwNjYyODA1NjksLTE2NjYyMDY0MTEsLTIwOTU2MTIwNTQsMTA3
+NzQwODQ4NCwtMTU2NzE0NjA4MywtODgwMTYxMzEyXX0=
 -->
