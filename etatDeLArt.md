@@ -36,18 +36,15 @@ XIXe s. - [Stéréoscopes](https://fr.wikipedia.org/wiki/St%C3%A9r%C3%A9oscope)
 
 1939 - [View-Master](https://fr.wikipedia.org/wiki/View-Master)
 
-1962 - [Sensorama, Morton Heilig](https://en.wikipedia.org/wiki/Sensorama)
-
-1961 - Telesphere Mask, premier head-mounted display (HMD), Morton Heilig
-
+1960 - Telesphere Mask, premier head-mounted display (HMD), Morton Heilig
 ![Telesphere](./img/telesphere.jpg)
 
 1961 - Headsight, premier HMD avec motion tracking, par Comeau et Bryan
-
 ![Headsight](./img/headsight.png)
 
-1968 - The Sword of Damocles, premier dispositif VR, par Ivan Sutherland
+1962 - [Sensorama, Morton Heilig](https://en.wikipedia.org/wiki/Sensorama)
 
+1968 - The Sword of Damocles, premier dispositif VR, par Ivan Sutherland[https://en.w(virtual_reality)](https://en.wikipedia.org/wiki/The_Sword_of_Damocles_(virtual_reality))
 ![The Sword of Damocles](./img/sword.jpg)
 
 1981 - ASPEN MOVIE MAP, propotype de cartes interactives, par le MIT
@@ -210,9 +207,9 @@ En savoir plus: [VR positional Audio](https://realnewworld.com/vr-positional-aud
 - [Geek.com](https://www.geek.com/news/the-history-of-virtual-reality-games-1652225/)
 - [Changing the world: DARPA’s top inventions](https://www.extremetech.com/extreme/105117-inventing-our-world-darpas-top-inventions/2)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4OTEwNzMzNDYsLTE5NTM1ODQxMTcsLT
-gwNTUzMDg5OCwtMTg4NDM4MjgwMSwyMDIzNTc0MjgwLDE4Nzg3
-NzMxNCwtNjg0NzU1ODE1LDU3Mjc1OTgzMywtMjA2NjI4MDU2OS
-wtMTY2NjIwNjQxMSwtMjA5NTYxMjA1NCwxMDc3NDA4NDg0LC0x
-NTY3MTQ2MDgzLC04ODAxNjEzMTJdfQ==
+eyJoaXN0b3J5IjpbLTU4MzE3MzM0NywtMTk1MzU4NDExNywtOD
+A1NTMwODk4LC0xODg0MzgyODAxLDIwMjM1NzQyODAsMTg3ODc3
+MzE0LC02ODQ3NTU4MTUsNTcyNzU5ODMzLC0yMDY2MjgwNTY5LC
+0xNjY2MjA2NDExLC0yMDk1NjEyMDU0LDEwNzc0MDg0ODQsLTE1
+NjcxNDYwODMsLTg4MDE2MTMxMl19
 -->
