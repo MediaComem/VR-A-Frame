@@ -60,6 +60,8 @@ XIXe s. - [Stéréoscopes](https://fr.wikipedia.org/wiki/St%C3%A9r%C3%A9oscope)
 
 1992 - [SEGA VR/R360](https://oculusnext.com/sega-vr/)
 
+1995 - [Virtual Boy](https://en.wikipedia.org/wiki/Virtual_Boy)
+
 2011 - My3D Hasbro
 
 2013 - Oculus Rift
@@ -210,7 +212,7 @@ En savoir plus: [VR positional Audio](https://realnewworld.com/vr-positional-aud
 - [Geek.com](https://www.geek.com/news/the-history-of-virtual-reality-games-1652225/)
 - [Changing the world: DARPA’s top inventions](https://www.extremetech.com/extreme/105117-inventing-our-world-darpas-top-inventions/2)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MDk5NzY2MzAsLTE5NTM1ODQxMTcsLT
+eyJoaXN0b3J5IjpbLTE2MDE2MDcyNjYsLTE5NTM1ODQxMTcsLT
 gwNTUzMDg5OCwtMTg4NDM4MjgwMSwyMDIzNTc0MjgwLDE4Nzg3
 NzMxNCwtNjg0NzU1ODE1LDU3Mjc1OTgzMywtMjA2NjI4MDU2OS
 wtMTY2NjIwNjQxMSwtMjA5NTYxMjA1NCwxMDc3NDA4NDg0LC0x
