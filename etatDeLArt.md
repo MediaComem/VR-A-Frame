@@ -191,12 +191,11 @@ Elle ne provoque généralement pas d’inconfort, mais elle peut casser l’imm
  
  ### Utilisation de véhicules et autres artifices
 
-- **Simulateurs**
-Si les déplacements sont fait via un simulateur de véhicule (voitures, avions, vaisseaux spatiaux, etc..), les risques de *cinétose* sont fortement réduits. En effet, le mal du voyage atteint rarement celui qui est maître du véhicule, mais plutôt ses passagers. Un exemple est le jeu [Elite Dangerous](https://www.elitedangerous.com/), ou le joueur reste toujours assis dans son siège (même lors des phases d'exploration de la surface d'une planète, puisque celle ci se fait aussi dans un véhicule terrestre). L'immersion est encore plus forte si l’utilisateur utilise des contrôleurs adaptés à la simulation (comme un [HOTAS](https://fr.wikipedia.org/wiki/Mains_sur_manche_et_manette) pour Elite Dangerous).  De plus, les simulateurs bénéficient aussi d'une grande possibilité d'immersion (la chaise existant dans le monde physique) et de confort (une séance de jeu prolongée est généralement plus appréciée en position assise :).  
+- **Simulateurs**: si les déplacements sont fait via un simulateur de véhicule (voitures, avions, vaisseaux spatiaux, etc..), les risques de *cinétose* sont fortement réduits. En effet, le mal du voyage atteint rarement celui qui est maître du véhicule, mais plutôt ses passagers. Un exemple est le jeu [Elite Dangerous](https://www.elitedangerous.com/), ou le joueur reste toujours assis dans son siège (même lors des phases d'exploration de la surface d'une planète, puisque celle ci se fait aussi dans un véhicule terrestre). L'immersion est encore plus forte si l’utilisateur utilise des contrôleurs adaptés à la simulation (comme un [HOTAS](https://fr.wikipedia.org/wiki/Mains_sur_manche_et_manette) pour Elite Dangerous).  De plus, les simulateurs bénéficient aussi d'une grande possibilité d'immersion (la chaise existant dans le monde physique) et de confort (une séance de jeu prolongée est généralement plus appréciée en position assise :).  
 
+- 
 
-- **Déplacements libres** (avec flou autour de la zone fovéale ou autres méthodes)
-
+- **Déplacements libres** (avec flou autour de la zone fovéale ou autres méthodes): Si toutefois on opte pour des déplacements libres de la caméra  
 Autre exemple, le jeu [Raw Data](https://survios.com/rawdata/) utilise un système de *sprint* (ou *dash*) très rapide à la place de la téléportation. L'effet est quasi identique mais brise moins l'immersion. Attention toutefois, pour que cela ne provoque pas trop la *cinétose* la vision doit être floutée autour de la zone fovéale (voir plus bas pour un autre exemple de ce genre d'artifice).
 
 
@@ -245,11 +244,11 @@ En savoir plus: [VR positional Audio](https://realnewworld.com/vr-positional-aud
 - [Geek.com](https://www.geek.com/news/the-history-of-virtual-reality-games-1652225/)
 - [Changing the world: DARPA’s top inventions](https://www.extremetech.com/extreme/105117-inventing-our-world-darpas-top-inventions/2)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA0NTcwNzYwOSwtMzcwNjcwOTcxLC0xNj
-MxMTM2Mjk4LC0xNzA0MTI1MDg3LC00OTU0NzY4NDMsMTM2ODk5
-MzE3MiwxNjk2NzA3NjAwLC0xODE5MTY5NzkzLDI5OTMwMjMxMi
-wtMTk3OTQ4NjAzOSwtMjExOTMzODAwNCw1NTE3NTg1NjQsLTEy
-ODU1NzMzMDIsNDY2MzQ5NTU0LC0yODA5NDA5NTAsNjc2MzQ5Mj
-c5LDE4MDUzMDQ2ODUsMTM2MTEzNTM3NSwxNzkwMTc0NzA1LC0x
-MzEyMjg4MTUzXX0=
+eyJoaXN0b3J5IjpbLTIwOTEyMjY3NzAsLTM3MDY3MDk3MSwtMT
+YzMTEzNjI5OCwtMTcwNDEyNTA4NywtNDk1NDc2ODQzLDEzNjg5
+OTMxNzIsMTY5NjcwNzYwMCwtMTgxOTE2OTc5MywyOTkzMDIzMT
+IsLTE5Nzk0ODYwMzksLTIxMTkzMzgwMDQsNTUxNzU4NTY0LC0x
+Mjg1NTczMzAyLDQ2NjM0OTU1NCwtMjgwOTQwOTUwLDY3NjM0OT
+I3OSwxODA1MzA0Njg1LDEzNjExMzUzNzUsMTc5MDE3NDcwNSwt
+MTMxMjI4ODE1M119
 -->
