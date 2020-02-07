@@ -131,13 +131,7 @@ XIXe s. - [Stéréoscopes](https://fr.wikipedia.org/wiki/St%C3%A9r%C3%A9oscope)
 
 ![Screen Door Effect](https://external-preview.redd.it/lmskdQbKiWAh14j5dxhCPn-iLTx_uBkHcwZksUQz328.jpg?auto=webp&s=93735d53c775da1b0702cb0fa8126363426f9d53)
 
-- **Aliasing**: les arrondis sont saccadés puisque les pixels sont carrés, les courbes ne sont pas possible sur l'écran et comme l'écran et très proche ces problèmes sont vite vis
-
- [Aliasing](https://fr.wikipedia.org/wiki/Anticr%C3%A9nelage)
-
-- L'effet: 
-- Cause: 
-- Anti-aliasing: technique  d'"anticrénelage" (FR) pour lisser les courbes et diagonales, grâce au flou
+- **Aliasing**: les arrondis sont saccadés puisque les pixels sont carrés, les courbes ne sont pas possible sur l'écran et comme l'écran et très proche ces problèmes sont vite visible.  [Aliasing](https://fr.wikipedia.org/wiki/Anticr%C3%A9nelage). Il faut utiliser de bonnes techniques d'anti-aliasing (anticrénelage) pour lisser les courbes et diagonales.
 
 ![Aliasing](https://upload.wikimedia.org/wikipedia/commons/2/24/Antialiasing_comparaison.gif)
 
@@ -233,7 +227,7 @@ En savoir plus: [VR positional Audio](https://realnewworld.com/vr-positional-aud
 - [Geek.com](https://www.geek.com/news/the-history-of-virtual-reality-games-1652225/)
 - [Changing the world: DARPA’s top inventions](https://www.extremetech.com/extreme/105117-inventing-our-world-darpas-top-inventions/2)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk5NDA0Mzg3MSwtMzg5MDY3MDUyLC0xMz
+eyJoaXN0b3J5IjpbMTQ1MDU4NTI3NCwtMzg5MDY3MDUyLC0xMz
 g4MDY5Njg0LC0xMjQyNTgzODczLDE0MDU1MzMwMDYsLTIxNzA4
 MzY4OCwxNTU2OTA4MDI0LDE5NzAxNzI0MDcsMTQ4MTk5Mjg0NS
 wtOTQzMjQ2NDMwLDE4ODkzOTk2NCwtMzcwNjcwOTcxLC0xNjMx
