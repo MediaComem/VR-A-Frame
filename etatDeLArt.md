@@ -227,9 +227,6 @@ Le problème: les cartes graphiques actuelles ne le permettent pas.
 - **[Le foveated rendering](https://en.wikipedia.org/wiki/Foveated_rendering)**: on améliore le centre de l'image, et de moins en moins en plriphérie de la vision pour réduire le temps de calcul. Avec du eye-tracking intégré aux casque cela pourrait être d'autant plus performant. 
 - **[Asynchronous interleaved reprojection](https://en.wikipedia.org/wiki/Asynchronous_reprojection)**: des images sont chargées, puis adaptées avec les informations de mouvements du casque. 
 
-Voir: [Google light field](https://www.blog.google/products/google-ar-vr/experimenting-light-fields/)
-et [Light-field camera](https://en.wikipedia.org/wiki/Light-field_camera)
-
 # Etat de l'art: le son en VR
 ## Le son en VR est positionnel, donc également en 3D.
 En savoir plus: [VR positional Audio](https://realnewworld.com/vr-positional-audio/)
@@ -242,11 +239,11 @@ En savoir plus: [VR positional Audio](https://realnewworld.com/vr-positional-aud
 - [Geek.com](https://www.geek.com/news/the-history-of-virtual-reality-games-1652225/)
 - [Changing the world: DARPA’s top inventions](https://www.extremetech.com/extreme/105117-inventing-our-world-darpas-top-inventions/2)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNDI1ODM4NzMsMTQwNTUzMzAwNiwtMj
-E3MDgzNjg4LDE1NTY5MDgwMjQsMTk3MDE3MjQwNywxNDgxOTky
-ODQ1LC05NDMyNDY0MzAsMTg4OTM5OTY0LC0zNzA2NzA5NzEsLT
-E2MzExMzYyOTgsLTE3MDQxMjUwODcsLTQ5NTQ3Njg0MywxMzY4
-OTkzMTcyLDE2OTY3MDc2MDAsLTE4MTkxNjk3OTMsMjk5MzAyMz
-EyLC0xOTc5NDg2MDM5LC0yMTE5MzM4MDA0LDU1MTc1ODU2NCwt
-MTI4NTU3MzMwMl19
+eyJoaXN0b3J5IjpbLTEzODgwNjk2ODQsLTEyNDI1ODM4NzMsMT
+QwNTUzMzAwNiwtMjE3MDgzNjg4LDE1NTY5MDgwMjQsMTk3MDE3
+MjQwNywxNDgxOTkyODQ1LC05NDMyNDY0MzAsMTg4OTM5OTY0LC
+0zNzA2NzA5NzEsLTE2MzExMzYyOTgsLTE3MDQxMjUwODcsLTQ5
+NTQ3Njg0MywxMzY4OTkzMTcyLDE2OTY3MDc2MDAsLTE4MTkxNj
+k3OTMsMjk5MzAyMzEyLC0xOTc5NDg2MDM5LC0yMTE5MzM4MDA0
+LDU1MTc1ODU2NF19
 -->
