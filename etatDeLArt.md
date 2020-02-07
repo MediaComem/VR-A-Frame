@@ -197,8 +197,7 @@ Elle ne provoque généralement pas d’inconfort, mais elle peut casser l’imm
 
 Si l'espace VR est de taille identique ou plus petit que l'espace réel, il n'y a pas trop de problème de déplacement. Il suffit à l'utilisateur de se déplacer dans la réalité pour être déplacer dans la VR de manière identique en utilisant simplement le système de positionnement du casque. 
 
-Toutefois, si l'espace VR est plus grand que l'espace réel, il existe des méthodes pour éviter de devoir déplacer la caméra de l'utilisateur (via téléportation ou autre méthode:
-
+Toutefois, si l'espace VR est plus grand que l'espace réel, il existe des méthodes pour éviter de devoir déplacer la caméra de l'utilisateur :
 
 Toutefois, et même si l'espace VR est plus grand que l'espace réel, il existe d'autres méthodes pour éviter de devoir déplacer la caméra de l'utilisateur via la téléportation:
 
@@ -241,7 +240,7 @@ En savoir plus: [VR positional Audio](https://realnewworld.com/vr-positional-aud
 - [Geek.com](https://www.geek.com/news/the-history-of-virtual-reality-games-1652225/)
 - [Changing the world: DARPA’s top inventions](https://www.extremetech.com/extreme/105117-inventing-our-world-darpas-top-inventions/2)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNzI1NDg1MDgsLTE3MDQxMjUwODcsLT
+eyJoaXN0b3J5IjpbLTE1NzA1OTI3NDUsLTE3MDQxMjUwODcsLT
 Q5NTQ3Njg0MywxMzY4OTkzMTcyLDE2OTY3MDc2MDAsLTE4MTkx
 Njk3OTMsMjk5MzAyMzEyLC0xOTc5NDg2MDM5LC0yMTE5MzM4MD
 A0LDU1MTc1ODU2NCwtMTI4NTU3MzMwMiw0NjYzNDk1NTQsLTI4
