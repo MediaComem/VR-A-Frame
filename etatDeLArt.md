@@ -180,7 +180,9 @@ Si l'on veut tout de même déplacer l'avatar de l'utilisateur (et donc sa camé
 elle ne provoque généralement pas d’inconfort, mais elle peut casser l’immersion si elle n'est pas *scénarisée* dans l'application. C'est la solution la plus utilisée dans les applications VR d'aujourd'hui. On la retrouve sous différentes variantes dont voici quelques exemples concrets:
 
  - **Téléportation simple**:  l'avatar est simplement téléporté vers la destination. Elle est souvent soit libre: l'utilisateur choisit sa destination pour la téléportation dans l'espace VR visible (et accessible), soit limitée: par exemple par une série de marqueur de téléportation disposée dans l'espace VR.
- - 
+ 
+ - **Portails de téléportation**:  
+ 
  #### Flou basé sur le champ de vision (FOV) 
 
 Toutefois, et même si l'espace VR est plus grand que l'espace réel, il existe d'autres méthodes pour éviter de devoir déplacer la caméra de l'utilisateur:
@@ -229,11 +231,11 @@ En savoir plus: [VR positional Audio](https://realnewworld.com/vr-positional-aud
 - [Geek.com](https://www.geek.com/news/the-history-of-virtual-reality-games-1652225/)
 - [Changing the world: DARPA’s top inventions](https://www.extremetech.com/extreme/105117-inventing-our-world-darpas-top-inventions/2)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI4MDg2Mzg2OSw0NjYzNDk1NTQsLTI4MD
-k0MDk1MCw2NzYzNDkyNzksMTgwNTMwNDY4NSwxMzYxMTM1Mzc1
-LDE3OTAxNzQ3MDUsLTEzMTIyODgxNTMsLTE4NTc5MjE1ODksMT
-U3MTMyMDA4MywtMTYwMTYwNzI2NiwtMTk1MzU4NDExNywtODA1
-NTMwODk4LC0xODg0MzgyODAxLDIwMjM1NzQyODAsMTg3ODc3Mz
-E0LC02ODQ3NTU4MTUsNTcyNzU5ODMzLC0yMDY2MjgwNTY5LC0x
-NjY2MjA2NDExXX0=
+eyJoaXN0b3J5IjpbNTEwNDEzNzgyLDQ2NjM0OTU1NCwtMjgwOT
+QwOTUwLDY3NjM0OTI3OSwxODA1MzA0Njg1LDEzNjExMzUzNzUs
+MTc5MDE3NDcwNSwtMTMxMjI4ODE1MywtMTg1NzkyMTU4OSwxNT
+cxMzIwMDgzLC0xNjAxNjA3MjY2LC0xOTUzNTg0MTE3LC04MDU1
+MzA4OTgsLTE4ODQzODI4MDEsMjAyMzU3NDI4MCwxODc4NzczMT
+QsLTY4NDc1NTgxNSw1NzI3NTk4MzMsLTIwNjYyODA1NjksLTE2
+NjYyMDY0MTFdfQ==
 -->
