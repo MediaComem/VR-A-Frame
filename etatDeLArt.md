@@ -216,6 +216,7 @@ Toutefois, même si l'espace VR est plus grand que l'espace réel, il existe que
 
 Bien sûr, presque les techniques décrites précédemment peuvent être combinées. 
 
+### Tapis VR
 
 - **Tapis VR**: permet le déplacement infini. Le problème: ils sont dangereux, besoins de harnais, ou d'une sécurité de soutien.
 
@@ -249,7 +250,7 @@ En savoir plus: [VR positional Audio](https://realnewworld.com/vr-positional-aud
 - [Geek.com](https://www.geek.com/news/the-history-of-virtual-reality-games-1652225/)
 - [Changing the world: DARPA’s top inventions](https://www.extremetech.com/extreme/105117-inventing-our-world-darpas-top-inventions/2)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM1NDY3MzM1MywtMjE3MDgzNjg4LDE1NT
+eyJoaXN0b3J5IjpbMTQ0MTM0MjMxMSwtMjE3MDgzNjg4LDE1NT
 Y5MDgwMjQsMTk3MDE3MjQwNywxNDgxOTkyODQ1LC05NDMyNDY0
 MzAsMTg4OTM5OTY0LC0zNzA2NzA5NzEsLTE2MzExMzYyOTgsLT
 E3MDQxMjUwODcsLTQ5NTQ3Njg0MywxMzY4OTkzMTcyLDE2OTY3
