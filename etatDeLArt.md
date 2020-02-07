@@ -189,13 +189,19 @@ Elle ne provoque généralement pas d’inconfort, mais elle peut casser l’imm
  
  - **Autres systèmes** :  On peut imaginer d'autres systèmes de téléportation que ceux précités. Par exemple, le système de téléportation du jeu [The Gallery](https://en.wikipedia.org/wiki/The_Gallery_(video_game)), offre au joueur la possibilité d'orienter sa téléportation dans une direction bien précise en faisant apparaître au sol l'espace réel du joueur durant la sélection de la zone de téléportation (système [blink](https://www.youtube.com/watch?v=fOFgAfuTtyo&feature=emb_title)). Autre exemple, le jeu [Raw Data](https://survios.com/rawdata/) utilise un système de *sprint* (ou *dash*) très rapide à la place de la téléportation. L'effet est quasi identique mais brise moins l'immersion. Attention toutefois, pour que cela ne provoque pas trop la *cinétose* la vision doit être floutée autour de la zone fovéale (voir plus bas pour un autre exemple de ce genre d'artifice).
 
- ### Véhicules et autres artifices
-
-Toutefois, et même si l'espace VR est plus grand que l'espace réel, il existe d'autres méthodes pour éviter de devoir déplacer la caméra de l'utilisateur via la téléportation:
+ ### Utilisation de véhicules (et autres artifices)
 
 - Utiliser des **véhicules**: l'utilisateur reste sur place en réalité, c'est le véhicule qui se déplace dans le virtuel.
 
 ## Autres systèmes de déplacements
+
+Si l'espace VR est de taille identique ou plus petit que l'espace réel, ce problème ne se pose plus. il suffit à l'utilisateur de se déplacer dans la réalité pour être déplacer dans 
+
+
+Toutefois, et même si l'espace VR est plus grand que l'espace réel, il existe d'autres méthodes pour éviter de devoir déplacer la caméra de l'utilisateur via la téléportation:
+
+
+Toutefois, et même si l'espace VR est plus grand que l'espace réel, il existe d'autres méthodes pour éviter de devoir déplacer la caméra de l'utilisateur via la téléportation:
 
 
 - **Le chaperon**: faire des murs virtuels quand y a des murs en realité. Mais qu'en est-il pour les mondes infinis ?
@@ -236,11 +242,11 @@ En savoir plus: [VR positional Audio](https://realnewworld.com/vr-positional-aud
 - [Geek.com](https://www.geek.com/news/the-history-of-virtual-reality-games-1652225/)
 - [Changing the world: DARPA’s top inventions](https://www.extremetech.com/extreme/105117-inventing-our-world-darpas-top-inventions/2)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEyMzg3NzgzMywtMTcwNDEyNTA4NywtND
-k1NDc2ODQzLDEzNjg5OTMxNzIsMTY5NjcwNzYwMCwtMTgxOTE2
-OTc5MywyOTkzMDIzMTIsLTE5Nzk0ODYwMzksLTIxMTkzMzgwMD
-QsNTUxNzU4NTY0LC0xMjg1NTczMzAyLDQ2NjM0OTU1NCwtMjgw
-OTQwOTUwLDY3NjM0OTI3OSwxODA1MzA0Njg1LDEzNjExMzUzNz
-UsMTc5MDE3NDcwNSwtMTMxMjI4ODE1MywtMTg1NzkyMTU4OSwx
-NTcxMzIwMDgzXX0=
+eyJoaXN0b3J5IjpbLTE5Njc1MDY0NDQsLTE3MDQxMjUwODcsLT
+Q5NTQ3Njg0MywxMzY4OTkzMTcyLDE2OTY3MDc2MDAsLTE4MTkx
+Njk3OTMsMjk5MzAyMzEyLC0xOTc5NDg2MDM5LC0yMTE5MzM4MD
+A0LDU1MTc1ODU2NCwtMTI4NTU3MzMwMiw0NjYzNDk1NTQsLTI4
+MDk0MDk1MCw2NzYzNDkyNzksMTgwNTMwNDY4NSwxMzYxMTM1Mz
+c1LDE3OTAxNzQ3MDUsLTEzMTIyODgxNTMsLTE4NTc5MjE1ODks
+MTU3MTMyMDA4M119
 -->
