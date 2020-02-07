@@ -172,20 +172,15 @@ De manière générale, une application VR ne doit pas permettre de prendre le c
 ### Cinétose
 Une des principales règles pour éviter ce problème et de ne jamais prendre le contrôle de la caméra et donc de la laisser être contrôlée par les mouvements du casque VR. 
 
-Si l'on veut tout de même déplacer l'avatar de l'utilisateur (et donc sa caméra) dans la VR sans que celui-ci se déplace dans la réalité, il va falloir trouver des "trucs" pour le faire de la manière la plus confortable possible. Le critère de **confort** se retrouve d'ailleurs dans la plupart des magasin d'application VR (par ex. dans l' [l'oculus store](https://support.oculus.com/1639053389725739/))
+Si l'on veut tout de même déplacer l'avatar de l'utilisateur (et donc sa caméra) dans la VR sans que celui-ci se déplace dans la réalité, il va falloir trouver des "trucs" pour le faire de la manière la plus confortable possible. Le critère de **confort** se retrouve d'ailleurs dans la plupart des magasin d'application VR (par ex. dans [l'oculus store](https://support.oculus.com/1639053389725739/))
 
 Voilà quelques exemples de solutions:
 
-
-
-### Comment garder le réalisme des déplacements, sans les permettre en réalité ?
-
-### Différentes solutions
-
+- **La téléportation**: elle ne provoque généralement pas d’inconfort, mais elle peut casser l’immersion. 
 
 - **Le chaperon**: faire des murs virtuels quand y a des murs en realité. Mais qu'en est-il pour les mondes infinis ?
 - Utiliser des **véhicules**: l'utilisateur reste sur place en réalité, c'est le véhicule qui se déplace dans le virtuel.
-- **La téléportation**: l'utilisateur ne bouge pas.
+
 - **[Rediect walking](https://www.youtube.com/watch?v=u8pw81VbMUU)**: fausser la perception de l'esprit avec un décalage mouvements réels/virtuels.
 - **Suites de mouvements adaptées à l'univers**, pensés pour que l'utilisateur revienne sur ses pas, et reste dans un espace restreint.
 
@@ -225,11 +220,11 @@ En savoir plus: [VR positional Audio](https://realnewworld.com/vr-positional-aud
 - [Geek.com](https://www.geek.com/news/the-history-of-virtual-reality-games-1652225/)
 - [Changing the world: DARPA’s top inventions](https://www.extremetech.com/extreme/105117-inventing-our-world-darpas-top-inventions/2)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjc2MzQ5Mjc5LDE4MDUzMDQ2ODUsMTM2MT
-EzNTM3NSwxNzkwMTc0NzA1LC0xMzEyMjg4MTUzLC0xODU3OTIx
-NTg5LDE1NzEzMjAwODMsLTE2MDE2MDcyNjYsLTE5NTM1ODQxMT
-csLTgwNTUzMDg5OCwtMTg4NDM4MjgwMSwyMDIzNTc0MjgwLDE4
-Nzg3NzMxNCwtNjg0NzU1ODE1LDU3Mjc1OTgzMywtMjA2NjI4MD
-U2OSwtMTY2NjIwNjQxMSwtMjA5NTYxMjA1NCwxMDc3NDA4NDg0
-LC0xNTY3MTQ2MDgzXX0=
+eyJoaXN0b3J5IjpbMTIyOTc1NzA0OCw2NzYzNDkyNzksMTgwNT
+MwNDY4NSwxMzYxMTM1Mzc1LDE3OTAxNzQ3MDUsLTEzMTIyODgx
+NTMsLTE4NTc5MjE1ODksMTU3MTMyMDA4MywtMTYwMTYwNzI2Ni
+wtMTk1MzU4NDExNywtODA1NTMwODk4LC0xODg0MzgyODAxLDIw
+MjM1NzQyODAsMTg3ODc3MzE0LC02ODQ3NTU4MTUsNTcyNzU5OD
+MzLC0yMDY2MjgwNTY5LC0xNjY2MjA2NDExLC0yMDk1NjEyMDU0
+LDEwNzc0MDg0ODRdfQ==
 -->
