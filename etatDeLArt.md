@@ -169,7 +169,7 @@ De manière générale, une application VR ne doit pas permettre de prendre le c
 
 - L'espace réel peut contenir des obstacles aux déplacements qui seront invisibles en VR. Et inversement, une chaise dans la réalité virtuelle ne sera peut être pas physiquement présente dans la réalité.
 
-## Mal des transports (cinétose)
+## Déplacement et "mal des transports" (cinétose)
 
 Une des principales règles pour éviter ce problème et de ne jamais prendre le contrôle de la caméra et donc de la laisser être contrôlée par les mouvements du casque VR. 
 
@@ -237,11 +237,11 @@ En savoir plus: [VR positional Audio](https://realnewworld.com/vr-positional-aud
 - [Geek.com](https://www.geek.com/news/the-history-of-virtual-reality-games-1652225/)
 - [Changing the world: DARPA’s top inventions](https://www.extremetech.com/extreme/105117-inventing-our-world-darpas-top-inventions/2)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkzNjYwMTU2LC0xNzA0MTI1MDg3LC00OT
-U0NzY4NDMsMTM2ODk5MzE3MiwxNjk2NzA3NjAwLC0xODE5MTY5
-NzkzLDI5OTMwMjMxMiwtMTk3OTQ4NjAzOSwtMjExOTMzODAwNC
-w1NTE3NTg1NjQsLTEyODU1NzMzMDIsNDY2MzQ5NTU0LC0yODA5
-NDA5NTAsNjc2MzQ5Mjc5LDE4MDUzMDQ2ODUsMTM2MTEzNTM3NS
-wxNzkwMTc0NzA1LC0xMzEyMjg4MTUzLC0xODU3OTIxNTg5LDE1
-NzEzMjAwODNdfQ==
+eyJoaXN0b3J5IjpbLTEwNzI0NjAzNTEsLTE3MDQxMjUwODcsLT
+Q5NTQ3Njg0MywxMzY4OTkzMTcyLDE2OTY3MDc2MDAsLTE4MTkx
+Njk3OTMsMjk5MzAyMzEyLC0xOTc5NDg2MDM5LC0yMTE5MzM4MD
+A0LDU1MTc1ODU2NCwtMTI4NTU3MzMwMiw0NjYzNDk1NTQsLTI4
+MDk0MDk1MCw2NzYzNDkyNzksMTgwNTMwNDY4NSwxMzYxMTM1Mz
+c1LDE3OTAxNzQ3MDUsLTEzMTIyODgxNTMsLTE4NTc5MjE1ODks
+MTU3MTMyMDA4M119
 -->
