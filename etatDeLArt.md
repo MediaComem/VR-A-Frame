@@ -204,7 +204,7 @@ Si l'espace VR est de taille identique (ou plus petit que l'espace réel), il n'
 
 Toutefois, même si l'espace VR est plus grand que l'espace réel, il existe quelques méthodes (*astuces*) pour éviter de devoir déplacer la caméra de l'utilisateur ou d'utiliser des mécanismes de téléportation:
 
-- **[Rediect walking](https://www.youtube.com/watch?v=u8pw81VbMUU)**: fausser la perception de l'esprit avec un décalage mouvements réels/virtuels ou espaces VR pensés pour que l'utilisateur revienne sur ses pas, et reste dans un espace restreint (identique à son espace réelle).
+- **[Rediect walking]([https://www.youtube(https://www.youtube.com/watch?v=XOxmMurUv3Q)**: fausser la perception de l'esprit avec un décalage mouvements réels/virtuels ou espaces VR pensés pour que l'utilisateur revienne sur ses pas, et reste dans un espace restreint (identique à son espace réelle).
  
 - **Drag and drop** : 
 
@@ -244,11 +244,11 @@ En savoir plus: [VR positional Audio](https://realnewworld.com/vr-positional-aud
 - [Geek.com](https://www.geek.com/news/the-history-of-virtual-reality-games-1652225/)
 - [Changing the world: DARPA’s top inventions](https://www.extremetech.com/extreme/105117-inventing-our-world-darpas-top-inventions/2)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk3MDE3MjQwNywxNDgxOTkyODQ1LC05ND
-MyNDY0MzAsMTg4OTM5OTY0LC0zNzA2NzA5NzEsLTE2MzExMzYy
-OTgsLTE3MDQxMjUwODcsLTQ5NTQ3Njg0MywxMzY4OTkzMTcyLD
-E2OTY3MDc2MDAsLTE4MTkxNjk3OTMsMjk5MzAyMzEyLC0xOTc5
-NDg2MDM5LC0yMTE5MzM4MDA0LDU1MTc1ODU2NCwtMTI4NTU3Mz
-MwMiw0NjYzNDk1NTQsLTI4MDk0MDk1MCw2NzYzNDkyNzksMTgw
-NTMwNDY4NV19
+eyJoaXN0b3J5IjpbLTExMzAxMzA5MzQsMTk3MDE3MjQwNywxND
+gxOTkyODQ1LC05NDMyNDY0MzAsMTg4OTM5OTY0LC0zNzA2NzA5
+NzEsLTE2MzExMzYyOTgsLTE3MDQxMjUwODcsLTQ5NTQ3Njg0My
+wxMzY4OTkzMTcyLDE2OTY3MDc2MDAsLTE4MTkxNjk3OTMsMjk5
+MzAyMzEyLC0xOTc5NDg2MDM5LC0yMTE5MzM4MDA0LDU1MTc1OD
+U2NCwtMTI4NTU3MzMwMiw0NjYzNDk1NTQsLTI4MDk0MDk1MCw2
+NzYzNDkyNzldfQ==
 -->
