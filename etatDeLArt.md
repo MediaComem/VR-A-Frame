@@ -187,7 +187,7 @@ Elle ne provoque généralement pas d’inconfort, mais elle peut casser l’imm
  ![budget cut](./img/budget_cut.png)
  
  
- - **Autres systèmes de tépéportation** :  On peut imaginer d'autres systèmes de téléportation que ceux précités. Par exemple, le système de téléportation du jeu [The Gallery](https://en.wikipedia.org/wiki/The_Gallery_(video_game)), offre au joueur la possibilité d'orienter sa téléportation dans une direction bien précise en faisant apparaître au sol l'espace réel du joueur durant la sélection de la zone de téléportation (système [*blink*](https://www.youtube.com/watch?v=fOFgAfuTtyo&feature=emb_title)). 
+ - **Autres systèmes de téléportation** :  On peut imaginer d'autres systèmes de téléportation que ceux précités. Par exemple, le système de téléportation du jeu [The Gallery](https://en.wikipedia.org/wiki/The_Gallery_(video_game)), offre au joueur la possibilité d'orienter sa téléportation dans une direction bien précise en faisant apparaître au sol l'espace réel du joueur durant la sélection de la zone de téléportation (système [*blink*](https://www.youtube.com/watch?v=fOFgAfuTtyo&feature=emb_title)). 
  
  ### Simulateurs
  
@@ -246,11 +246,11 @@ En savoir plus: [VR positional Audio](https://realnewworld.com/vr-positional-aud
 - [Geek.com](https://www.geek.com/news/the-history-of-virtual-reality-games-1652225/)
 - [Changing the world: DARPA’s top inventions](https://www.extremetech.com/extreme/105117-inventing-our-world-darpas-top-inventions/2)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY0NjczMjY3NywxODg5Mzk5NjQsLTM3MD
-Y3MDk3MSwtMTYzMTEzNjI5OCwtMTcwNDEyNTA4NywtNDk1NDc2
-ODQzLDEzNjg5OTMxNzIsMTY5NjcwNzYwMCwtMTgxOTE2OTc5My
-wyOTkzMDIzMTIsLTE5Nzk0ODYwMzksLTIxMTkzMzgwMDQsNTUx
-NzU4NTY0LC0xMjg1NTczMzAyLDQ2NjM0OTU1NCwtMjgwOTQwOT
-UwLDY3NjM0OTI3OSwxODA1MzA0Njg1LDEzNjExMzUzNzUsMTc5
-MDE3NDcwNV19
+eyJoaXN0b3J5IjpbOTc5NzEzMjc5LDE4ODkzOTk2NCwtMzcwNj
+cwOTcxLC0xNjMxMTM2Mjk4LC0xNzA0MTI1MDg3LC00OTU0NzY4
+NDMsMTM2ODk5MzE3MiwxNjk2NzA3NjAwLC0xODE5MTY5NzkzLD
+I5OTMwMjMxMiwtMTk3OTQ4NjAzOSwtMjExOTMzODAwNCw1NTE3
+NTg1NjQsLTEyODU1NzMzMDIsNDY2MzQ5NTU0LC0yODA5NDA5NT
+AsNjc2MzQ5Mjc5LDE4MDUzMDQ2ODUsMTM2MTEzNTM3NSwxNzkw
+MTc0NzA1XX0=
 -->
