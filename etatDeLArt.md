@@ -109,7 +109,7 @@ XIXe s. - [Stéréoscopes](https://fr.wikipedia.org/wiki/St%C3%A9r%C3%A9oscope)
 
 ### Principales problématiques
 
-
+### Champ de vue (FOV)
 
 - Le [Field of view](https://vr-lens-lab.com/field-of-view-for-virtual-reality-headsets/) (FOV) n'est pas optimal sur les casques actuels
 - le FOV des devices = en moyenne 90-110°
@@ -132,8 +132,9 @@ XIXe s. - [Stéréoscopes](https://fr.wikipedia.org/wiki/St%C3%A9r%C3%A9oscope)
 ![Screen Door Effect](./img/sde.jpg)
 [*Source*](https://en.wikipedia.org/wiki/Screen-door_effect#/media/File:Screen-door_effect.jpg)
 
+### Mura Effect
 
-## [Mura Effect](https://www.roda-computer.com/technology/mura-effect/)
+[Mura Effect](https://www.roda-computer.com/technology/mura-effect/)
 - L'effet: les à-plats de couleurs ne sont pas homogènes
 - Cause: la composition des écran empêche une luminosité tout à fait régulière
 
@@ -233,7 +234,7 @@ En savoir plus: [VR positional Audio](https://realnewworld.com/vr-positional-aud
 - [Geek.com](https://www.geek.com/news/the-history-of-virtual-reality-games-1652225/)
 - [Changing the world: DARPA’s top inventions](https://www.extremetech.com/extreme/105117-inventing-our-world-darpas-top-inventions/2)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ1NjUxMzc4MiwtMzg5MDY3MDUyLC0xMz
+eyJoaXN0b3J5IjpbMTQ2NzUxNzkwMiwtMzg5MDY3MDUyLC0xMz
 g4MDY5Njg0LC0xMjQyNTgzODczLDE0MDU1MzMwMDYsLTIxNzA4
 MzY4OCwxNTU2OTA4MDI0LDE5NzAxNzI0MDcsMTQ4MTk5Mjg0NS
 wtOTQzMjQ2NDMwLDE4ODkzOTk2NCwtMzcwNjcwOTcxLC0xNjMx
