@@ -187,7 +187,7 @@ Elle ne provoque généralement pas d’inconfort, mais elle peut casser l’imm
  ![budget cut](./img/budget_cut.png)
  
  
- - **Autres systèmes** :  On peut imaginer d'autres systèmes de téléportation que ceux précités. Par exemple, le système de téléportation du jeu [The Gallery](https://en.wikipedia.org/wiki/The_Gallery_(video_game)), offre au joueur la possibilité d'orienter sa téléportation dans une direction bien précise en faisant apparaître au sol l'espace réel du joueur durant la sélection de la zone de téléportation (système [blink](https://www.youtube.com/watch?v=fOFgAfuTtyo&feature=emb_title)). Le jeu utilise un système de "dash" (sprint)
+ - **Autres systèmes** :  On peut imaginer d'autres systèmes de téléportation que ceux précités. Par exemple, le système de téléportation du jeu [The Gallery](https://en.wikipedia.org/wiki/The_Gallery_(video_game)), offre au joueur la possibilité d'orienter sa téléportation dans une direction bien précise en faisant apparaître au sol l'espace réel du joueur durant la sélection de la zone de téléportation (système [blink](https://www.youtube.com/watch?v=fOFgAfuTtyo&feature=emb_title)). Autre exemple, le jeu [Raw Data]([https://survios.com/rawdata/]https://survios.com/rawdata/)) utilise un système de *sprint* (ou *dash*) 
 
  ### Flou basé sur le champ de vision (FOV) 
 
@@ -237,7 +237,7 @@ En savoir plus: [VR positional Audio](https://realnewworld.com/vr-positional-aud
 - [Geek.com](https://www.geek.com/news/the-history-of-virtual-reality-games-1652225/)
 - [Changing the world: DARPA’s top inventions](https://www.extremetech.com/extreme/105117-inventing-our-world-darpas-top-inventions/2)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcwOTY2MDE2MywtMTcwNDEyNTA4NywtND
+eyJoaXN0b3J5IjpbLTY0OTA1NzMzNiwtMTcwNDEyNTA4NywtND
 k1NDc2ODQzLDEzNjg5OTMxNzIsMTY5NjcwNzYwMCwtMTgxOTE2
 OTc5MywyOTkzMDIzMTIsLTE5Nzk0ODYwMzksLTIxMTkzMzgwMD
 QsNTUxNzU4NTY0LC0xMjg1NTczMzAyLDQ2NjM0OTU1NCwtMjgw
