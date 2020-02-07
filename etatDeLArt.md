@@ -140,7 +140,7 @@ XIXe s. - [Stéréoscopes](https://fr.wikipedia.org/wiki/St%C3%A9r%C3%A9oscope)
 
 Les lentilles qui déforme (le ou) les écrans à l'intérieur du casque afin d'avoir mise au point adéquate (qui serait sinon impossible avec un écran si proche des yeux).
 
-- **Centre optique (sweet spot)** : afin d'avoir une vision claire (avec un bon focus), il faut que la lentille soit correctement placée face à l’œil. Les casques VR actuels sont plus ou moins permissif sur ce sujet. De plus la [distance pupillaire](https://en.wikipedia.org/wiki/Pupillary_distance) est différente d'un individus à l'autre. Ainsi les casques se munissent la plupart du temps d'un système de réglage de la distance séparant les deux lentilles afin de s'a.
+- **Centre optique (sweet spot)** : afin d'avoir une vision claire (avec un bon focus), il faut que la lentille soit correctement placée face à l’œil. Les casques VR actuels sont plus ou moins permissif sur ce sujet. De plus la [distance pupillaire](https://en.wikipedia.org/wiki/Pupillary_distance) est différente d'un individus à l'autre. Ainsi les casques se munissent la plupart du temps d'un système de réglage de la distance séparant les deux lentilles afin de s'adapter au mieux aux utilisateurs.
 
 - **Glare et "God rays"**:  En cas de scène à fort forts contrastes, les couleurs clair (le blanc principalement) "bave". On voit comme des rayons lumineux (God Rays). La cause: Les lentilles Fresnel utilisé dans dans le casques. Solution: limiter les forts contrastes dans les scènes VR.
 
@@ -227,11 +227,11 @@ En savoir plus: [VR positional Audio](https://realnewworld.com/vr-positional-aud
 - [Geek.com](https://www.geek.com/news/the-history-of-virtual-reality-games-1652225/)
 - [Changing the world: DARPA’s top inventions](https://www.extremetech.com/extreme/105117-inventing-our-world-darpas-top-inventions/2)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI3NTk2Mjc3MywtMTA3NzU3Nzk0NywtMz
-g5MDY3MDUyLC0xMzg4MDY5Njg0LC0xMjQyNTgzODczLDE0MDU1
-MzMwMDYsLTIxNzA4MzY4OCwxNTU2OTA4MDI0LDE5NzAxNzI0MD
-csMTQ4MTk5Mjg0NSwtOTQzMjQ2NDMwLDE4ODkzOTk2NCwtMzcw
-NjcwOTcxLC0xNjMxMTM2Mjk4LC0xNzA0MTI1MDg3LC00OTU0Nz
-Y4NDMsMTM2ODk5MzE3MiwxNjk2NzA3NjAwLC0xODE5MTY5Nzkz
-LDI5OTMwMjMxMl19
+eyJoaXN0b3J5IjpbLTczNDcyNzIxLC0xMDc3NTc3OTQ3LC0zOD
+kwNjcwNTIsLTEzODgwNjk2ODQsLTEyNDI1ODM4NzMsMTQwNTUz
+MzAwNiwtMjE3MDgzNjg4LDE1NTY5MDgwMjQsMTk3MDE3MjQwNy
+wxNDgxOTkyODQ1LC05NDMyNDY0MzAsMTg4OTM5OTY0LC0zNzA2
+NzA5NzEsLTE2MzExMzYyOTgsLTE3MDQxMjUwODcsLTQ5NTQ3Nj
+g0MywxMzY4OTkzMTcyLDE2OTY3MDc2MDAsLTE4MTkxNjk3OTMs
+Mjk5MzAyMzEyXX0=
 -->
