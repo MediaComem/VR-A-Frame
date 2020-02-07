@@ -192,7 +192,7 @@ Elle ne provoque généralement pas d’inconfort, mais elle peut casser l’imm
  ### Utilisation de véhicules et autres artifices
 
 - **Simulateurs**
-Si les déplacements sont fait via un simulateur de véhicule (voitures, avions, vaisseaux spatiaux, etc..), les risques de *cinétose* sont fortement réduits. En effet, le mal du voyage atteint rarement celui qui est maître du véhicule, mais plutôt ses passagers. Les simulateurs bénéficie aussi d'une grande possibilité d'immersion et de confort, Un bon exemple est le jeu [Elite Dangerous](https://www.elitedangerous.com/), ou le joueur reste toujours assis dans son siège (même lors des phases d'exploration de la surface d'une planète, puisque celle ci se fait aussi dans un véhicule terrestre). L'immersion est encore plus forte si l’utilisateur utilise des contrôleurs adaptés à la simulation (comme un [HOTAS](https://fr.wikipedia.org/wiki/Mains_sur_manche_et_manette). 
+Si les déplacements sont fait via un simulateur de véhicule (voitures, avions, vaisseaux spatiaux, etc..), les risques de *cinétose* sont fortement réduits. En effet, le mal du voyage atteint rarement celui qui est maître du véhicule, mais plutôt ses passagers. Un exemple est le jeu [Elite Dangerous](https://www.elitedangerous.com/), ou le joueur reste toujours assis dans son siège (même lors des phases d'exploration de la surface d'une planète, puisque celle ci se fait aussi dans un véhicule terrestre). L'immersion est encore plus forte si l’utilisateur utilise des contrôleurs adaptés à la simulation (comme un [HOTAS](https://fr.wikipedia.org/wiki/Mains_sur_manche_et_manette) pour Elite Dangerous). 
 
 
 - **Déplacements libres** (avec flou autour de la zone fovéale ou autres méthodes)
@@ -245,7 +245,7 @@ En savoir plus: [VR positional Audio](https://realnewworld.com/vr-positional-aud
 - [Geek.com](https://www.geek.com/news/the-history-of-virtual-reality-games-1652225/)
 - [Changing the world: DARPA’s top inventions](https://www.extremetech.com/extreme/105117-inventing-our-world-darpas-top-inventions/2)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQxMzM0NjEzNSwtMzcwNjcwOTcxLC0xNj
+eyJoaXN0b3J5IjpbLTIzOTYzNTI0NSwtMzcwNjcwOTcxLC0xNj
 MxMTM2Mjk4LC0xNzA0MTI1MDg3LC00OTU0NzY4NDMsMTM2ODk5
 MzE3MiwxNjk2NzA3NjAwLC0xODE5MTY5NzkzLDI5OTMwMjMxMi
 wtMTk3OTQ4NjAzOSwtMjExOTMzODAwNCw1NTE3NTg1NjQsLTEy
