@@ -181,8 +181,8 @@ Elle ne provoque généralement pas d’inconfort, mais elle peut casser l’imm
 
  - **Téléportation simple**:  l'avatar est simplement téléporté vers la destination. Elle est souvent soit **libre**: l'utilisateur choisit sa destination pour la téléportation dans l'espace VR visible (et accessible), soit **limitée**: par une série de marqueurs de téléportation disposés dans l'espace VR. La téléportation limitée est souvent utilisée lors de l'utilisation de la  [photogrammétrie](https://fr.wikipedia.org/wiki/Photogramm%C3%A9trie). L'application [Welcome to Light Fields](https://www.blog.google/products/google-ar-vr/experimenting-light-fields/) en est un bon exemple. En effet puisque l'espace VR n'est pas pleinement explorable (ce sont des *photos*), l'utilisateur se téléporte alors d'un point de vue à un autre, où les points de téléportation sont les endroits ou les *photos* ont été prises.
  
- - **Portails de téléportation**:  au lieu de téléporter l'utilisateur on crée un portail 
- 
+ - **Portails de téléportation**:  au lieu de téléporter l'utilisateur, on le fait passer à travers des portails reliant deux zones VR distantes. Ces portails peuvent être 
+ - 
  ### Flou basé sur le champ de vision (FOV) 
 
 Toutefois, et même si l'espace VR est plus grand que l'espace réel, il existe d'autres méthodes pour éviter de devoir déplacer la caméra de l'utilisateur:
@@ -231,7 +231,7 @@ En savoir plus: [VR positional Audio](https://realnewworld.com/vr-positional-aud
 - [Geek.com](https://www.geek.com/news/the-history-of-virtual-reality-games-1652225/)
 - [Changing the world: DARPA’s top inventions](https://www.extremetech.com/extreme/105117-inventing-our-world-darpas-top-inventions/2)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMzA3MzA3OCwtMjExOTMzODAwNCw1NT
+eyJoaXN0b3J5IjpbLTgwMjkzODg5MiwtMjExOTMzODAwNCw1NT
 E3NTg1NjQsLTEyODU1NzMzMDIsNDY2MzQ5NTU0LC0yODA5NDA5
 NTAsNjc2MzQ5Mjc5LDE4MDUzMDQ2ODUsMTM2MTEzNTM3NSwxNz
 kwMTc0NzA1LC0xMzEyMjg4MTUzLC0xODU3OTIxNTg5LDE1NzEz
