@@ -206,9 +206,10 @@ Toutefois, même si l'espace VR est plus grand que l'espace réel, il existe que
 
 - **Marche redirigée**: il s'agit de fausser la perception de l'esprit avec un décalage mouvements réels/virtuels ([Rediect walking](https://www.youtube.com/watch?v=XOxmMurUv3Q)).
 
-- **Espaces VR** pensés pour que l'utilisateur revienne sur ses pas, et reste dans un espace restreint (identique à son espace réelle). Ce peut être fait avec l'utilisation d'ascenseur, des technique de chevauchement (*overlapping*) d'espaces (voir image)
+- **Espaces VR** pensés pour que l'utilisateur revienne sur ses pas, et reste dans un espace restreint (identique à son espace réelle). Ce peut être fait avec l'utilisation d'ascenseur, des technique de chevauchement (*overlapping*) d'espaces (voir image).
 
 ![Overlapping](./img/overlapping.png)
+
  
 - ***Drag the world*** : Dans l'application [Google Earth VR](https://arvr.google.com/earth/), au lieu de téléporter l'utilisateur vers sa destination on effectue un "drag" 
 
@@ -255,11 +256,11 @@ En savoir plus: [VR positional Audio](https://realnewworld.com/vr-positional-aud
 - [Geek.com](https://www.geek.com/news/the-history-of-virtual-reality-games-1652225/)
 - [Changing the world: DARPA’s top inventions](https://www.extremetech.com/extreme/105117-inventing-our-world-darpas-top-inventions/2)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkyMTUzMjI2LDE1NTY5MDgwMjQsMTk3MD
-E3MjQwNywxNDgxOTkyODQ1LC05NDMyNDY0MzAsMTg4OTM5OTY0
-LC0zNzA2NzA5NzEsLTE2MzExMzYyOTgsLTE3MDQxMjUwODcsLT
-Q5NTQ3Njg0MywxMzY4OTkzMTcyLDE2OTY3MDc2MDAsLTE4MTkx
-Njk3OTMsMjk5MzAyMzEyLC0xOTc5NDg2MDM5LC0yMTE5MzM4MD
-A0LDU1MTc1ODU2NCwtMTI4NTU3MzMwMiw0NjYzNDk1NTQsLTI4
-MDk0MDk1MF19
+eyJoaXN0b3J5IjpbLTYzNzYyNDA3NCwxNTU2OTA4MDI0LDE5Nz
+AxNzI0MDcsMTQ4MTk5Mjg0NSwtOTQzMjQ2NDMwLDE4ODkzOTk2
+NCwtMzcwNjcwOTcxLC0xNjMxMTM2Mjk4LC0xNzA0MTI1MDg3LC
+00OTU0NzY4NDMsMTM2ODk5MzE3MiwxNjk2NzA3NjAwLC0xODE5
+MTY5NzkzLDI5OTMwMjMxMiwtMTk3OTQ4NjAzOSwtMjExOTMzOD
+AwNCw1NTE3NTg1NjQsLTEyODU1NzMzMDIsNDY2MzQ5NTU0LC0y
+ODA5NDA5NTBdfQ==
 -->
