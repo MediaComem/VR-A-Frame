@@ -107,6 +107,8 @@ XIXe s. - [Stéréoscopes](https://fr.wikipedia.org/wiki/St%C3%A9r%C3%A9oscope)
 
 ## <a name="immersion"></a> Immersion
 
+### Principales problématiques
+
 
 
 - Le [Field of view](https://vr-lens-lab.com/field-of-view-for-virtual-reality-headsets/) (FOV) n'est pas optimal sur les casques actuels
@@ -116,11 +118,13 @@ XIXe s. - [Stéréoscopes](https://fr.wikipedia.org/wiki/St%C3%A9r%C3%A9oscope)
 ![Field of view](./img/fov.png)
 [*Source*](https://fr.wikipedia.org/wiki/Champ_visuel#/media/Fichier:Champ_vision.svg)
 
-## Le casque (gênant, lourd)
-- Deep Diving: jeu de plongée VR - détourne ce problème
-- https://store.steampowered.com/app/1104050/Deep_Diving_VR/
+### Le casque
 
-## [Screen Door Effect (SDE)](https://www.howtogeek.com/404491/what-is-the-screen-door-effect-in-vr/)
+
+### Screen Door Effect (SDE)
+
+[Screen Door Effect (SDE)](https://www.howtogeek.com/404491/what-is-the-screen-door-effect-in-vr/)
+
 - L'effet: on voit le "grillage" de pixels
 - Cause: zoom sur l'écran dans le headset, en plus du fait qu'il est proche des yeux
 - Solution: meilleure résolution de l'écran (8K)
@@ -229,7 +233,7 @@ En savoir plus: [VR positional Audio](https://realnewworld.com/vr-positional-aud
 - [Geek.com](https://www.geek.com/news/the-history-of-virtual-reality-games-1652225/)
 - [Changing the world: DARPA’s top inventions](https://www.extremetech.com/extreme/105117-inventing-our-world-darpas-top-inventions/2)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ1MjMxMDY3MywtMzg5MDY3MDUyLC0xMz
+eyJoaXN0b3J5IjpbLTQ1NjUxMzc4MiwtMzg5MDY3MDUyLC0xMz
 g4MDY5Njg0LC0xMjQyNTgzODczLDE0MDU1MzMwMDYsLTIxNzA4
 MzY4OCwxNTU2OTA4MDI0LDE5NzAxNzI0MDcsMTQ4MTk5Mjg0NS
 wtOTQzMjQ2NDMwLDE4ODkzOTk2NCwtMzcwNjcwOTcxLC0xNjMx
