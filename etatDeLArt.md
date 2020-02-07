@@ -92,9 +92,6 @@ XIXe s. - [Stéréoscopes](https://fr.wikipedia.org/wiki/St%C3%A9r%C3%A9oscope)
 - *Tracking* des doigts
 - autres systèmes
 
-### Casques autonomes versus casques reliés
-
-
 ### Casques populaires récents
 | Casques             | Platforme  | 6DOF | Contrôleurs | Contrôleurs 6DOF |
 |:--------            |----------:|:----:|:-----------:|:----------------:|
@@ -120,6 +117,7 @@ XIXe s. - [Stéréoscopes](https://fr.wikipedia.org/wiki/St%C3%A9r%C3%A9oscope)
 
 ### Le casque
 
+Casques autonomes versus casques reliés
 
 ### Les  écrans
 
@@ -244,11 +242,11 @@ En savoir plus: [VR positional Audio](https://realnewworld.com/vr-positional-aud
 - [Geek.com](https://www.geek.com/news/the-history-of-virtual-reality-games-1652225/)
 - [Changing the world: DARPA’s top inventions](https://www.extremetech.com/extreme/105117-inventing-our-world-darpas-top-inventions/2)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjQ2ODU3MTY3LC0zODkwNjcwNTIsLTEzOD
-gwNjk2ODQsLTEyNDI1ODM4NzMsMTQwNTUzMzAwNiwtMjE3MDgz
-Njg4LDE1NTY5MDgwMjQsMTk3MDE3MjQwNywxNDgxOTkyODQ1LC
-05NDMyNDY0MzAsMTg4OTM5OTY0LC0zNzA2NzA5NzEsLTE2MzEx
-MzYyOTgsLTE3MDQxMjUwODcsLTQ5NTQ3Njg0MywxMzY4OTkzMT
-cyLDE2OTY3MDc2MDAsLTE4MTkxNjk3OTMsMjk5MzAyMzEyLC0x
-OTc5NDg2MDM5XX0=
+eyJoaXN0b3J5IjpbMTcxNTY5MjY2MCwtMzg5MDY3MDUyLC0xMz
+g4MDY5Njg0LC0xMjQyNTgzODczLDE0MDU1MzMwMDYsLTIxNzA4
+MzY4OCwxNTU2OTA4MDI0LDE5NzAxNzI0MDcsMTQ4MTk5Mjg0NS
+wtOTQzMjQ2NDMwLDE4ODkzOTk2NCwtMzcwNjcwOTcxLC0xNjMx
+MTM2Mjk4LC0xNzA0MTI1MDg3LC00OTU0NzY4NDMsMTM2ODk5Mz
+E3MiwxNjk2NzA3NjAwLC0xODE5MTY5NzkzLDI5OTMwMjMxMiwt
+MTk3OTQ4NjAzOV19
 -->
