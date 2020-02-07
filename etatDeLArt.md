@@ -191,7 +191,7 @@ Elle ne provoque généralement pas d’inconfort, mais elle peut casser l’imm
  
  ### Utilisation de véhicules et autres artifices
 
-Si le déplacement est fait via un simulateur de véhicule (voitures, avion, vaisseau spatiaux, etc..) 
+Si le déplacement est fait via un simulateur de véhicule (voitures, avion, vaisseau spatiaux, etc..), les risques de *cinétose* sont fortement réduits.
 
 - Utiliser des **véhicules**: l'utilisateur reste sur place en réalité, c'est le véhicule qui se déplace dans le virtuel.
 
@@ -245,7 +245,7 @@ En savoir plus: [VR positional Audio](https://realnewworld.com/vr-positional-aud
 - [Geek.com](https://www.geek.com/news/the-history-of-virtual-reality-games-1652225/)
 - [Changing the world: DARPA’s top inventions](https://www.extremetech.com/extreme/105117-inventing-our-world-darpas-top-inventions/2)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MDQwMjA5NTYsLTE3MDQxMjUwODcsLT
+eyJoaXN0b3J5IjpbLTE1NzE3Mzg5MTUsLTE3MDQxMjUwODcsLT
 Q5NTQ3Njg0MywxMzY4OTkzMTcyLDE2OTY3MDc2MDAsLTE4MTkx
 Njk3OTMsMjk5MzAyMzEyLC0xOTc5NDg2MDM5LC0yMTE5MzM4MD
 A0LDU1MTc1ODU2NCwtMTI4NTU3MzMwMiw0NjYzNDk1NTQsLTI4
