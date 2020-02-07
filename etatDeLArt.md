@@ -169,7 +169,7 @@ De manière générale, une application VR ne doit pas permettre de prendre le c
 
 - L'espace réel peut contenir des obstacles aux déplacements qui seront invisibles en VR. Et inversement, une chaise dans la réalité virtuelle ne sera peut être pas physiquement présente dans la réalité.
 
-## Déplacement et "mal des transports" (cinétose)
+### Déplacement et "mal des transports" (cinétose)
 
 Une des principales règles pour éviter ce problème et de ne jamais prendre le contrôle de la caméra et donc de la laisser être contrôlée par les mouvements du casque VR.  
 
@@ -199,9 +199,6 @@ Si l'espace VR est de taille identique ou plus petit que l'espace réel, il n'y 
 
 Toutefois, si l'espace VR est plus grand que l'espace réel, il existe des méthodes pour éviter de devoir déplacer la caméra de l'utilisateur :
 
-
-- **Le chaperon**: faire des murs virtuels quand y a des murs en realité. Mais qu'en est-il pour les mondes infinis ?
-
 - **[Rediect walking](https://www.youtube.com/watch?v=u8pw81VbMUU)**: fausser la perception de l'esprit avec un décalage mouvements réels/virtuels.
 - **Suites de mouvements adaptées à l'univers**, pensés pour que l'utilisateur revienne sur ses pas, et reste dans un espace restreint.
 
@@ -211,7 +208,10 @@ Toutefois, si l'espace VR est plus grand que l'espace réel, il existe des méth
 
 - **Tapis VR**: permet le déplacement infini. Le problème: ils sont dangereux, besoins de harnais, ou d'une sécurité de soutien.
 
-![Overlapping](https://i.pinimg.com/originals/86/51/71/8651710cd1970bc5c5d6892064fcc03b.jpg)
+
+
+- **Le chaperon**: faire des murs virtuels quand y a des murs en realité. Mais qu'en est-il pour les mondes infinis ?
+
 
 
 # Etat de l'art: Performances graphiques
@@ -238,11 +238,11 @@ En savoir plus: [VR positional Audio](https://realnewworld.com/vr-positional-aud
 - [Geek.com](https://www.geek.com/news/the-history-of-virtual-reality-games-1652225/)
 - [Changing the world: DARPA’s top inventions](https://www.extremetech.com/extreme/105117-inventing-our-world-darpas-top-inventions/2)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQyMTY2NjM1OCwtMTcwNDEyNTA4NywtND
-k1NDc2ODQzLDEzNjg5OTMxNzIsMTY5NjcwNzYwMCwtMTgxOTE2
-OTc5MywyOTkzMDIzMTIsLTE5Nzk0ODYwMzksLTIxMTkzMzgwMD
-QsNTUxNzU4NTY0LC0xMjg1NTczMzAyLDQ2NjM0OTU1NCwtMjgw
-OTQwOTUwLDY3NjM0OTI3OSwxODA1MzA0Njg1LDEzNjExMzUzNz
-UsMTc5MDE3NDcwNSwtMTMxMjI4ODE1MywtMTg1NzkyMTU4OSwx
-NTcxMzIwMDgzXX0=
+eyJoaXN0b3J5IjpbLTIwOTM4NjcxNjUsLTE3MDQxMjUwODcsLT
+Q5NTQ3Njg0MywxMzY4OTkzMTcyLDE2OTY3MDc2MDAsLTE4MTkx
+Njk3OTMsMjk5MzAyMzEyLC0xOTc5NDg2MDM5LC0yMTE5MzM4MD
+A0LDU1MTc1ODU2NCwtMTI4NTU3MzMwMiw0NjYzNDk1NTQsLTI4
+MDk0MDk1MCw2NzYzNDkyNzksMTgwNTMwNDY4NSwxMzYxMTM1Mz
+c1LDE3OTAxNzQ3MDUsLTEzMTIyODgxNTMsLTE4NTc5MjE1ODks
+MTU3MTMyMDA4M119
 -->
