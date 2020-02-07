@@ -206,7 +206,7 @@ Toutefois, même si l'espace VR est plus grand que l'espace réel, il existe que
 
 - **Marche redirigée**: il s'agit de fausser la perception de l'esprit avec un décalage mouvements réels/virtuels ([Rediect walking](https://www.youtube.com/watch?v=XOxmMurUv3Q)).
 
-- **Espaces VR** pensés pour que l'utilisateur revienne sur ses pas, et reste dans un espace restreint (identique à son espace réelle). Ce peut être fait avec l'utilisation d'ascenseurs, des techniques de chevauchement (*overlapping*) d'espaces (voir image), ou autres astuces (de désorientation par exemple). 
+- **Espaces VR** pensés pour que l'utilisateur revienne sur ses pas, et reste dans un espace restreint (identique à son espace réelle). Ce peut être fait avec l'utilisation d'ascenseurs, des techniques de chevauchement (*overlapping*) d'espaces (voir image), ou autres astuces (de désorientations par exemple). 
 
 ![Overlapping](./img/overlapping.png)
 
@@ -256,11 +256,11 @@ En savoir plus: [VR positional Audio](https://realnewworld.com/vr-positional-aud
 - [Geek.com](https://www.geek.com/news/the-history-of-virtual-reality-games-1652225/)
 - [Changing the world: DARPA’s top inventions](https://www.extremetech.com/extreme/105117-inventing-our-world-darpas-top-inventions/2)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NjA1MDA0ODksMTU1NjkwODAyNCwxOT
-cwMTcyNDA3LDE0ODE5OTI4NDUsLTk0MzI0NjQzMCwxODg5Mzk5
-NjQsLTM3MDY3MDk3MSwtMTYzMTEzNjI5OCwtMTcwNDEyNTA4Ny
-wtNDk1NDc2ODQzLDEzNjg5OTMxNzIsMTY5NjcwNzYwMCwtMTgx
-OTE2OTc5MywyOTkzMDIzMTIsLTE5Nzk0ODYwMzksLTIxMTkzMz
-gwMDQsNTUxNzU4NTY0LC0xMjg1NTczMzAyLDQ2NjM0OTU1NCwt
-MjgwOTQwOTUwXX0=
+eyJoaXN0b3J5IjpbODE2NTk0MTgwLDE1NTY5MDgwMjQsMTk3MD
+E3MjQwNywxNDgxOTkyODQ1LC05NDMyNDY0MzAsMTg4OTM5OTY0
+LC0zNzA2NzA5NzEsLTE2MzExMzYyOTgsLTE3MDQxMjUwODcsLT
+Q5NTQ3Njg0MywxMzY4OTkzMTcyLDE2OTY3MDc2MDAsLTE4MTkx
+Njk3OTMsMjk5MzAyMzEyLC0xOTc5NDg2MDM5LC0yMTE5MzM4MD
+A0LDU1MTc1ODU2NCwtMTI4NTU3MzMwMiw0NjYzNDk1NTQsLTI4
+MDk0MDk1MF19
 -->
