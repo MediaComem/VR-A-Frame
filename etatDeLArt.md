@@ -175,7 +175,7 @@ Une des principales règles pour éviter ce problème et de ne jamais prendre le
 
 Si l'on veut tout de même déplacer l'avatar de l'utilisateur (et donc sa caméra) dans la VR sans que celui-ci se déplace dans la réalité, il va falloir trouver des "trucs" pour le faire de la manière la plus confortable possible.  Le critère de **confort** se retrouve d'ailleurs dans la plupart des magasins d'applications VR (par ex. dans [l'oculus store](https://support.oculus.com/1639053389725739/)). Voilà quelques exemples de solutions :
 
-###  La téléportation
+### Téléportation
 
 Elle ne provoque généralement pas d’inconfort, mais elle peut casser l’immersion si elle n'est pas *scénarisée* dans l'application. C'est la solution la plus utilisée dans les applications VR d'aujourd'hui. On la retrouve sous différentes variantes dont voici quelques exemples concrets:
 
@@ -246,7 +246,7 @@ En savoir plus: [VR positional Audio](https://realnewworld.com/vr-positional-aud
 - [Geek.com](https://www.geek.com/news/the-history-of-virtual-reality-games-1652225/)
 - [Changing the world: DARPA’s top inventions](https://www.extremetech.com/extreme/105117-inventing-our-world-darpas-top-inventions/2)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjE0MDk3Nzk0NywxODg5Mzk5NjQsLTM3MD
+eyJoaXN0b3J5IjpbMTcxMzk2OTM4MiwxODg5Mzk5NjQsLTM3MD
 Y3MDk3MSwtMTYzMTEzNjI5OCwtMTcwNDEyNTA4NywtNDk1NDc2
 ODQzLDEzNjg5OTMxNzIsMTY5NjcwNzYwMCwtMTgxOTE2OTc5My
 wyOTkzMDIzMTIsLTE5Nzk0ODYwMzksLTIxMTkzMzgwMDQsNTUx
