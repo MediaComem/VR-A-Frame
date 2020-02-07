@@ -161,7 +161,7 @@ De manière générale, une application VR ne doit pas permettre de prendre le c
 
 ## <a name="movements"></a>Déplacements
 
-### Principales problématiques:
+### Principales problématiques
 
 - Mal des transports ( *cinétose* ) lorsque le déplacement visualisé est décalé de celui contrôlé par l'utilisateur.
  
@@ -222,11 +222,11 @@ En savoir plus: [VR positional Audio](https://realnewworld.com/vr-positional-aud
 - [Geek.com](https://www.geek.com/news/the-history-of-virtual-reality-games-1652225/)
 - [Changing the world: DARPA’s top inventions](https://www.extremetech.com/extreme/105117-inventing-our-world-darpas-top-inventions/2)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzkwMTgxNjAzLDEzNjExMzUzNzUsMTc5MD
-E3NDcwNSwtMTMxMjI4ODE1MywtMTg1NzkyMTU4OSwxNTcxMzIw
-MDgzLC0xNjAxNjA3MjY2LC0xOTUzNTg0MTE3LC04MDU1MzA4OT
-gsLTE4ODQzODI4MDEsMjAyMzU3NDI4MCwxODc4NzczMTQsLTY4
-NDc1NTgxNSw1NzI3NTk4MzMsLTIwNjYyODA1NjksLTE2NjYyMD
-Y0MTEsLTIwOTU2MTIwNTQsMTA3NzQwODQ4NCwtMTU2NzE0NjA4
-MywtODgwMTYxMzEyXX0=
+eyJoaXN0b3J5IjpbMTgwNTMwNDY4NSwxMzYxMTM1Mzc1LDE3OT
+AxNzQ3MDUsLTEzMTIyODgxNTMsLTE4NTc5MjE1ODksMTU3MTMy
+MDA4MywtMTYwMTYwNzI2NiwtMTk1MzU4NDExNywtODA1NTMwOD
+k4LC0xODg0MzgyODAxLDIwMjM1NzQyODAsMTg3ODc3MzE0LC02
+ODQ3NTU4MTUsNTcyNzU5ODMzLC0yMDY2MjgwNTY5LC0xNjY2Mj
+A2NDExLC0yMDk1NjEyMDU0LDEwNzc0MDg0ODQsLTE1NjcxNDYw
+ODMsLTg4MDE2MTMxMl19
 -->
