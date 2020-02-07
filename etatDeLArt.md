@@ -179,7 +179,7 @@ Voilà quelques exemples de solutions:
 
 - **La téléportation**: elle ne provoque généralement pas d’inconfort, mais elle peut casser l’immersion si elle n'est pas *scénarisée* dans l'application. 
 
-- **Flou basé sur la focal de vue**
+- **Flou basé sur le champ de vision (FOV)**: 
 
 Toutefois, et même si l'espace VR est plus grand que l'espace réel, il existe d'autres méthodes pour éviter de devoir déplacer la caméra de l'utilisateur:
 
@@ -227,11 +227,11 @@ En savoir plus: [VR positional Audio](https://realnewworld.com/vr-positional-aud
 - [Geek.com](https://www.geek.com/news/the-history-of-virtual-reality-games-1652225/)
 - [Changing the world: DARPA’s top inventions](https://www.extremetech.com/extreme/105117-inventing-our-world-darpas-top-inventions/2)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgxNTI2OTE4MiwtMjgwOTQwOTUwLDY3Nj
-M0OTI3OSwxODA1MzA0Njg1LDEzNjExMzUzNzUsMTc5MDE3NDcw
-NSwtMTMxMjI4ODE1MywtMTg1NzkyMTU4OSwxNTcxMzIwMDgzLC
-0xNjAxNjA3MjY2LC0xOTUzNTg0MTE3LC04MDU1MzA4OTgsLTE4
-ODQzODI4MDEsMjAyMzU3NDI4MCwxODc4NzczMTQsLTY4NDc1NT
-gxNSw1NzI3NTk4MzMsLTIwNjYyODA1NjksLTE2NjYyMDY0MTEs
-LTIwOTU2MTIwNTRdfQ==
+eyJoaXN0b3J5IjpbOTAwNTc3ODgyLC0yODA5NDA5NTAsNjc2Mz
+Q5Mjc5LDE4MDUzMDQ2ODUsMTM2MTEzNTM3NSwxNzkwMTc0NzA1
+LC0xMzEyMjg4MTUzLC0xODU3OTIxNTg5LDE1NzEzMjAwODMsLT
+E2MDE2MDcyNjYsLTE5NTM1ODQxMTcsLTgwNTUzMDg5OCwtMTg4
+NDM4MjgwMSwyMDIzNTc0MjgwLDE4Nzg3NzMxNCwtNjg0NzU1OD
+E1LDU3Mjc1OTgzMywtMjA2NjI4MDU2OSwtMTY2NjIwNjQxMSwt
+MjA5NTYxMjA1NF19
 -->
