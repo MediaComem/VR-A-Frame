@@ -211,13 +211,8 @@ Toutefois, même si l'espace VR est plus grand que l'espace réel, il existe que
 ![Overlapping](./img/overlapping.png)
 
  
-- ***Drag the world*** : Dans l'application [Google Earth VR](https://arvr.google.com/earth/), au lieu de téléporter l'utilisateur vers sa destination on effectue un "drag" 
+- ***Drag the world*** : Dans l'application [Google Earth VR](https://arvr.google.com/earth/), au lieu de téléporter l'utilisateur vers sa destination on effectue un "drag" de la terre sous nos pieds. ainsi comme Chuck Noris 
 
-- **** des salles pour fausser l'esprit: jeu des distances. Difficile pour le cerveau de se représenter les distances.
-
-
-
-- **Astuces divers**: 
 
 
 Bien sûr, presque toutes les techniques décrites précédemment peuvent être combinées. Par exemple 
@@ -256,7 +251,7 @@ En savoir plus: [VR positional Audio](https://realnewworld.com/vr-positional-aud
 - [Geek.com](https://www.geek.com/news/the-history-of-virtual-reality-games-1652225/)
 - [Changing the world: DARPA’s top inventions](https://www.extremetech.com/extreme/105117-inventing-our-world-darpas-top-inventions/2)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjA3NTk2MTMyLDE1NTY5MDgwMjQsMTk3MD
+eyJoaXN0b3J5IjpbNDk3NTk4NTU4LDE1NTY5MDgwMjQsMTk3MD
 E3MjQwNywxNDgxOTkyODQ1LC05NDMyNDY0MzAsMTg4OTM5OTY0
 LC0zNzA2NzA5NzEsLTE2MzExMzYyOTgsLTE3MDQxMjUwODcsLT
 Q5NTQ3Njg0MywxMzY4OTkzMTcyLDE2OTY3MDc2MDAsLTE4MTkx
