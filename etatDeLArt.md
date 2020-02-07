@@ -140,7 +140,9 @@ XIXe s. - [Stéréoscopes](https://fr.wikipedia.org/wiki/St%C3%A9r%C3%A9oscope)
 
 Les lentilles qui déforme (le ou) les écrans à l'intérieur du casque afin d'avoir mise au point adéquate (qui serait sinon impossible avec un écran si proche des yeux).
 
-- **Glare et "God rays"**:  En cas de scène à fort forts contrastes, les couleurs clair (le blanc principalement) "bave". On voit comme des rayons lumineux (God Rays). La cause: Les lentilles fresnel utilisé dans dans le casques. Solution: limiter les forts contrastes dans les scènes VR.
+- **Centre optique** : 
+
+- **Glare et "God rays"**:  En cas de scène à fort forts contrastes, les couleurs clair (le blanc principalement) "bave". On voit comme des rayons lumineux (God Rays). La cause: Les lentilles Fresnel utilisé dans dans le casques. Solution: limiter les forts contrastes dans les scènes VR.
 
 ![Glare](http://i.vimeocdn.com/video/569557579_1280.jpg)
 
@@ -225,11 +227,11 @@ En savoir plus: [VR positional Audio](https://realnewworld.com/vr-positional-aud
 - [Geek.com](https://www.geek.com/news/the-history-of-virtual-reality-games-1652225/)
 - [Changing the world: DARPA’s top inventions](https://www.extremetech.com/extreme/105117-inventing-our-world-darpas-top-inventions/2)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNzc1Nzc5NDcsLTM4OTA2NzA1MiwtMT
-M4ODA2OTY4NCwtMTI0MjU4Mzg3MywxNDA1NTMzMDA2LC0yMTcw
-ODM2ODgsMTU1NjkwODAyNCwxOTcwMTcyNDA3LDE0ODE5OTI4ND
-UsLTk0MzI0NjQzMCwxODg5Mzk5NjQsLTM3MDY3MDk3MSwtMTYz
-MTEzNjI5OCwtMTcwNDEyNTA4NywtNDk1NDc2ODQzLDEzNjg5OT
-MxNzIsMTY5NjcwNzYwMCwtMTgxOTE2OTc5MywyOTkzMDIzMTIs
-LTE5Nzk0ODYwMzldfQ==
+eyJoaXN0b3J5IjpbMjAxNDcxODE0OCwtMTA3NzU3Nzk0NywtMz
+g5MDY3MDUyLC0xMzg4MDY5Njg0LC0xMjQyNTgzODczLDE0MDU1
+MzMwMDYsLTIxNzA4MzY4OCwxNTU2OTA4MDI0LDE5NzAxNzI0MD
+csMTQ4MTk5Mjg0NSwtOTQzMjQ2NDMwLDE4ODkzOTk2NCwtMzcw
+NjcwOTcxLC0xNjMxMTM2Mjk4LC0xNzA0MTI1MDg3LC00OTU0Nz
+Y4NDMsMTM2ODk5MzE3MiwxNjk2NzA3NjAwLC0xODE5MTY5Nzkz
+LDI5OTMwMjMxMl19
 -->
