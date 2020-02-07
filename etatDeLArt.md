@@ -217,7 +217,7 @@ Bien sûr,  les techniques décrites précédemment peuvent être combinées.
 
 ### Tapis roulant omnidirectionnel
 
-Ce type de tapis permet le déplacement infini. Pour le moment ce sont des solutions coûteuses, encombrantes, et peu sûrs (il faut souvent y associer un système de harnais). Mais ces solution sont prometteuses. 
+Ce type de tapis permet le déplacement infini. Pour le moment ce sont des solutions coûteuses, encombrantes, et peu sûrs (il faut souvent y associer un système de harnais). Mais ces solutions sont prometteuses. 
 
 
 - **Le chaperon**: faire des murs virtuels quand y a des murs en realité. 
@@ -247,11 +247,11 @@ En savoir plus: [VR positional Audio](https://realnewworld.com/vr-positional-aud
 - [Geek.com](https://www.geek.com/news/the-history-of-virtual-reality-games-1652225/)
 - [Changing the world: DARPA’s top inventions](https://www.extremetech.com/extreme/105117-inventing-our-world-darpas-top-inventions/2)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MTAxNDUwMDQsLTIxNzA4MzY4OCwxNT
-U2OTA4MDI0LDE5NzAxNzI0MDcsMTQ4MTk5Mjg0NSwtOTQzMjQ2
-NDMwLDE4ODkzOTk2NCwtMzcwNjcwOTcxLC0xNjMxMTM2Mjk4LC
-0xNzA0MTI1MDg3LC00OTU0NzY4NDMsMTM2ODk5MzE3MiwxNjk2
-NzA3NjAwLC0xODE5MTY5NzkzLDI5OTMwMjMxMiwtMTk3OTQ4Nj
-AzOSwtMjExOTMzODAwNCw1NTE3NTg1NjQsLTEyODU1NzMzMDIs
-NDY2MzQ5NTU0XX0=
+eyJoaXN0b3J5IjpbNzE2NjkzMzM5LC0yMTcwODM2ODgsMTU1Nj
+kwODAyNCwxOTcwMTcyNDA3LDE0ODE5OTI4NDUsLTk0MzI0NjQz
+MCwxODg5Mzk5NjQsLTM3MDY3MDk3MSwtMTYzMTEzNjI5OCwtMT
+cwNDEyNTA4NywtNDk1NDc2ODQzLDEzNjg5OTMxNzIsMTY5Njcw
+NzYwMCwtMTgxOTE2OTc5MywyOTkzMDIzMTIsLTE5Nzk0ODYwMz
+ksLTIxMTkzMzgwMDQsNTUxNzU4NTY0LC0xMjg1NTczMzAyLDQ2
+NjM0OTU1NF19
 -->
