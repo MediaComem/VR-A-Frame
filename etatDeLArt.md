@@ -179,7 +179,7 @@ Si l'on veut tout de même déplacer l'avatar de l'utilisateur (et donc sa camé
 
 Elle ne provoque généralement pas d’inconfort, mais elle peut casser l’immersion si elle n'est pas *scénarisée* dans l'application. C'est la solution la plus utilisée dans les applications VR d'aujourd'hui. On la retrouve sous différentes variantes dont voici quelques exemples concrets:
 
- - **Téléportation simple**:  l'avatar est simplement téléporté vers la destination. Elle est souvent soit libre: l'utilisateur choisit sa destination pour la téléportation dans l'espace VR visible (et accessible), soit limitée: par une série de marqueurs de téléportation disposés dans l'espace VR. Un bon exemple de téléportation limitée est l'application [Welcome to Light Fields](https://www.blog.google/products/google-ar-vr/experimenting-light-fields/) de Google. En effet puisque la chose est b
+ - **Téléportation simple**:  l'avatar est simplement téléporté vers la destination. Elle est souvent soit libre: l'utilisateur choisit sa destination pour la téléportation dans l'espace VR visible (et accessible), soit limitée: par une série de marqueurs de téléportation disposés dans l'espace VR. Un bon exemple de téléportation limitée est l'application [Welcome to Light Fields](https://www.blog.google/products/google-ar-vr/experimenting-light-fields/) de Google. En effet puisque la chose est basé sur la [photogrammétrie](https://fr.wikipedia.org/wiki/Photogramm%C3%A9trie) 
  
  - **Portails de téléportation**:  
  
@@ -231,7 +231,7 @@ En savoir plus: [VR positional Audio](https://realnewworld.com/vr-positional-aud
 - [Geek.com](https://www.geek.com/news/the-history-of-virtual-reality-games-1652225/)
 - [Changing the world: DARPA’s top inventions](https://www.extremetech.com/extreme/105117-inventing-our-world-darpas-top-inventions/2)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNTIyMTM1NzcsLTEyODU1NzMzMDIsND
+eyJoaXN0b3J5IjpbLTE2ODg5NTMyMTUsLTEyODU1NzMzMDIsND
 Y2MzQ5NTU0LC0yODA5NDA5NTAsNjc2MzQ5Mjc5LDE4MDUzMDQ2
 ODUsMTM2MTEzNTM3NSwxNzkwMTc0NzA1LC0xMzEyMjg4MTUzLC
 0xODU3OTIxNTg5LDE1NzEzMjAwODMsLTE2MDE2MDcyNjYsLTE5
