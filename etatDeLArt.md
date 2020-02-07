@@ -195,7 +195,7 @@ Si les déplacements sont fait via un simulateur de véhicule (voitures, avions,
 
 ### Déplacements libres
 
-Si toutefois on opte pour des déplacements libres de la caméra via un contrôleur quelconque (clavier, croix directionnel, stick analogique, ... ), il faut éviter de faire simplement bouger la caméra sans autre forme d'artifice sous peine provoquer un inconfort certain pour beaucoup de personnes. Le jeu [Raw Data](https://survios.com/rawdata/) utilise un système de *sprint* (ou *dash*) très rapide et  très proche de la téléportation. L'effet est quasi identique mais brise moins l'immersion. Toutefois, pour que cela ne provoque pas trop la *cinétose* la vision doit être floutée autour de la zone fovéale. Dans [Google Earth VR](https://arvr.google.com/earth/), la même méthode de *flou fovéale* est utilisée lors de l'utilisation du mode de déplacement "vol" (*flight mode*).
+Si toutefois on opte pour des déplacements libres de la caméra via un contrôleur quelconque (clavier, croix directionnel, stick analogique, ... ), il faut éviter de faire simplement bouger la caméra sans autre forme d'artifice sous peine de provoquer un inconfort certain pour beaucoup de personnes. Le jeu [Raw Data](https://survios.com/rawdata/) utilise un système de *sprint* (ou *dash*) très rapide et  très proche de la téléportation. L'effet est quasi identique mais brise moins l'immersion. Toutefois, pour que cela ne provoque pas trop la *cinétose* la vision doit être floutée autour de la zone fovéale. Dans [Google Earth VR](https://arvr.google.com/earth/), la même méthode de *flou fovéale* est utilisée lors de l'utilisation du mode de déplacement "vol" (*flight mode*).
 
 
 ### Autres artifices
@@ -246,11 +246,11 @@ En savoir plus: [VR positional Audio](https://realnewworld.com/vr-positional-aud
 - [Geek.com](https://www.geek.com/news/the-history-of-virtual-reality-games-1652225/)
 - [Changing the world: DARPA’s top inventions](https://www.extremetech.com/extreme/105117-inventing-our-world-darpas-top-inventions/2)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTc5NzEzMjc5LDE4ODkzOTk2NCwtMzcwNj
-cwOTcxLC0xNjMxMTM2Mjk4LC0xNzA0MTI1MDg3LC00OTU0NzY4
-NDMsMTM2ODk5MzE3MiwxNjk2NzA3NjAwLC0xODE5MTY5NzkzLD
-I5OTMwMjMxMiwtMTk3OTQ4NjAzOSwtMjExOTMzODAwNCw1NTE3
-NTg1NjQsLTEyODU1NzMzMDIsNDY2MzQ5NTU0LC0yODA5NDA5NT
-AsNjc2MzQ5Mjc5LDE4MDUzMDQ2ODUsMTM2MTEzNTM3NSwxNzkw
-MTc0NzA1XX0=
+eyJoaXN0b3J5IjpbLTk0MzI0NjQzMCwxODg5Mzk5NjQsLTM3MD
+Y3MDk3MSwtMTYzMTEzNjI5OCwtMTcwNDEyNTA4NywtNDk1NDc2
+ODQzLDEzNjg5OTMxNzIsMTY5NjcwNzYwMCwtMTgxOTE2OTc5My
+wyOTkzMDIzMTIsLTE5Nzk0ODYwMzksLTIxMTkzMzgwMDQsNTUx
+NzU4NTY0LC0xMjg1NTczMzAyLDQ2NjM0OTU1NCwtMjgwOTQwOT
+UwLDY3NjM0OTI3OSwxODA1MzA0Njg1LDEzNjExMzUzNzUsMTc5
+MDE3NDcwNV19
 -->
