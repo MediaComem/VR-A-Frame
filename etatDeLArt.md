@@ -191,7 +191,8 @@ Elle ne provoque généralement pas d’inconfort, mais elle peut casser l’imm
  
  ### Utilisation de véhicules et autres artifices
 
-Si les déplacements sont fait via un simulateur de véhicule (voitures, avion, vaisseau spatiaux, etc..), les risques de *cinétose* sont fortement réduits. En effet, le mal du voyages atteint rarement celui qui est maître du véhicule, mais plutôt ses passagers.
+- **Simulateurs**
+Si les déplacements sont fait via un simulateur de véhicule (voitures, avion, vaisseau spatiaux, etc..), les risques de *cinétose* sont fortement réduits. En effet, le mal du voyage atteint rarement celui qui est maître du véhicule, mais plutôt ses passagers.
 
 
 - **Déplacements libres** (avec flou autour de la zone fovéale ou autres méthodes)
@@ -244,7 +245,7 @@ En savoir plus: [VR positional Audio](https://realnewworld.com/vr-positional-aud
 - [Geek.com](https://www.geek.com/news/the-history-of-virtual-reality-games-1652225/)
 - [Changing the world: DARPA’s top inventions](https://www.extremetech.com/extreme/105117-inventing-our-world-darpas-top-inventions/2)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTM2ODYyOTI2LC0xNjMxMTM2Mjk4LC0xNz
+eyJoaXN0b3J5IjpbLTk4MTE5NzU2LC0xNjMxMTM2Mjk4LC0xNz
 A0MTI1MDg3LC00OTU0NzY4NDMsMTM2ODk5MzE3MiwxNjk2NzA3
 NjAwLC0xODE5MTY5NzkzLDI5OTMwMjMxMiwtMTk3OTQ4NjAzOS
 wtMjExOTMzODAwNCw1NTE3NTg1NjQsLTEyODU1NzMzMDIsNDY2
