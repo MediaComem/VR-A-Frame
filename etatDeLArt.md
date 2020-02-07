@@ -181,7 +181,7 @@ Elle ne provoque généralement pas d’inconfort, mais elle peut casser l’imm
 
  - **Téléportation simple**:  l'avatar est simplement téléporté vers la destination. Elle est souvent soit **libre**: l'utilisateur choisit sa destination pour la téléportation dans l'espace VR visible (et accessible), soit **limitée**: par une série de marqueurs de téléportation disposés dans l'espace VR. La téléportation limitée est souvent utilisée lors de l'utilisation de la  [photogrammétrie](https://fr.wikipedia.org/wiki/Photogramm%C3%A9trie). L'application [Welcome to Light Fields](https://www.blog.google/products/google-ar-vr/experimenting-light-fields/) en est un bon exemple. En effet puisque l'espace VR n'est pas pleinement explorable (ce sont des *photos*), l'utilisateur se téléporte alors d'un point de vue à un autre, où les points de téléportation sont les endroits ou les *photos* ont été prises.
  
- - **Portails de téléportation**:  au lieu de téléporter l'utilisateur, on le fait passer à travers des portails reliant deux zones VR distantes. Ces portails peuvent être soit fixés par les créateurs de l'application, soit par l'utilisateur lui-même.
+ - **Portails de téléportation**:  au lieu de téléporter l'utilisateur, on le fait passer à travers des portails reliant deux zones VR distantes. Ces portails peuvent être soit fixés par les créateurs de l'application, soit par l'utilisateur lui-même (à la manière du jeu Portal) .
  - 
  ### Flou basé sur le champ de vision (FOV) 
 
@@ -231,11 +231,11 @@ En savoir plus: [VR positional Audio](https://realnewworld.com/vr-positional-aud
 - [Geek.com](https://www.geek.com/news/the-history-of-virtual-reality-games-1652225/)
 - [Changing the world: DARPA’s top inventions](https://www.extremetech.com/extreme/105117-inventing-our-world-darpas-top-inventions/2)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5Nzk0ODYwMzksLTIxMTkzMzgwMDQsNT
-UxNzU4NTY0LC0xMjg1NTczMzAyLDQ2NjM0OTU1NCwtMjgwOTQw
-OTUwLDY3NjM0OTI3OSwxODA1MzA0Njg1LDEzNjExMzUzNzUsMT
-c5MDE3NDcwNSwtMTMxMjI4ODE1MywtMTg1NzkyMTU4OSwxNTcx
-MzIwMDgzLC0xNjAxNjA3MjY2LC0xOTUzNTg0MTE3LC04MDU1Mz
-A4OTgsLTE4ODQzODI4MDEsMjAyMzU3NDI4MCwxODc4NzczMTQs
-LTY4NDc1NTgxNV19
+eyJoaXN0b3J5IjpbLTEyMDYyOTUxNjAsLTE5Nzk0ODYwMzksLT
+IxMTkzMzgwMDQsNTUxNzU4NTY0LC0xMjg1NTczMzAyLDQ2NjM0
+OTU1NCwtMjgwOTQwOTUwLDY3NjM0OTI3OSwxODA1MzA0Njg1LD
+EzNjExMzUzNzUsMTc5MDE3NDcwNSwtMTMxMjI4ODE1MywtMTg1
+NzkyMTU4OSwxNTcxMzIwMDgzLC0xNjAxNjA3MjY2LC0xOTUzNT
+g0MTE3LC04MDU1MzA4OTgsLTE4ODQzODI4MDEsMjAyMzU3NDI4
+MCwxODc4NzczMTRdfQ==
 -->
