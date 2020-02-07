@@ -140,7 +140,7 @@ XIXe s. - [Stéréoscopes](https://fr.wikipedia.org/wiki/St%C3%A9r%C3%A9oscope)
 
 Les lentilles qui déforme (le ou) les écrans à l'intérieur du casque afin d'avoir mise au point adéquate (qui serait sinon impossible avec un écran si proche des yeux).
 
-- **Centre optique (sweet spot)** : afin d'avoir une vision claire (avec un bon focus), il faut que la lentille soit correctement placée face à l’œil. Les casques VR actuels sont plus ou moins permissif sur ce sujet. De plus la [distance pupillaires](https://en.wikipedia.org/wiki/Pupillary_distance) est différente d'individus en individus. Ainsi les casques se munissent la plupart du temps d'un système de réglage de la distance sépranmt les lentil
+- **Centre optique (sweet spot)** : afin d'avoir une vision claire (avec un bon focus), il faut que la lentille soit correctement placée face à l’œil. Les casques VR actuels sont plus ou moins permissif sur ce sujet. De plus la [distance pupillaires](https://en.wikipedia.org/wiki/Pupillary_distance) est différente d'individus en individus. Ainsi les casques se munissent la plupart du temps d'un système de réglage de la distance séparant les deux lentilles.
 
  La distance entre les pupilles des utilisateurs varie grandement. Pour pallier à ce problème il y a généralement des cadres tenants les lentilles, le tout connecté à des molettes. Ces dernières permettent à l’utilisateur d’ajuster les verres à sa vue. En d’autres termes, ajuster le centre optique à sa rétine.
 
@@ -229,11 +229,11 @@ En savoir plus: [VR positional Audio](https://realnewworld.com/vr-positional-aud
 - [Geek.com](https://www.geek.com/news/the-history-of-virtual-reality-games-1652225/)
 - [Changing the world: DARPA’s top inventions](https://www.extremetech.com/extreme/105117-inventing-our-world-darpas-top-inventions/2)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc3NTMzNTcwNCwtMTA3NzU3Nzk0NywtMz
-g5MDY3MDUyLC0xMzg4MDY5Njg0LC0xMjQyNTgzODczLDE0MDU1
-MzMwMDYsLTIxNzA4MzY4OCwxNTU2OTA4MDI0LDE5NzAxNzI0MD
-csMTQ4MTk5Mjg0NSwtOTQzMjQ2NDMwLDE4ODkzOTk2NCwtMzcw
-NjcwOTcxLC0xNjMxMTM2Mjk4LC0xNzA0MTI1MDg3LC00OTU0Nz
-Y4NDMsMTM2ODk5MzE3MiwxNjk2NzA3NjAwLC0xODE5MTY5Nzkz
-LDI5OTMwMjMxMl19
+eyJoaXN0b3J5IjpbLTE3MTUzODI3MzIsLTEwNzc1Nzc5NDcsLT
+M4OTA2NzA1MiwtMTM4ODA2OTY4NCwtMTI0MjU4Mzg3MywxNDA1
+NTMzMDA2LC0yMTcwODM2ODgsMTU1NjkwODAyNCwxOTcwMTcyND
+A3LDE0ODE5OTI4NDUsLTk0MzI0NjQzMCwxODg5Mzk5NjQsLTM3
+MDY3MDk3MSwtMTYzMTEzNjI5OCwtMTcwNDEyNTA4NywtNDk1ND
+c2ODQzLDEzNjg5OTMxNzIsMTY5NjcwNzYwMCwtMTgxOTE2OTc5
+MywyOTkzMDIzMTJdfQ==
 -->
