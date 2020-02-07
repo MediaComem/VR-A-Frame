@@ -104,7 +104,7 @@ XIXe s. - [Stéréoscopes](https://fr.wikipedia.org/wiki/St%C3%A9r%C3%A9oscope)
 | Google Cardboard    | Android    | ❌   | ❌         | ❌                |
 | Sony Playstation VR | Playstation| ✔️    | ✔️           | ✔️                |
 
-# Etat de l'art: Immersion
+## <a name="immersion"></a> Problèmes d'immersion
 
 - Le [Field of view](https://vr-lens-lab.com/field-of-view-for-virtual-reality-headsets/) (FOV) n'est pas optimal sur les casques actuels
 - le FOV des devices = en moyenne 90-110°
@@ -226,11 +226,11 @@ En savoir plus: [VR positional Audio](https://realnewworld.com/vr-positional-aud
 - [Geek.com](https://www.geek.com/news/the-history-of-virtual-reality-games-1652225/)
 - [Changing the world: DARPA’s top inventions](https://www.extremetech.com/extreme/105117-inventing-our-world-darpas-top-inventions/2)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MzExMTQ2MjEsLTEzODgwNjk2ODQsLT
-EyNDI1ODM4NzMsMTQwNTUzMzAwNiwtMjE3MDgzNjg4LDE1NTY5
-MDgwMjQsMTk3MDE3MjQwNywxNDgxOTkyODQ1LC05NDMyNDY0Mz
-AsMTg4OTM5OTY0LC0zNzA2NzA5NzEsLTE2MzExMzYyOTgsLTE3
-MDQxMjUwODcsLTQ5NTQ3Njg0MywxMzY4OTkzMTcyLDE2OTY3MD
-c2MDAsLTE4MTkxNjk3OTMsMjk5MzAyMzEyLC0xOTc5NDg2MDM5
-LC0yMTE5MzM4MDA0XX0=
+eyJoaXN0b3J5IjpbNTcwNTQ2MDkwLC0xMzg4MDY5Njg0LC0xMj
+QyNTgzODczLDE0MDU1MzMwMDYsLTIxNzA4MzY4OCwxNTU2OTA4
+MDI0LDE5NzAxNzI0MDcsMTQ4MTk5Mjg0NSwtOTQzMjQ2NDMwLD
+E4ODkzOTk2NCwtMzcwNjcwOTcxLC0xNjMxMTM2Mjk4LC0xNzA0
+MTI1MDg3LC00OTU0NzY4NDMsMTM2ODk5MzE3MiwxNjk2NzA3Nj
+AwLC0xODE5MTY5NzkzLDI5OTMwMjMxMiwtMTk3OTQ4NjAzOSwt
+MjExOTMzODAwNF19
 -->
