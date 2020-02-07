@@ -159,9 +159,9 @@ De manière générale, une application VR ne doit pas permettre de prendre le c
 
 ![Glare](http://i.vimeocdn.com/video/569557579_1280.jpg)
 
-# <a name="movements"></a>Déplacements
+## <a name="movements"></a>Déplacements
 
-## Principales problématiques
+### Principales problématiques
 
 - Mal des transports ( *cinétose* ): se produit lorsque le déplacement visualisé est décalé de celui contrôlé par l'utilisateur.
  
@@ -193,7 +193,7 @@ Elle ne provoque généralement pas d’inconfort, mais elle peut casser l’imm
 
 - **Simulateurs** : si les déplacements sont fait via un simulateur de véhicule (voitures, avions, vaisseaux spatiaux, etc..), les risques de *cinétose* sont fortement réduits. En effet, le mal du voyage atteint rarement celui qui est maître du véhicule, mais plutôt ses passagers. Un exemple est le jeu [Elite Dangerous](https://www.elitedangerous.com/), ou le joueur reste toujours assis dans son siège (même lors des phases d'exploration de la surface d'une planète, puisque celle ci se fait aussi dans un véhicule terrestre). L'immersion est encore plus forte si l’utilisateur utilise des contrôleurs adaptés à la simulation (comme un [HOTAS](https://fr.wikipedia.org/wiki/Mains_sur_manche_et_manette) pour Elite Dangerous).  De plus, les simulateurs bénéficient aussi d'une grande possibilité d'immersion (la chaise existant dans le monde physique) et de confort (une séance de jeu prolongée est généralement plus appréciée en position assise :).  
 
-- **Déplacements libres** : Si toutefois on opte pour des déplacements libres de la caméra  
+- **Déplacements libres** : Si toutefois on opte pour des déplacements libres de la caméra si un contrôleur quelconque (clavier, croix directionnel, stick analogique, ... ), il faut éviter de le faire simplement   
 Autre exemple, le jeu [Raw Data](https://survios.com/rawdata/) utilise un système de *sprint* (ou *dash*) très rapide à la place de la téléportation. L'effet est quasi identique mais brise moins l'immersion. Attention toutefois, pour que cela ne provoque pas trop la *cinétose* la vision doit être floutée autour de la zone fovéale (voir plus bas pour un autre exemple de ce genre d'artifice).
 
 
@@ -245,11 +245,11 @@ En savoir plus: [VR positional Audio](https://realnewworld.com/vr-positional-aud
 - [Geek.com](https://www.geek.com/news/the-history-of-virtual-reality-games-1652225/)
 - [Changing the world: DARPA’s top inventions](https://www.extremetech.com/extreme/105117-inventing-our-world-darpas-top-inventions/2)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMzQ4ODQ4NjUsMTg4OTM5OTY0LC0zNz
-A2NzA5NzEsLTE2MzExMzYyOTgsLTE3MDQxMjUwODcsLTQ5NTQ3
-Njg0MywxMzY4OTkzMTcyLDE2OTY3MDc2MDAsLTE4MTkxNjk3OT
-MsMjk5MzAyMzEyLC0xOTc5NDg2MDM5LC0yMTE5MzM4MDA0LDU1
-MTc1ODU2NCwtMTI4NTU3MzMwMiw0NjYzNDk1NTQsLTI4MDk0MD
-k1MCw2NzYzNDkyNzksMTgwNTMwNDY4NSwxMzYxMTM1Mzc1LDE3
-OTAxNzQ3MDVdfQ==
+eyJoaXN0b3J5IjpbMjE0NDE2MDQzMSwxODg5Mzk5NjQsLTM3MD
+Y3MDk3MSwtMTYzMTEzNjI5OCwtMTcwNDEyNTA4NywtNDk1NDc2
+ODQzLDEzNjg5OTMxNzIsMTY5NjcwNzYwMCwtMTgxOTE2OTc5My
+wyOTkzMDIzMTIsLTE5Nzk0ODYwMzksLTIxMTkzMzgwMDQsNTUx
+NzU4NTY0LC0xMjg1NTczMzAyLDQ2NjM0OTU1NCwtMjgwOTQwOT
+UwLDY3NjM0OTI3OSwxODA1MzA0Njg1LDEzNjExMzUzNzUsMTc5
+MDE3NDcwNV19
 -->
