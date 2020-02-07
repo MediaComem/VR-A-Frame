@@ -212,6 +212,8 @@ Toutefois, même si l'espace VR est plus grand que l'espace réel, il existe que
 
 ![Overlapping](./img/overlapping.png)
 
+Bien sûr, presque toutes les techniques décrites précédemment peuvent être combinées
+
 - **Tapis VR**: permet le déplacement infini. Le problème: ils sont dangereux, besoins de harnais, ou d'une sécurité de soutien.
 
 
@@ -244,11 +246,11 @@ En savoir plus: [VR positional Audio](https://realnewworld.com/vr-positional-aud
 - [Geek.com](https://www.geek.com/news/the-history-of-virtual-reality-games-1652225/)
 - [Changing the world: DARPA’s top inventions](https://www.extremetech.com/extreme/105117-inventing-our-world-darpas-top-inventions/2)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU1NjkwODAyNCwxOTcwMTcyNDA3LDE0OD
-E5OTI4NDUsLTk0MzI0NjQzMCwxODg5Mzk5NjQsLTM3MDY3MDk3
-MSwtMTYzMTEzNjI5OCwtMTcwNDEyNTA4NywtNDk1NDc2ODQzLD
-EzNjg5OTMxNzIsMTY5NjcwNzYwMCwtMTgxOTE2OTc5MywyOTkz
-MDIzMTIsLTE5Nzk0ODYwMzksLTIxMTkzMzgwMDQsNTUxNzU4NT
-Y0LC0xMjg1NTczMzAyLDQ2NjM0OTU1NCwtMjgwOTQwOTUwLDY3
-NjM0OTI3OV19
+eyJoaXN0b3J5IjpbOTE1NDA0NzY5LDE1NTY5MDgwMjQsMTk3MD
+E3MjQwNywxNDgxOTkyODQ1LC05NDMyNDY0MzAsMTg4OTM5OTY0
+LC0zNzA2NzA5NzEsLTE2MzExMzYyOTgsLTE3MDQxMjUwODcsLT
+Q5NTQ3Njg0MywxMzY4OTkzMTcyLDE2OTY3MDc2MDAsLTE4MTkx
+Njk3OTMsMjk5MzAyMzEyLC0xOTc5NDg2MDM5LC0yMTE5MzM4MD
+A0LDU1MTc1ODU2NCwtMTI4NTU3MzMwMiw0NjYzNDk1NTQsLTI4
+MDk0MDk1MF19
 -->
