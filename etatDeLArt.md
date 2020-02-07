@@ -169,17 +169,20 @@ De manière générale, une application VR ne doit pas permettre de prendre le c
 
 - L'espace réel peut contenir des obstacles aux déplacements qui seront invisibles en VR. Et inversement, une chaise dans la réalité virtuelle ne sera peut être pas physiquement présente dans la réalité.
 
-### Cinétose
+### Mal des transports (cinétose)
+
 Une des principales règles pour éviter ce problème et de ne jamais prendre le contrôle de la caméra et donc de la laisser être contrôlée par les mouvements du casque VR. 
 
-Si l'on veut tout de même déplacer l'avatar de l'utilisateur (et donc sa caméra) dans la VR sans que celui-ci se déplace dans la réalité, il va falloir trouver des "trucs" pour le faire de la manière la plus confortable possible. Le critère de **confort** se retrouve d'ailleurs dans la plupart des magasin d'application VR (par ex. dans [l'oculus store](https://support.oculus.com/1639053389725739/))
+Si l'on veut tout de même déplacer l'avatar de l'utilisateur (et donc sa caméra) dans la VR sans que celui-ci se déplace dans la réalité, il va falloir trouver des "trucs" pour le faire de la manière la plus confortable possible. On est obligé de le faireLe critère de **confort** se retrouve d'ailleurs dans la plupart des magasin d'application VR (par ex. dans [l'oculus store](https://support.oculus.com/1639053389725739/))
 
 Voilà quelques exemples de solutions:
 
 - **La téléportation**: elle ne provoque généralement pas d’inconfort, mais elle peut casser l’immersion si elle n'est pas *scénarisée* dans l'application. 
 
-- **Le chaperon**: faire des murs virtuels quand y a des murs en realité. Mais qu'en est-il pour les mondes infinis ?
 - Utiliser des **véhicules**: l'utilisateur reste sur place en réalité, c'est le véhicule qui se déplace dans le virtuel.
+
+
+- **Le chaperon**: faire des murs virtuels quand y a des murs en realité. Mais qu'en est-il pour les mondes infinis ?
 
 - **[Rediect walking](https://www.youtube.com/watch?v=u8pw81VbMUU)**: fausser la perception de l'esprit avec un décalage mouvements réels/virtuels.
 - **Suites de mouvements adaptées à l'univers**, pensés pour que l'utilisateur revienne sur ses pas, et reste dans un espace restreint.
@@ -220,7 +223,7 @@ En savoir plus: [VR positional Audio](https://realnewworld.com/vr-positional-aud
 - [Geek.com](https://www.geek.com/news/the-history-of-virtual-reality-games-1652225/)
 - [Changing the world: DARPA’s top inventions](https://www.extremetech.com/extreme/105117-inventing-our-world-darpas-top-inventions/2)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMTY5ODE2MDQsNjc2MzQ5Mjc5LDE4MD
+eyJoaXN0b3J5IjpbLTE2NjU1MDE4MjEsNjc2MzQ5Mjc5LDE4MD
 UzMDQ2ODUsMTM2MTEzNTM3NSwxNzkwMTc0NzA1LC0xMzEyMjg4
 MTUzLC0xODU3OTIxNTg5LDE1NzEzMjAwODMsLTE2MDE2MDcyNj
 YsLTE5NTM1ODQxMTcsLTgwNTUzMDg5OCwtMTg4NDM4MjgwMSwy
