@@ -142,7 +142,7 @@ Les lentilles déforment (le ou) les écrans à l'intérieur du casque afin d'av
 
 - **Centre optique (sweet spot)** : afin d'avoir une vision claire (avec un bon focus), il faut que la lentille soit correctement placée face à l’œil. Les casques VR actuels sont plus ou moins permissif sur ce sujet. De plus la [distance pupillaire](https://en.wikipedia.org/wiki/Pupillary_distance) est différente d'un individus à l'autre. Ainsi les casques se munissent la plupart du temps d'un système de réglage de la distance séparant les deux lentilles permettant d'obtenir un bon "sweet spot" plus facilement.
 
-- **Glare et "God rays"**:  En cas de scène à fort forts contrastes, les couleurs clair (le blanc principalement) "bave". On voit comme des rayons lumineux (God Rays). La cause: les lentilles Fresnel utilisées dans le casque. Il faut donc limiter les forts contrastes dans les scènes VR (ou mieux, améliorer les lentilles des futurs casques VR).
+- **Glare et "God rays"**:  En cas de scène à fort forts contrastes, les couleurs clair (le blanc principalement) "bave". On voit comme des rayons lumineux (God Rays). La cause: les lentilles Fresnel utilisées dans le casque. Pour le moment, il faut donc limiter les forts contrastes dans les scènes VR et attendre que les lentilles des futurs casques VR fassent mieux sur ce point.
 
 ![Glare](http://i.vimeocdn.com/video/569557579_1280.jpg)
 
@@ -228,11 +228,11 @@ En savoir plus: [VR positional Audio](https://realnewworld.com/vr-positional-aud
 - [Geek.com](https://www.geek.com/news/the-history-of-virtual-reality-games-1652225/)
 - [Changing the world: DARPA’s top inventions](https://www.extremetech.com/extreme/105117-inventing-our-world-darpas-top-inventions/2)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTM3MTcxMDQsLTcxMzg4NzY4NywtMzgxMz
-M0MjY2LC0xNDI5NTcwOTgzLC0xMDc3NTc3OTQ3LC0zODkwNjcw
-NTIsLTEzODgwNjk2ODQsLTEyNDI1ODM4NzMsMTQwNTUzMzAwNi
-wtMjE3MDgzNjg4LDE1NTY5MDgwMjQsMTk3MDE3MjQwNywxNDgx
-OTkyODQ1LC05NDMyNDY0MzAsMTg4OTM5OTY0LC0zNzA2NzA5Nz
-EsLTE2MzExMzYyOTgsLTE3MDQxMjUwODcsLTQ5NTQ3Njg0Mywx
-MzY4OTkzMTcyXX0=
+eyJoaXN0b3J5IjpbLTk1Nzc5NTk1LC03MTM4ODc2ODcsLTM4MT
+MzNDI2NiwtMTQyOTU3MDk4MywtMTA3NzU3Nzk0NywtMzg5MDY3
+MDUyLC0xMzg4MDY5Njg0LC0xMjQyNTgzODczLDE0MDU1MzMwMD
+YsLTIxNzA4MzY4OCwxNTU2OTA4MDI0LDE5NzAxNzI0MDcsMTQ4
+MTk5Mjg0NSwtOTQzMjQ2NDMwLDE4ODkzOTk2NCwtMzcwNjcwOT
+cxLC0xNjMxMTM2Mjk4LC0xNzA0MTI1MDg3LC00OTU0NzY4NDMs
+MTM2ODk5MzE3Ml19
 -->
