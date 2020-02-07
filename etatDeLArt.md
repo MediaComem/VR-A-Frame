@@ -182,7 +182,7 @@ Elle ne provoque généralement pas d’inconfort, mais elle peut casser l’imm
  - **Téléportation simple**:  l'avatar est simplement téléporté vers la destination. Elle est souvent soit **libre**: l'utilisateur choisit sa destination pour la téléportation dans l'espace VR visible (et accessible), soit **limitée**: par une série de marqueurs de téléportation disposés dans l'espace VR. La téléportation limitée est souvent utilisée lors de l'utilisation de la  [photogrammétrie](https://fr.wikipedia.org/wiki/Photogramm%C3%A9trie). L'application [Welcome to Light Fields](https://www.blog.google/products/google-ar-vr/experimenting-light-fields/) en est un bon exemple. En effet puisque l'espace VR n'est pas pleinement explorable (ce sont des *photos*), l'utilisateur se téléporte alors d'un point de vue à un autre, où les points de téléportation sont les endroits ou les *photos* ont été prises.
  
  - **Portails de téléportation**:  au lieu de téléporter l'utilisateur, on le fait passer à travers des portails reliant deux zones VR distantes. Ces portails peuvent être soit fixés par les créateurs de l'application, soit par l'utilisateur lui-même (à la manière du jeu [Portal](https://fr.wikipedia.org/wiki/Portal_(jeu_vid%C3%A9o))). Un bon exemple d'utilisation de ce système est le jeu [Budget Cut](https://store.steampowered.com/app/1092430/Budget_Cuts_2_Mission_Insolvency/). 
- ![Telesphere](./img/budget_cut.png)
+ ![budget cut](./img/budget_cut.png)
  
  - **Autres systèmes** :  
  ### Flou basé sur le champ de vision (FOV) 
@@ -233,7 +233,7 @@ En savoir plus: [VR positional Audio](https://realnewworld.com/vr-positional-aud
 - [Geek.com](https://www.geek.com/news/the-history-of-virtual-reality-games-1652225/)
 - [Changing the world: DARPA’s top inventions](https://www.extremetech.com/extreme/105117-inventing-our-world-darpas-top-inventions/2)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MzExNDMxNjksMTM2ODk5MzE3MiwxNj
+eyJoaXN0b3J5IjpbLTIxMzIwNzI0MDEsMTM2ODk5MzE3MiwxNj
 k2NzA3NjAwLC0xODE5MTY5NzkzLDI5OTMwMjMxMiwtMTk3OTQ4
 NjAzOSwtMjExOTMzODAwNCw1NTE3NTg1NjQsLTEyODU1NzMzMD
 IsNDY2MzQ5NTU0LC0yODA5NDA5NTAsNjc2MzQ5Mjc5LDE4MDUz
