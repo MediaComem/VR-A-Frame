@@ -167,7 +167,7 @@ De manière générale, une application VR ne doit pas permettre de prendre le c
  
 - L'espace réel est souvent restreint à une petite partie d'une pièce, souvent entre 1 et 3 [m^2] alors que l'espace virtuel est d'une taille quelconque. 
 
-- L'espace réel peut contenir des obstacles aux déplacements qui seront invisibles en VR. Et inversement, une chaise dans la réalité virtuelle ne sera (peut-être) pas physiquement présente dans la réalité.
+- L'espace réel peut contenir des obstacles aux déplacements qui seront invisibles en VR. Et inversement, une chaise dans la réalité virtuelle ne sera (peut-être) pas physiquement présente dans la réalité. 
 
 ### Déplacements et "mal des transports" (cinétose)
 
@@ -246,11 +246,11 @@ En savoir plus: [VR positional Audio](https://realnewworld.com/vr-positional-aud
 - [Geek.com](https://www.geek.com/news/the-history-of-virtual-reality-games-1652225/)
 - [Changing the world: DARPA’s top inventions](https://www.extremetech.com/extreme/105117-inventing-our-world-darpas-top-inventions/2)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjExMzEyMzcwNSwtMjE3MDgzNjg4LDE1NT
-Y5MDgwMjQsMTk3MDE3MjQwNywxNDgxOTkyODQ1LC05NDMyNDY0
-MzAsMTg4OTM5OTY0LC0zNzA2NzA5NzEsLTE2MzExMzYyOTgsLT
-E3MDQxMjUwODcsLTQ5NTQ3Njg0MywxMzY4OTkzMTcyLDE2OTY3
-MDc2MDAsLTE4MTkxNjk3OTMsMjk5MzAyMzEyLC0xOTc5NDg2MD
-M5LC0yMTE5MzM4MDA0LDU1MTc1ODU2NCwtMTI4NTU3MzMwMiw0
-NjYzNDk1NTRdfQ==
+eyJoaXN0b3J5IjpbMjMwMTEwOTEsLTIxNzA4MzY4OCwxNTU2OT
+A4MDI0LDE5NzAxNzI0MDcsMTQ4MTk5Mjg0NSwtOTQzMjQ2NDMw
+LDE4ODkzOTk2NCwtMzcwNjcwOTcxLC0xNjMxMTM2Mjk4LC0xNz
+A0MTI1MDg3LC00OTU0NzY4NDMsMTM2ODk5MzE3MiwxNjk2NzA3
+NjAwLC0xODE5MTY5NzkzLDI5OTMwMjMxMiwtMTk3OTQ4NjAzOS
+wtMjExOTMzODAwNCw1NTE3NTg1NjQsLTEyODU1NzMzMDIsNDY2
+MzQ5NTU0XX0=
 -->
