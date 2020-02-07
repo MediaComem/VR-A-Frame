@@ -202,7 +202,7 @@ Si toutefois on opte pour des déplacements libres de la caméra via un contrôl
 
 Si l'espace VR est de taille identique (ou plus petit que l'espace réel), il n'y a pas trop de problème de déplacement. Il suffit à l'utilisateur de se déplacer dans la réalité pour être déplacé dans la VR de manière identique en utilisant simplement le système de positionnement du casque. Bien sûr, pour que cela soit praticable, il faut que l'application aie connaissance de la taille réelle de l'espace disponible par le joueur. Dans l'expérience immersive [theBlu](https://wevr.com/theblu),  la zone d'exploration sous-marine explorable est générée au début de l’expérience pour que sa taille soit identique à la zone réelle de l'utilisateur. L'immersion est alors fortement accrue, encore plus du fait que le casque VR ressemble à un casque de plongée sous-marine (poids, FOV réduit, ...). 
 
-Toutefois, même si l'espace VR est plus grand que l'espace réel, il existe quelques méthodes pour éviter de devoir déplacer la caméra de l'utilisateur :
+Toutefois, même si l'espace VR est plus grand que l'espace réel, il existe quelques méthodes (*trucs*) pour éviter de devoir déplacer la caméra de l'utilisateur :
 
 - **[Rediect walking](https://www.youtube.com/watch?v=u8pw81VbMUU)**: fausser la perception de l'esprit avec un décalage mouvements réels/virtuels ou espaces VR pensés pour que l'utilisateur revienne sur ses pas, et reste dans un espace restreint (identique à son espace réelle).
  
@@ -244,11 +244,11 @@ En savoir plus: [VR positional Audio](https://realnewworld.com/vr-positional-aud
 - [Geek.com](https://www.geek.com/news/the-history-of-virtual-reality-games-1652225/)
 - [Changing the world: DARPA’s top inventions](https://www.extremetech.com/extreme/105117-inventing-our-world-darpas-top-inventions/2)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjE5MzEyNDkwLDE0ODE5OTI4NDUsLTk0Mz
-I0NjQzMCwxODg5Mzk5NjQsLTM3MDY3MDk3MSwtMTYzMTEzNjI5
-OCwtMTcwNDEyNTA4NywtNDk1NDc2ODQzLDEzNjg5OTMxNzIsMT
-Y5NjcwNzYwMCwtMTgxOTE2OTc5MywyOTkzMDIzMTIsLTE5Nzk0
-ODYwMzksLTIxMTkzMzgwMDQsNTUxNzU4NTY0LC0xMjg1NTczMz
-AyLDQ2NjM0OTU1NCwtMjgwOTQwOTUwLDY3NjM0OTI3OSwxODA1
-MzA0Njg1XX0=
+eyJoaXN0b3J5IjpbLTE1ODM1MDI2NzQsMTQ4MTk5Mjg0NSwtOT
+QzMjQ2NDMwLDE4ODkzOTk2NCwtMzcwNjcwOTcxLC0xNjMxMTM2
+Mjk4LC0xNzA0MTI1MDg3LC00OTU0NzY4NDMsMTM2ODk5MzE3Mi
+wxNjk2NzA3NjAwLC0xODE5MTY5NzkzLDI5OTMwMjMxMiwtMTk3
+OTQ4NjAzOSwtMjExOTMzODAwNCw1NTE3NTg1NjQsLTEyODU1Nz
+MzMDIsNDY2MzQ5NTU0LC0yODA5NDA5NTAsNjc2MzQ5Mjc5LDE4
+MDUzMDQ2ODVdfQ==
 -->
