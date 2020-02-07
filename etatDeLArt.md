@@ -187,7 +187,7 @@ Elle ne provoque généralement pas d’inconfort, mais elle peut casser l’imm
  ![budget cut](./img/budget_cut.png)
  
  
- - **Autres systèmes** :  On peut imaginer d'autres systèmes de téléportation que ceux précités. Par exemple, le système de téléportation du jeu [The Gallery](https://en.wikipedia.org/wiki/The_Gallery_(video_game)), offre au joueur la possibilité d'orienter sa téléportation dans une direction bien précise en faisant apparaître au sol l'espace réel du joueur durant la sélection de la zone de téléportation (système [blink](https://www.youtube.com/watch?v=fOFgAfuTtyo&feature=emb_title)). Autre exemple, le jeu [Raw Data](https://survios.com/rawdata/) utilise un système de *sprint* (ou *dash*) très rapide à la place de la téléportation. L'effet est quasi identique mais brise moins l'immersion. Attention toutefois, pour que cela ne provoque pas trop la *cinétose* la vision est floutée autour de la focal de vue .
+ - **Autres systèmes** :  On peut imaginer d'autres systèmes de téléportation que ceux précités. Par exemple, le système de téléportation du jeu [The Gallery](https://en.wikipedia.org/wiki/The_Gallery_(video_game)), offre au joueur la possibilité d'orienter sa téléportation dans une direction bien précise en faisant apparaître au sol l'espace réel du joueur durant la sélection de la zone de téléportation (système [blink](https://www.youtube.com/watch?v=fOFgAfuTtyo&feature=emb_title)). Autre exemple, le jeu [Raw Data](https://survios.com/rawdata/) utilise un système de *sprint* (ou *dash*) très rapide à la place de la téléportation. L'effet est quasi identique mais brise moins l'immersion. Attention toutefois, pour que cela ne provoque pas trop la *cinétose* la vision doit être floutée autour de la zone fovéale (voir plus bas pour un autre exemple de ce genre d'artifice).
 
  ### Flou basé sur le champ de vision (FOV) 
 
@@ -237,11 +237,11 @@ En savoir plus: [VR positional Audio](https://realnewworld.com/vr-positional-aud
 - [Geek.com](https://www.geek.com/news/the-history-of-virtual-reality-games-1652225/)
 - [Changing the world: DARPA’s top inventions](https://www.extremetech.com/extreme/105117-inventing-our-world-darpas-top-inventions/2)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQxODczOTk1NiwtMTcwNDEyNTA4NywtND
-k1NDc2ODQzLDEzNjg5OTMxNzIsMTY5NjcwNzYwMCwtMTgxOTE2
-OTc5MywyOTkzMDIzMTIsLTE5Nzk0ODYwMzksLTIxMTkzMzgwMD
-QsNTUxNzU4NTY0LC0xMjg1NTczMzAyLDQ2NjM0OTU1NCwtMjgw
-OTQwOTUwLDY3NjM0OTI3OSwxODA1MzA0Njg1LDEzNjExMzUzNz
-UsMTc5MDE3NDcwNSwtMTMxMjI4ODE1MywtMTg1NzkyMTU4OSwx
-NTcxMzIwMDgzXX0=
+eyJoaXN0b3J5IjpbLTkzNjYwMTU2LC0xNzA0MTI1MDg3LC00OT
+U0NzY4NDMsMTM2ODk5MzE3MiwxNjk2NzA3NjAwLC0xODE5MTY5
+NzkzLDI5OTMwMjMxMiwtMTk3OTQ4NjAzOSwtMjExOTMzODAwNC
+w1NTE3NTg1NjQsLTEyODU1NzMzMDIsNDY2MzQ5NTU0LC0yODA5
+NDA5NTAsNjc2MzQ5Mjc5LDE4MDUzMDQ2ODUsMTM2MTEzNTM3NS
+wxNzkwMTc0NzA1LC0xMzEyMjg4MTUzLC0xODU3OTIxNTg5LDE1
+NzEzMjAwODNdfQ==
 -->
