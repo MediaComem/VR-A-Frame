@@ -202,11 +202,11 @@ Si toutefois on opte pour des déplacements libres de la caméra via un contrôl
 
 Si l'espace VR est de taille identique (ou plus petit que l'espace réel), il n'y a pas trop de problème de déplacement. Il suffit à l'utilisateur de se déplacer dans la réalité pour être déplacé dans la VR de manière identique en utilisant simplement le système de positionnement du casque. Bien sûr, pour que cela soit praticable, il faut que l'application aie connaissance de la taille réelle de l'espace disponible par le joueur. Dans l'expérience immersive [theBlu](https://wevr.com/theblu),  la zone d'exploration sous-marine explorable est générée au début de l’expérience pour que sa taille soit identique à la zone réelle de l'utilisateur. L'immersion est alors fortement accrue, encore plus du fait que le casque VR ressemble à un casque de plongée sous-marine (poids, FOV réduit, ...). 
 
-Toutefois, même si l'espace VR est plus grand que l'espace réel, il existe quelques méthodes (*astuces*) pour éviter de devoir déplacer la caméra de l'utilisateur ou d'utiliser des mécanismes de téléportation:
+Toutefois, même si l'espace VR est plus grand que l'espace réel, il existe quelques méthodes (*astuces*) pour éviter de devoir déplacer la caméra de l'utilisateur ou d'utiliser des mécanismes de téléportation. En voici quelques-une:
 
 - **[Rediect walking](https://www.youtube.com/watch?v=XOxmMurUv3Q)**: fausser la perception de l'esprit avec un décalage mouvements réels/virtuels ou espaces VR pensés pour que l'utilisateur revienne sur ses pas, et reste dans un espace restreint (identique à son espace réelle).
  
-- **Drag and drop** : Dans l'application [Google Earth VR](https://arvr.google.com/earth/), au lieu de téléporter l'utilisateur vers sa destination on effectue un "drag" 
+- ***Drag the world*** : Dans l'application [Google Earth VR](https://arvr.google.com/earth/), au lieu de téléporter l'utilisateur vers sa destination on effectue un "drag" 
 
 - **Overlapping** des salles pour fausser l'esprit: jeu des distances. Difficile pour le cerveau de se représenter les distances.
 
@@ -251,7 +251,7 @@ En savoir plus: [VR positional Audio](https://realnewworld.com/vr-positional-aud
 - [Geek.com](https://www.geek.com/news/the-history-of-virtual-reality-games-1652225/)
 - [Changing the world: DARPA’s top inventions](https://www.extremetech.com/extreme/105117-inventing-our-world-darpas-top-inventions/2)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg5ODI2MzA1OCwxNTU2OTA4MDI0LDE5Nz
+eyJoaXN0b3J5IjpbMTQ0NDc5NTY4NiwxNTU2OTA4MDI0LDE5Nz
 AxNzI0MDcsMTQ4MTk5Mjg0NSwtOTQzMjQ2NDMwLDE4ODkzOTk2
 NCwtMzcwNjcwOTcxLC0xNjMxMTM2Mjk4LC0xNzA0MTI1MDg3LC
 00OTU0NzY4NDMsMTM2ODk5MzE3MiwxNjk2NzA3NjAwLC0xODE5
