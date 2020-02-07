@@ -142,7 +142,7 @@ Les lentilles déforment (le ou) les écrans à l'intérieur du casque afin d'av
 
 - **Centre optique (sweet spot)** : afin d'avoir une vision claire (avec un bon focus), il faut que la lentille soit correctement placée face à l’œil. Les casques VR actuels sont plus ou moins permissif sur ce sujet. De plus la [distance pupillaire](https://en.wikipedia.org/wiki/Pupillary_distance) est différente d'un individus à l'autre. Ainsi les casques se munissent la plupart du temps d'un système de réglage de la distance séparant les deux lentilles permettant d'obtenir un bon "sweet spot" plus facilement.
 
-- **Glare et "God rays"**:  En cas de scène à fort forts contrastes, les couleurs clair (le blanc principalement) "bave". On voit comme des rayons lumineux (God Rays). La cause: les lentilles Fresnel utilisées dans dans le casque. Solution: limiter les forts contrastes dans les scènes VR ou améliorer les lentilles des casques VR.
+- **Glare et "God rays"**:  En cas de scène à fort forts contrastes, les couleurs clair (le blanc principalement) "bave". On voit comme des rayons lumineux (God Rays). La cause: les lentilles Fresnel utilisées dans le casque. Il faut donc limiter les forts contrastes dans les scènes VR (ou mieux, améliorer les lentilles des futurs casques VR).
 
 ![Glare](http://i.vimeocdn.com/video/569557579_1280.jpg)
 
@@ -228,11 +228,11 @@ En savoir plus: [VR positional Audio](https://realnewworld.com/vr-positional-aud
 - [Geek.com](https://www.geek.com/news/the-history-of-virtual-reality-games-1652225/)
 - [Changing the world: DARPA’s top inventions](https://www.extremetech.com/extreme/105117-inventing-our-world-darpas-top-inventions/2)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEwOTA2NjA3MiwtNzEzODg3Njg3LC0zOD
-EzMzQyNjYsLTE0Mjk1NzA5ODMsLTEwNzc1Nzc5NDcsLTM4OTA2
-NzA1MiwtMTM4ODA2OTY4NCwtMTI0MjU4Mzg3MywxNDA1NTMzMD
-A2LC0yMTcwODM2ODgsMTU1NjkwODAyNCwxOTcwMTcyNDA3LDE0
-ODE5OTI4NDUsLTk0MzI0NjQzMCwxODg5Mzk5NjQsLTM3MDY3MD
-k3MSwtMTYzMTEzNjI5OCwtMTcwNDEyNTA4NywtNDk1NDc2ODQz
-LDEzNjg5OTMxNzJdfQ==
+eyJoaXN0b3J5IjpbOTM3MTcxMDQsLTcxMzg4NzY4NywtMzgxMz
+M0MjY2LC0xNDI5NTcwOTgzLC0xMDc3NTc3OTQ3LC0zODkwNjcw
+NTIsLTEzODgwNjk2ODQsLTEyNDI1ODM4NzMsMTQwNTUzMzAwNi
+wtMjE3MDgzNjg4LDE1NTY5MDgwMjQsMTk3MDE3MjQwNywxNDgx
+OTkyODQ1LC05NDMyNDY0MzAsMTg4OTM5OTY0LC0zNzA2NzA5Nz
+EsLTE2MzExMzYyOTgsLTE3MDQxMjUwODcsLTQ5NTQ3Njg0Mywx
+MzY4OTkzMTcyXX0=
 -->
