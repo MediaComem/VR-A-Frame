@@ -173,6 +173,8 @@ De manière générale, une application VR ne doit pas permettre de prendre le c
 
 Une des principales règles pour éviter ce problème et de ne jamais prendre le contrôle de la caméra et donc de la laisser être contrôlée par les mouvements du casque VR. 
 
+Si la zone 
+
 Si l'on veut tout de même déplacer l'avatar de l'utilisateur (et donc sa caméra) dans la VR sans que celui-ci se déplace dans la réalité, il va falloir trouver des "trucs" pour le faire de la manière la plus confortable possible.  Le critère de **confort** se retrouve d'ailleurs dans la plupart des magasins d'applications VR (par ex. dans [l'oculus store](https://support.oculus.com/1639053389725739/)). Voilà quelques exemples de solutions :
 
 ###  La téléportation
@@ -189,9 +191,9 @@ Elle ne provoque généralement pas d’inconfort, mais elle peut casser l’imm
  
  - **Autres systèmes** :  On peut imaginer d'autres systèmes de téléportation que ceux précités. Par exemple, le système de téléportation du jeu [The Gallery](https://en.wikipedia.org/wiki/The_Gallery_(video_game)), offre au joueur la possibilité d'orienter sa téléportation dans une direction bien précise en faisant apparaître au sol l'espace réel du joueur durant la sélection de la zone de téléportation (système [blink](https://www.youtube.com/watch?v=fOFgAfuTtyo&feature=emb_title)). Autre exemple, le jeu [Raw Data](https://survios.com/rawdata/) utilise un système de *sprint* (ou *dash*) très rapide à la place de la téléportation. L'effet est quasi identique mais brise moins l'immersion. Attention toutefois, pour que cela ne provoque pas trop la *cinétose* la vision doit être floutée autour de la zone fovéale (voir plus bas pour un autre exemple de ce genre d'artifice).
 
- ### Flou basé sur le champ de vision (FOV) 
+ ### Véhicules et autres artifices
 
-Toutefois, et même si l'espace VR est plus grand que l'espace réel, il existe d'autres méthodes pour éviter de devoir déplacer la caméra de l'utilisateur:
+Toutefois, et même si l'espace VR est plus grand que l'espace réel, il existe d'autres méthodes pour éviter de devoir déplacer la caméra de l'utilisateur via la téléportation:
 
 - Utiliser des **véhicules**: l'utilisateur reste sur place en réalité, c'est le véhicule qui se déplace dans le virtuel.
 
@@ -237,11 +239,11 @@ En savoir plus: [VR positional Audio](https://realnewworld.com/vr-positional-aud
 - [Geek.com](https://www.geek.com/news/the-history-of-virtual-reality-games-1652225/)
 - [Changing the world: DARPA’s top inventions](https://www.extremetech.com/extreme/105117-inventing-our-world-darpas-top-inventions/2)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzU2MTE3ODYzLC0xNzA0MTI1MDg3LC00OT
-U0NzY4NDMsMTM2ODk5MzE3MiwxNjk2NzA3NjAwLC0xODE5MTY5
-NzkzLDI5OTMwMjMxMiwtMTk3OTQ4NjAzOSwtMjExOTMzODAwNC
-w1NTE3NTg1NjQsLTEyODU1NzMzMDIsNDY2MzQ5NTU0LC0yODA5
-NDA5NTAsNjc2MzQ5Mjc5LDE4MDUzMDQ2ODUsMTM2MTEzNTM3NS
-wxNzkwMTc0NzA1LC0xMzEyMjg4MTUzLC0xODU3OTIxNTg5LDE1
-NzEzMjAwODNdfQ==
+eyJoaXN0b3J5IjpbMTI3MTU1NzE1MCwtMTcwNDEyNTA4NywtND
+k1NDc2ODQzLDEzNjg5OTMxNzIsMTY5NjcwNzYwMCwtMTgxOTE2
+OTc5MywyOTkzMDIzMTIsLTE5Nzk0ODYwMzksLTIxMTkzMzgwMD
+QsNTUxNzU4NTY0LC0xMjg1NTczMzAyLDQ2NjM0OTU1NCwtMjgw
+OTQwOTUwLDY3NjM0OTI3OSwxODA1MzA0Njg1LDEzNjExMzUzNz
+UsMTc5MDE3NDcwNSwtMTMxMjI4ODE1MywtMTg1NzkyMTU4OSwx
+NTcxMzIwMDgzXX0=
 -->
