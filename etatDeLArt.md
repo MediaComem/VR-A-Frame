@@ -182,6 +182,7 @@ Elle ne provoque généralement pas d’inconfort, mais elle peut casser l’imm
  - **Téléportation simple**:  l'avatar est simplement téléporté vers la destination. Elle est souvent soit **libre**: l'utilisateur choisit sa destination pour la téléportation dans l'espace VR visible (et accessible), soit **limitée**: par une série de marqueurs de téléportation disposés dans l'espace VR. La téléportation limitée est souvent utilisée lors de l'utilisation de la  [photogrammétrie](https://fr.wikipedia.org/wiki/Photogramm%C3%A9trie). L'application [Welcome to Light Fields](https://www.blog.google/products/google-ar-vr/experimenting-light-fields/) en est un bon exemple. En effet puisque l'espace VR n'est pas pleinement explorable (ce sont des *photos*), l'utilisateur se téléporte alors d'un point de vue à un autre, où les points de téléportation sont les endroits ou les *photos* ont été prises.
  
  - **Portails de téléportation**:  au lieu de téléporter l'utilisateur, on le fait passer à travers des portails reliant deux zones VR distantes. Ces portails peuvent être soit fixés par les créateurs de l'application, soit par l'utilisateur lui-même (à la manière du jeu [Portal](https://fr.wikipedia.org/wiki/Portal_(jeu_vid%C3%A9o))). Un bon exemple d'utilisation de ce système est le jeu [Budget Cut](https://store.steampowered.com/app/1092430/Budget_Cuts_2_Mission_Insolvency/). 
+ 
  ![budget cut](./img/budget_cut.png)
  
  - **Autres systèmes** :  
@@ -233,11 +234,11 @@ En savoir plus: [VR positional Audio](https://realnewworld.com/vr-positional-aud
 - [Geek.com](https://www.geek.com/news/the-history-of-virtual-reality-games-1652225/)
 - [Changing the world: DARPA’s top inventions](https://www.extremetech.com/extreme/105117-inventing-our-world-darpas-top-inventions/2)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMzIwNzI0MDEsMTM2ODk5MzE3MiwxNj
-k2NzA3NjAwLC0xODE5MTY5NzkzLDI5OTMwMjMxMiwtMTk3OTQ4
-NjAzOSwtMjExOTMzODAwNCw1NTE3NTg1NjQsLTEyODU1NzMzMD
-IsNDY2MzQ5NTU0LC0yODA5NDA5NTAsNjc2MzQ5Mjc5LDE4MDUz
-MDQ2ODUsMTM2MTEzNTM3NSwxNzkwMTc0NzA1LC0xMzEyMjg4MT
-UzLC0xODU3OTIxNTg5LDE1NzEzMjAwODMsLTE2MDE2MDcyNjYs
-LTE5NTM1ODQxMTddfQ==
+eyJoaXN0b3J5IjpbMTk3MTI4MTU4NywxMzY4OTkzMTcyLDE2OT
+Y3MDc2MDAsLTE4MTkxNjk3OTMsMjk5MzAyMzEyLC0xOTc5NDg2
+MDM5LC0yMTE5MzM4MDA0LDU1MTc1ODU2NCwtMTI4NTU3MzMwMi
+w0NjYzNDk1NTQsLTI4MDk0MDk1MCw2NzYzNDkyNzksMTgwNTMw
+NDY4NSwxMzYxMTM1Mzc1LDE3OTAxNzQ3MDUsLTEzMTIyODgxNT
+MsLTE4NTc5MjE1ODksMTU3MTMyMDA4MywtMTYwMTYwNzI2Niwt
+MTk1MzU4NDExN119
 -->
