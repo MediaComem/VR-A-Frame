@@ -167,7 +167,7 @@ De manière générale, une application VR ne doit pas permettre de prendre le c
  
 - L'espace réel est souvent restreint à une petite partie d'une pièce, souvent entre 1 et 3 [m^2] alors que l'espace virtuel est d'une taille quelconque. 
 
-- L'espace réel peut contenir des obstacles aux déplacements qui seront invisibles en VR. Et inversement, une chaise dans la réalité virtuelle ne sera (peut-être) pas physiquement présente dans la réalité. Pour le moment, quasi tous les systèmes VR actuelles utilisent le système  de **chaperon** qui perm,et  faire des murs virtuels quand y a des murs en realité. 
+- L'espace réel peut contenir des obstacles aux déplacements qui seront invisibles en VR. Et inversement, une chaise dans la réalité virtuelle ne sera (peut-être) pas physiquement présente dans la réalité. Pour le moment, quasi tous les systèmes VR utilisent un système  de **chaperon** qui permet de faire apparaître des murs virtuels dans l'espace VR lorsque l'utilisateur s'approche d'un obstacle dans le monde réel (mais très peu de ces systèmes sont capables . 
 
 ### Déplacements et "mal des transports" (cinétose)
 
@@ -244,11 +244,11 @@ En savoir plus: [VR positional Audio](https://realnewworld.com/vr-positional-aud
 - [Geek.com](https://www.geek.com/news/the-history-of-virtual-reality-games-1652225/)
 - [Changing the world: DARPA’s top inventions](https://www.extremetech.com/extreme/105117-inventing-our-world-darpas-top-inventions/2)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDI5ODMxNTk2LC0yMTcwODM2ODgsMTU1Nj
-kwODAyNCwxOTcwMTcyNDA3LDE0ODE5OTI4NDUsLTk0MzI0NjQz
-MCwxODg5Mzk5NjQsLTM3MDY3MDk3MSwtMTYzMTEzNjI5OCwtMT
-cwNDEyNTA4NywtNDk1NDc2ODQzLDEzNjg5OTMxNzIsMTY5Njcw
-NzYwMCwtMTgxOTE2OTc5MywyOTkzMDIzMTIsLTE5Nzk0ODYwMz
-ksLTIxMTkzMzgwMDQsNTUxNzU4NTY0LC0xMjg1NTczMzAyLDQ2
-NjM0OTU1NF19
+eyJoaXN0b3J5IjpbLTQ1NDcyMjgzNCwtMjE3MDgzNjg4LDE1NT
+Y5MDgwMjQsMTk3MDE3MjQwNywxNDgxOTkyODQ1LC05NDMyNDY0
+MzAsMTg4OTM5OTY0LC0zNzA2NzA5NzEsLTE2MzExMzYyOTgsLT
+E3MDQxMjUwODcsLTQ5NTQ3Njg0MywxMzY4OTkzMTcyLDE2OTY3
+MDc2MDAsLTE4MTkxNjk3OTMsMjk5MzAyMzEyLC0xOTc5NDg2MD
+M5LC0yMTE5MzM4MDA0LDU1MTc1ODU2NCwtMTI4NTU3MzMwMiw0
+NjYzNDk1NTRdfQ==
 -->
