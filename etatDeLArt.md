@@ -121,12 +121,12 @@ XIXe s. - [Stéréoscopes](https://fr.wikipedia.org/wiki/St%C3%A9r%C3%A9oscope)
 ### Le casque
 
 
-### Screen Door Effect (SDE)
+### Les écrans Screen Door Effect (SDE)
 
 [Screen Door Effect (SDE)](https://www.howtogeek.com/404491/what-is-the-screen-door-effect-in-vr/)
 
 - L'effet: on voit le "grillage" de pixels
-- Cause: zoom sur l'écran dans le headset, en plus du fait qu'il est proche des yeux
+- Cause: les lentilles qui déforme zoom sur l'écran dans le casque , en plus du fait qu'il est proche des yeux
 - Solution: meilleure résolution de l'écran (8K)
 
 ![Screen Door Effect](./img/sde.jpg)
@@ -237,11 +237,11 @@ En savoir plus: [VR positional Audio](https://realnewworld.com/vr-positional-aud
 - [Geek.com](https://www.geek.com/news/the-history-of-virtual-reality-games-1652225/)
 - [Changing the world: DARPA’s top inventions](https://www.extremetech.com/extreme/105117-inventing-our-world-darpas-top-inventions/2)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY2MDgwNTg5MiwtMzg5MDY3MDUyLC0xMz
-g4MDY5Njg0LC0xMjQyNTgzODczLDE0MDU1MzMwMDYsLTIxNzA4
-MzY4OCwxNTU2OTA4MDI0LDE5NzAxNzI0MDcsMTQ4MTk5Mjg0NS
-wtOTQzMjQ2NDMwLDE4ODkzOTk2NCwtMzcwNjcwOTcxLC0xNjMx
-MTM2Mjk4LC0xNzA0MTI1MDg3LC00OTU0NzY4NDMsMTM2ODk5Mz
-E3MiwxNjk2NzA3NjAwLC0xODE5MTY5NzkzLDI5OTMwMjMxMiwt
-MTk3OTQ4NjAzOV19
+eyJoaXN0b3J5IjpbLTIwNzgwNTU1NDEsLTM4OTA2NzA1MiwtMT
+M4ODA2OTY4NCwtMTI0MjU4Mzg3MywxNDA1NTMzMDA2LC0yMTcw
+ODM2ODgsMTU1NjkwODAyNCwxOTcwMTcyNDA3LDE0ODE5OTI4ND
+UsLTk0MzI0NjQzMCwxODg5Mzk5NjQsLTM3MDY3MDk3MSwtMTYz
+MTEzNjI5OCwtMTcwNDEyNTA4NywtNDk1NDc2ODQzLDEzNjg5OT
+MxNzIsMTY5NjcwNzYwMCwtMTgxOTE2OTc5MywyOTkzMDIzMTIs
+LTE5Nzk0ODYwMzldfQ==
 -->
