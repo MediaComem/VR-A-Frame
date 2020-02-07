@@ -7,7 +7,7 @@
 - [Le matériel VR](#materiel)
 - Exemples d'app à succès
 - Immersion
-- Déplacements
+- [Déplacements](#movements)
 - Performances graphiques
 - Audio
 - Réflexion/discussion: UX et interfaces de jeux VR
@@ -159,7 +159,7 @@ De manière générale, une application VR ne doit pas permettre de prendre le c
 
 ![Glare](http://i.vimeocdn.com/video/569557579_1280.jpg)
 
-# Etat de l'art: Déplacements
+# <a name="movements"></a>Déplacements
 
 ### Principales problématiques:
 - Mal des transports ( *cinétose* ) lorsque le déplacement visualisé est décalé de celui contrôlé par l'utilisateur.
@@ -219,7 +219,7 @@ En savoir plus: [VR positional Audio](https://realnewworld.com/vr-positional-aud
 - [Geek.com](https://www.geek.com/news/the-history-of-virtual-reality-games-1652225/)
 - [Changing the world: DARPA’s top inventions](https://www.extremetech.com/extreme/105117-inventing-our-world-darpas-top-inventions/2)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI0MDAxMDkyMywxMzYxMTM1Mzc1LDE3OT
+eyJoaXN0b3J5IjpbLTI0MTQ0NzUzNywxMzYxMTM1Mzc1LDE3OT
 AxNzQ3MDUsLTEzMTIyODgxNTMsLTE4NTc5MjE1ODksMTU3MTMy
 MDA4MywtMTYwMTYwNzI2NiwtMTk1MzU4NDExNywtODA1NTMwOD
 k4LC0xODg0MzgyODAxLDIwMjM1NzQyODAsMTg3ODc3MzE0LC02
