@@ -171,9 +171,7 @@ De manière générale, une application VR ne doit pas permettre de prendre le c
 
 ## Déplacement et "mal des transports" (cinétose)
 
-Une des principales règles pour éviter ce problème et de ne jamais prendre le contrôle de la caméra et donc de la laisser être contrôlée par les mouvements du casque VR. 
-
-Si la zone 
+Une des principales règles pour éviter ce problème et de ne jamais prendre le contrôle de la caméra et donc de la laisser être contrôlée par les mouvements du casque VR.  
 
 Si l'on veut tout de même déplacer l'avatar de l'utilisateur (et donc sa caméra) dans la VR sans que celui-ci se déplace dans la réalité, il va falloir trouver des "trucs" pour le faire de la manière la plus confortable possible.  Le critère de **confort** se retrouve d'ailleurs dans la plupart des magasins d'applications VR (par ex. dans [l'oculus store](https://support.oculus.com/1639053389725739/)). Voilà quelques exemples de solutions :
 
@@ -196,6 +194,7 @@ Elle ne provoque généralement pas d’inconfort, mais elle peut casser l’imm
 Toutefois, et même si l'espace VR est plus grand que l'espace réel, il existe d'autres méthodes pour éviter de devoir déplacer la caméra de l'utilisateur via la téléportation:
 
 - Utiliser des **véhicules**: l'utilisateur reste sur place en réalité, c'est le véhicule qui se déplace dans le virtuel.
+
 
 
 - **Le chaperon**: faire des murs virtuels quand y a des murs en realité. Mais qu'en est-il pour les mondes infinis ?
@@ -239,7 +238,7 @@ En savoir plus: [VR positional Audio](https://realnewworld.com/vr-positional-aud
 - [Geek.com](https://www.geek.com/news/the-history-of-virtual-reality-games-1652225/)
 - [Changing the world: DARPA’s top inventions](https://www.extremetech.com/extreme/105117-inventing-our-world-darpas-top-inventions/2)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI3MTU1NzE1MCwtMTcwNDEyNTA4NywtND
+eyJoaXN0b3J5IjpbMjEyNDA1MjYwOSwtMTcwNDEyNTA4NywtND
 k1NDc2ODQzLDEzNjg5OTMxNzIsMTY5NjcwNzYwMCwtMTgxOTE2
 OTc5MywyOTkzMDIzMTIsLTE5Nzk0ODYwMzksLTIxMTkzMzgwMD
 QsNTUxNzU4NTY0LC0xMjg1NTczMzAyLDQ2NjM0OTU1NCwtMjgw
