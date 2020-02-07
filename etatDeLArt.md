@@ -167,7 +167,7 @@ De manière générale, une application VR ne doit pas permettre de prendre le c
  
 - L'espace réel est souvent restreint à une petite partie d'une pièce, souvent entre 1 et 3 [m^2] alors que l'espace virtuel est d'une taille quelconque. 
 
-- L'espace réel peut contenir des obstacles aux déplacements qui seront invisibles en VR. Et inversement, une chaise dans la réalité virtuelle ne sera (peut-être) pas physiquement présente dans la réalité. Pour le moment, quasi tous les systèmes VR utilisent un système  de **chaperon** qui permet de faire apparaître des murs virtuels dans l'espace VR lorsque l'utilisateur s'approche d'un obstacle dans le monde réel. Toutefois très peu de ces systèmes sont capables de détecter en temps réel des obstacles mobiles comme un autre personnes ou un chat ! 
+- L'espace réel peut contenir des obstacles aux déplacements qui seront invisibles en VR. Et inversement, une chaise dans la réalité virtuelle ne sera (peut-être) pas physiquement présente dans la réalité. Pour le moment, quasi tous les systèmes VR utilisent un système  de **chaperon** qui permet de faire apparaître des murs virtuels dans l'espace VR lorsque l'utilisateur s'approche d'un obstacle dans le monde réel. Toutefois très peu de ces systèmes sont capables de détecter en temps réel des obstacles mobiles comme une autre personne ou un chat ! 
 
 ### Déplacements et "mal des transports" (cinétose)
 
@@ -244,7 +244,7 @@ En savoir plus: [VR positional Audio](https://realnewworld.com/vr-positional-aud
 - [Geek.com](https://www.geek.com/news/the-history-of-virtual-reality-games-1652225/)
 - [Changing the world: DARPA’s top inventions](https://www.extremetech.com/extreme/105117-inventing-our-world-darpas-top-inventions/2)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2OTMxMjI0MzYsLTIxNzA4MzY4OCwxNT
+eyJoaXN0b3J5IjpbLTExODQxOTc1NDYsLTIxNzA4MzY4OCwxNT
 U2OTA4MDI0LDE5NzAxNzI0MDcsMTQ4MTk5Mjg0NSwtOTQzMjQ2
 NDMwLDE4ODkzOTk2NCwtMzcwNjcwOTcxLC0xNjMxMTM2Mjk4LC
 0xNzA0MTI1MDg3LC00OTU0NzY4NDMsMTM2ODk5MzE3MiwxNjk2
