@@ -164,13 +164,12 @@ De manière générale, une application VR ne doit pas permettre de prendre le c
 ### Principales problématiques:
 - Mal du voyage (*motion sickness*) lorsque le déplacement visualisé est décalé de celui contrôlé par l'utilisateur.
 - L'espace réel est souvent restreint à une petite partie d'une pièce, souvent entre 1 et 3 [m^2] alors que l'espace virtuel peut être d'une taille quelconque. 
-- L'espace réel peut contenir des obstacles aux déplacements qui seront invisibles en VR. Et inversement, une chaise dans la réalité virtuelle ne sera pas physiquement présente dan
-- 
+- L'espace réel peut contenir des obstacles aux déplacements qui seront invisibles en VR. Et inversement, une chaise dans la réalité virtuelle ne sera peut être pas physiquement présente dans la réalité.
 
-### Comment garder le réalisme des déplacements, sans les permettre en réalité?
+### Comment garder le réalisme des déplacements, sans les permettre en réalité ?
 
 ### Différentes solutions
-- **Le chaperon**: faire des murs virtuels quand y a des murs en realité. Mais qu'en est-il pour les mondes infinis?
+- **Le chaperon**: faire des murs virtuels quand y a des murs en realité. Mais qu'en est-il pour les mondes infinis ?
 - Utiliser des **véhicules**: l'utilisateur reste sur place en réalité, c'est le véhicule qui se déplace dans le virtuel.
 - **La téléportation**: l'utilisateur ne bouge pas.
 - **[Rediect walking](https://www.youtube.com/watch?v=u8pw81VbMUU)**: fausser la perception de l'esprit avec un décalage mouvements réels/virtuels.
@@ -212,10 +211,10 @@ En savoir plus: [VR positional Audio](https://realnewworld.com/vr-positional-aud
 - [Geek.com](https://www.geek.com/news/the-history-of-virtual-reality-games-1652225/)
 - [Changing the world: DARPA’s top inventions](https://www.extremetech.com/extreme/105117-inventing-our-world-darpas-top-inventions/2)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNjU0NzM1MTMsLTEzMTIyODgxNTMsLT
-E4NTc5MjE1ODksMTU3MTMyMDA4MywtMTYwMTYwNzI2NiwtMTk1
-MzU4NDExNywtODA1NTMwODk4LC0xODg0MzgyODAxLDIwMjM1Nz
-QyODAsMTg3ODc3MzE0LC02ODQ3NTU4MTUsNTcyNzU5ODMzLC0y
-MDY2MjgwNTY5LC0xNjY2MjA2NDExLC0yMDk1NjEyMDU0LDEwNz
-c0MDg0ODQsLTE1NjcxNDYwODMsLTg4MDE2MTMxMl19
+eyJoaXN0b3J5IjpbMTc5MDE3NDcwNSwtMTMxMjI4ODE1MywtMT
+g1NzkyMTU4OSwxNTcxMzIwMDgzLC0xNjAxNjA3MjY2LC0xOTUz
+NTg0MTE3LC04MDU1MzA4OTgsLTE4ODQzODI4MDEsMjAyMzU3ND
+I4MCwxODc4NzczMTQsLTY4NDc1NTgxNSw1NzI3NTk4MzMsLTIw
+NjYyODA1NjksLTE2NjYyMDY0MTEsLTIwOTU2MTIwNTQsMTA3Nz
+QwODQ4NCwtMTU2NzE0NjA4MywtODgwMTYxMzEyXX0=
 -->
