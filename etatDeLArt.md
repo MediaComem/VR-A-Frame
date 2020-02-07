@@ -217,8 +217,7 @@ Bien sûr,  les techniques décrites précédemment peuvent être combinées.
 
 ### Tapis roulant omnidirectionnel
 
-Ce type de tapis  permet le déplacement infini. Le problème: ils sont dangereux, besoins de harnais, ou d'une sécurité de soutien.
-
+Ces types de tapis permet le déplacement infini. Pour le moment ce sont des solutions coûteuse, encombrante, et peu sûr (il faut souvent y associer un système de harnais). Mes ses solution sont prometteuses. 
 
 
 - **Le chaperon**: faire des murs virtuels quand y a des murs en realité. 
@@ -248,7 +247,7 @@ En savoir plus: [VR positional Audio](https://realnewworld.com/vr-positional-aud
 - [Geek.com](https://www.geek.com/news/the-history-of-virtual-reality-games-1652225/)
 - [Changing the world: DARPA’s top inventions](https://www.extremetech.com/extreme/105117-inventing-our-world-darpas-top-inventions/2)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc3Njc5OTAyMSwtMjE3MDgzNjg4LDE1NT
+eyJoaXN0b3J5IjpbMTU5OTczOTcyNiwtMjE3MDgzNjg4LDE1NT
 Y5MDgwMjQsMTk3MDE3MjQwNywxNDgxOTkyODQ1LC05NDMyNDY0
 MzAsMTg4OTM5OTY0LC0zNzA2NzA5NzEsLTE2MzExMzYyOTgsLT
 E3MDQxMjUwODcsLTQ5NTQ3Njg0MywxMzY4OTkzMTcyLDE2OTY3
