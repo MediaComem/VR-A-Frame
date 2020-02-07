@@ -5,6 +5,8 @@ Ce dépôt contient les différents supports pédagogique nécessaire pour le co
 ## Auteurs
 - Audrey Huguenin
 - Arthur Verdon
+- Nicolas Chabloz
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA1NTY1OTI4MCwyNDk3MDAxNl19
+eyJoaXN0b3J5IjpbLTkyMDY3ODg3OSwyMDU1NjU5MjgwLDI0OT
+cwMDE2XX0=
 -->
