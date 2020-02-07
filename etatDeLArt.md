@@ -122,29 +122,19 @@ XIXe s. - [Stéréoscopes](https://fr.wikipedia.org/wiki/St%C3%A9r%C3%A9oscope)
 
 ### Les  écrans
 
-- **Screen Door Effect (SDE)**:   on voit le "grillage" de pixels. solution: meilleure résolution de l'écran (8K). (
+- **Screen Door Effect (SDE)**:   on voit le "grillage" de pixels. solution: meilleure résolution de l'écran (8K). ([Screen Door Effect](https://www.howtogeek.com/404491/what-is-the-screen-door-effect-in-vr/))
 
 ![Screen Door Effect](./img/sde.jpg)
 [*Source*](https://en.wikipedia.org/wiki/Screen-door_effect#/media/File:Screen-door_effect.jpg)
+
+- **Mura Effect**: les à-plats de couleurs ne sont pas homogènes à cause de la composition des écran empêche une luminosité tout à fait régulière. ([Mura Effect](https://www.roda-computer.com/technology/mura-effect/))
+
+![Screen Door Effect](https://external-preview.redd.it/lmskdQbKiWAh14j5dxhCPn-iLTx_uBkHcwZksUQz328.jpg?auto=webp&s=93735d53c775da1b0702cb0fa8126363426f9d53)
 
 
 ### Les lentilles
 
 Les lentilles qui déforme (le ou) les écrans à l'intérieur du casque afin d'avoir mise au point adéquate (qui serait sinon impossible 
-
-
-
-
-
-
-
-### Mura Effect
-
-[Mura Effect](https://www.roda-computer.com/technology/mura-effect/)
-- L'effet: les à-plats de couleurs ne sont pas homogènes
-- Cause: la composition des écran empêche une luminosité tout à fait régulière
-
-![Screen Door Effect](https://external-preview.redd.it/lmskdQbKiWAh14j5dxhCPn-iLTx_uBkHcwZksUQz328.jpg?auto=webp&s=93735d53c775da1b0702cb0fa8126363426f9d53)
 
 ### Aliasing
 
@@ -243,7 +233,7 @@ En savoir plus: [VR positional Audio](https://realnewworld.com/vr-positional-aud
 - [Geek.com](https://www.geek.com/news/the-history-of-virtual-reality-games-1652225/)
 - [Changing the world: DARPA’s top inventions](https://www.extremetech.com/extreme/105117-inventing-our-world-darpas-top-inventions/2)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTgwOTI5MzEzLC0zODkwNjcwNTIsLTEzOD
+eyJoaXN0b3J5IjpbODM5MzQ0NDAwLC0zODkwNjcwNTIsLTEzOD
 gwNjk2ODQsLTEyNDI1ODM4NzMsMTQwNTUzMzAwNiwtMjE3MDgz
 Njg4LDE1NTY5MDgwMjQsMTk3MDE3MjQwNywxNDgxOTkyODQ1LC
 05NDMyNDY0MzAsMTg4OTM5OTY0LC0zNzA2NzA5NzEsLTE2MzEx
