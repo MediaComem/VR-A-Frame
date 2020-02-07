@@ -183,7 +183,9 @@ Elle ne provoque généralement pas d’inconfort, mais elle peut casser l’imm
  
  - **Portails de téléportation**:  au lieu de téléporter l'utilisateur, on le fait passer à travers des portails reliant deux zones VR distantes. Ces portails peuvent être soit fixés par les créateurs de l'application, soit par l'utilisateur lui-même (à la manière du jeu [Portal](https://fr.wikipedia.org/wiki/Portal_(jeu_vid%C3%A9o))). Un bon exemple d'utilisation de ce système est le jeu [Budget Cut](https://store.steampowered.com/app/1092430/Budget_Cuts_2_Mission_Insolvency/). 
  
+ 
  ![budget cut](./img/budget_cut.png)
+ 
  
  - **Autres systèmes** :  
  ### Flou basé sur le champ de vision (FOV) 
@@ -234,7 +236,7 @@ En savoir plus: [VR positional Audio](https://realnewworld.com/vr-positional-aud
 - [Geek.com](https://www.geek.com/news/the-history-of-virtual-reality-games-1652225/)
 - [Changing the world: DARPA’s top inventions](https://www.extremetech.com/extreme/105117-inventing-our-world-darpas-top-inventions/2)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk3MTI4MTU4NywxMzY4OTkzMTcyLDE2OT
+eyJoaXN0b3J5IjpbLTQ5NTQ3Njg0MywxMzY4OTkzMTcyLDE2OT
 Y3MDc2MDAsLTE4MTkxNjk3OTMsMjk5MzAyMzEyLC0xOTc5NDg2
 MDM5LC0yMTE5MzM4MDA0LDU1MTc1ODU2NCwtMTI4NTU3MzMwMi
 w0NjYzNDk1NTQsLTI4MDk0MDk1MCw2NzYzNDkyNzksMTgwNTMw
