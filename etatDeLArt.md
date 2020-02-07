@@ -163,11 +163,11 @@ De manière générale, une application VR ne doit pas permettre de prendre le c
 
 ## Principales problématiques
 
-- Mal des transports ( *cinétose* ) lorsque le déplacement visualisé est décalé de celui contrôlé par l'utilisateur.
+- Mal des transports ( *cinétose* ): se produit lorsque le déplacement visualisé est décalé de celui contrôlé par l'utilisateur.
  
 - L'espace réel est souvent restreint à une petite partie d'une pièce, souvent entre 1 et 3 [m^2] alors que l'espace virtuel est d'une taille quelconque. 
 
-- L'espace réel peut contenir des obstacles aux déplacements qui seront invisibles en VR. Et inversement, une chaise dans la réalité virtuelle ne sera peut être pas physiquement présente dans la réalité.
+- L'espace réel peut contenir des obstacles aux déplacements qui seront invisibles en VR. Et inversement, une chaise dans la réalité virtuelle ne sera peut-être pas physiquement présente dans la réalité.
 
 ### Déplacement et "mal des transports" (cinétose)
 
@@ -238,7 +238,7 @@ En savoir plus: [VR positional Audio](https://realnewworld.com/vr-positional-aud
 - [Geek.com](https://www.geek.com/news/the-history-of-virtual-reality-games-1652225/)
 - [Changing the world: DARPA’s top inventions](https://www.extremetech.com/extreme/105117-inventing-our-world-darpas-top-inventions/2)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwOTM4NjcxNjUsLTE3MDQxMjUwODcsLT
+eyJoaXN0b3J5IjpbLTExNjc3OTg0MTUsLTE3MDQxMjUwODcsLT
 Q5NTQ3Njg0MywxMzY4OTkzMTcyLDE2OTY3MDc2MDAsLTE4MTkx
 Njk3OTMsMjk5MzAyMzEyLC0xOTc5NDg2MDM5LC0yMTE5MzM4MD
 A0LDU1MTc1ODU2NCwtMTI4NTU3MzMwMiw0NjYzNDk1NTQsLTI4
