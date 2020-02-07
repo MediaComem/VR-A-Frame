@@ -192,7 +192,7 @@ Elle ne provoque généralement pas d’inconfort, mais elle peut casser l’imm
  ### Utilisation de véhicules et autres artifices
 
 - **Simulateurs**
-Si les déplacements sont fait via un simulateur de véhicule (voitures, avions, vaisseaux spatiaux, etc..), les risques de *cinétose* sont fortement réduits. En effet, le mal du voyage atteint rarement celui qui est maître du véhicule, mais plutôt ses passagers. Un bon exemple est le jeu [Elite Dangerous](https://www.elitedangerous.com/), ou le joueur reste toujours assis dans son siège (même lors des phases d'exploration de la surface d'une planète, puisque celle ci se fait aussi dans un véhicule terrestre).
+Si les déplacements sont fait via un simulateur de véhicule (voitures, avions, vaisseaux spatiaux, etc..), les risques de *cinétose* sont fortement réduits. En effet, le mal du voyage atteint rarement celui qui est maître du véhicule, mais plutôt ses passagers. Un bon exemple est le jeu [Elite Dangerous](https://www.elitedangerous.com/), ou le joueur reste toujours assis dans son siège (même lors des phases d'exploration de la surface d'une planète, puisque celle ci se fait aussi dans un véhicule terrestre). L'immersion est encore plus forte si l'utilsiateur utilise 
 
 
 - **Déplacements libres** (avec flou autour de la zone fovéale ou autres méthodes)
@@ -245,11 +245,11 @@ En savoir plus: [VR positional Audio](https://realnewworld.com/vr-positional-aud
 - [Geek.com](https://www.geek.com/news/the-history-of-virtual-reality-games-1652225/)
 - [Changing the world: DARPA’s top inventions](https://www.extremetech.com/extreme/105117-inventing-our-world-darpas-top-inventions/2)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM3MDY3MDk3MSwtMTYzMTEzNjI5OCwtMT
-cwNDEyNTA4NywtNDk1NDc2ODQzLDEzNjg5OTMxNzIsMTY5Njcw
-NzYwMCwtMTgxOTE2OTc5MywyOTkzMDIzMTIsLTE5Nzk0ODYwMz
-ksLTIxMTkzMzgwMDQsNTUxNzU4NTY0LC0xMjg1NTczMzAyLDQ2
-NjM0OTU1NCwtMjgwOTQwOTUwLDY3NjM0OTI3OSwxODA1MzA0Nj
-g1LDEzNjExMzUzNzUsMTc5MDE3NDcwNSwtMTMxMjI4ODE1Mywt
-MTg1NzkyMTU4OV19
+eyJoaXN0b3J5IjpbLTIwOTAyMDQ5OCwtMzcwNjcwOTcxLC0xNj
+MxMTM2Mjk4LC0xNzA0MTI1MDg3LC00OTU0NzY4NDMsMTM2ODk5
+MzE3MiwxNjk2NzA3NjAwLC0xODE5MTY5NzkzLDI5OTMwMjMxMi
+wtMTk3OTQ4NjAzOSwtMjExOTMzODAwNCw1NTE3NTg1NjQsLTEy
+ODU1NzMzMDIsNDY2MzQ5NTU0LC0yODA5NDA5NTAsNjc2MzQ5Mj
+c5LDE4MDUzMDQ2ODUsMTM2MTEzNTM3NSwxNzkwMTc0NzA1LC0x
+MzEyMjg4MTUzXX0=
 -->
