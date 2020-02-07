@@ -173,7 +173,7 @@ De manière générale, une application VR ne doit pas permettre de prendre le c
 
 Une des principales règles pour éviter ce problème et de ne jamais prendre le contrôle de la caméra et donc de la laisser être contrôlée par les mouvements du casque VR. 
 
-Si l'on veut tout de même déplacer l'avatar de l'utilisateur (et donc sa caméra) dans la VR sans que celui-ci se déplace dans la réalité, il va falloir trouver des "trucs" pour le faire de la manière la plus confortable possible.  Le critère de **confort** se retrouve d'ailleurs dans la plupart des magasin d'application VR (par ex. dans [l'oculus store](https://support.oculus.com/1639053389725739/)). Voilà quelques exemples de solutions :
+Si l'on veut tout de même déplacer l'avatar de l'utilisateur (et donc sa caméra) dans la VR sans que celui-ci se déplace dans la réalité, il va falloir trouver des "trucs" pour le faire de la manière la plus confortable possible.  Le critère de **confort** se retrouve d'ailleurs dans la plupart des magasins d'application VR (par ex. dans [l'oculus store](https://support.oculus.com/1639053389725739/)). Voilà quelques exemples de solutions :
 
 ###  La téléportation
 
@@ -237,11 +237,11 @@ En savoir plus: [VR positional Audio](https://realnewworld.com/vr-positional-aud
 - [Geek.com](https://www.geek.com/news/the-history-of-virtual-reality-games-1652225/)
 - [Changing the world: DARPA’s top inventions](https://www.extremetech.com/extreme/105117-inventing-our-world-darpas-top-inventions/2)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNzI0NjAzNTEsLTE3MDQxMjUwODcsLT
-Q5NTQ3Njg0MywxMzY4OTkzMTcyLDE2OTY3MDc2MDAsLTE4MTkx
-Njk3OTMsMjk5MzAyMzEyLC0xOTc5NDg2MDM5LC0yMTE5MzM4MD
-A0LDU1MTc1ODU2NCwtMTI4NTU3MzMwMiw0NjYzNDk1NTQsLTI4
-MDk0MDk1MCw2NzYzNDkyNzksMTgwNTMwNDY4NSwxMzYxMTM1Mz
-c1LDE3OTAxNzQ3MDUsLTEzMTIyODgxNTMsLTE4NTc5MjE1ODks
-MTU3MTMyMDA4M119
+eyJoaXN0b3J5IjpbLTUyMDY3MjI3MiwtMTcwNDEyNTA4NywtND
+k1NDc2ODQzLDEzNjg5OTMxNzIsMTY5NjcwNzYwMCwtMTgxOTE2
+OTc5MywyOTkzMDIzMTIsLTE5Nzk0ODYwMzksLTIxMTkzMzgwMD
+QsNTUxNzU4NTY0LC0xMjg1NTczMzAyLDQ2NjM0OTU1NCwtMjgw
+OTQwOTUwLDY3NjM0OTI3OSwxODA1MzA0Njg1LDEzNjExMzUzNz
+UsMTc5MDE3NDcwNSwtMTMxMjI4ODE1MywtMTg1NzkyMTU4OSwx
+NTcxMzIwMDgzXX0=
 -->
