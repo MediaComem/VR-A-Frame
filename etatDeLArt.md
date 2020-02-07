@@ -140,7 +140,7 @@ XIXe s. - [Stéréoscopes](https://fr.wikipedia.org/wiki/St%C3%A9r%C3%A9oscope)
 
 Les lentilles qui déforme (le ou) les écrans à l'intérieur du casque afin d'avoir mise au point adéquate (qui serait sinon impossible avec un écran si proche des yeux).
 
-- **Centre optique (sweet spot)** : afin d'avoir une vision claire, il faut que la lumière soit peu déviée par la lentille (ou correctement déviée pour ne pas être perceptible). Les lentilles des casques VR doivent avoir un grand diamètre car plus le centre optique d’un casque est réduit, plus l’œil aura besoin d’un alignement précis pour avoir une vision claire. La distance entre les pupilles des utilisateurs varie grandement. Pour pallier à ce problème il y a généralement des cadres tenants les lentilles, le tout connecté à des molettes. Ces dernières permettent à l’utilisateur d’ajuster les verres à sa vue. En d’autres termes, ajuster le centre optique à sa rétine.
+- **Centre optique (sweet spot)** : afin d'avoir une vision claire (un bon focus), il faut que la lentille soit correcte. Les lentilles des casques VR doivent avoir un grand diamètre car plus le centre optique d’un casque est réduit, plus l’œil aura besoin d’un alignement précis pour avoir une vision claire. La distance entre les pupilles des utilisateurs varie grandement. Pour pallier à ce problème il y a généralement des cadres tenants les lentilles, le tout connecté à des molettes. Ces dernières permettent à l’utilisateur d’ajuster les verres à sa vue. En d’autres termes, ajuster le centre optique à sa rétine.
 
 - **Glare et "God rays"**:  En cas de scène à fort forts contrastes, les couleurs clair (le blanc principalement) "bave". On voit comme des rayons lumineux (God Rays). La cause: Les lentilles Fresnel utilisé dans dans le casques. Solution: limiter les forts contrastes dans les scènes VR.
 
@@ -227,7 +227,7 @@ En savoir plus: [VR positional Audio](https://realnewworld.com/vr-positional-aud
 - [Geek.com](https://www.geek.com/news/the-history-of-virtual-reality-games-1652225/)
 - [Changing the world: DARPA’s top inventions](https://www.extremetech.com/extreme/105117-inventing-our-world-darpas-top-inventions/2)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMTkwMzMzMywtMTA3NzU3Nzk0NywtMz
+eyJoaXN0b3J5IjpbMjEyMTgzOTMzMiwtMTA3NzU3Nzk0NywtMz
 g5MDY3MDUyLC0xMzg4MDY5Njg0LC0xMjQyNTgzODczLDE0MDU1
 MzMwMDYsLTIxNzA4MzY4OCwxNTU2OTA4MDI0LDE5NzAxNzI0MD
 csMTQ4MTk5Mjg0NSwtOTQzMjQ2NDMwLDE4ODkzOTk2NCwtMzcw
