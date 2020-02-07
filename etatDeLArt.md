@@ -200,7 +200,7 @@ Si toutefois on opte pour des déplacements libres de la caméra via un contrôl
 
 ### Autres artifices
 
-Si l'espace VR est de taille identique ou plus petit que l'espace réel, il n'y a pas trop de problème de déplacement. Il suffit à l'utilisateur de se déplacer dans la réalité pour être déplacé dans la VR de manière identique en utilisant simplement le système de positionnement du casque. Bien sûr pour que cela soit praticable, il faut que l'application aie connaissance de la taille réel de l'espace disponible par le joueur. L'expérience immersive [theBlu]([https://wevr(https://wevr.com/theblu)) 
+Si l'espace VR est de taille identique ou plus petit que l'espace réel, il n'y a pas trop de problème de déplacement. Il suffit à l'utilisateur de se déplacer dans la réalité pour être déplacé dans la VR de manière identique en utilisant simplement le système de positionnement du casque. Bien sûr pour que cela soit praticable, il faut que l'application aie connaissance de la taille réel de l'espace disponible par le joueur. Dans l'expérience immersive [theBlu](https://wevr.com/theblu) par exemple,  la zone d'exploration sous-marine est générée au début de l’expérience pour que sa taille soit identique à la zone réel de l'utilisateur. 
 
 Toutefois, si l'espace VR est plus grand que l'espace réel, il existe des méthodes pour éviter de devoir déplacer la caméra de l'utilisateur :
 
@@ -246,11 +246,11 @@ En savoir plus: [VR positional Audio](https://realnewworld.com/vr-positional-aud
 - [Geek.com](https://www.geek.com/news/the-history-of-virtual-reality-games-1652225/)
 - [Changing the world: DARPA’s top inventions](https://www.extremetech.com/extreme/105117-inventing-our-world-darpas-top-inventions/2)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM0MTcxMzY3MSwtOTQzMjQ2NDMwLDE4OD
-kzOTk2NCwtMzcwNjcwOTcxLC0xNjMxMTM2Mjk4LC0xNzA0MTI1
-MDg3LC00OTU0NzY4NDMsMTM2ODk5MzE3MiwxNjk2NzA3NjAwLC
-0xODE5MTY5NzkzLDI5OTMwMjMxMiwtMTk3OTQ4NjAzOSwtMjEx
-OTMzODAwNCw1NTE3NTg1NjQsLTEyODU1NzMzMDIsNDY2MzQ5NT
-U0LC0yODA5NDA5NTAsNjc2MzQ5Mjc5LDE4MDUzMDQ2ODUsMTM2
-MTEzNTM3NV19
+eyJoaXN0b3J5IjpbMjYwMTcyMzg1LC05NDMyNDY0MzAsMTg4OT
+M5OTY0LC0zNzA2NzA5NzEsLTE2MzExMzYyOTgsLTE3MDQxMjUw
+ODcsLTQ5NTQ3Njg0MywxMzY4OTkzMTcyLDE2OTY3MDc2MDAsLT
+E4MTkxNjk3OTMsMjk5MzAyMzEyLC0xOTc5NDg2MDM5LC0yMTE5
+MzM4MDA0LDU1MTc1ODU2NCwtMTI4NTU3MzMwMiw0NjYzNDk1NT
+QsLTI4MDk0MDk1MCw2NzYzNDkyNzksMTgwNTMwNDY4NSwxMzYx
+MTM1Mzc1XX0=
 -->
