@@ -117,8 +117,8 @@ XIXe s. - [Stéréoscopes](https://fr.wikipedia.org/wiki/St%C3%A9r%C3%A9oscope)
 
 ### Le casque
 
-- poids
-- casques autonomes versus casques reliés (liberté vs performance)
+- Confort (poids, lunettes, transpiration, mise en place, ...)
+- Casques autonomes versus casques reliés (liberté vs performance)
 
 ### Les  écrans
 
@@ -243,11 +243,11 @@ En savoir plus: [VR positional Audio](https://realnewworld.com/vr-positional-aud
 - [Geek.com](https://www.geek.com/news/the-history-of-virtual-reality-games-1652225/)
 - [Changing the world: DARPA’s top inventions](https://www.extremetech.com/extreme/105117-inventing-our-world-darpas-top-inventions/2)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTM3MzEzOTk2LC0zODkwNjcwNTIsLTEzOD
-gwNjk2ODQsLTEyNDI1ODM4NzMsMTQwNTUzMzAwNiwtMjE3MDgz
-Njg4LDE1NTY5MDgwMjQsMTk3MDE3MjQwNywxNDgxOTkyODQ1LC
-05NDMyNDY0MzAsMTg4OTM5OTY0LC0zNzA2NzA5NzEsLTE2MzEx
-MzYyOTgsLTE3MDQxMjUwODcsLTQ5NTQ3Njg0MywxMzY4OTkzMT
-cyLDE2OTY3MDc2MDAsLTE4MTkxNjk3OTMsMjk5MzAyMzEyLC0x
-OTc5NDg2MDM5XX0=
+eyJoaXN0b3J5IjpbLTEzODk2NDc0MzQsLTM4OTA2NzA1MiwtMT
+M4ODA2OTY4NCwtMTI0MjU4Mzg3MywxNDA1NTMzMDA2LC0yMTcw
+ODM2ODgsMTU1NjkwODAyNCwxOTcwMTcyNDA3LDE0ODE5OTI4ND
+UsLTk0MzI0NjQzMCwxODg5Mzk5NjQsLTM3MDY3MDk3MSwtMTYz
+MTEzNjI5OCwtMTcwNDEyNTA4NywtNDk1NDc2ODQzLDEzNjg5OT
+MxNzIsMTY5NjcwNzYwMCwtMTgxOTE2OTc5MywyOTkzMDIzMTIs
+LTE5Nzk0ODYwMzldfQ==
 -->
