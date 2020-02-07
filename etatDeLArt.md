@@ -179,7 +179,7 @@ Si l'on veut tout de même déplacer l'avatar de l'utilisateur (et donc sa camé
 
 Elle ne provoque généralement pas d’inconfort, mais elle peut casser l’immersion si elle n'est pas *scénarisée* dans l'application. C'est la solution la plus utilisée dans les applications VR d'aujourd'hui. On la retrouve sous différentes variantes dont voici quelques exemples concrets:
 
- - **Téléportation simple**:  l'avatar est simplement téléporté vers la destination. Elle est souvent soit **libre**: l'utilisateur choisit sa destination pour la téléportation dans l'espace VR visible (et accessible), soit **limitée**: par une série de marqueurs de téléportation disposés dans l'espace VR. Un bon exemple de téléportation limitée est l'application [Welcome to Light Fields](https://www.blog.google/products/google-ar-vr/experimenting-light-fields/) de Google. En effet puisque l'application est basé sur de la [photogrammétrie](https://fr.wikipedia.org/wiki/Photogramm%C3%A9trie), l'espace VR n'est pas pleinement explorable. L'utilisateur se téléporte alors d'un point de vue à un autre, où les points de téléportation sont les endroits ou les *photos* ont été prises. Cette méthode est utilisée par la plupart des 
+ - **Téléportation simple**:  l'avatar est simplement téléporté vers la destination. Elle est souvent soit **libre**: l'utilisateur choisit sa destination pour la téléportation dans l'espace VR visible (et accessible), soit **limitée**: par une série de marqueurs de téléportation disposés dans l'espace VR. La téléportation limitée est souvent utilisée lors de l'utilisation de la  [photogrammétrie](https://fr.wikipedia.org/wiki/Photogramm%C3%A9trie) l'application [Welcome to Light Fields](https://www.blog.google/products/google-ar-vr/experimenting-light-fields/) de Google. En effet puisque l'application est basé sur de la, l'espace VR n'est pas pleinement explorable. L'utilisateur se téléporte alors d'un point de vue à un autre, où les points de téléportation sont les endroits ou les *photos* ont été prises. 
  
  - **Portails de téléportation**:  
  
@@ -231,11 +231,11 @@ En savoir plus: [VR positional Audio](https://realnewworld.com/vr-positional-aud
 - [Geek.com](https://www.geek.com/news/the-history-of-virtual-reality-games-1652225/)
 - [Changing the world: DARPA’s top inventions](https://www.extremetech.com/extreme/105117-inventing-our-world-darpas-top-inventions/2)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMzYyNDYzNDMsNTUxNzU4NTY0LC0xMj
-g1NTczMzAyLDQ2NjM0OTU1NCwtMjgwOTQwOTUwLDY3NjM0OTI3
-OSwxODA1MzA0Njg1LDEzNjExMzUzNzUsMTc5MDE3NDcwNSwtMT
-MxMjI4ODE1MywtMTg1NzkyMTU4OSwxNTcxMzIwMDgzLC0xNjAx
-NjA3MjY2LC0xOTUzNTg0MTE3LC04MDU1MzA4OTgsLTE4ODQzOD
-I4MDEsMjAyMzU3NDI4MCwxODc4NzczMTQsLTY4NDc1NTgxNSw1
-NzI3NTk4MzNdfQ==
+eyJoaXN0b3J5IjpbLTIxNTYwOTI0Myw1NTE3NTg1NjQsLTEyOD
+U1NzMzMDIsNDY2MzQ5NTU0LC0yODA5NDA5NTAsNjc2MzQ5Mjc5
+LDE4MDUzMDQ2ODUsMTM2MTEzNTM3NSwxNzkwMTc0NzA1LC0xMz
+EyMjg4MTUzLC0xODU3OTIxNTg5LDE1NzEzMjAwODMsLTE2MDE2
+MDcyNjYsLTE5NTM1ODQxMTcsLTgwNTUzMDg5OCwtMTg4NDM4Mj
+gwMSwyMDIzNTc0MjgwLDE4Nzg3NzMxNCwtNjg0NzU1ODE1LDU3
+Mjc1OTgzM119
 -->
