@@ -5,7 +5,6 @@
 - [Les applications actuelles et futures de la VR](#application-vr)
 - [Historique](#histo)
 - [Le matériel VR](#materiel)
-- Exemples d'app à succès
 - Immersion
 - [Déplacements](#movements)
 - Performances graphiques
@@ -104,18 +103,6 @@ XIXe s. - [Stéréoscopes](https://fr.wikipedia.org/wiki/St%C3%A9r%C3%A9oscope)
 | Oculus Go           | Standalone | ❌   | ✔️          | ❌               |
 | Google Cardboard    | Android    | ❌   | ❌         | ❌                |
 | Sony Playstation VR | Playstation| ✔️    | ✔️           | ✔️                |
-
-# Quelques applications de références
-
-- [Beat Saber](https://beatsaber.com/)
-- Inclut: musique, espace, profondeur
-- Sans textes, sans déplacements du joueur (ou légers)
-- Dispo: Steam, oculus store, PS, Humble bundle
-- [Google earth VR](https://www.youtube.com/watch?v=SCrkZOx5Q1M&feature=youtu.be)
-- Interface intéressante: déplacer le soleil (jour/nuit)
-- Pas de téléportation, on amène l'endroit choisi à soi
-
-De manière générale, une application VR ne doit pas permettre de prendre le contrôle de la caméra. Problème: [mal du voyage ou motion sickness](https://en.wikipedia.org/wiki/Virtual_reality_sickness).
 
 # Etat de l'art: Immersion
 
@@ -239,11 +226,11 @@ En savoir plus: [VR positional Audio](https://realnewworld.com/vr-positional-aud
 - [Geek.com](https://www.geek.com/news/the-history-of-virtual-reality-games-1652225/)
 - [Changing the world: DARPA’s top inventions](https://www.extremetech.com/extreme/105117-inventing-our-world-darpas-top-inventions/2)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzODgwNjk2ODQsLTEyNDI1ODM4NzMsMT
-QwNTUzMzAwNiwtMjE3MDgzNjg4LDE1NTY5MDgwMjQsMTk3MDE3
-MjQwNywxNDgxOTkyODQ1LC05NDMyNDY0MzAsMTg4OTM5OTY0LC
-0zNzA2NzA5NzEsLTE2MzExMzYyOTgsLTE3MDQxMjUwODcsLTQ5
-NTQ3Njg0MywxMzY4OTkzMTcyLDE2OTY3MDc2MDAsLTE4MTkxNj
-k3OTMsMjk5MzAyMzEyLC0xOTc5NDg2MDM5LC0yMTE5MzM4MDA0
-LDU1MTc1ODU2NF19
+eyJoaXN0b3J5IjpbLTE5MzExMTQ2MjEsLTEzODgwNjk2ODQsLT
+EyNDI1ODM4NzMsMTQwNTUzMzAwNiwtMjE3MDgzNjg4LDE1NTY5
+MDgwMjQsMTk3MDE3MjQwNywxNDgxOTkyODQ1LC05NDMyNDY0Mz
+AsMTg4OTM5OTY0LC0zNzA2NzA5NzEsLTE2MzExMzYyOTgsLTE3
+MDQxMjUwODcsLTQ5NTQ3Njg0MywxMzY4OTkzMTcyLDE2OTY3MD
+c2MDAsLTE4MTkxNjk3OTMsMjk5MzAyMzEyLC0xOTc5NDg2MDM5
+LC0yMTE5MzM4MDA0XX0=
 -->
