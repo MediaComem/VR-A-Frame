@@ -179,7 +179,7 @@ Si l'on veut tout de même déplacer l'avatar de l'utilisateur (et donc sa camé
 
 Elle ne provoque généralement pas d’inconfort, mais elle peut casser l’immersion si elle n'est pas *scénarisée* dans l'application. C'est la solution la plus utilisée dans les applications VR d'aujourd'hui. On la retrouve sous différentes variantes dont voici quelques exemples concrets:
 
- - **Téléportation simple**:  l'avatar est simplement téléporté vers la destination. Elle est souvent soit libre: l'utilisateur choisit sa destination pour la téléportation dans l'espace VR visible (et accessible), soit limitée: par une série de marqueurs de téléportation disposés dans l'espace VR. Un très bon exemple de téléportation limité est l'application "
+ - **Téléportation simple**:  l'avatar est simplement téléporté vers la destination. Elle est souvent soit libre: l'utilisateur choisit sa destination pour la téléportation dans l'espace VR visible (et accessible), soit limitée: par une série de marqueurs de téléportation disposés dans l'espace VR. Un bon exemple de téléportation limitée est l'application [Welcome to Light Fields](https://www.blog.google/products/google-ar-vr/experimenting-light-fields/) de Google. En effet puisque la chose est b
  
  - **Portails de téléportation**:  
  
@@ -231,11 +231,11 @@ En savoir plus: [VR positional Audio](https://realnewworld.com/vr-positional-aud
 - [Geek.com](https://www.geek.com/news/the-history-of-virtual-reality-games-1652225/)
 - [Changing the world: DARPA’s top inventions](https://www.extremetech.com/extreme/105117-inventing-our-world-darpas-top-inventions/2)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ3Mjg3MzgxMywtMTI4NTU3MzMwMiw0Nj
-YzNDk1NTQsLTI4MDk0MDk1MCw2NzYzNDkyNzksMTgwNTMwNDY4
-NSwxMzYxMTM1Mzc1LDE3OTAxNzQ3MDUsLTEzMTIyODgxNTMsLT
-E4NTc5MjE1ODksMTU3MTMyMDA4MywtMTYwMTYwNzI2NiwtMTk1
-MzU4NDExNywtODA1NTMwODk4LC0xODg0MzgyODAxLDIwMjM1Nz
-QyODAsMTg3ODc3MzE0LC02ODQ3NTU4MTUsNTcyNzU5ODMzLC0y
-MDY2MjgwNTY5XX0=
+eyJoaXN0b3J5IjpbLTEyNTIyMTM1NzcsLTEyODU1NzMzMDIsND
+Y2MzQ5NTU0LC0yODA5NDA5NTAsNjc2MzQ5Mjc5LDE4MDUzMDQ2
+ODUsMTM2MTEzNTM3NSwxNzkwMTc0NzA1LC0xMzEyMjg4MTUzLC
+0xODU3OTIxNTg5LDE1NzEzMjAwODMsLTE2MDE2MDcyNjYsLTE5
+NTM1ODQxMTcsLTgwNTUzMDg5OCwtMTg4NDM4MjgwMSwyMDIzNT
+c0MjgwLDE4Nzg3NzMxNCwtNjg0NzU1ODE1LDU3Mjc1OTgzMywt
+MjA2NjI4MDU2OV19
 -->
