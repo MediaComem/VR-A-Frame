@@ -135,12 +135,6 @@ XIXe s. - [Stéréoscopes](https://fr.wikipedia.org/wiki/St%C3%A9r%C3%A9oscope)
 
 ![Aliasing](https://upload.wikimedia.org/wikipedia/commons/2/24/Antialiasing_comparaison.gif)
 
-- **Glare et "God rays"**:  En cas de forts contrastes, ça "bave". On voit les rayons lumineux.
-- Cause: Les lentilles dans le casques.
-- Solution: limiter les forts contraste dans le design du jeu/de l'app.
-
-![Glare](http://i.vimeocdn.com/video/569557579_1280.jpg)
-
 
 ### Les lentilles
 
@@ -226,11 +220,11 @@ En savoir plus: [VR positional Audio](https://realnewworld.com/vr-positional-aud
 - [Geek.com](https://www.geek.com/news/the-history-of-virtual-reality-games-1652225/)
 - [Changing the world: DARPA’s top inventions](https://www.extremetech.com/extreme/105117-inventing-our-world-darpas-top-inventions/2)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExOTEwNTk2MDIsLTM4OTA2NzA1MiwtMT
-M4ODA2OTY4NCwtMTI0MjU4Mzg3MywxNDA1NTMzMDA2LC0yMTcw
-ODM2ODgsMTU1NjkwODAyNCwxOTcwMTcyNDA3LDE0ODE5OTI4ND
-UsLTk0MzI0NjQzMCwxODg5Mzk5NjQsLTM3MDY3MDk3MSwtMTYz
-MTEzNjI5OCwtMTcwNDEyNTA4NywtNDk1NDc2ODQzLDEzNjg5OT
-MxNzIsMTY5NjcwNzYwMCwtMTgxOTE2OTc5MywyOTkzMDIzMTIs
-LTE5Nzk0ODYwMzldfQ==
+eyJoaXN0b3J5IjpbMjEwOTUyODMzMiwtMzg5MDY3MDUyLC0xMz
+g4MDY5Njg0LC0xMjQyNTgzODczLDE0MDU1MzMwMDYsLTIxNzA4
+MzY4OCwxNTU2OTA4MDI0LDE5NzAxNzI0MDcsMTQ4MTk5Mjg0NS
+wtOTQzMjQ2NDMwLDE4ODkzOTk2NCwtMzcwNjcwOTcxLC0xNjMx
+MTM2Mjk4LC0xNzA0MTI1MDg3LC00OTU0NzY4NDMsMTM2ODk5Mz
+E3MiwxNjk2NzA3NjAwLC0xODE5MTY5NzkzLDI5OTMwMjMxMiwt
+MTk3OTQ4NjAzOV19
 -->
