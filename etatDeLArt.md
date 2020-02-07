@@ -162,13 +162,18 @@ De manière générale, une application VR ne doit pas permettre de prendre le c
 # Etat de l'art: Déplacements
 
 ### Principales problématiques:
-- Mal du voyage (*motion sickness*) lorsque le déplacement visualisé est décalé de celui contrôlé par l'utilisateur.
+- Mal du voyage ( *cinétose* ) lorsque le déplacement visualisé est décalé de celui contrôlé par l'utilisateur.
 - L'espace réel est souvent restreint à une petite partie d'une pièce, souvent entre 1 et 3 [m^2] alors que l'espace virtuel peut être d'une taille quelconque. 
 - L'espace réel peut contenir des obstacles aux déplacements qui seront invisibles en VR. Et inversement, une chaise dans la réalité virtuelle ne sera peut être pas physiquement présente dans la réalité.
+
+### Mal du voyage
+
 
 ### Comment garder le réalisme des déplacements, sans les permettre en réalité ?
 
 ### Différentes solutions
+
+
 - **Le chaperon**: faire des murs virtuels quand y a des murs en realité. Mais qu'en est-il pour les mondes infinis ?
 - Utiliser des **véhicules**: l'utilisateur reste sur place en réalité, c'est le véhicule qui se déplace dans le virtuel.
 - **La téléportation**: l'utilisateur ne bouge pas.
@@ -211,10 +216,11 @@ En savoir plus: [VR positional Audio](https://realnewworld.com/vr-positional-aud
 - [Geek.com](https://www.geek.com/news/the-history-of-virtual-reality-games-1652225/)
 - [Changing the world: DARPA’s top inventions](https://www.extremetech.com/extreme/105117-inventing-our-world-darpas-top-inventions/2)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc5MDE3NDcwNSwtMTMxMjI4ODE1MywtMT
-g1NzkyMTU4OSwxNTcxMzIwMDgzLC0xNjAxNjA3MjY2LC0xOTUz
-NTg0MTE3LC04MDU1MzA4OTgsLTE4ODQzODI4MDEsMjAyMzU3ND
-I4MCwxODc4NzczMTQsLTY4NDc1NTgxNSw1NzI3NTk4MzMsLTIw
-NjYyODA1NjksLTE2NjYyMDY0MTEsLTIwOTU2MTIwNTQsMTA3Nz
-QwODQ4NCwtMTU2NzE0NjA4MywtODgwMTYxMzEyXX0=
+eyJoaXN0b3J5IjpbMTA4Mzg0NDk3MSwxNzkwMTc0NzA1LC0xMz
+EyMjg4MTUzLC0xODU3OTIxNTg5LDE1NzEzMjAwODMsLTE2MDE2
+MDcyNjYsLTE5NTM1ODQxMTcsLTgwNTUzMDg5OCwtMTg4NDM4Mj
+gwMSwyMDIzNTc0MjgwLDE4Nzg3NzMxNCwtNjg0NzU1ODE1LDU3
+Mjc1OTgzMywtMjA2NjI4MDU2OSwtMTY2NjIwNjQxMSwtMjA5NT
+YxMjA1NCwxMDc3NDA4NDg0LC0xNTY3MTQ2MDgzLC04ODAxNjEz
+MTJdfQ==
 -->
