@@ -196,8 +196,6 @@ Elle ne provoque généralement pas d’inconfort, mais elle peut casser l’imm
 - **Déplacements libres** (avec flou autour de la zone fovéale ou autres méthodes): Si toutefois on opte pour des déplacements libres de la caméra  
 Autre exemple, le jeu [Raw Data](https://survios.com/rawdata/) utilise un système de *sprint* (ou *dash*) très rapide à la place de la téléportation. L'effet est quasi identique mais brise moins l'immersion. Attention toutefois, pour que cela ne provoque pas trop la *cinétose* la vision doit être floutée autour de la zone fovéale (voir plus bas pour un autre exemple de ce genre d'artifice).
 
-- **Artifices divers** : l'on peut imaginer beaucoup  d'autres moyens pour déplacer l'utilisateur  Drag and drop** : 
-
 
 ## Autres systèmes de déplacements
 
@@ -206,7 +204,10 @@ Si l'espace VR est de taille identique ou plus petit que l'espace réel, il n'y 
 Toutefois, si l'espace VR est plus grand que l'espace réel, il existe des méthodes pour éviter de devoir déplacer la caméra de l'utilisateur :
 
 - **[Rediect walking](https://www.youtube.com/watch?v=u8pw81VbMUU)**: fausser la perception de l'esprit avec un décalage mouvements réels/virtuels.
+
 - **Suites de mouvements adaptées à l'univers**, pensés pour que l'utilisateur revienne sur ses pas, et reste dans un espace restreint.
+ 
+- **Drag and drop** : 
 
 - **Overlapping** des salles pour fausser l'esprit: jeu des distances. Difficile pour le cerveau de se représenter les distances.
 
@@ -244,11 +245,11 @@ En savoir plus: [VR positional Audio](https://realnewworld.com/vr-positional-aud
 - [Geek.com](https://www.geek.com/news/the-history-of-virtual-reality-games-1652225/)
 - [Changing the world: DARPA’s top inventions](https://www.extremetech.com/extreme/105117-inventing-our-world-darpas-top-inventions/2)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMjM0NjcwMzMsLTM3MDY3MDk3MSwtMT
-YzMTEzNjI5OCwtMTcwNDEyNTA4NywtNDk1NDc2ODQzLDEzNjg5
-OTMxNzIsMTY5NjcwNzYwMCwtMTgxOTE2OTc5MywyOTkzMDIzMT
-IsLTE5Nzk0ODYwMzksLTIxMTkzMzgwMDQsNTUxNzU4NTY0LC0x
-Mjg1NTczMzAyLDQ2NjM0OTU1NCwtMjgwOTQwOTUwLDY3NjM0OT
-I3OSwxODA1MzA0Njg1LDEzNjExMzUzNzUsMTc5MDE3NDcwNSwt
-MTMxMjI4ODE1M119
+eyJoaXN0b3J5IjpbMTg4OTM5OTY0LC0zNzA2NzA5NzEsLTE2Mz
+ExMzYyOTgsLTE3MDQxMjUwODcsLTQ5NTQ3Njg0MywxMzY4OTkz
+MTcyLDE2OTY3MDc2MDAsLTE4MTkxNjk3OTMsMjk5MzAyMzEyLC
+0xOTc5NDg2MDM5LC0yMTE5MzM4MDA0LDU1MTc1ODU2NCwtMTI4
+NTU3MzMwMiw0NjYzNDk1NTQsLTI4MDk0MDk1MCw2NzYzNDkyNz
+ksMTgwNTMwNDY4NSwxMzYxMTM1Mzc1LDE3OTAxNzQ3MDUsLTEz
+MTIyODgxNTNdfQ==
 -->
