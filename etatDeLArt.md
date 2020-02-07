@@ -162,14 +162,14 @@ De manière générale, une application VR ne doit pas permettre de prendre le c
 # Etat de l'art: Déplacements
 
 ### Principales problématiques:
-- Mal du voyage ( *cinétose* ) lorsque le déplacement visualisé est décalé de celui contrôlé par l'utilisateur.
+- Mal des transports ( *cinétose* ) lorsque le déplacement visualisé est décalé de celui contrôlé par l'utilisateur.
 - L'espace réel est souvent restreint à une petite partie d'une pièce, souvent entre 1 et 3 [m^2] alors que l'espace virtuel peut être d'une taille quelconque. 
 - L'espace réel peut contenir des obstacles aux déplacements qui seront invisibles en VR. Et inversement, une chaise dans la réalité virtuelle ne sera peut être pas physiquement présente dans la réalité.
 
 ### Cinétose
 Une des principales règles pour éviter ce problème et de ne jamais prendre le contrôle de la caméra et donc de la laisser être contrôlée par les mouvements du casque VR. 
 
-Si l'on doit déplacer l'avatar de l'utilisateur dans la VR, il va falloir t
+Si l'on veut tout de même déplacer l'avatar de l'utilisateur dans la VR sans que celui-ci se déplace dans la réalité, il va falloir trouver des "trucs" pour le faire de la
 
 
 ### Comment garder le réalisme des déplacements, sans les permettre en réalité ?
@@ -219,11 +219,11 @@ En savoir plus: [VR positional Audio](https://realnewworld.com/vr-positional-aud
 - [Geek.com](https://www.geek.com/news/the-history-of-virtual-reality-games-1652225/)
 - [Changing the world: DARPA’s top inventions](https://www.extremetech.com/extreme/105117-inventing-our-world-darpas-top-inventions/2)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc1NDU0NDQxMCwxNzkwMTc0NzA1LC0xMz
-EyMjg4MTUzLC0xODU3OTIxNTg5LDE1NzEzMjAwODMsLTE2MDE2
-MDcyNjYsLTE5NTM1ODQxMTcsLTgwNTUzMDg5OCwtMTg4NDM4Mj
-gwMSwyMDIzNTc0MjgwLDE4Nzg3NzMxNCwtNjg0NzU1ODE1LDU3
-Mjc1OTgzMywtMjA2NjI4MDU2OSwtMTY2NjIwNjQxMSwtMjA5NT
-YxMjA1NCwxMDc3NDA4NDg0LC0xNTY3MTQ2MDgzLC04ODAxNjEz
-MTJdfQ==
+eyJoaXN0b3J5IjpbLTE0NDg4MzAzODIsMTc5MDE3NDcwNSwtMT
+MxMjI4ODE1MywtMTg1NzkyMTU4OSwxNTcxMzIwMDgzLC0xNjAx
+NjA3MjY2LC0xOTUzNTg0MTE3LC04MDU1MzA4OTgsLTE4ODQzOD
+I4MDEsMjAyMzU3NDI4MCwxODc4NzczMTQsLTY4NDc1NTgxNSw1
+NzI3NTk4MzMsLTIwNjYyODA1NjksLTE2NjYyMDY0MTEsLTIwOT
+U2MTIwNTQsMTA3NzQwODQ4NCwtMTU2NzE0NjA4MywtODgwMTYx
+MzEyXX0=
 -->
