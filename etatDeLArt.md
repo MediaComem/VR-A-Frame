@@ -187,7 +187,8 @@ Elle ne provoque généralement pas d’inconfort, mais elle peut casser l’imm
  ![budget cut](./img/budget_cut.png)
  
  
- - **Autres systèmes** :  
+ - **Autres systèmes** :  on peut imaginer d'autres systèmes de téléportation que ceux précités. Par exemple, le système de téléportation du jeu [The Gallery]
+
  ### Flou basé sur le champ de vision (FOV) 
 
 Toutefois, et même si l'espace VR est plus grand que l'espace réel, il existe d'autres méthodes pour éviter de devoir déplacer la caméra de l'utilisateur:
@@ -236,11 +237,11 @@ En savoir plus: [VR positional Audio](https://realnewworld.com/vr-positional-aud
 - [Geek.com](https://www.geek.com/news/the-history-of-virtual-reality-games-1652225/)
 - [Changing the world: DARPA’s top inventions](https://www.extremetech.com/extreme/105117-inventing-our-world-darpas-top-inventions/2)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ5NTQ3Njg0MywxMzY4OTkzMTcyLDE2OT
-Y3MDc2MDAsLTE4MTkxNjk3OTMsMjk5MzAyMzEyLC0xOTc5NDg2
-MDM5LC0yMTE5MzM4MDA0LDU1MTc1ODU2NCwtMTI4NTU3MzMwMi
-w0NjYzNDk1NTQsLTI4MDk0MDk1MCw2NzYzNDkyNzksMTgwNTMw
-NDY4NSwxMzYxMTM1Mzc1LDE3OTAxNzQ3MDUsLTEzMTIyODgxNT
-MsLTE4NTc5MjE1ODksMTU3MTMyMDA4MywtMTYwMTYwNzI2Niwt
-MTk1MzU4NDExN119
+eyJoaXN0b3J5IjpbLTg0NjU3Mjc0NywtNDk1NDc2ODQzLDEzNj
+g5OTMxNzIsMTY5NjcwNzYwMCwtMTgxOTE2OTc5MywyOTkzMDIz
+MTIsLTE5Nzk0ODYwMzksLTIxMTkzMzgwMDQsNTUxNzU4NTY0LC
+0xMjg1NTczMzAyLDQ2NjM0OTU1NCwtMjgwOTQwOTUwLDY3NjM0
+OTI3OSwxODA1MzA0Njg1LDEzNjExMzUzNzUsMTc5MDE3NDcwNS
+wtMTMxMjI4ODE1MywtMTg1NzkyMTU4OSwxNTcxMzIwMDgzLC0x
+NjAxNjA3MjY2XX0=
 -->
