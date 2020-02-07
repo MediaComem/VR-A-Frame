@@ -16,14 +16,15 @@
 ### Quelles applications à la VR ?
 
 - Marketing
-- Jeux vidéos et serious game
+- Jeux vidéos
 - Musées
 - Prototypage
 - Education/formation (médecine, ...)
 - Télétravail
 - Cinéma (animations)
+- ...
 
-#### La VR, un média qui englobe tous les autres ?
+La VR, un média qui englobe tous les autres ?
 
 ## <a name="histo"></a> Quelques exemples historiques
 
@@ -226,7 +227,7 @@ En savoir plus: [VR positional Audio](https://realnewworld.com/vr-positional-aud
 - [Geek.com](https://www.geek.com/news/the-history-of-virtual-reality-games-1652225/)
 - [Changing the world: DARPA’s top inventions](https://www.extremetech.com/extreme/105117-inventing-our-world-darpas-top-inventions/2)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA5MTI0NzQzMywtMTM4ODA2OTY4NCwtMT
+eyJoaXN0b3J5IjpbLTIxODI4MTE1OSwtMTM4ODA2OTY4NCwtMT
 I0MjU4Mzg3MywxNDA1NTMzMDA2LC0yMTcwODM2ODgsMTU1Njkw
 ODAyNCwxOTcwMTcyNDA3LDE0ODE5OTI4NDUsLTk0MzI0NjQzMC
 wxODg5Mzk5NjQsLTM3MDY3MDk3MSwtMTYzMTEzNjI5OCwtMTcw
