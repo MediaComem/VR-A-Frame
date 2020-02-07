@@ -179,7 +179,7 @@ Si l'on veut tout de même déplacer l'avatar de l'utilisateur (et donc sa camé
 
 elle ne provoque généralement pas d’inconfort, mais elle peut casser l’immersion si elle n'est pas *scénarisée* dans l'application. C'est la solution la plus utilisée dans les applications VR d'aujourd'hui. On la retrouve sous différentes variantes dont voici quelques exemples concrets:
 
- - **Téléportation simple**:  l'avatar est simplement téléporté vers la destination. Celle ci est la plupart du temps choisie par l'utilisateur via une sélection de la zone de téléportation. 
+ - **Téléportation simple**:  l'avatar est simplement téléporté vers la destination. Elle est souvent soit libre: l'utilisateur choisit sa destination pour la téléportation, soit limitée 
  -
  - 
  - 
@@ -231,7 +231,7 @@ En savoir plus: [VR positional Audio](https://realnewworld.com/vr-positional-aud
 - [Geek.com](https://www.geek.com/news/the-history-of-virtual-reality-games-1652225/)
 - [Changing the world: DARPA’s top inventions](https://www.extremetech.com/extreme/105117-inventing-our-world-darpas-top-inventions/2)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc0OTk1NjA4Myw0NjYzNDk1NTQsLTI4MD
+eyJoaXN0b3J5IjpbMTY1Njg0OTAzNCw0NjYzNDk1NTQsLTI4MD
 k0MDk1MCw2NzYzNDkyNzksMTgwNTMwNDY4NSwxMzYxMTM1Mzc1
 LDE3OTAxNzQ3MDUsLTEzMTIyODgxNTMsLTE4NTc5MjE1ODksMT
 U3MTMyMDA4MywtMTYwMTYwNzI2NiwtMTk1MzU4NDExNywtODA1
