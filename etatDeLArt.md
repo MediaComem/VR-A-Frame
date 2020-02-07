@@ -187,7 +187,7 @@ Elle ne provoque généralement pas d’inconfort, mais elle peut casser l’imm
  ![budget cut](./img/budget_cut.png)
  
  
- - **Autres systèmes** :  On peut imaginer d'autres systèmes de téléportation que ceux précités. Par exemple, le système de téléportation du jeu [The Gallery](https://en.wikipedia.org/wiki/The_Gallery_(video_game)), offre au joueur la possibilité d'orienté sa téléportation dans une direction bien précise. 
+ - **Autres systèmes** :  On peut imaginer d'autres systèmes de téléportation que ceux précités. Par exemple, le système de téléportation du jeu [The Gallery](https://en.wikipedia.org/wiki/The_Gallery_(video_game)), offre au joueur la possibilité d'orienter sa téléportation dans une direction bien précise en faisant apparaître au sol la s. 
 
  ### Flou basé sur le champ de vision (FOV) 
 
@@ -237,11 +237,11 @@ En savoir plus: [VR positional Audio](https://realnewworld.com/vr-positional-aud
 - [Geek.com](https://www.geek.com/news/the-history-of-virtual-reality-games-1652225/)
 - [Changing the world: DARPA’s top inventions](https://www.extremetech.com/extreme/105117-inventing-our-world-darpas-top-inventions/2)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDg0OTc4MjA0LC00OTU0NzY4NDMsMTM2OD
-k5MzE3MiwxNjk2NzA3NjAwLC0xODE5MTY5NzkzLDI5OTMwMjMx
-MiwtMTk3OTQ4NjAzOSwtMjExOTMzODAwNCw1NTE3NTg1NjQsLT
-EyODU1NzMzMDIsNDY2MzQ5NTU0LC0yODA5NDA5NTAsNjc2MzQ5
-Mjc5LDE4MDUzMDQ2ODUsMTM2MTEzNTM3NSwxNzkwMTc0NzA1LC
-0xMzEyMjg4MTUzLC0xODU3OTIxNTg5LDE1NzEzMjAwODMsLTE2
-MDE2MDcyNjZdfQ==
+eyJoaXN0b3J5IjpbLTE4NzcyNzM2MjcsLTQ5NTQ3Njg0MywxMz
+Y4OTkzMTcyLDE2OTY3MDc2MDAsLTE4MTkxNjk3OTMsMjk5MzAy
+MzEyLC0xOTc5NDg2MDM5LC0yMTE5MzM4MDA0LDU1MTc1ODU2NC
+wtMTI4NTU3MzMwMiw0NjYzNDk1NTQsLTI4MDk0MDk1MCw2NzYz
+NDkyNzksMTgwNTMwNDY4NSwxMzYxMTM1Mzc1LDE3OTAxNzQ3MD
+UsLTEzMTIyODgxNTMsLTE4NTc5MjE1ODksMTU3MTMyMDA4Mywt
+MTYwMTYwNzI2Nl19
 -->
