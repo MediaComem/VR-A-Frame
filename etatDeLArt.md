@@ -146,7 +146,7 @@ Les lentilles qui déforme (le ou) les écrans à l'intérieur du casque afin d'
 
 ![Glare](http://i.vimeocdn.com/video/569557579_1280.jpg)
 
-- **Lentille à focale variable** : les lentilles utilisées dans les casques actuels ne sont pas a focale variable, ainsi il n'est pas possible de recréer la vision humaine parfaitement. Les futurs lentilles (comme par exemple celle du prototype [Half Dome](https://www.oculus.com/blog/half-dome-updates-frl-explores-more-comfortable-compact-vr-prototypes-for-work), le seront. Ce système allié a celui du suivit de l'oeil (eye tracking) permettra de se rapprocher de l'idéal.
+- **Lentille à focale variable** : les lentilles utilisées dans les casques actuels ne sont pas à focale variable, ainsi il n'est pas possible de recréer exactement le même ressenti qu'en réalité. Les futurs lentilles (comme par exemple celles du prototype [Half Dome](https://www.oculus.com/blog/half-dome-updates-frl-explores-more-comfortable-compact-vr-prototypes-for-work), le seront. Ce système allié à celui du suivit de l’œil (eye tracking) permettra de se rapprocher de l'idéal.
 
 ## <a name="movements"></a>Déplacements
 
@@ -228,7 +228,7 @@ En savoir plus: [VR positional Audio](https://realnewworld.com/vr-positional-aud
 - [Geek.com](https://www.geek.com/news/the-history-of-virtual-reality-games-1652225/)
 - [Changing the world: DARPA’s top inventions](https://www.extremetech.com/extreme/105117-inventing-our-world-darpas-top-inventions/2)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY1NjcxMzU4OCwtMzgxMzM0MjY2LC0xND
+eyJoaXN0b3J5IjpbLTcxMzg4NzY4NywtMzgxMzM0MjY2LC0xND
 I5NTcwOTgzLC0xMDc3NTc3OTQ3LC0zODkwNjcwNTIsLTEzODgw
 Njk2ODQsLTEyNDI1ODM4NzMsMTQwNTUzMzAwNiwtMjE3MDgzNj
 g4LDE1NTY5MDgwMjQsMTk3MDE3MjQwNywxNDgxOTkyODQ1LC05
