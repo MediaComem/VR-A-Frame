@@ -146,7 +146,7 @@ Les lentilles qui déforme (le ou) les écrans à l'intérieur du casque afin d'
 
 ![Glare](http://i.vimeocdn.com/video/569557579_1280.jpg)
 
-- **Lentille à focale variable** : les lentilles utilisées dans les casques actuels ne sont pas a focale variable, ainsi il n'est pas possible de recréer la vision humaine parfaitement. Les futurs lentilles (comme par exemple celle du prototype [Half Dome](https://www.oculus.com/blog/half-dome-updates-frl-explores-more-comfortable-compact-vr-prototypes-for-work), le seront. Ali
+- **Lentille à focale variable** : les lentilles utilisées dans les casques actuels ne sont pas a focale variable, ainsi il n'est pas possible de recréer la vision humaine parfaitement. Les futurs lentilles (comme par exemple celle du prototype [Half Dome](https://www.oculus.com/blog/half-dome-updates-frl-explores-more-comfortable-compact-vr-prototypes-for-work), le seront. Ce système allié a celui du suivit de l'oeil (eye tracking) permettra de se rapprocher de l'idéal.
 
 ## <a name="movements"></a>Déplacements
 
@@ -228,11 +228,11 @@ En savoir plus: [VR positional Audio](https://realnewworld.com/vr-positional-aud
 - [Geek.com](https://www.geek.com/news/the-history-of-virtual-reality-games-1652225/)
 - [Changing the world: DARPA’s top inventions](https://www.extremetech.com/extreme/105117-inventing-our-world-darpas-top-inventions/2)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA3NTA4MjM4LC0zODEzMzQyNjYsLTE0Mj
-k1NzA5ODMsLTEwNzc1Nzc5NDcsLTM4OTA2NzA1MiwtMTM4ODA2
-OTY4NCwtMTI0MjU4Mzg3MywxNDA1NTMzMDA2LC0yMTcwODM2OD
-gsMTU1NjkwODAyNCwxOTcwMTcyNDA3LDE0ODE5OTI4NDUsLTk0
-MzI0NjQzMCwxODg5Mzk5NjQsLTM3MDY3MDk3MSwtMTYzMTEzNj
-I5OCwtMTcwNDEyNTA4NywtNDk1NDc2ODQzLDEzNjg5OTMxNzIs
-MTY5NjcwNzYwMF19
+eyJoaXN0b3J5IjpbLTY1NjcxMzU4OCwtMzgxMzM0MjY2LC0xND
+I5NTcwOTgzLC0xMDc3NTc3OTQ3LC0zODkwNjcwNTIsLTEzODgw
+Njk2ODQsLTEyNDI1ODM4NzMsMTQwNTUzMzAwNiwtMjE3MDgzNj
+g4LDE1NTY5MDgwMjQsMTk3MDE3MjQwNywxNDgxOTkyODQ1LC05
+NDMyNDY0MzAsMTg4OTM5OTY0LC0zNzA2NzA5NzEsLTE2MzExMz
+YyOTgsLTE3MDQxMjUwODcsLTQ5NTQ3Njg0MywxMzY4OTkzMTcy
+LDE2OTY3MDc2MDBdfQ==
 -->
