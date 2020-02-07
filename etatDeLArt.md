@@ -179,9 +179,11 @@ Voilà quelques exemples de solutions:
 
 - **La téléportation**: elle ne provoque généralement pas d’inconfort, mais elle peut casser l’immersion si elle n'est pas *scénarisée* dans l'application. 
 
-- Utiliser des **véhicules**: l'utilisateur reste sur place en réalité, c'est le véhicule qui se déplace dans le virtuel.
+- 
 
-Toutefois, et même si l'espace VR est plus grand que l'espace réeel, 
+Toutefois, et même si l'espace VR est plus grand que l'espace réel, il existe d'autres méthodes pour éviter de devoir déplacer la caméra de l'utilisateur:
+
+- Utiliser des **véhicules**: l'utilisateur reste sur place en réalité, c'est le véhicule qui se déplace dans le virtuel.
 
 
 - **Le chaperon**: faire des murs virtuels quand y a des murs en realité. Mais qu'en est-il pour les mondes infinis ?
@@ -225,7 +227,7 @@ En savoir plus: [VR positional Audio](https://realnewworld.com/vr-positional-aud
 - [Geek.com](https://www.geek.com/news/the-history-of-virtual-reality-games-1652225/)
 - [Changing the world: DARPA’s top inventions](https://www.extremetech.com/extreme/105117-inventing-our-world-darpas-top-inventions/2)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM3NDE3NzA3MSw2NzYzNDkyNzksMTgwNT
+eyJoaXN0b3J5IjpbLTI4MDk0MDk1MCw2NzYzNDkyNzksMTgwNT
 MwNDY4NSwxMzYxMTM1Mzc1LDE3OTAxNzQ3MDUsLTEzMTIyODgx
 NTMsLTE4NTc5MjE1ODksMTU3MTMyMDA4MywtMTYwMTYwNzI2Ni
 wtMTk1MzU4NDExNywtODA1NTMwODk4LC0xODg0MzgyODAxLDIw
