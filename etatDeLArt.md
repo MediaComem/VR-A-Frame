@@ -200,7 +200,7 @@ Si toutefois on opte pour des déplacements libres de la caméra via un contrôl
 
 ### Autres artifices
 
-Si l'espace VR est de taille identique ou plus petit que l'espace réel, il n'y a pas trop de problème de déplacement. Il suffit à l'utilisateur de se déplacer dans la réalité pour être déplacé dans la VR de manière identique en utilisant simplement le système de positionnement du casque. Bien sûr pour que cela soit praticable, il faut que l'application aie connaissance de la taille réel de l'espace disponible par le joueur. 
+Si l'espace VR est de taille identique ou plus petit que l'espace réel, il n'y a pas trop de problème de déplacement. Il suffit à l'utilisateur de se déplacer dans la réalité pour être déplacé dans la VR de manière identique en utilisant simplement le système de positionnement du casque. Bien sûr pour que cela soit praticable, il faut que l'application aie connaissance de la taille réel de l'espace disponible par le joueur. L
 
 Toutefois, si l'espace VR est plus grand que l'espace réel, il existe des méthodes pour éviter de devoir déplacer la caméra de l'utilisateur :
 
@@ -246,11 +246,11 @@ En savoir plus: [VR positional Audio](https://realnewworld.com/vr-positional-aud
 - [Geek.com](https://www.geek.com/news/the-history-of-virtual-reality-games-1652225/)
 - [Changing the world: DARPA’s top inventions](https://www.extremetech.com/extreme/105117-inventing-our-world-darpas-top-inventions/2)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk0MzI0NjQzMCwxODg5Mzk5NjQsLTM3MD
-Y3MDk3MSwtMTYzMTEzNjI5OCwtMTcwNDEyNTA4NywtNDk1NDc2
-ODQzLDEzNjg5OTMxNzIsMTY5NjcwNzYwMCwtMTgxOTE2OTc5My
-wyOTkzMDIzMTIsLTE5Nzk0ODYwMzksLTIxMTkzMzgwMDQsNTUx
-NzU4NTY0LC0xMjg1NTczMzAyLDQ2NjM0OTU1NCwtMjgwOTQwOT
-UwLDY3NjM0OTI3OSwxODA1MzA0Njg1LDEzNjExMzUzNzUsMTc5
-MDE3NDcwNV19
+eyJoaXN0b3J5IjpbMTYwMjIzMTIwLC05NDMyNDY0MzAsMTg4OT
+M5OTY0LC0zNzA2NzA5NzEsLTE2MzExMzYyOTgsLTE3MDQxMjUw
+ODcsLTQ5NTQ3Njg0MywxMzY4OTkzMTcyLDE2OTY3MDc2MDAsLT
+E4MTkxNjk3OTMsMjk5MzAyMzEyLC0xOTc5NDg2MDM5LC0yMTE5
+MzM4MDA0LDU1MTc1ODU2NCwtMTI4NTU3MzMwMiw0NjYzNDk1NT
+QsLTI4MDk0MDk1MCw2NzYzNDkyNzksMTgwNTMwNDY4NSwxMzYx
+MTM1Mzc1XX0=
 -->
