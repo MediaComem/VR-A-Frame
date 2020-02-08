@@ -121,7 +121,7 @@ Le casque lui même pose certains problèmes. Principalement, celui du confort. 
 
 Les casque sont parfois mal adaptés aux porteurs de lunettes. Toutefois, les lentilles peuvent être échangées avec des lentilles de correction, mais cela engendre un surcoût. 
 
-Un autre problème important est le câble des casques reliés. Les casques autonome n'ont bien sûr pas ce problème, mais leur performance graphique est encore faible. Toutefois des solutions de "streaming" haut définition entre le pc et le casque existe déjà sous la forme de module externe et vont progressivement 
+Un autre problème important est le câble des casques reliés. Les casques autonomes n'ont bien sûr pas ce problème, mais leur performance graphique est encore faible. Toutefois des solutions de "streaming" haute définition entre l'ordinateur et le casque existent déjà sous la forme de module externe et vont progressivement être intégrées directement aux casques.
 
 ### Les  écrans
 
@@ -231,11 +231,11 @@ En savoir plus: [VR positional Audio](https://realnewworld.com/vr-positional-aud
 - [Geek.com](https://www.geek.com/news/the-history-of-virtual-reality-games-1652225/)
 - [Changing the world: DARPA’s top inventions](https://www.extremetech.com/extreme/105117-inventing-our-world-darpas-top-inventions/2)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc5ODIzNjc3NSw4MjAzOTcxNDMsMTI0NT
-A1ODc2MiwxOTEzNzAyMDUzLDc4NjE4MjU3OCwtMTQ2MTY0NDM4
-MCwtMTA3MDkwMTc4NCwtMTI3OTIxODU3MSwtMTkzNDE3OTczNi
-wtMTc4MTg5OTg4OCwtMzY2MDU5NDA0LC05NTc3OTU5NSwtNzEz
-ODg3Njg3LC0zODEzMzQyNjYsLTE0Mjk1NzA5ODMsLTEwNzc1Nz
-c5NDcsLTM4OTA2NzA1MiwtMTM4ODA2OTY4NCwtMTI0MjU4Mzg3
-MywxNDA1NTMzMDA2XX0=
+eyJoaXN0b3J5IjpbMzA0OTE3Myw4MjAzOTcxNDMsMTI0NTA1OD
+c2MiwxOTEzNzAyMDUzLDc4NjE4MjU3OCwtMTQ2MTY0NDM4MCwt
+MTA3MDkwMTc4NCwtMTI3OTIxODU3MSwtMTkzNDE3OTczNiwtMT
+c4MTg5OTg4OCwtMzY2MDU5NDA0LC05NTc3OTU5NSwtNzEzODg3
+Njg3LC0zODEzMzQyNjYsLTE0Mjk1NzA5ODMsLTEwNzc1Nzc5ND
+csLTM4OTA2NzA1MiwtMTM4ODA2OTY4NCwtMTI0MjU4Mzg3Mywx
+NDA1NTMzMDA2XX0=
 -->
