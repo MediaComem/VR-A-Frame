@@ -106,7 +106,7 @@ XIXe s. - [Stéréoscopes](https://fr.wikipedia.org/wiki/St%C3%A9r%C3%A9oscope)
 
 ### Principales problématiques
 
-La réalité virtuelle actuelle, bien que bien meilleure que les essais passés (voir historique)  possède encore de nombreux freins envers une immersion idéale.
+La réalité virtuelle actuelle, bien que bien meilleure que les essais passés (voir [historique](#histo)  possède encore de nombreux freins envers une immersion idéale.
 
 ### Champ de vue (FOV)
 
@@ -230,11 +230,11 @@ En savoir plus: [VR positional Audio](https://realnewworld.com/vr-positional-aud
 - [Geek.com](https://www.geek.com/news/the-history-of-virtual-reality-games-1652225/)
 - [Changing the world: DARPA’s top inventions](https://www.extremetech.com/extreme/105117-inventing-our-world-darpas-top-inventions/2)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYxMDIxNzYxMSwtMTkzNDE3OTczNiwtMT
-c4MTg5OTg4OCwtMzY2MDU5NDA0LC05NTc3OTU5NSwtNzEzODg3
-Njg3LC0zODEzMzQyNjYsLTE0Mjk1NzA5ODMsLTEwNzc1Nzc5ND
-csLTM4OTA2NzA1MiwtMTM4ODA2OTY4NCwtMTI0MjU4Mzg3Mywx
-NDA1NTMzMDA2LC0yMTcwODM2ODgsMTU1NjkwODAyNCwxOTcwMT
-cyNDA3LDE0ODE5OTI4NDUsLTk0MzI0NjQzMCwxODg5Mzk5NjQs
-LTM3MDY3MDk3MV19
+eyJoaXN0b3J5IjpbLTEyNzkyMTg1NzEsLTE5MzQxNzk3MzYsLT
+E3ODE4OTk4ODgsLTM2NjA1OTQwNCwtOTU3Nzk1OTUsLTcxMzg4
+NzY4NywtMzgxMzM0MjY2LC0xNDI5NTcwOTgzLC0xMDc3NTc3OT
+Q3LC0zODkwNjcwNTIsLTEzODgwNjk2ODQsLTEyNDI1ODM4NzMs
+MTQwNTUzMzAwNiwtMjE3MDgzNjg4LDE1NTY5MDgwMjQsMTk3MD
+E3MjQwNywxNDgxOTkyODQ1LC05NDMyNDY0MzAsMTg4OTM5OTY0
+LC0zNzA2NzA5NzFdfQ==
 -->
