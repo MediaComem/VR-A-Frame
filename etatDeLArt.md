@@ -160,9 +160,9 @@ Les lentilles déforment (le ou) les écrans à l'intérieur du casque afin d'av
 
 ### Déplacements et "mal des transports" (cinétose)
 
-Une des principales règles pour éviter ce problème et de ne jamais prendre le contrôle de la caméra et donc de la laisser être contrôlée par le système de positionnement du casque VR.  
+Une des principales règles pour éviter ce problème et de ne jamais prendre le contrôle de la caméra (et donc de la laisser être contrôlée par le système de positionnement du casque VR).  
 
-Si l'on veut tout de même déplacer l'avatar de l'utilisateur (et donc sa caméra) dans la VR sans que celui-ci se déplace dans la réalité, il va falloir trouver des "trucs" pour le faire de la manière la plus confortable possible.  Le critère de **confort** se retrouve d'ailleurs dans la plupart des magasins d'applications VR (par ex. dans [l'oculus store](https://support.oculus.com/1639053389725739/)). Voilà quelques exemples de solutions :
+Si l'on veut tout de même déplacer l'avatar de l'utilisateur (et donc sa caméra) dans la VR sans que celui-ci se déplace dans la réalité, il va falloir trouver des astuces pour le faire de la manière la plus confortable possible.  Le critère de **confort** se retrouve d'ailleurs dans la plupart des magasins d'applications VR (par ex. dans [l'oculus store](https://support.oculus.com/1639053389725739/)). Voilà quelques exemples de solutions :
 
 ### Téléportation
 
@@ -228,11 +228,11 @@ En savoir plus: [VR positional Audio](https://realnewworld.com/vr-positional-aud
 - [Geek.com](https://www.geek.com/news/the-history-of-virtual-reality-games-1652225/)
 - [Changing the world: DARPA’s top inventions](https://www.extremetech.com/extreme/105117-inventing-our-world-darpas-top-inventions/2)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU1MDM5NTM0OCwtMzY2MDU5NDA0LC05NT
-c3OTU5NSwtNzEzODg3Njg3LC0zODEzMzQyNjYsLTE0Mjk1NzA5
-ODMsLTEwNzc1Nzc5NDcsLTM4OTA2NzA1MiwtMTM4ODA2OTY4NC
-wtMTI0MjU4Mzg3MywxNDA1NTMzMDA2LC0yMTcwODM2ODgsMTU1
-NjkwODAyNCwxOTcwMTcyNDA3LDE0ODE5OTI4NDUsLTk0MzI0Nj
-QzMCwxODg5Mzk5NjQsLTM3MDY3MDk3MSwtMTYzMTEzNjI5OCwt
-MTcwNDEyNTA4N119
+eyJoaXN0b3J5IjpbLTE3ODE4OTk4ODgsLTM2NjA1OTQwNCwtOT
+U3Nzk1OTUsLTcxMzg4NzY4NywtMzgxMzM0MjY2LC0xNDI5NTcw
+OTgzLC0xMDc3NTc3OTQ3LC0zODkwNjcwNTIsLTEzODgwNjk2OD
+QsLTEyNDI1ODM4NzMsMTQwNTUzMzAwNiwtMjE3MDgzNjg4LDE1
+NTY5MDgwMjQsMTk3MDE3MjQwNywxNDgxOTkyODQ1LC05NDMyND
+Y0MzAsMTg4OTM5OTY0LC0zNzA2NzA5NzEsLTE2MzExMzYyOTgs
+LTE3MDQxMjUwODddfQ==
 -->
