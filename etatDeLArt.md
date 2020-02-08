@@ -119,10 +119,9 @@ Le [Field of view](https://vr-lens-lab.com/field-of-view-for-virtual-reality-hea
 
 Le casque lui même pose certains problèmes. Principalement, celui du confort. Bien que s'améliorant grandement à chaque génération, le poids est encore conséquent et provoque un inconfort lors de séance prolongée. 
 
-Les casque sont parfois mal adapté aux porteurs de lunettes. Toutefois, les lentilles peuvent être échangées avec des lentilles de correction, mais cela bienengendre un surcoût. 
+Les casque sont parfois mal adaptés aux porteurs de lunettes. Toutefois, les lentilles peuvent être échangées avec des lentilles de correction, mais cela engendre un surcoût. 
 
 
-- Confort (poids, lunettes, transpiration, mise en place, ...)
 - Casques autonomes versus casques reliés (liberté vs performance)
 
 ### Les  écrans
@@ -233,7 +232,7 @@ En savoir plus: [VR positional Audio](https://realnewworld.com/vr-positional-aud
 - [Geek.com](https://www.geek.com/news/the-history-of-virtual-reality-games-1652225/)
 - [Changing the world: DARPA’s top inventions](https://www.extremetech.com/extreme/105117-inventing-our-world-darpas-top-inventions/2)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg3MzkwNjE0MywxOTEzNzAyMDUzLDc4Nj
+eyJoaXN0b3J5IjpbMTI0NTA1ODc2MiwxOTEzNzAyMDUzLDc4Nj
 E4MjU3OCwtMTQ2MTY0NDM4MCwtMTA3MDkwMTc4NCwtMTI3OTIx
 ODU3MSwtMTkzNDE3OTczNiwtMTc4MTg5OTg4OCwtMzY2MDU5ND
 A0LC05NTc3OTU5NSwtNzEzODg3Njg3LC0zODEzMzQyNjYsLTE0
