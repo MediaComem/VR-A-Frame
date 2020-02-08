@@ -136,7 +136,7 @@ Les écrans (où l'écran) utilisés par les casques posent aussi quelques probl
 
 ![Screen Door Effect](https://external-preview.redd.it/lmskdQbKiWAh14j5dxhCPn-iLTx_uBkHcwZksUQz328.jpg?auto=webp&s=93735d53c775da1b0702cb0fa8126363426f9d53)
 
-- **Aliasing**: les arrondis sont saccadés puisque les écrans utilisent des pixels,  les courbes ne sont pas possibles.  [Aliasing](https://fr.wikipedia.org/wiki/Anticr%C3%A9nelage). Il faut utiliser de bonnes techniques d'anti-aliasing (anticrénelage).
+- **Aliasing**: les arrondis sont saccadés. Puisque les écrans utilisent des pixels,  les courbes ne sont pas possibles.  [Aliasing](https://fr.wikipedia.org/wiki/Anticr%C3%A9nelage). Il faut utiliser de bonnes techniques d'anti-aliasing (anticrénelage) ou utiliser des écrans à très forte densité de pixels.
 
 ![Aliasing](https://upload.wikimedia.org/wikipedia/commons/2/24/Antialiasing_comparaison.gif)
 
@@ -233,7 +233,7 @@ En savoir plus: [VR positional Audio](https://realnewworld.com/vr-positional-aud
 - [Geek.com](https://www.geek.com/news/the-history-of-virtual-reality-games-1652225/)
 - [Changing the world: DARPA’s top inventions](https://www.extremetech.com/extreme/105117-inventing-our-world-darpas-top-inventions/2)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzEyNjI4OTgyLDgyMDM5NzE0MywxMjQ1MD
+eyJoaXN0b3J5IjpbNzg3NTQ3OTc0LDgyMDM5NzE0MywxMjQ1MD
 U4NzYyLDE5MTM3MDIwNTMsNzg2MTgyNTc4LC0xNDYxNjQ0Mzgw
 LC0xMDcwOTAxNzg0LC0xMjc5MjE4NTcxLC0xOTM0MTc5NzM2LC
 0xNzgxODk5ODg4LC0zNjYwNTk0MDQsLTk1Nzc5NTk1LC03MTM4
