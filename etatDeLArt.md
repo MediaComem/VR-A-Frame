@@ -127,12 +127,12 @@ Un autre problème important est le câble des casques reliés. Les casques auto
 
 Les écrans (où l'écran) utilisés par les casques posent aussi quelques problèmes d'immersion. Ces problèmes ne sont pas uniquement liés à la VR. Mais comme les écrans sont très proches des yeux, ils sont beaucoup plus visibles. Voici les plus importants:
 
-- **Screen Door Effect (SDE)**:   on voit le "grillage" de pixels. solution: meilleure résolution de l'écran (8K). ([Screen Door Effect](https://www.howtogeek.com/404491/what-is-the-screen-door-effect-in-vr/))
+- **Screen Door Effect (SDE)**:   on voit le "grillage" de pixels. solution: meilleure résolution de l'écran (8K) ([Screen Door Effect](https://www.howtogeek.com/404491/what-is-the-screen-door-effect-in-vr/)).
 
 ![Screen Door Effect](./img/sde.jpg)
 [*Source*](https://en.wikipedia.org/wiki/Screen-door_effect#/media/File:Screen-door_effect.jpg)
 
-- **Mura Effect**: les à-plats de couleurs ne sont pas homogènes à cause de la composition des écrans qui empêche une luminosité tout à fait régulière. ([Mura Effect](https://www.roda-computer.com/technology/mura-effect/))
+- **Mura Effect**: les à-plats de couleurs ne sont pas homogènes à cause de la composition des écrans qui empêche une luminosité tout à fait régulière ([Mura Effect](https://www.roda-computer.com/technology/mura-effect/)).
 
 ![Screen Door Effect](https://external-preview.redd.it/lmskdQbKiWAh14j5dxhCPn-iLTx_uBkHcwZksUQz328.jpg?auto=webp&s=93735d53c775da1b0702cb0fa8126363426f9d53)
 
@@ -233,11 +233,11 @@ En savoir plus: [VR positional Audio](https://realnewworld.com/vr-positional-aud
 - [Geek.com](https://www.geek.com/news/the-history-of-virtual-reality-games-1652225/)
 - [Changing the world: DARPA’s top inventions](https://www.extremetech.com/extreme/105117-inventing-our-world-darpas-top-inventions/2)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzg3NTQ3OTc0LDgyMDM5NzE0MywxMjQ1MD
-U4NzYyLDE5MTM3MDIwNTMsNzg2MTgyNTc4LC0xNDYxNjQ0Mzgw
-LC0xMDcwOTAxNzg0LC0xMjc5MjE4NTcxLC0xOTM0MTc5NzM2LC
-0xNzgxODk5ODg4LC0zNjYwNTk0MDQsLTk1Nzc5NTk1LC03MTM4
-ODc2ODcsLTM4MTMzNDI2NiwtMTQyOTU3MDk4MywtMTA3NzU3Nz
-k0NywtMzg5MDY3MDUyLC0xMzg4MDY5Njg0LC0xMjQyNTgzODcz
-LDE0MDU1MzMwMDZdfQ==
+eyJoaXN0b3J5IjpbMTEyMDY3NTA4NCw4MjAzOTcxNDMsMTI0NT
+A1ODc2MiwxOTEzNzAyMDUzLDc4NjE4MjU3OCwtMTQ2MTY0NDM4
+MCwtMTA3MDkwMTc4NCwtMTI3OTIxODU3MSwtMTkzNDE3OTczNi
+wtMTc4MTg5OTg4OCwtMzY2MDU5NDA0LC05NTc3OTU5NSwtNzEz
+ODg3Njg3LC0zODEzMzQyNjYsLTE0Mjk1NzA5ODMsLTEwNzc1Nz
+c5NDcsLTM4OTA2NzA1MiwtMTM4ODA2OTY4NCwtMTI0MjU4Mzg3
+MywxNDA1NTMzMDA2XX0=
 -->
