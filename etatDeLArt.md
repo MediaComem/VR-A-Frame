@@ -154,11 +154,11 @@ Les lentilles déforment (le ou) les écrans à l'intérieur du casque afin d'av
 
 ### Principales problématiques
 
-- Le mal des transports ( *cinétose* ): qui se produit la plupart du temps lorsque le déplacement visualisé est décalé de celui contrôlé par le système de positionnement du casque.
+- al des transports ( *cinétose* ): qui se produit la plupart du temps lorsque le déplacement visualisé est décalé de celui contrôlé par le système de positionnement du casque.
  
 - L'espace réel est souvent restreint à une petite partie d'une pièce, souvent entre 1 et 3 [m^2] alors que l'espace virtuel est d'une taille quelconque. 
 
-- L'espace réel peut contenir des obstacles qui seront invisibles en VR. Et inversement, une chaise dans la réalité virtuelle ne sera (peut-être) pas physiquement présente dans la réalité. Pour le moment, quasi tous les systèmes VR utilisent un système  de **chaperon** qui permet de faire apparaître des murs virtuels dans l'espace VR lorsque l'utilisateur s'approche d'un obstacle dans le monde réel. Toutefois très peu de ces systèmes sont capables de détecter en temps réel des obstacles mobiles comme une autre personne ou un chat ! Ce sont simplement des espaces statiques prédéfinis avant l'entrée en VR.
+- L'espace réel peut contenir des obstacles qui seront invisibles en VR. Et inversement, une chaise dans la réalité virtuelle ne sera (peut-être) pas physiquement présente dans la réalité. Pour le moment, quasi tous les systèmes VR utilisent un système  de **chaperon** qui permet de faire apparaître des murs virtuels dans l'espace VR lorsque ltsteu s'approche d'un obstacle dans le monde réel. Toutefois très peu de ces systèmes sont capables de détecter en temps réel des obstacles mobiles comme une autre personne ou un chat ! Ce sont simplement des espaces statiques prédéfinis avant l'entrée en VR.
 
 ### Déplacements et "mal des transports" (cinétose)
 
@@ -230,11 +230,11 @@ En savoir plus: [VR positional Audio](https://realnewworld.com/vr-positional-aud
 - [Geek.com](https://www.geek.com/news/the-history-of-virtual-reality-games-1652225/)
 - [Changing the world: DARPA’s top inventions](https://www.extremetech.com/extreme/105117-inventing-our-world-darpas-top-inventions/2)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNzkyMTg1NzEsLTE5MzQxNzk3MzYsLT
-E3ODE4OTk4ODgsLTM2NjA1OTQwNCwtOTU3Nzk1OTUsLTcxMzg4
-NzY4NywtMzgxMzM0MjY2LC0xNDI5NTcwOTgzLC0xMDc3NTc3OT
-Q3LC0zODkwNjcwNTIsLTEzODgwNjk2ODQsLTEyNDI1ODM4NzMs
-MTQwNTUzMzAwNiwtMjE3MDgzNjg4LDE1NTY5MDgwMjQsMTk3MD
-E3MjQwNywxNDgxOTkyODQ1LC05NDMyNDY0MzAsMTg4OTM5OTY0
-LC0zNzA2NzA5NzFdfQ==
+eyJoaXN0b3J5IjpbLTEwNzA5MDE3ODQsLTEyNzkyMTg1NzEsLT
+E5MzQxNzk3MzYsLTE3ODE4OTk4ODgsLTM2NjA1OTQwNCwtOTU3
+Nzk1OTUsLTcxMzg4NzY4NywtMzgxMzM0MjY2LC0xNDI5NTcwOT
+gzLC0xMDc3NTc3OTQ3LC0zODkwNjcwNTIsLTEzODgwNjk2ODQs
+LTEyNDI1ODM4NzMsMTQwNTUzMzAwNiwtMjE3MDgzNjg4LDE1NT
+Y5MDgwMjQsMTk3MDE3MjQwNywxNDgxOTkyODQ1LC05NDMyNDY0
+MzAsMTg4OTM5OTY0XX0=
 -->
