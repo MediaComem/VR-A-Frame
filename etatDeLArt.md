@@ -110,7 +110,8 @@ La réalité virtuelle actuelle, bien que bien meilleure que les essais passés 
 
 ### Champ de vue (FOV)
 
-Le [Field of view](https://vr-lens-lab.com/field-of-view-for-virtual-reality-headsets/) (FOV) n'est pas optimal sur les casques actuels. Il est en moyenne entre 90° et  110° alors que le FOV humain est entre  200° et 220°. On a donc une impression de masque de plongée 
+Le [Field of view](https://vr-lens-lab.com/field-of-view-for-virtual-reality-headsets/) (FOV) n'est pas optimal sur les casques actuels. Il est en moyenne entre 90° et  110° alors que le FOV humain est entre  200° et 220°. On a donc une impression de "masque de plongée" avec les casques actuelles. LEs futurs casque se devront d'atteindre le FOV humain pour une immersion adéquate.
+
 ![Field of view](./img/fov.png)
 [*Source*](https://fr.wikipedia.org/wiki/Champ_visuel#/media/Fichier:Champ_vision.svg)
 
@@ -227,7 +228,7 @@ En savoir plus: [VR positional Audio](https://realnewworld.com/vr-positional-aud
 - [Geek.com](https://www.geek.com/news/the-history-of-virtual-reality-games-1652225/)
 - [Changing the world: DARPA’s top inventions](https://www.extremetech.com/extreme/105117-inventing-our-world-darpas-top-inventions/2)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODg3MDA5NjI4LDE5MTM3MDIwNTMsNzg2MT
+eyJoaXN0b3J5IjpbMTA2MDk2MjU5LDE5MTM3MDIwNTMsNzg2MT
 gyNTc4LC0xNDYxNjQ0MzgwLC0xMDcwOTAxNzg0LC0xMjc5MjE4
 NTcxLC0xOTM0MTc5NzM2LC0xNzgxODk5ODg4LC0zNjYwNTk0MD
 QsLTk1Nzc5NTk1LC03MTM4ODc2ODcsLTM4MTMzNDI2NiwtMTQy
