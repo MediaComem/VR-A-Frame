@@ -156,7 +156,7 @@ Les lentilles déforment (le ou) les écrans à l'intérieur du casque afin d'av
  
 - L'espace réel est souvent restreint à une petite partie d'une pièce, souvent entre 1 et 3 [m^2] alors que l'espace virtuel est d'une taille quelconque. 
 
-- L'espace réel peut contenir des obstacles qui seront invisibles en VR. Et inversement, une chaise dans la réalité virtuelle ne sera (peut-être) pas physiquement présente dans la réalité. Pour le moment, quasi tous les systèmes VR utilisent un système  de **chaperon** qui permet de faire apparaître des murs virtuels dans l'espace VR lorsque l'utilisateur s'approche d'un obstacle dans le monde réel. Toutefois très peu de ces systèmes sont capables de détecter en temps réel des obstacles mobiles comme une autre personne ou un chat ! Ce sont souvent simplement des espaces prédéfinis avant l'entrée en VR.
+- L'espace réel peut contenir des obstacles qui seront invisibles en VR. Et inversement, une chaise dans la réalité virtuelle ne sera (peut-être) pas physiquement présente dans la réalité. Pour le moment, quasi tous les systèmes VR utilisent un système  de **chaperon** qui permet de faire apparaître des murs virtuels dans l'espace VR lorsque l'utilisateur s'approche d'un obstacle dans le monde réel. Toutefois très peu de ces systèmes sont capables de détecter en temps réel des obstacles mobiles comme une autre personne ou un chat ! Ce sont simplement des espaces statiques prédéfinis avant l'entrée en VR.
 
 ### Déplacements et "mal des transports" (cinétose)
 
@@ -228,11 +228,11 @@ En savoir plus: [VR positional Audio](https://realnewworld.com/vr-positional-aud
 - [Geek.com](https://www.geek.com/news/the-history-of-virtual-reality-games-1652225/)
 - [Changing the world: DARPA’s top inventions](https://www.extremetech.com/extreme/105117-inventing-our-world-darpas-top-inventions/2)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTYwOTg4ODEsLTM2NjA1OTQwNCwtOTU3Nz
-k1OTUsLTcxMzg4NzY4NywtMzgxMzM0MjY2LC0xNDI5NTcwOTgz
-LC0xMDc3NTc3OTQ3LC0zODkwNjcwNTIsLTEzODgwNjk2ODQsLT
-EyNDI1ODM4NzMsMTQwNTUzMzAwNiwtMjE3MDgzNjg4LDE1NTY5
-MDgwMjQsMTk3MDE3MjQwNywxNDgxOTkyODQ1LC05NDMyNDY0Mz
-AsMTg4OTM5OTY0LC0zNzA2NzA5NzEsLTE2MzExMzYyOTgsLTE3
-MDQxMjUwODddfQ==
+eyJoaXN0b3J5IjpbLTU1MDM5NTM0OCwtMzY2MDU5NDA0LC05NT
+c3OTU5NSwtNzEzODg3Njg3LC0zODEzMzQyNjYsLTE0Mjk1NzA5
+ODMsLTEwNzc1Nzc5NDcsLTM4OTA2NzA1MiwtMTM4ODA2OTY4NC
+wtMTI0MjU4Mzg3MywxNDA1NTMzMDA2LC0yMTcwODM2ODgsMTU1
+NjkwODAyNCwxOTcwMTcyNDA3LDE0ODE5OTI4NDUsLTk0MzI0Nj
+QzMCwxODg5Mzk5NjQsLTM3MDY3MDk3MSwtMTYzMTEzNjI5OCwt
+MTcwNDEyNTA4N119
 -->
