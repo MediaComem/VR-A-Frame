@@ -106,6 +106,8 @@ XIXe s. - [Stéréoscopes](https://fr.wikipedia.org/wiki/St%C3%A9r%C3%A9oscope)
 
 ### Principales problématiques
 
+La réalité virtuelle actuelle sou
+
 ### Champ de vue (FOV)
 
 - Le [Field of view](https://vr-lens-lab.com/field-of-view-for-virtual-reality-headsets/) (FOV) n'est pas optimal sur les casques actuels
@@ -228,11 +230,11 @@ En savoir plus: [VR positional Audio](https://realnewworld.com/vr-positional-aud
 - [Geek.com](https://www.geek.com/news/the-history-of-virtual-reality-games-1652225/)
 - [Changing the world: DARPA’s top inventions](https://www.extremetech.com/extreme/105117-inventing-our-world-darpas-top-inventions/2)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MzQxNzk3MzYsLTE3ODE4OTk4ODgsLT
-M2NjA1OTQwNCwtOTU3Nzk1OTUsLTcxMzg4NzY4NywtMzgxMzM0
-MjY2LC0xNDI5NTcwOTgzLC0xMDc3NTc3OTQ3LC0zODkwNjcwNT
-IsLTEzODgwNjk2ODQsLTEyNDI1ODM4NzMsMTQwNTUzMzAwNiwt
-MjE3MDgzNjg4LDE1NTY5MDgwMjQsMTk3MDE3MjQwNywxNDgxOT
-kyODQ1LC05NDMyNDY0MzAsMTg4OTM5OTY0LC0zNzA2NzA5NzEs
-LTE2MzExMzYyOThdfQ==
+eyJoaXN0b3J5IjpbMTQ2ODk1OTMzMywtMTkzNDE3OTczNiwtMT
+c4MTg5OTg4OCwtMzY2MDU5NDA0LC05NTc3OTU5NSwtNzEzODg3
+Njg3LC0zODEzMzQyNjYsLTE0Mjk1NzA5ODMsLTEwNzc1Nzc5ND
+csLTM4OTA2NzA1MiwtMTM4ODA2OTY4NCwtMTI0MjU4Mzg3Mywx
+NDA1NTMzMDA2LC0yMTcwODM2ODgsMTU1NjkwODAyNCwxOTcwMT
+cyNDA3LDE0ODE5OTI4NDUsLTk0MzI0NjQzMCwxODg5Mzk5NjQs
+LTM3MDY3MDk3MV19
 -->
