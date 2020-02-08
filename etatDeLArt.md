@@ -152,7 +152,7 @@ Les lentilles déforment (le ou) les écrans à l'intérieur du casque afin d'av
 
 ### Principales problématiques
 
-- Le mal des transports ( *cinétose* ): se produit lorsque le déplacement visualisé est décalé de celui contrôlé par l'utilisateur.
+- Le mal des transports ( *cinétose* ): qui se produit la plupart du temps lorsque le déplacement visualisé est décalé de celui contrôlé par le système de positionnement du casque.
  
 - L'espace réel est souvent restreint à une petite partie d'une pièce, souvent entre 1 et 3 [m^2] alors que l'espace virtuel est d'une taille quelconque. 
 
@@ -228,11 +228,11 @@ En savoir plus: [VR positional Audio](https://realnewworld.com/vr-positional-aud
 - [Geek.com](https://www.geek.com/news/the-history-of-virtual-reality-games-1652225/)
 - [Changing the world: DARPA’s top inventions](https://www.extremetech.com/extreme/105117-inventing-our-world-darpas-top-inventions/2)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM0Mzc1NjIwOSwtMzY2MDU5NDA0LC05NT
-c3OTU5NSwtNzEzODg3Njg3LC0zODEzMzQyNjYsLTE0Mjk1NzA5
-ODMsLTEwNzc1Nzc5NDcsLTM4OTA2NzA1MiwtMTM4ODA2OTY4NC
-wtMTI0MjU4Mzg3MywxNDA1NTMzMDA2LC0yMTcwODM2ODgsMTU1
-NjkwODAyNCwxOTcwMTcyNDA3LDE0ODE5OTI4NDUsLTk0MzI0Nj
-QzMCwxODg5Mzk5NjQsLTM3MDY3MDk3MSwtMTYzMTEzNjI5OCwt
-MTcwNDEyNTA4N119
+eyJoaXN0b3J5IjpbOTYwOTg4ODEsLTM2NjA1OTQwNCwtOTU3Nz
+k1OTUsLTcxMzg4NzY4NywtMzgxMzM0MjY2LC0xNDI5NTcwOTgz
+LC0xMDc3NTc3OTQ3LC0zODkwNjcwNTIsLTEzODgwNjk2ODQsLT
+EyNDI1ODM4NzMsMTQwNTUzMzAwNiwtMjE3MDgzNjg4LDE1NTY5
+MDgwMjQsMTk3MDE3MjQwNywxNDgxOTkyODQ1LC05NDMyNDY0Mz
+AsMTg4OTM5OTY0LC0zNzA2NzA5NzEsLTE2MzExMzYyOTgsLTE3
+MDQxMjUwODddfQ==
 -->
