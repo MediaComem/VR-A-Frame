@@ -125,7 +125,7 @@ Un autre problème important est le câble des casques reliés. Les casques auto
 
 ### Les  écrans
 
-Les écrans (où l'écran) utilisés par les casques posent aussi quelques problèmes d'immersion. Ces problèmes ne sont pas uniquement liés à la VR. Mais comme les écrans sont très proches des yeux, ils sont beaucoup plus visibles. Voici les plus important:
+Les écrans (où l'écran) utilisés par les casques posent aussi quelques problèmes d'immersion. Ces problèmes ne sont pas uniquement liés à la VR. Mais comme les écrans sont très proches des yeux, ils sont beaucoup plus visibles. Voici les plus importants:
 
 - **Screen Door Effect (SDE)**:   on voit le "grillage" de pixels. solution: meilleure résolution de l'écran (8K). ([Screen Door Effect](https://www.howtogeek.com/404491/what-is-the-screen-door-effect-in-vr/))
 
@@ -136,7 +136,7 @@ Les écrans (où l'écran) utilisés par les casques posent aussi quelques probl
 
 ![Screen Door Effect](https://external-preview.redd.it/lmskdQbKiWAh14j5dxhCPn-iLTx_uBkHcwZksUQz328.jpg?auto=webp&s=93735d53c775da1b0702cb0fa8126363426f9d53)
 
-- **Aliasing**: les arrondis sont saccadés puisque les pixels sont carrés, les courbes ne sont pas possibles sur l'écran et comme l'écran et très proche ces problèmes sont vite visibles.  [Aliasing](https://fr.wikipedia.org/wiki/Anticr%C3%A9nelage). Il faut utiliser de bonnes techniques d'anti-aliasing (anticrénelage) pour lisser les courbes et diagonales.
+- **Aliasing**: les arrondis sont saccadés puisque les écrans utilisent des pixels,  les courbes ne sont pas possibles.  [Aliasing](https://fr.wikipedia.org/wiki/Anticr%C3%A9nelage). Il faut utiliser de bonnes techniques d'anti-aliasing (anticrénelage).
 
 ![Aliasing](https://upload.wikimedia.org/wikipedia/commons/2/24/Antialiasing_comparaison.gif)
 
@@ -233,11 +233,11 @@ En savoir plus: [VR positional Audio](https://realnewworld.com/vr-positional-aud
 - [Geek.com](https://www.geek.com/news/the-history-of-virtual-reality-games-1652225/)
 - [Changing the world: DARPA’s top inventions](https://www.extremetech.com/extreme/105117-inventing-our-world-darpas-top-inventions/2)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MTA5NTU0MzQsODIwMzk3MTQzLDEyND
-UwNTg3NjIsMTkxMzcwMjA1Myw3ODYxODI1NzgsLTE0NjE2NDQz
-ODAsLTEwNzA5MDE3ODQsLTEyNzkyMTg1NzEsLTE5MzQxNzk3Mz
-YsLTE3ODE4OTk4ODgsLTM2NjA1OTQwNCwtOTU3Nzk1OTUsLTcx
-Mzg4NzY4NywtMzgxMzM0MjY2LC0xNDI5NTcwOTgzLC0xMDc3NT
-c3OTQ3LC0zODkwNjcwNTIsLTEzODgwNjk2ODQsLTEyNDI1ODM4
-NzMsMTQwNTUzMzAwNl19
+eyJoaXN0b3J5IjpbMzEyNjI4OTgyLDgyMDM5NzE0MywxMjQ1MD
+U4NzYyLDE5MTM3MDIwNTMsNzg2MTgyNTc4LC0xNDYxNjQ0Mzgw
+LC0xMDcwOTAxNzg0LC0xMjc5MjE4NTcxLC0xOTM0MTc5NzM2LC
+0xNzgxODk5ODg4LC0zNjYwNTk0MDQsLTk1Nzc5NTk1LC03MTM4
+ODc2ODcsLTM4MTMzNDI2NiwtMTQyOTU3MDk4MywtMTA3NzU3Nz
+k0NywtMzg5MDY3MDUyLC0xMzg4MDY5Njg0LC0xMjQyNTgzODcz
+LDE0MDU1MzMwMDZdfQ==
 -->
