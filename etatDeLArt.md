@@ -109,8 +109,8 @@ XIXe s. - [Stéréoscopes](https://fr.wikipedia.org/wiki/St%C3%A9r%C3%A9oscope)
 ### Champ de vue (FOV)
 
 - Le [Field of view](https://vr-lens-lab.com/field-of-view-for-virtual-reality-headsets/) (FOV) n'est pas optimal sur les casques actuels
-- le FOV des devices = en moyenne 90-110°
-- le FOV humain = 200-220°
+- le FOV des casques est entre 90° et  110°
+- le FOV humain est entre  200-220°
 
 ![Field of view](./img/fov.png)
 [*Source*](https://fr.wikipedia.org/wiki/Champ_visuel#/media/Fichier:Champ_vision.svg)
@@ -228,11 +228,11 @@ En savoir plus: [VR positional Audio](https://realnewworld.com/vr-positional-aud
 - [Geek.com](https://www.geek.com/news/the-history-of-virtual-reality-games-1652225/)
 - [Changing the world: DARPA’s top inventions](https://www.extremetech.com/extreme/105117-inventing-our-world-darpas-top-inventions/2)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3ODE4OTk4ODgsLTM2NjA1OTQwNCwtOT
-U3Nzk1OTUsLTcxMzg4NzY4NywtMzgxMzM0MjY2LC0xNDI5NTcw
-OTgzLC0xMDc3NTc3OTQ3LC0zODkwNjcwNTIsLTEzODgwNjk2OD
-QsLTEyNDI1ODM4NzMsMTQwNTUzMzAwNiwtMjE3MDgzNjg4LDE1
-NTY5MDgwMjQsMTk3MDE3MjQwNywxNDgxOTkyODQ1LC05NDMyND
-Y0MzAsMTg4OTM5OTY0LC0zNzA2NzA5NzEsLTE2MzExMzYyOTgs
-LTE3MDQxMjUwODddfQ==
+eyJoaXN0b3J5IjpbLTE5MzQxNzk3MzYsLTE3ODE4OTk4ODgsLT
+M2NjA1OTQwNCwtOTU3Nzk1OTUsLTcxMzg4NzY4NywtMzgxMzM0
+MjY2LC0xNDI5NTcwOTgzLC0xMDc3NTc3OTQ3LC0zODkwNjcwNT
+IsLTEzODgwNjk2ODQsLTEyNDI1ODM4NzMsMTQwNTUzMzAwNiwt
+MjE3MDgzNjg4LDE1NTY5MDgwMjQsMTk3MDE3MjQwNywxNDgxOT
+kyODQ1LC05NDMyNDY0MzAsMTg4OTM5OTY0LC0zNzA2NzA5NzEs
+LTE2MzExMzYyOThdfQ==
 -->
