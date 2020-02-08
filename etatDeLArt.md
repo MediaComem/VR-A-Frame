@@ -218,7 +218,7 @@ L'idéal serait d'avoir une résolution min. de 8k, avec un FOV de 180°, et une
 Le problème: les cartes graphiques actuelles ne le permettent pas.
 
 **Quelques solutions:**
-- **[Le foveated rendering](https://en.wikipedia.org/wiki/Foveated_rendering)**: on améliore le centre de l'image, et de moins en moins en plriphérie de la vision pour réduire le temps de calcul. Avec du eye-tracking intégré aux casque cela pourrait être d'autant plus performant. 
+- **[Le foveated rendering](https://en.wikipedia.org/wiki/Foveated_rendering)**: on améliore le centre de l'image, et de moins en moins en périphérie de la vision pour réduire le temps de calcul. Avec du eye-tracking intégré aux casques cela pourrait être d'autant plus performant. 
 - **[Asynchronous interleaved reprojection](https://en.wikipedia.org/wiki/Asynchronous_reprojection)**: des images sont chargées, puis adaptées avec les informations de mouvements du casque. 
 
 # Etat de l'art: le son en VR
