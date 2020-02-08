@@ -117,7 +117,9 @@ Le [Field of view](https://vr-lens-lab.com/field-of-view-for-virtual-reality-hea
 
 ### Le casque
 
-Le casque physique lui même pose certains problèmes. Principalement, celui du confort. Bien que s'améliorant grandement à chaque génération, le poids est encore conséquent et provoque un inconfort lors de séance prolongée. Les casque sont parfois mal adapté aux porteurs de lunettes (bien que les lentilles de plusieurs modèle peuvent être échangée avec des lentilles de correctio,
+Le casque physique lui même pose certains problèmes. Principalement, celui du confort. Bien que s'améliorant grandement à chaque génération, le poids est encore conséquent et provoque un inconfort lors de séance prolongée.
+
+Les casque sont parfois mal adapté aux porteurs de lunettes.ien que les lentilles de plusieurs modèle peuvent être échangée avec des lentilles de correction,
 
 
 - Confort (poids, lunettes, transpiration, mise en place, ...)
@@ -231,11 +233,11 @@ En savoir plus: [VR positional Audio](https://realnewworld.com/vr-positional-aud
 - [Geek.com](https://www.geek.com/news/the-history-of-virtual-reality-games-1652225/)
 - [Changing the world: DARPA’s top inventions](https://www.extremetech.com/extreme/105117-inventing-our-world-darpas-top-inventions/2)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNjU0Njk1NjIsMTkxMzcwMjA1Myw3OD
-YxODI1NzgsLTE0NjE2NDQzODAsLTEwNzA5MDE3ODQsLTEyNzky
-MTg1NzEsLTE5MzQxNzk3MzYsLTE3ODE4OTk4ODgsLTM2NjA1OT
-QwNCwtOTU3Nzk1OTUsLTcxMzg4NzY4NywtMzgxMzM0MjY2LC0x
-NDI5NTcwOTgzLC0xMDc3NTc3OTQ3LC0zODkwNjcwNTIsLTEzOD
-gwNjk2ODQsLTEyNDI1ODM4NzMsMTQwNTUzMzAwNiwtMjE3MDgz
-Njg4LDE1NTY5MDgwMjRdfQ==
+eyJoaXN0b3J5IjpbOTc1NDI1NDI2LDE5MTM3MDIwNTMsNzg2MT
+gyNTc4LC0xNDYxNjQ0MzgwLC0xMDcwOTAxNzg0LC0xMjc5MjE4
+NTcxLC0xOTM0MTc5NzM2LC0xNzgxODk5ODg4LC0zNjYwNTk0MD
+QsLTk1Nzc5NTk1LC03MTM4ODc2ODcsLTM4MTMzNDI2NiwtMTQy
+OTU3MDk4MywtMTA3NzU3Nzk0NywtMzg5MDY3MDUyLC0xMzg4MD
+Y5Njg0LC0xMjQyNTgzODczLDE0MDU1MzMwMDYsLTIxNzA4MzY4
+OCwxNTU2OTA4MDI0XX0=
 -->
