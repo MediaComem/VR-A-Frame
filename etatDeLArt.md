@@ -125,7 +125,7 @@ Un autre problème important est le câble des casques reliés. Les casques auto
 
 ### Les  écrans
 
-Les écrans (où l'écran) utilisé par les casque posent aussi quelques problèmes d'immersion. Ces problème ne sont pas uniquement lié a la VR, mais comme l'écran est très proche des yeux, ils sont beaucoup plus visibles.
+Les écrans (où l'écran) utilisés par les casques posent aussi quelques problèmes d'immersion. Ces problèmes ne sont pas uniquement liés à la VR. Mais comme les écrans sont très proches des yeux, ils sont beaucoup plus visibles. Voici les plus important:
 
 - **Screen Door Effect (SDE)**:   on voit le "grillage" de pixels. solution: meilleure résolution de l'écran (8K). ([Screen Door Effect](https://www.howtogeek.com/404491/what-is-the-screen-door-effect-in-vr/))
 
@@ -233,11 +233,11 @@ En savoir plus: [VR positional Audio](https://realnewworld.com/vr-positional-aud
 - [Geek.com](https://www.geek.com/news/the-history-of-virtual-reality-games-1652225/)
 - [Changing the world: DARPA’s top inventions](https://www.extremetech.com/extreme/105117-inventing-our-world-darpas-top-inventions/2)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEwMzMzNDAwMiw4MjAzOTcxNDMsMTI0NT
-A1ODc2MiwxOTEzNzAyMDUzLDc4NjE4MjU3OCwtMTQ2MTY0NDM4
-MCwtMTA3MDkwMTc4NCwtMTI3OTIxODU3MSwtMTkzNDE3OTczNi
-wtMTc4MTg5OTg4OCwtMzY2MDU5NDA0LC05NTc3OTU5NSwtNzEz
-ODg3Njg3LC0zODEzMzQyNjYsLTE0Mjk1NzA5ODMsLTEwNzc1Nz
-c5NDcsLTM4OTA2NzA1MiwtMTM4ODA2OTY4NCwtMTI0MjU4Mzg3
-MywxNDA1NTMzMDA2XX0=
+eyJoaXN0b3J5IjpbLTE1MTA5NTU0MzQsODIwMzk3MTQzLDEyND
+UwNTg3NjIsMTkxMzcwMjA1Myw3ODYxODI1NzgsLTE0NjE2NDQz
+ODAsLTEwNzA5MDE3ODQsLTEyNzkyMTg1NzEsLTE5MzQxNzk3Mz
+YsLTE3ODE4OTk4ODgsLTM2NjA1OTQwNCwtOTU3Nzk1OTUsLTcx
+Mzg4NzY4NywtMzgxMzM0MjY2LC0xNDI5NTcwOTgzLC0xMDc3NT
+c3OTQ3LC0zODkwNjcwNTIsLTEzODgwNjk2ODQsLTEyNDI1ODM4
+NzMsMTQwNTUzMzAwNl19
 -->
