@@ -121,9 +121,7 @@ Le casque lui même pose certains problèmes. Principalement, celui du confort. 
 
 Les casque sont parfois mal adaptés aux porteurs de lunettes. Toutefois, les lentilles peuvent être échangées avec des lentilles de correction, mais cela engendre un surcoût. 
 
-
-- Casques autonomes versus casques reliés (liberté vs performance)
-
+Un autre problème important est le câble des casques reliés. Les casques autonome
 ### Les  écrans
 
 - **Screen Door Effect (SDE)**:   on voit le "grillage" de pixels. solution: meilleure résolution de l'écran (8K). ([Screen Door Effect](https://www.howtogeek.com/404491/what-is-the-screen-door-effect-in-vr/))
@@ -232,11 +230,11 @@ En savoir plus: [VR positional Audio](https://realnewworld.com/vr-positional-aud
 - [Geek.com](https://www.geek.com/news/the-history-of-virtual-reality-games-1652225/)
 - [Changing the world: DARPA’s top inventions](https://www.extremetech.com/extreme/105117-inventing-our-world-darpas-top-inventions/2)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI0NTA1ODc2MiwxOTEzNzAyMDUzLDc4Nj
-E4MjU3OCwtMTQ2MTY0NDM4MCwtMTA3MDkwMTc4NCwtMTI3OTIx
-ODU3MSwtMTkzNDE3OTczNiwtMTc4MTg5OTg4OCwtMzY2MDU5ND
-A0LC05NTc3OTU5NSwtNzEzODg3Njg3LC0zODEzMzQyNjYsLTE0
-Mjk1NzA5ODMsLTEwNzc1Nzc5NDcsLTM4OTA2NzA1MiwtMTM4OD
-A2OTY4NCwtMTI0MjU4Mzg3MywxNDA1NTMzMDA2LC0yMTcwODM2
-ODgsMTU1NjkwODAyNF19
+eyJoaXN0b3J5IjpbODIwMzk3MTQzLDEyNDUwNTg3NjIsMTkxMz
+cwMjA1Myw3ODYxODI1NzgsLTE0NjE2NDQzODAsLTEwNzA5MDE3
+ODQsLTEyNzkyMTg1NzEsLTE5MzQxNzk3MzYsLTE3ODE4OTk4OD
+gsLTM2NjA1OTQwNCwtOTU3Nzk1OTUsLTcxMzg4NzY4NywtMzgx
+MzM0MjY2LC0xNDI5NTcwOTgzLC0xMDc3NTc3OTQ3LC0zODkwNj
+cwNTIsLTEzODgwNjk2ODQsLTEyNDI1ODM4NzMsMTQwNTUzMzAw
+NiwtMjE3MDgzNjg4XX0=
 -->
