@@ -127,11 +127,11 @@ XIXe s. - [Stéréoscopes](https://fr.wikipedia.org/wiki/St%C3%A9r%C3%A9oscope)
 ![Screen Door Effect](./img/sde.jpg)
 [*Source*](https://en.wikipedia.org/wiki/Screen-door_effect#/media/File:Screen-door_effect.jpg)
 
-- **Mura Effect**: les à-plats de couleurs ne sont pas homogènes à cause de la composition des écran empêche une luminosité tout à fait régulière. ([Mura Effect](https://www.roda-computer.com/technology/mura-effect/))
+- **Mura Effect**: les à-plats de couleurs ne sont pas homogènes à cause de la composition des écrans qui empêche une luminosité tout à fait régulière. ([Mura Effect](https://www.roda-computer.com/technology/mura-effect/))
 
 ![Screen Door Effect](https://external-preview.redd.it/lmskdQbKiWAh14j5dxhCPn-iLTx_uBkHcwZksUQz328.jpg?auto=webp&s=93735d53c775da1b0702cb0fa8126363426f9d53)
 
-- **Aliasing**: les arrondis sont saccadés puisque les pixels sont carrés, les courbes ne sont pas possible sur l'écran et comme l'écran et très proche ces problèmes sont vite visible.  [Aliasing](https://fr.wikipedia.org/wiki/Anticr%C3%A9nelage). Il faut utiliser de bonnes techniques d'anti-aliasing (anticrénelage) pour lisser les courbes et diagonales.
+- **Aliasing**: les arrondis sont saccadés puisque les pixels sont carrés, les courbes ne sont pas possibles sur l'écran et comme l'écran et très proche ces problèmes sont vite visibles.  [Aliasing](https://fr.wikipedia.org/wiki/Anticr%C3%A9nelage). Il faut utiliser de bonnes techniques d'anti-aliasing (anticrénelage) pour lisser les courbes et diagonales.
 
 ![Aliasing](https://upload.wikimedia.org/wikipedia/commons/2/24/Antialiasing_comparaison.gif)
 
@@ -228,11 +228,11 @@ En savoir plus: [VR positional Audio](https://realnewworld.com/vr-positional-aud
 - [Geek.com](https://www.geek.com/news/the-history-of-virtual-reality-games-1652225/)
 - [Changing the world: DARPA’s top inventions](https://www.extremetech.com/extreme/105117-inventing-our-world-darpas-top-inventions/2)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk1Nzc5NTk1LC03MTM4ODc2ODcsLTM4MT
-MzNDI2NiwtMTQyOTU3MDk4MywtMTA3NzU3Nzk0NywtMzg5MDY3
-MDUyLC0xMzg4MDY5Njg0LC0xMjQyNTgzODczLDE0MDU1MzMwMD
-YsLTIxNzA4MzY4OCwxNTU2OTA4MDI0LDE5NzAxNzI0MDcsMTQ4
-MTk5Mjg0NSwtOTQzMjQ2NDMwLDE4ODkzOTk2NCwtMzcwNjcwOT
-cxLC0xNjMxMTM2Mjk4LC0xNzA0MTI1MDg3LC00OTU0NzY4NDMs
-MTM2ODk5MzE3Ml19
+eyJoaXN0b3J5IjpbLTM2NjA1OTQwNCwtOTU3Nzk1OTUsLTcxMz
+g4NzY4NywtMzgxMzM0MjY2LC0xNDI5NTcwOTgzLC0xMDc3NTc3
+OTQ3LC0zODkwNjcwNTIsLTEzODgwNjk2ODQsLTEyNDI1ODM4Nz
+MsMTQwNTUzMzAwNiwtMjE3MDgzNjg4LDE1NTY5MDgwMjQsMTk3
+MDE3MjQwNywxNDgxOTkyODQ1LC05NDMyNDY0MzAsMTg4OTM5OT
+Y0LC0zNzA2NzA5NzEsLTE2MzExMzYyOTgsLTE3MDQxMjUwODcs
+LTQ5NTQ3Njg0M119
 -->
