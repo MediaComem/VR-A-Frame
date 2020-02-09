@@ -218,7 +218,7 @@ Une autre nécessité pour ne pas provoquer de cinétose (ou briser l'immersion)
 
 - **[Le foveated rendering](https://en.wikipedia.org/wiki/Foveated_rendering)**: seul le centre de l'image est calculé en haute définition. La résolution diminue ensuite de plus en plus en périphérie. Si cette technique est combinée avec du eye-tracking afin d'utiliser la zone où se trouve le focus de la vision de l'utilisateur plutôt que le centre de l'écran, elle peut même être indiscernable.
 
-- **[Asynchronous interleaved reprojection](https://en.wikipedia.org/wiki/Asynchronous_reprojection)**: des images sont chargées, puis adaptées avec les informations de mouvements du casque. 
+- **[Asynchronous interleaved reprojection](https://en.wikipedia.org/wiki/Asynchronous_reprojection)**: des images dernièrement rendues sont réu adaptées avec les informations de mouvements du casque. 
 
 # Etat de l'art: le son en VR
 ## Le son en VR est positionnel, donc également en 3D.
@@ -232,11 +232,11 @@ En savoir plus: [VR positional Audio](https://realnewworld.com/vr-positional-aud
 - [Geek.com](https://www.geek.com/news/the-history-of-virtual-reality-games-1652225/)
 - [Changing the world: DARPA’s top inventions](https://www.extremetech.com/extreme/105117-inventing-our-world-darpas-top-inventions/2)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTE0ODQ3Mzk1LC02NjMxOTc2NDMsLTIwNT
-AyMTk0NjIsLTE0OTA3NDEyNDUsMjAwODIxMzE1OCwxMTIwNjc1
-MDg0LDgyMDM5NzE0MywxMjQ1MDU4NzYyLDE5MTM3MDIwNTMsNz
-g2MTgyNTc4LC0xNDYxNjQ0MzgwLC0xMDcwOTAxNzg0LC0xMjc5
-MjE4NTcxLC0xOTM0MTc5NzM2LC0xNzgxODk5ODg4LC0zNjYwNT
-k0MDQsLTk1Nzc5NTk1LC03MTM4ODc2ODcsLTM4MTMzNDI2Niwt
-MTQyOTU3MDk4M119
+eyJoaXN0b3J5IjpbMTY2OTI5Njk0NSw1MTQ4NDczOTUsLTY2Mz
+E5NzY0MywtMjA1MDIxOTQ2MiwtMTQ5MDc0MTI0NSwyMDA4MjEz
+MTU4LDExMjA2NzUwODQsODIwMzk3MTQzLDEyNDUwNTg3NjIsMT
+kxMzcwMjA1Myw3ODYxODI1NzgsLTE0NjE2NDQzODAsLTEwNzA5
+MDE3ODQsLTEyNzkyMTg1NzEsLTE5MzQxNzk3MzYsLTE3ODE4OT
+k4ODgsLTM2NjA1OTQwNCwtOTU3Nzk1OTUsLTcxMzg4NzY4Nywt
+MzgxMzM0MjY2XX0=
 -->
