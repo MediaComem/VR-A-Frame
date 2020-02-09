@@ -213,6 +213,9 @@ Bien sûr,  les techniques décrites précédemment peuvent être combinées.
 Ce type de tapis permet le déplacement infini. Pour le moment ce sont des solutions coûteuses, encombrantes, et peu sûrs (il faut souvent y associer un système de harnais). Mais ces solutions sont prometteuses. [L'infinadeck](https://www.youtube.com/watch?v=foHmSC-MeGA)  est un exemple parmi d'autres. 
 
 # Etat de l'art: Performances graphiques
+
+Un autre proibl
+
 L'idéal serait d'avoir une résolution min. de 8k, avec un FOV de 180°, et une fréquence min. de 90Hz
 
 Le problème: les cartes graphiques actuelles ne le permettent pas.
@@ -233,11 +236,11 @@ En savoir plus: [VR positional Audio](https://realnewworld.com/vr-positional-aud
 - [Geek.com](https://www.geek.com/news/the-history-of-virtual-reality-games-1652225/)
 - [Changing the world: DARPA’s top inventions](https://www.extremetech.com/extreme/105117-inventing-our-world-darpas-top-inventions/2)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAwODIxMzE1OCwxMTIwNjc1MDg0LDgyMD
-M5NzE0MywxMjQ1MDU4NzYyLDE5MTM3MDIwNTMsNzg2MTgyNTc4
-LC0xNDYxNjQ0MzgwLC0xMDcwOTAxNzg0LC0xMjc5MjE4NTcxLC
-0xOTM0MTc5NzM2LC0xNzgxODk5ODg4LC0zNjYwNTk0MDQsLTk1
-Nzc5NTk1LC03MTM4ODc2ODcsLTM4MTMzNDI2NiwtMTQyOTU3MD
-k4MywtMTA3NzU3Nzk0NywtMzg5MDY3MDUyLC0xMzg4MDY5Njg0
-LC0xMjQyNTgzODczXX0=
+eyJoaXN0b3J5IjpbMTEwODEzMzkwLDIwMDgyMTMxNTgsMTEyMD
+Y3NTA4NCw4MjAzOTcxNDMsMTI0NTA1ODc2MiwxOTEzNzAyMDUz
+LDc4NjE4MjU3OCwtMTQ2MTY0NDM4MCwtMTA3MDkwMTc4NCwtMT
+I3OTIxODU3MSwtMTkzNDE3OTczNiwtMTc4MTg5OTg4OCwtMzY2
+MDU5NDA0LC05NTc3OTU5NSwtNzEzODg3Njg3LC0zODEzMzQyNj
+YsLTE0Mjk1NzA5ODMsLTEwNzc1Nzc5NDcsLTM4OTA2NzA1Miwt
+MTM4ODA2OTY4NF19
 -->
