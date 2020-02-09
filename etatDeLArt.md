@@ -214,11 +214,13 @@ Ce type de tapis permet le déplacement infini. Pour le moment ce sont des solut
 
 # Performances graphiques
 
-Une autre nécessité pour ne pas provoquer de cinétose (ou briser l'immersion) est  de maintenir un taux de rafraîchissement élevé des images. Les écrans des casques actuels possèdent des fréquences variées allant de 60 [Hz] (Cardboard) à 144 [Hz] (Valve Index). Toutefois les valeurs en dessous de 90 [Hz] peuvent déjà poser problème à certains utilisateurs. Comme vu dans le chapitre des écrans, il faut aussi que ceux-ci aient une grande résolution. De plus, n’oublions pas que les calculs graphiques doivent être fait pour chaque œil (donc deux fois si vous êtes un humain). Tout ceci est très gourmand en ressources graphiques.  Il semble d'ailleurs difficile d'obtenir de bonnes performances avec des cartes graphiques aux coûts abordables. Il existe heureusement quelques techniques permettant de pallier en partie à ces problèmes : 
+Une autre nécessité pour ne pas provoquer de cinétose (ou briser l'immersion) est  de maintenir un taux de rafraîchissement élevé des images. Les écrans des casques actuels possèdent des fréquences variées allant de 60 [Hz] (Cardboard) à 144 [Hz] (Valve Index). Toutefois les valeurs en dessous de 90 [Hz] peuvent déjà poser problème à certains utilisateurs. Comme vu dans le chapitre des écrans, il faut aussi que ceux-ci aient une grande résolution. De plus, n’oublions pas que les calculs graphiques doivent être fait pour chaque œil (donc deux fois si vous êtes un humain). Tout ceci est très gourmand en ressources graphiques.  Il semble d'ailleurs difficile d'obtenir de bonnes performances avec des cartes graphiques aux coûts abordables. Il existe heureusement quelques techniques permettant de pallier en partie à ces problèmes, comme par exemple : 
 
 - **[Le foveated rendering](https://en.wikipedia.org/wiki/Foveated_rendering)**: seul le centre de l'image est calculé en haute définition. La résolution diminue ensuite de plus en plus en périphérie. Si cette technique est combinée avec du eye-tracking afin d'utiliser la zone où se trouve le focus de la vision de l'utilisateur plutôt que le centre de l'écran, elle peut même être indiscernable.
 
 - **[Asynchronous interleaved reprojection](https://en.wikipedia.org/wiki/Asynchronous_reprojection)**: des images dernièrement rendues sont adaptées avec les informations de mouvements et de positionnement du casque afin d'obtenir des *frame* de "secours" en cas de perte de *framerate*. 
+
+
 
 # Etat de l'art: le son en VR
 ## Le son en VR est positionnel, donc également en 3D.
@@ -232,11 +234,11 @@ En savoir plus: [VR positional Audio](https://realnewworld.com/vr-positional-aud
 - [Geek.com](https://www.geek.com/news/the-history-of-virtual-reality-games-1652225/)
 - [Changing the world: DARPA’s top inventions](https://www.extremetech.com/extreme/105117-inventing-our-world-darpas-top-inventions/2)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwODUzMTQ3ODYsLTM3OTg5MTgzLC0xMT
-A5NjAyMzM3LDUxNDg0NzM5NSwtNjYzMTk3NjQzLC0yMDUwMjE5
-NDYyLC0xNDkwNzQxMjQ1LDIwMDgyMTMxNTgsMTEyMDY3NTA4NC
-w4MjAzOTcxNDMsMTI0NTA1ODc2MiwxOTEzNzAyMDUzLDc4NjE4
-MjU3OCwtMTQ2MTY0NDM4MCwtMTA3MDkwMTc4NCwtMTI3OTIxOD
-U3MSwtMTkzNDE3OTczNiwtMTc4MTg5OTg4OCwtMzY2MDU5NDA0
-LC05NTc3OTU5NV19
+eyJoaXN0b3J5IjpbMTMyNzg5MDAsLTIwODUzMTQ3ODYsLTM3OT
+g5MTgzLC0xMTA5NjAyMzM3LDUxNDg0NzM5NSwtNjYzMTk3NjQz
+LC0yMDUwMjE5NDYyLC0xNDkwNzQxMjQ1LDIwMDgyMTMxNTgsMT
+EyMDY3NTA4NCw4MjAzOTcxNDMsMTI0NTA1ODc2MiwxOTEzNzAy
+MDUzLDc4NjE4MjU3OCwtMTQ2MTY0NDM4MCwtMTA3MDkwMTc4NC
+wtMTI3OTIxODU3MSwtMTkzNDE3OTczNiwtMTc4MTg5OTg4OCwt
+MzY2MDU5NDA0XX0=
 -->
