@@ -216,7 +216,7 @@ Ce type de tapis permet le déplacement infini. Pour le moment ce sont des solut
 
 Une autre nécessité pour ne pas provoquer de cinétose (ou briser l'immersion) est  de maintenir un taux de rafraîchissement élevé des images. Les écrans des casques actuels possèdent des fréquences variées allant de 60 [Hz] (Cardboard) à 144 [Hz] (Valve Index). Toutefois les valeurs en dessous de 90 [Hz] peuvent déjà poser problème à certains utilisateurs. Comme vu dans le chapitre des écrans, il faut aussi que ceux-ci aient une grande résolution. De plus, n’oublions pas que les calculs graphiques doivent être fait pour chaque œil (donc deux fois si vous êtes un humain). Tout ceci est très gourmand en ressources graphiques.  Il semble d'ailleurs difficile d'obtenir de bonnes performances avec des cartes graphiques aux coûts abordables. Il existe heureusement quelques techniques permettant de pallier en partie à ces problèmes : 
 
-- **[Le foveated rendering](https://en.wikipedia.org/wiki/Foveated_rendering)**: seul le centre de l'image est calculé en haute définition. La résolution diminue ensuite de plus en plus en périphérie. Cela réduit Avec du eye-tracking intégré aux casques cela pourrait être d'autant plus performant. 
+- **[Le foveated rendering](https://en.wikipedia.org/wiki/Foveated_rendering)**: seul le centre de l'image est calculé en haute définition. La résolution diminue ensuite de plus en plus en périphérie. Si cette technique est combinée avec du eye-tracking afin de ne rendre que la p
 - **[Asynchronous interleaved reprojection](https://en.wikipedia.org/wiki/Asynchronous_reprojection)**: des images sont chargées, puis adaptées avec les informations de mouvements du casque. 
 
 # Etat de l'art: le son en VR
@@ -231,11 +231,11 @@ En savoir plus: [VR positional Audio](https://realnewworld.com/vr-positional-aud
 - [Geek.com](https://www.geek.com/news/the-history-of-virtual-reality-games-1652225/)
 - [Changing the world: DARPA’s top inventions](https://www.extremetech.com/extreme/105117-inventing-our-world-darpas-top-inventions/2)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMzODEwMDQzLC0yMDUwMjE5NDYyLC0xND
-kwNzQxMjQ1LDIwMDgyMTMxNTgsMTEyMDY3NTA4NCw4MjAzOTcx
-NDMsMTI0NTA1ODc2MiwxOTEzNzAyMDUzLDc4NjE4MjU3OCwtMT
-Q2MTY0NDM4MCwtMTA3MDkwMTc4NCwtMTI3OTIxODU3MSwtMTkz
-NDE3OTczNiwtMTc4MTg5OTg4OCwtMzY2MDU5NDA0LC05NTc3OT
-U5NSwtNzEzODg3Njg3LC0zODEzMzQyNjYsLTE0Mjk1NzA5ODMs
-LTEwNzc1Nzc5NDddfQ==
+eyJoaXN0b3J5IjpbLTcyNTUxMDQ3OSwtMjA1MDIxOTQ2MiwtMT
+Q5MDc0MTI0NSwyMDA4MjEzMTU4LDExMjA2NzUwODQsODIwMzk3
+MTQzLDEyNDUwNTg3NjIsMTkxMzcwMjA1Myw3ODYxODI1NzgsLT
+E0NjE2NDQzODAsLTEwNzA5MDE3ODQsLTEyNzkyMTg1NzEsLTE5
+MzQxNzk3MzYsLTE3ODE4OTk4ODgsLTM2NjA1OTQwNCwtOTU3Nz
+k1OTUsLTcxMzg4NzY4NywtMzgxMzM0MjY2LC0xNDI5NTcwOTgz
+LC0xMDc3NTc3OTQ3XX0=
 -->
