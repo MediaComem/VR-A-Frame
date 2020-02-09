@@ -216,7 +216,7 @@ Ce type de tapis permet le déplacement infini. Pour le moment ce sont des solut
 
 Une autre nécessité pour ne pas provoquer de cinétose (ou briser l'immersion) est  de maintenir un taux de rafraîchissement élevé des images. Les écrans des casques actuels possèdent des fréquences variées allant de 60 [Hz] (Cardboard) à 144 [Hz] (Valve Index). Toutefois les valeurs en dessous de 90 [Hz] peuvent déjà poser problème à certains utilisateurs. Comme vu dans le chapitre des écrans, il faut aussi que ceux-ci aient une grande résolution. De plus, n’oublions pas que les calculs graphiques doivent être fait pour chaque œil (donc deux fois si vous êtes un humain). Tout ceci est très gourmand en ressources graphiques.  Il semble d'ailleurs difficile d'obtenir de bonnes performances avec des cartes graphiques aux coûts abordables. Il existe heureusement quelques techniques permettant de pallier en partie à ces problèmes : 
 
-- **[Le foveated rendering](https://en.wikipedia.org/wiki/Foveated_rendering)**: seul le centre de l'image est calculé en haute définition. La résolution diminue ensuite de plus en plus en périphérie. Si cette technique est combinée avec du eye-tracking afin de ne rendre que la partie de l'écran ou le focus 
+- **[Le foveated rendering](https://en.wikipedia.org/wiki/Foveated_rendering)**: seul le centre de l'image est calculé en haute définition. La résolution diminue ensuite de plus en plus en périphérie. Si cette technique est combinée avec du eye-tracking afin d'utiliser la zone ou se trouve le focus de la vision de l'utilisateur plutôt que le centre de l'écran 
 - **[Asynchronous interleaved reprojection](https://en.wikipedia.org/wiki/Asynchronous_reprojection)**: des images sont chargées, puis adaptées avec les informations de mouvements du casque. 
 
 # Etat de l'art: le son en VR
@@ -231,11 +231,11 @@ En savoir plus: [VR positional Audio](https://realnewworld.com/vr-positional-aud
 - [Geek.com](https://www.geek.com/news/the-history-of-virtual-reality-games-1652225/)
 - [Changing the world: DARPA’s top inventions](https://www.extremetech.com/extreme/105117-inventing-our-world-darpas-top-inventions/2)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNDY3OTgyNjIsLTIwNTAyMTk0NjIsLT
-E0OTA3NDEyNDUsMjAwODIxMzE1OCwxMTIwNjc1MDg0LDgyMDM5
-NzE0MywxMjQ1MDU4NzYyLDE5MTM3MDIwNTMsNzg2MTgyNTc4LC
-0xNDYxNjQ0MzgwLC0xMDcwOTAxNzg0LC0xMjc5MjE4NTcxLC0x
-OTM0MTc5NzM2LC0xNzgxODk5ODg4LC0zNjYwNTk0MDQsLTk1Nz
-c5NTk1LC03MTM4ODc2ODcsLTM4MTMzNDI2NiwtMTQyOTU3MDk4
-MywtMTA3NzU3Nzk0N119
+eyJoaXN0b3J5IjpbMjAxMjg5NDQxNCwtMjA1MDIxOTQ2MiwtMT
+Q5MDc0MTI0NSwyMDA4MjEzMTU4LDExMjA2NzUwODQsODIwMzk3
+MTQzLDEyNDUwNTg3NjIsMTkxMzcwMjA1Myw3ODYxODI1NzgsLT
+E0NjE2NDQzODAsLTEwNzA5MDE3ODQsLTEyNzkyMTg1NzEsLTE5
+MzQxNzk3MzYsLTE3ODE4OTk4ODgsLTM2NjA1OTQwNCwtOTU3Nz
+k1OTUsLTcxMzg4NzY4NywtMzgxMzM0MjY2LC0xNDI5NTcwOTgz
+LC0xMDc3NTc3OTQ3XX0=
 -->
