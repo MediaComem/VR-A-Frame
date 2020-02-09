@@ -227,7 +227,7 @@ Bien sûr, pour obtenir de bonnes performances sur les cartes graphiques actuell
 Le son en VR se doit d'être positionnel [VR positional Audio](https://realnewworld.com/vr-positional-audio/).
 
 
-# Réflexion/discussion:
+
 ## UX/interface de jeux VR, quelles problématiques?
 
 # Sources
@@ -235,11 +235,11 @@ Le son en VR se doit d'être positionnel [VR positional Audio](https://realnewwo
 - [Geek.com](https://www.geek.com/news/the-history-of-virtual-reality-games-1652225/)
 - [Changing the world: DARPA’s top inventions](https://www.extremetech.com/extreme/105117-inventing-our-world-darpas-top-inventions/2)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNjAxMzg5NDIsMTMyNzg5MDAsLTIwOD
-UzMTQ3ODYsLTM3OTg5MTgzLC0xMTA5NjAyMzM3LDUxNDg0NzM5
-NSwtNjYzMTk3NjQzLC0yMDUwMjE5NDYyLC0xNDkwNzQxMjQ1LD
-IwMDgyMTMxNTgsMTEyMDY3NTA4NCw4MjAzOTcxNDMsMTI0NTA1
-ODc2MiwxOTEzNzAyMDUzLDc4NjE4MjU3OCwtMTQ2MTY0NDM4MC
-wtMTA3MDkwMTc4NCwtMTI3OTIxODU3MSwtMTkzNDE3OTczNiwt
-MTc4MTg5OTg4OF19
+eyJoaXN0b3J5IjpbNzA1ODgwMjg4LDEzMjc4OTAwLC0yMDg1Mz
+E0Nzg2LC0zNzk4OTE4MywtMTEwOTYwMjMzNyw1MTQ4NDczOTUs
+LTY2MzE5NzY0MywtMjA1MDIxOTQ2MiwtMTQ5MDc0MTI0NSwyMD
+A4MjEzMTU4LDExMjA2NzUwODQsODIwMzk3MTQzLDEyNDUwNTg3
+NjIsMTkxMzcwMjA1Myw3ODYxODI1NzgsLTE0NjE2NDQzODAsLT
+EwNzA5MDE3ODQsLTEyNzkyMTg1NzEsLTE5MzQxNzk3MzYsLTE3
+ODE4OTk4ODhdfQ==
 -->
