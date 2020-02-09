@@ -222,7 +222,7 @@ Une autre nécessité pour ne pas provoquer de cinétose (ou briser l'immersion)
 
 Bien sûr, pour obtenir de bonnes performances sur les cartes graphiques actuelles, il faut aussi que l'application VR soit bien optimisée.
 
-# <a name="audio-and-co"></a>Audio, haptique, et autres fioritures de la VR
+# <a name="audio-and-co"></a>Audio, haptique, et autres fioritures
 
 Le son en VR se doit d'être positionnel [VR positional Audio](https://realnewworld.com/vr-positional-audio/).
 
@@ -235,11 +235,11 @@ Le son en VR se doit d'être positionnel [VR positional Audio](https://realnewwo
 - [Geek.com](https://www.geek.com/news/the-history-of-virtual-reality-games-1652225/)
 - [Changing the world: DARPA’s top inventions](https://www.extremetech.com/extreme/105117-inventing-our-world-darpas-top-inventions/2)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYwMjE5NzE4NSw3MDU4ODAyODgsMTMyNz
-g5MDAsLTIwODUzMTQ3ODYsLTM3OTg5MTgzLC0xMTA5NjAyMzM3
-LDUxNDg0NzM5NSwtNjYzMTk3NjQzLC0yMDUwMjE5NDYyLC0xND
-kwNzQxMjQ1LDIwMDgyMTMxNTgsMTEyMDY3NTA4NCw4MjAzOTcx
-NDMsMTI0NTA1ODc2MiwxOTEzNzAyMDUzLDc4NjE4MjU3OCwtMT
-Q2MTY0NDM4MCwtMTA3MDkwMTc4NCwtMTI3OTIxODU3MSwtMTkz
-NDE3OTczNl19
+eyJoaXN0b3J5IjpbOTk1MTg4NzAzLC02MDIxOTcxODUsNzA1OD
+gwMjg4LDEzMjc4OTAwLC0yMDg1MzE0Nzg2LC0zNzk4OTE4Mywt
+MTEwOTYwMjMzNyw1MTQ4NDczOTUsLTY2MzE5NzY0MywtMjA1MD
+IxOTQ2MiwtMTQ5MDc0MTI0NSwyMDA4MjEzMTU4LDExMjA2NzUw
+ODQsODIwMzk3MTQzLDEyNDUwNTg3NjIsMTkxMzcwMjA1Myw3OD
+YxODI1NzgsLTE0NjE2NDQzODAsLTEwNzA5MDE3ODQsLTEyNzky
+MTg1NzFdfQ==
 -->
