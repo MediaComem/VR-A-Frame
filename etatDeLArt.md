@@ -157,7 +157,7 @@ Les lentilles déforment (le ou) les écrans à l'intérieur du casque afin d'av
 
 ### Principales problématiques
 
-- Le mal des transports ( *cinétose* ): qui se produit la plupart du temps lorsque le déplacement visualisé est décalé de celui contrôlé par le système de positionnement du casque.
+- Le mal des transports ( *cinétose* ): qui se produit la plupart du temps lorsque le déplacement visualisé est décalé de celui de l'utilisateur.
  
 - L'espace réel est souvent restreint à une petite partie d'une pièce, souvent entre 1 et 3 [m^2] alors que l'espace virtuel est d'une taille quelconque. 
 
@@ -214,7 +214,7 @@ Ce type de tapis permet le déplacement infini. Pour le moment ce sont des solut
 
 # Etat de l'art: Performances graphiques
 
-Un autre proibl
+Un autre problème 
 
 L'idéal serait d'avoir une résolution min. de 8k, avec un FOV de 180°, et une fréquence min. de 90Hz
 
@@ -236,11 +236,11 @@ En savoir plus: [VR positional Audio](https://realnewworld.com/vr-positional-aud
 - [Geek.com](https://www.geek.com/news/the-history-of-virtual-reality-games-1652225/)
 - [Changing the world: DARPA’s top inventions](https://www.extremetech.com/extreme/105117-inventing-our-world-darpas-top-inventions/2)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEwODEzMzkwLDIwMDgyMTMxNTgsMTEyMD
-Y3NTA4NCw4MjAzOTcxNDMsMTI0NTA1ODc2MiwxOTEzNzAyMDUz
-LDc4NjE4MjU3OCwtMTQ2MTY0NDM4MCwtMTA3MDkwMTc4NCwtMT
-I3OTIxODU3MSwtMTkzNDE3OTczNiwtMTc4MTg5OTg4OCwtMzY2
-MDU5NDA0LC05NTc3OTU5NSwtNzEzODg3Njg3LC0zODEzMzQyNj
-YsLTE0Mjk1NzA5ODMsLTEwNzc1Nzc5NDcsLTM4OTA2NzA1Miwt
-MTM4ODA2OTY4NF19
+eyJoaXN0b3J5IjpbLTY3NDU2MTEyMCwyMDA4MjEzMTU4LDExMj
+A2NzUwODQsODIwMzk3MTQzLDEyNDUwNTg3NjIsMTkxMzcwMjA1
+Myw3ODYxODI1NzgsLTE0NjE2NDQzODAsLTEwNzA5MDE3ODQsLT
+EyNzkyMTg1NzEsLTE5MzQxNzk3MzYsLTE3ODE4OTk4ODgsLTM2
+NjA1OTQwNCwtOTU3Nzk1OTUsLTcxMzg4NzY4NywtMzgxMzM0Mj
+Y2LC0xNDI5NTcwOTgzLC0xMDc3NTc3OTQ3LC0zODkwNjcwNTIs
+LTEzODgwNjk2ODRdfQ==
 -->
