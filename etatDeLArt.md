@@ -214,7 +214,7 @@ Ce type de tapis permet le déplacement infini. Pour le moment ce sont des solut
 
 # Etat de l'art: Performances graphiques
 
-Une autre nécessité pour ne pas provoquer de cinétose ou de briser l'immersion et qu'il faut maintenair un haut taux de rafraîchissement des image 
+Une autre nécessité pour ne pas provoquer de cinétose ou de briser l'immersion et qu'il faut maintenair un haut taux de rafraîchissement des images. Les casques actuels possèdent des fréquences 
 
 L'idéal serait d'avoir une résolution min. de 8k, avec un FOV de 180°, et une fréquence min. de 90Hz
 
@@ -236,7 +236,7 @@ En savoir plus: [VR positional Audio](https://realnewworld.com/vr-positional-aud
 - [Geek.com](https://www.geek.com/news/the-history-of-virtual-reality-games-1652225/)
 - [Changing the world: DARPA’s top inventions](https://www.extremetech.com/extreme/105117-inventing-our-world-darpas-top-inventions/2)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ1MTY3NDU5NSwyMDA4MjEzMTU4LDExMj
+eyJoaXN0b3J5IjpbLTc2NTI1MzYzNywyMDA4MjEzMTU4LDExMj
 A2NzUwODQsODIwMzk3MTQzLDEyNDUwNTg3NjIsMTkxMzcwMjA1
 Myw3ODYxODI1NzgsLTE0NjE2NDQzODAsLTEwNzA5MDE3ODQsLT
 EyNzkyMTg1NzEsLTE5MzQxNzk3MzYsLTE3ODE4OTk4ODgsLTM2
