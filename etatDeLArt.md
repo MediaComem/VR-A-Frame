@@ -214,8 +214,7 @@ Ce type de tapis permet le déplacement infini. Pour le moment ce sont des solut
 
 # Performances graphiques
 
-Une autre nécessité pour ne pas provoquer de cinétose (ou de briser l'immersion) est qu'il faut maintenir un taux de rafraîchissement élevé  des images. Les écrans des casques actuels possèdent des fréquences variées allant de 60 [Hz] (Cardboard) à 144 [Hz] (Valve Index). Toutefois les valeurs en dessous de 90 [Hz] peuvent déjà poser problème à certains utilisateurs.
-
+Une autre nécessité pour ne pas provoquer de cinétose (ou briser l'immersion) est  de maintenir un taux de rafraîchissement élevé des images. Les écrans des casques actuels possèdent des fréquences variées allant de 60 [Hz] (Cardboard) à 144 [Hz] (Valve Index). Toutefois les valeurs en dessous de 90 [Hz] peuvent déjà poser problème à certains utilisateurs. Comme vu dans le chapitre des écrans, il faut aussi que ceux
 
 
 
@@ -237,11 +236,11 @@ En savoir plus: [VR positional Audio](https://realnewworld.com/vr-positional-aud
 - [Geek.com](https://www.geek.com/news/the-history-of-virtual-reality-games-1652225/)
 - [Changing the world: DARPA’s top inventions](https://www.extremetech.com/extreme/105117-inventing-our-world-darpas-top-inventions/2)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0OTA3NDEyNDUsMjAwODIxMzE1OCwxMT
-IwNjc1MDg0LDgyMDM5NzE0MywxMjQ1MDU4NzYyLDE5MTM3MDIw
-NTMsNzg2MTgyNTc4LC0xNDYxNjQ0MzgwLC0xMDcwOTAxNzg0LC
-0xMjc5MjE4NTcxLC0xOTM0MTc5NzM2LC0xNzgxODk5ODg4LC0z
-NjYwNTk0MDQsLTk1Nzc5NTk1LC03MTM4ODc2ODcsLTM4MTMzND
-I2NiwtMTQyOTU3MDk4MywtMTA3NzU3Nzk0NywtMzg5MDY3MDUy
-LC0xMzg4MDY5Njg0XX0=
+eyJoaXN0b3J5IjpbMTIxNjY1ODE2NiwtMTQ5MDc0MTI0NSwyMD
+A4MjEzMTU4LDExMjA2NzUwODQsODIwMzk3MTQzLDEyNDUwNTg3
+NjIsMTkxMzcwMjA1Myw3ODYxODI1NzgsLTE0NjE2NDQzODAsLT
+EwNzA5MDE3ODQsLTEyNzkyMTg1NzEsLTE5MzQxNzk3MzYsLTE3
+ODE4OTk4ODgsLTM2NjA1OTQwNCwtOTU3Nzk1OTUsLTcxMzg4Nz
+Y4NywtMzgxMzM0MjY2LC0xNDI5NTcwOTgzLC0xMDc3NTc3OTQ3
+LC0zODkwNjcwNTJdfQ==
 -->
