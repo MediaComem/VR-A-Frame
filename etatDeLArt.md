@@ -7,7 +7,7 @@
 - [Le matériel VR](#materiel)
 - [Immersion](#immersion)
 - [Déplacements](#movements)
-- Performances graphiques
+- [Performances graphiques](#perf)
 - Audio
 - Réflexion/discussion: UX et interfaces de jeux VR
 
@@ -212,7 +212,7 @@ Bien sûr,  les techniques décrites précédemment peuvent être combinées.
 
 Ce type de tapis permet le déplacement infini. Pour le moment ce sont des solutions coûteuses, encombrantes, et peu sûrs (il faut souvent y associer un système de harnais). Mais ces solutions sont prometteuses. [L'infinadeck](https://www.youtube.com/watch?v=foHmSC-MeGA)  est un exemple parmi d'autres. 
 
-# Performances graphiques
+# <a name="perf"></a>Performances graphiques
 
 Une autre nécessité pour ne pas provoquer de cinétose (ou briser l'immersion) est  de maintenir un taux de rafraîchissement élevé des images. Les écrans des casques actuels possèdent des fréquences variées allant de 60 [Hz] (Cardboard) à 144 [Hz] (Valve Index). Toutefois les valeurs en dessous de 90 [Hz] peuvent déjà poser problème à certains utilisateurs. Comme vu dans le chapitre des écrans, il faut aussi que ceux-ci aient une grande résolution. De plus, n’oublions pas que les calculs graphiques doivent être fait pour chaque œil (donc deux fois si vous êtes un humain). Tout ceci est très gourmand en ressources graphiques.  Il semble d'ailleurs difficile d'obtenir de bonnes performances avec des cartes graphiques aux coûts abordables. Il existe heureusement quelques techniques permettant de pallier en partie à ces problèmes, comme par exemple : 
 
@@ -235,11 +235,11 @@ Le son en VR se doit d'être positionnel [VR positional Audio](https://realnewwo
 - [Geek.com](https://www.geek.com/news/the-history-of-virtual-reality-games-1652225/)
 - [Changing the world: DARPA’s top inventions](https://www.extremetech.com/extreme/105117-inventing-our-world-darpas-top-inventions/2)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzA1ODgwMjg4LDEzMjc4OTAwLC0yMDg1Mz
-E0Nzg2LC0zNzk4OTE4MywtMTEwOTYwMjMzNyw1MTQ4NDczOTUs
-LTY2MzE5NzY0MywtMjA1MDIxOTQ2MiwtMTQ5MDc0MTI0NSwyMD
-A4MjEzMTU4LDExMjA2NzUwODQsODIwMzk3MTQzLDEyNDUwNTg3
-NjIsMTkxMzcwMjA1Myw3ODYxODI1NzgsLTE0NjE2NDQzODAsLT
-EwNzA5MDE3ODQsLTEyNzkyMTg1NzEsLTE5MzQxNzk3MzYsLTE3
-ODE4OTk4ODhdfQ==
+eyJoaXN0b3J5IjpbNjg0Mzk4MDU3LDcwNTg4MDI4OCwxMzI3OD
+kwMCwtMjA4NTMxNDc4NiwtMzc5ODkxODMsLTExMDk2MDIzMzcs
+NTE0ODQ3Mzk1LC02NjMxOTc2NDMsLTIwNTAyMTk0NjIsLTE0OT
+A3NDEyNDUsMjAwODIxMzE1OCwxMTIwNjc1MDg0LDgyMDM5NzE0
+MywxMjQ1MDU4NzYyLDE5MTM3MDIwNTMsNzg2MTgyNTc4LC0xND
+YxNjQ0MzgwLC0xMDcwOTAxNzg0LC0xMjc5MjE4NTcxLC0xOTM0
+MTc5NzM2XX0=
 -->
