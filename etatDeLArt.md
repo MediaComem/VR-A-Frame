@@ -226,7 +226,7 @@ Bien sûr, pour obtenir de bonnes performances sur les cartes graphiques actuell
 
 Le son en VR se doit d'être positionnel [VR positional Audio](https://realnewworld.com/vr-positional-audio/).
 
-Retour haptique...
+Retours haptique...
 
 Les deux autres sens ? (odorat ? )
 
@@ -237,11 +237,11 @@ Les deux autres sens ? (odorat ? )
 - [Geek.com](https://www.geek.com/news/the-history-of-virtual-reality-games-1652225/)
 - [Changing the world: DARPA’s top inventions](https://www.extremetech.com/extreme/105117-inventing-our-world-darpas-top-inventions/2)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ3MzIzMjIsLTYwMjE5NzE4NSw3MDU4OD
-AyODgsMTMyNzg5MDAsLTIwODUzMTQ3ODYsLTM3OTg5MTgzLC0x
-MTA5NjAyMzM3LDUxNDg0NzM5NSwtNjYzMTk3NjQzLC0yMDUwMj
-E5NDYyLC0xNDkwNzQxMjQ1LDIwMDgyMTMxNTgsMTEyMDY3NTA4
-NCw4MjAzOTcxNDMsMTI0NTA1ODc2MiwxOTEzNzAyMDUzLDc4Nj
-E4MjU3OCwtMTQ2MTY0NDM4MCwtMTA3MDkwMTc4NCwtMTI3OTIx
-ODU3MV19
+eyJoaXN0b3J5IjpbMTM3NDk5MjMyOSwxNDczMjMyMiwtNjAyMT
+k3MTg1LDcwNTg4MDI4OCwxMzI3ODkwMCwtMjA4NTMxNDc4Niwt
+Mzc5ODkxODMsLTExMDk2MDIzMzcsNTE0ODQ3Mzk1LC02NjMxOT
+c2NDMsLTIwNTAyMTk0NjIsLTE0OTA3NDEyNDUsMjAwODIxMzE1
+OCwxMTIwNjc1MDg0LDgyMDM5NzE0MywxMjQ1MDU4NzYyLDE5MT
+M3MDIwNTMsNzg2MTgyNTc4LC0xNDYxNjQ0MzgwLC0xMDcwOTAx
+Nzg0XX0=
 -->
