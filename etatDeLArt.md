@@ -228,7 +228,7 @@ Le son en VR se doit d'être positionnel [VR positional Audio](https://realnewwo
 
 Retour haptique...
 
-Autre sens ? ...
+Les deux autres sens ? (odorat ? )
 
 ## UX/interface de jeux VR, quelles problématiques?
 
@@ -237,11 +237,11 @@ Autre sens ? ...
 - [Geek.com](https://www.geek.com/news/the-history-of-virtual-reality-games-1652225/)
 - [Changing the world: DARPA’s top inventions](https://www.extremetech.com/extreme/105117-inventing-our-world-darpas-top-inventions/2)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTEzNTY4OTIwLC02MDIxOTcxODUsNzA1OD
-gwMjg4LDEzMjc4OTAwLC0yMDg1MzE0Nzg2LC0zNzk4OTE4Mywt
-MTEwOTYwMjMzNyw1MTQ4NDczOTUsLTY2MzE5NzY0MywtMjA1MD
-IxOTQ2MiwtMTQ5MDc0MTI0NSwyMDA4MjEzMTU4LDExMjA2NzUw
-ODQsODIwMzk3MTQzLDEyNDUwNTg3NjIsMTkxMzcwMjA1Myw3OD
-YxODI1NzgsLTE0NjE2NDQzODAsLTEwNzA5MDE3ODQsLTEyNzky
-MTg1NzFdfQ==
+eyJoaXN0b3J5IjpbMTQ3MzIzMjIsLTYwMjE5NzE4NSw3MDU4OD
+AyODgsMTMyNzg5MDAsLTIwODUzMTQ3ODYsLTM3OTg5MTgzLC0x
+MTA5NjAyMzM3LDUxNDg0NzM5NSwtNjYzMTk3NjQzLC0yMDUwMj
+E5NDYyLC0xNDkwNzQxMjQ1LDIwMDgyMTMxNTgsMTEyMDY3NTA4
+NCw4MjAzOTcxNDMsMTI0NTA1ODc2MiwxOTEzNzAyMDUzLDc4Nj
+E4MjU3OCwtMTQ2MTY0NDM4MCwtMTA3MDkwMTc4NCwtMTI3OTIx
+ODU3MV19
 -->
