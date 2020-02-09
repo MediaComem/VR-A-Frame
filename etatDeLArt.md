@@ -222,9 +222,10 @@ Une autre nécessité pour ne pas provoquer de cinétose (ou briser l'immersion)
 
 Bien sûr, pour obtenir de bonnes performances sur les cartes graphiques actuelles, il faut aussi que l'application VR soit bien optimisée.
 
-# Etat de l'art: le son en VR
-## Le son en VR est positionnel, donc également en 3D.
-En savoir plus: [VR positional Audio](https://realnewworld.com/vr-positional-audio/)
+# Son spatial, retour haptique, et autres fioritures de la VR
+
+Le son en VR se doit d'être positionnel [VR positional Audi](https://realnewworld.com/vr-positional-audio/).
+
 
 # Réflexion/discussion:
 ## UX/interface de jeux VR, quelles problématiques?
@@ -234,7 +235,7 @@ En savoir plus: [VR positional Audio](https://realnewworld.com/vr-positional-aud
 - [Geek.com](https://www.geek.com/news/the-history-of-virtual-reality-games-1652225/)
 - [Changing the world: DARPA’s top inventions](https://www.extremetech.com/extreme/105117-inventing-our-world-darpas-top-inventions/2)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY1NDAxMzY3MywxMzI3ODkwMCwtMjA4NT
+eyJoaXN0b3J5IjpbLTYzNjk2Njk1OSwxMzI3ODkwMCwtMjA4NT
 MxNDc4NiwtMzc5ODkxODMsLTExMDk2MDIzMzcsNTE0ODQ3Mzk1
 LC02NjMxOTc2NDMsLTIwNTAyMTk0NjIsLTE0OTA3NDEyNDUsMj
 AwODIxMzE1OCwxMTIwNjc1MDg0LDgyMDM5NzE0MywxMjQ1MDU4
