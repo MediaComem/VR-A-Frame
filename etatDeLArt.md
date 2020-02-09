@@ -212,9 +212,11 @@ Bien sûr,  les techniques décrites précédemment peuvent être combinées.
 
 Ce type de tapis permet le déplacement infini. Pour le moment ce sont des solutions coûteuses, encombrantes, et peu sûrs (il faut souvent y associer un système de harnais). Mais ces solutions sont prometteuses. [L'infinadeck](https://www.youtube.com/watch?v=foHmSC-MeGA)  est un exemple parmi d'autres. 
 
-# Etat de l'art: Performances graphiques
+# Performances graphiques
 
 Une autre nécessité pour ne pas provoquer de cinétose (ou de briser l'immersion) est qu'il faut maintenir un taux de rafraîchissement élevé  des images. Les écrans des casques actuels possèdent des fréquences variées allant de 60 [Hz] (Cardboard) à 144 [Hz] (Valve Index). Toutefois les valeurs en dessous de 90 [Hz] peuvent déjà poser problème à certains utilisateurs.
+
+
 
 
 Le problème: les cartes graphiques actuelles ne le permettent pas.
@@ -235,7 +237,7 @@ En savoir plus: [VR positional Audio](https://realnewworld.com/vr-positional-aud
 - [Geek.com](https://www.geek.com/news/the-history-of-virtual-reality-games-1652225/)
 - [Changing the world: DARPA’s top inventions](https://www.extremetech.com/extreme/105117-inventing-our-world-darpas-top-inventions/2)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NjkxNjM1NjYsMjAwODIxMzE1OCwxMT
+eyJoaXN0b3J5IjpbLTE0OTA3NDEyNDUsMjAwODIxMzE1OCwxMT
 IwNjc1MDg0LDgyMDM5NzE0MywxMjQ1MDU4NzYyLDE5MTM3MDIw
 NTMsNzg2MTgyNTc4LC0xNDYxNjQ0MzgwLC0xMDcwOTAxNzg0LC
 0xMjc5MjE4NTcxLC0xOTM0MTc5NzM2LC0xNzgxODk5ODg4LC0z
