@@ -8,7 +8,7 @@
 - [Immersion](#immersion)
 - [Déplacements](#movements)
 - [Performances graphiques](#perf)
-- Audio et autres fi
+- Audio, haptique et autres fioritures
 - Réflexion/discussion: UX et interfaces de jeux VR
 
 ## <a name="application-vr"></a>Applications de la VR
@@ -222,7 +222,7 @@ Une autre nécessité pour ne pas provoquer de cinétose (ou briser l'immersion)
 
 Bien sûr, pour obtenir de bonnes performances sur les cartes graphiques actuelles, il faut aussi que l'application VR soit bien optimisée.
 
-# Audio, retour haptique, et autres fioritures de la VR
+# Audio, haptique, et autres fioritures de la VR
 
 Le son en VR se doit d'être positionnel [VR positional Audio](https://realnewworld.com/vr-positional-audio/).
 
@@ -235,7 +235,7 @@ Le son en VR se doit d'être positionnel [VR positional Audio](https://realnewwo
 - [Geek.com](https://www.geek.com/news/the-history-of-virtual-reality-games-1652225/)
 - [Changing the world: DARPA’s top inventions](https://www.extremetech.com/extreme/105117-inventing-our-world-darpas-top-inventions/2)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MTUwMzA2NzksNzA1ODgwMjg4LDEzMj
+eyJoaXN0b3J5IjpbLTEyMzExMDk3OTgsNzA1ODgwMjg4LDEzMj
 c4OTAwLC0yMDg1MzE0Nzg2LC0zNzk4OTE4MywtMTEwOTYwMjMz
 Nyw1MTQ4NDczOTUsLTY2MzE5NzY0MywtMjA1MDIxOTQ2MiwtMT
 Q5MDc0MTI0NSwyMDA4MjEzMTU4LDExMjA2NzUwODQsODIwMzk3
