@@ -218,7 +218,7 @@ Une autre nécessité pour ne pas provoquer de cinétose (ou briser l'immersion)
 
 - **[Le foveated rendering](https://en.wikipedia.org/wiki/Foveated_rendering)**: seul le centre de l'image est calculé en haute définition. La résolution diminue ensuite de plus en plus en périphérie. Si cette technique est combinée avec du eye-tracking afin d'utiliser la zone où se trouve le focus de la vision de l'utilisateur plutôt que le centre de l'écran, elle peut même être indiscernable.
 
-- **[Asynchronous interleaved reprojection](https://en.wikipedia.org/wiki/Asynchronous_reprojection)**: des images dernièrement rendues sont adaptées avec les informations de mouvements et de positionnement du casque afin d'obtenir une image de "secours" en cas de perte . 
+- **[Asynchronous interleaved reprojection](https://en.wikipedia.org/wiki/Asynchronous_reprojection)**: des images dernièrement rendues sont adaptées avec les informations de mouvements et de positionnement du casque afin d'obtenir des images de "secours" en cas de perte . 
 
 # Etat de l'art: le son en VR
 ## Le son en VR est positionnel, donc également en 3D.
@@ -232,11 +232,11 @@ En savoir plus: [VR positional Audio](https://realnewworld.com/vr-positional-aud
 - [Geek.com](https://www.geek.com/news/the-history-of-virtual-reality-games-1652225/)
 - [Changing the world: DARPA’s top inventions](https://www.extremetech.com/extreme/105117-inventing-our-world-darpas-top-inventions/2)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkxOTk5MjMyNCwtMTEwOTYwMjMzNyw1MT
-Q4NDczOTUsLTY2MzE5NzY0MywtMjA1MDIxOTQ2MiwtMTQ5MDc0
-MTI0NSwyMDA4MjEzMTU4LDExMjA2NzUwODQsODIwMzk3MTQzLD
-EyNDUwNTg3NjIsMTkxMzcwMjA1Myw3ODYxODI1NzgsLTE0NjE2
-NDQzODAsLTEwNzA5MDE3ODQsLTEyNzkyMTg1NzEsLTE5MzQxNz
-k3MzYsLTE3ODE4OTk4ODgsLTM2NjA1OTQwNCwtOTU3Nzk1OTUs
-LTcxMzg4NzY4N119
+eyJoaXN0b3J5IjpbLTM3OTg5MTgzLC0xMTA5NjAyMzM3LDUxND
+g0NzM5NSwtNjYzMTk3NjQzLC0yMDUwMjE5NDYyLC0xNDkwNzQx
+MjQ1LDIwMDgyMTMxNTgsMTEyMDY3NTA4NCw4MjAzOTcxNDMsMT
+I0NTA1ODc2MiwxOTEzNzAyMDUzLDc4NjE4MjU3OCwtMTQ2MTY0
+NDM4MCwtMTA3MDkwMTc4NCwtMTI3OTIxODU3MSwtMTkzNDE3OT
+czNiwtMTc4MTg5OTg4OCwtMzY2MDU5NDA0LC05NTc3OTU5NSwt
+NzEzODg3Njg3XX0=
 -->
