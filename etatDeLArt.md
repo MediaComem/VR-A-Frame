@@ -136,9 +136,10 @@ Les écrans (où l'écran) utilisés par les casques posent aussi quelques probl
 
 ![Screen Door Effect](https://external-preview.redd.it/lmskdQbKiWAh14j5dxhCPn-iLTx_uBkHcwZksUQz328.jpg?auto=webp&s=93735d53c775da1b0702cb0fa8126363426f9d53)
 
-- **Aliasing**: les arrondis sont saccadés. Puisque les écrans utilisent des pixels,  les courbes ne sont pas possibles.  [Aliasing](https://fr.wikipedia.org/wiki/Anticr%C3%A9nelage). Il faut utiliser de bonnes techniques d'anti-aliasing (anticrénelage) ou utiliser des écrans à très forte densité de pixels.
+- **Aliasing**: les arrondis sont saccadés. Puisque les écrans utilisent des pixels,  les courbes ne sont pas possibles. Cela rend les textes peu lisibles en VR. [Aliasing](https://fr.wikipedia.org/wiki/Anticr%C3%A9nelage). Il faut utiliser de bonnes techniques d'anti-aliasing (anticrénelage) ou utiliser des écrans à très forte densité de pixels. 
 
 ![Aliasing](https://upload.wikimedia.org/wikipedia/commons/2/24/Antialiasing_comparaison.gif)
+
 
 
 ### Les lentilles
@@ -237,11 +238,11 @@ Les deux autres sens ? (odorat ? )
 - [Geek.com](https://www.geek.com/news/the-history-of-virtual-reality-games-1652225/)
 - [Changing the world: DARPA’s top inventions](https://www.extremetech.com/extreme/105117-inventing-our-world-darpas-top-inventions/2)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwODc5Nzc1OTQsMTQ3MzIzMjIsLTYwMj
-E5NzE4NSw3MDU4ODAyODgsMTMyNzg5MDAsLTIwODUzMTQ3ODYs
-LTM3OTg5MTgzLC0xMTA5NjAyMzM3LDUxNDg0NzM5NSwtNjYzMT
-k3NjQzLC0yMDUwMjE5NDYyLC0xNDkwNzQxMjQ1LDIwMDgyMTMx
-NTgsMTEyMDY3NTA4NCw4MjAzOTcxNDMsMTI0NTA1ODc2MiwxOT
-EzNzAyMDUzLDc4NjE4MjU3OCwtMTQ2MTY0NDM4MCwtMTA3MDkw
-MTc4NF19
+eyJoaXN0b3J5IjpbNjgyNjgwODk2LC0yMDg3OTc3NTk0LDE0Nz
+MyMzIyLC02MDIxOTcxODUsNzA1ODgwMjg4LDEzMjc4OTAwLC0y
+MDg1MzE0Nzg2LC0zNzk4OTE4MywtMTEwOTYwMjMzNyw1MTQ4ND
+czOTUsLTY2MzE5NzY0MywtMjA1MDIxOTQ2MiwtMTQ5MDc0MTI0
+NSwyMDA4MjEzMTU4LDExMjA2NzUwODQsODIwMzk3MTQzLDEyND
+UwNTg3NjIsMTkxMzcwMjA1Myw3ODYxODI1NzgsLTE0NjE2NDQz
+ODBdfQ==
 -->
