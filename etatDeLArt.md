@@ -246,6 +246,7 @@ Les deux autres sens ? (odorat ? )
 - [Strange Days](https://fr.wikipedia.org/wiki/Strange_Days_(film)), 1995 (Kathryn Bigelow)
 - [Ghost in the shell](https://fr.wikipedia.org/wiki/Ghost_in_the_shell), 1995 (Oshii)
 - La trilogie [Matrix](https://fr.wikipedia.org/wiki/Matrix_(s%C3%A9rie_de_films)), 1998 (Andy et Larry Wachowski)
+- [eXistenZ](https://fr.wikipedia.org/wiki/EXistenZ) (Cronenberg, 1999)
 
 ## Sources
 - [Virtual Reality Society](https://www.vrs.org.uk/virtual-reality/history.html)
@@ -259,11 +260,11 @@ Les deux autres sens ? (odorat ? )
 - Nicolas Chabloz
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4Nzg3MTQ0ODUsMTAzNDQyMzUxMywtMT
-Q4MTI4MDI3NSwtMjA4Nzk3NzU5NCwxNDczMjMyMiwtNjAyMTk3
-MTg1LDcwNTg4MDI4OCwxMzI3ODkwMCwtMjA4NTMxNDc4NiwtMz
-c5ODkxODMsLTExMDk2MDIzMzcsNTE0ODQ3Mzk1LC02NjMxOTc2
-NDMsLTIwNTAyMTk0NjIsLTE0OTA3NDEyNDUsMjAwODIxMzE1OC
-wxMTIwNjc1MDg0LDgyMDM5NzE0MywxMjQ1MDU4NzYyLDE5MTM3
-MDIwNTNdfQ==
+eyJoaXN0b3J5IjpbLTE0OTgzMDg5MTcsLTE4Nzg3MTQ0ODUsMT
+AzNDQyMzUxMywtMTQ4MTI4MDI3NSwtMjA4Nzk3NzU5NCwxNDcz
+MjMyMiwtNjAyMTk3MTg1LDcwNTg4MDI4OCwxMzI3ODkwMCwtMj
+A4NTMxNDc4NiwtMzc5ODkxODMsLTExMDk2MDIzMzcsNTE0ODQ3
+Mzk1LC02NjMxOTc2NDMsLTIwNTAyMTk0NjIsLTE0OTA3NDEyND
+UsMjAwODIxMzE1OCwxMTIwNjc1MDg0LDgyMDM5NzE0MywxMjQ1
+MDU4NzYyXX0=
 -->
