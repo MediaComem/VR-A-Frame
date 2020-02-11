@@ -226,7 +226,7 @@ Bien sûr, pour obtenir de bonnes performances sur les cartes graphiques actuell
 
 Le son en VR se doit d'être positionnel [VR positional Audio](https://realnewworld.com/vr-positional-audio/).
 
-Retours haptiques :  
+Gants à retour haptique :  
 
 Les deux autres sens ? (odorat ? )
 
@@ -242,7 +242,7 @@ Les deux autres sens ? (odorat ? )
 - Nicolas Chabloz
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYwMTQwMjc5MywtMTQ4MTI4MDI3NSwtMj
+eyJoaXN0b3J5IjpbMjA4NjI4NzA3MiwtMTQ4MTI4MDI3NSwtMj
 A4Nzk3NzU5NCwxNDczMjMyMiwtNjAyMTk3MTg1LDcwNTg4MDI4
 OCwxMzI3ODkwMCwtMjA4NTMxNDc4NiwtMzc5ODkxODMsLTExMD
 k2MDIzMzcsNTE0ODQ3Mzk1LC02NjMxOTc2NDMsLTIwNTAyMTk0
