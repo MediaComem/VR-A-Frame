@@ -4,11 +4,11 @@
 
 ### Objectifs
 - Savoir intégrer des technologies Web pour la réalisation d’une expérience VR multi-utilisateurs
-- Réaliser une application accessible via une multitude de périphériques
-- Manipuler et étendrun framework
+- Réaliser une application accessible via une multitude de périphériques (*responsive*)
+-  S'initier au framework A-Frame et 
 
 ## Mise en place
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzk3NDExOTI4LDc0MjcxOTM3MCwxOTcyMT
+eyJoaXN0b3J5IjpbNzA2NTI4MTc0LDc0MjcxOTM3MCwxOTcyMT
 I2OTk4XX0=
 -->
