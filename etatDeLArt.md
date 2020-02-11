@@ -230,6 +230,10 @@ Gants à retour haptique :
 
 Les deux autres sens ? (odorat ? )
 
+## La VR dans la fiction
+
+[Neuromancien](https://fr.wikipedia.org/wiki/Neuromancien "Neuromancien"), 1984
+
 ## Sources
 - [Virtual Reality Society](https://www.vrs.org.uk/virtual-reality/history.html)
 - [Geek.com](https://www.geek.com/news/the-history-of-virtual-reality-games-1652225/)
@@ -242,11 +246,11 @@ Les deux autres sens ? (odorat ? )
 - Nicolas Chabloz
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAzNDQyMzUxMywtMTQ4MTI4MDI3NSwtMj
-A4Nzk3NzU5NCwxNDczMjMyMiwtNjAyMTk3MTg1LDcwNTg4MDI4
-OCwxMzI3ODkwMCwtMjA4NTMxNDc4NiwtMzc5ODkxODMsLTExMD
-k2MDIzMzcsNTE0ODQ3Mzk1LC02NjMxOTc2NDMsLTIwNTAyMTk0
-NjIsLTE0OTA3NDEyNDUsMjAwODIxMzE1OCwxMTIwNjc1MDg0LD
-gyMDM5NzE0MywxMjQ1MDU4NzYyLDE5MTM3MDIwNTMsNzg2MTgy
-NTc4XX0=
+eyJoaXN0b3J5IjpbLTE4MDY5ODc4OTIsMTAzNDQyMzUxMywtMT
+Q4MTI4MDI3NSwtMjA4Nzk3NzU5NCwxNDczMjMyMiwtNjAyMTk3
+MTg1LDcwNTg4MDI4OCwxMzI3ODkwMCwtMjA4NTMxNDc4NiwtMz
+c5ODkxODMsLTExMDk2MDIzMzcsNTE0ODQ3Mzk1LC02NjMxOTc2
+NDMsLTIwNTAyMTk0NjIsLTE0OTA3NDEyNDUsMjAwODIxMzE1OC
+wxMTIwNjc1MDg0LDgyMDM5NzE0MywxMjQ1MDU4NzYyLDE5MTM3
+MDIwNTNdfQ==
 -->
