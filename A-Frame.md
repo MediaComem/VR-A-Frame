@@ -8,7 +8,7 @@
 - Réaliser une application accessible via une multitude de périphériques (*responsive*).
 -  S'initier au framework A-Frame et à l'architecture [Entity–component–system](https://aframe.io/docs/1.0.0/introduction/entity-component-system.html) (ECS).
 
-## Concept
+## Contenu
 
 Pour atteindre ces objectifs, nous allons développer un *Hub VR* multi-utilisateurs. Ce *hub* servira de porte d'entrée vers les projets individuels que vous développerez durant la dernière partie du cours. Il se présentera  sous la forme d'une mini expérience VR mettant en pratique les concepts de base du framework A-Frame. On y verra (entre autre) comment: 
 - déplacer l'avatar de l'utilisateur (en évitant la *cinétose*)
@@ -27,7 +27,7 @@ Ajoutez aussi [Aframe-Extras](https://github.com/donmccurdy/aframe-extras) à vo
 
 Pour faire un premier test, vérifiez que tout fonctionne en ajoutant les balises nécessaires à l'affichage d'un océan (qui servira de 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc3MzcyNTE3MCwxMDM1MjA3ODM1LC0xMj
-g4MjgyNDAsLTIwOTg4ODg2OTksLTE3NzI4NDg1NTAsNzQyNzE5
-MzcwLDE5NzIxMjY5OThdfQ==
+eyJoaXN0b3J5IjpbOTQ5MjY3Mzg4LC03NzM3MjUxNzAsMTAzNT
+IwNzgzNSwtMTI4ODI4MjQwLC0yMDk4ODg4Njk5LC0xNzcyODQ4
+NTUwLDc0MjcxOTM3MCwxOTcyMTI2OTk4XX0=
 -->
