@@ -4,14 +4,15 @@
 
 ## Objectifs
 
-- Savoir intégrer des technologies Web pour la réalisation d’une expérience VR multi-utilisateurs
-- Réaliser une application accessible via une multitude de périphériques (*responsive*)
+- Savoir intégrer des technologies Web pour la réalisation d’une expérience VR multi-utilisateurs.
+- Réaliser une application accessible via une multitude de périphériques (*responsive*).
 -  S'initier au framework A-Frame et à l'architecture [Entity–component–system](https://aframe.io/docs/1.0.0/introduction/entity-component-system.html).
 
 ## Mise en place
-La version 1.0.4 du *framework* [A-Frame](https://aframe.io/docs/1.0.0/introduction/) sera utilisé.
+
+La version 1.0.4 du *framework* [A-Frame](https://aframe.io/docs/1.0.0/introduction/) sera utilisé. Vous pouvez donc simplement la rajouter dans un code HTML de base ou utiliser une des autre méthode
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NDMyMzc0ODAsLTEyODgyODI0MCwtMj
-A5ODg4ODY5OSwtMTc3Mjg0ODU1MCw3NDI3MTkzNzAsMTk3MjEy
-Njk5OF19
+eyJoaXN0b3J5IjpbLTI4ODI2Nzc2MiwtMTI4ODI4MjQwLC0yMD
+k4ODg4Njk5LC0xNzcyODQ4NTUwLDc0MjcxOTM3MCwxOTcyMTI2
+OTk4XX0=
 -->
