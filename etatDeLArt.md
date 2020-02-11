@@ -247,6 +247,8 @@ Les deux autres sens ? (odorat ? )
 - [Ghost in the shell](https://fr.wikipedia.org/wiki/Ghost_in_the_shell), 1995 (Oshii)
 - La trilogie [Matrix](https://fr.wikipedia.org/wiki/Matrix_(s%C3%A9rie_de_films)), 1998 (Andy et Larry Wachowski)
 - [eXistenZ](https://fr.wikipedia.org/wiki/EXistenZ), 1999 (Cronenberg)
+- [Avalon](https://fr.wikipedia.org/wiki/Avalon_(film,_2001)), 2001 (Oshii)
+- [Ready Player One](https://fr.wikipedia.org/wiki/Ready_Player_One_(film)) (Steven Spielberg, 30 mars 2018
 
 ## Sources
 - [Virtual Reality Society](https://www.vrs.org.uk/virtual-reality/history.html)
@@ -260,11 +262,11 @@ Les deux autres sens ? (odorat ? )
 - Nicolas Chabloz
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk3MDAwOTQ5LC0xODc4NzE0NDg1LDEwMz
-Q0MjM1MTMsLTE0ODEyODAyNzUsLTIwODc5Nzc1OTQsMTQ3MzIz
-MjIsLTYwMjE5NzE4NSw3MDU4ODAyODgsMTMyNzg5MDAsLTIwOD
-UzMTQ3ODYsLTM3OTg5MTgzLC0xMTA5NjAyMzM3LDUxNDg0NzM5
-NSwtNjYzMTk3NjQzLC0yMDUwMjE5NDYyLC0xNDkwNzQxMjQ1LD
-IwMDgyMTMxNTgsMTEyMDY3NTA4NCw4MjAzOTcxNDMsMTI0NTA1
-ODc2Ml19
+eyJoaXN0b3J5IjpbMjEzNDI1NjIyOCwtMTg3ODcxNDQ4NSwxMD
+M0NDIzNTEzLC0xNDgxMjgwMjc1LC0yMDg3OTc3NTk0LDE0NzMy
+MzIyLC02MDIxOTcxODUsNzA1ODgwMjg4LDEzMjc4OTAwLC0yMD
+g1MzE0Nzg2LC0zNzk4OTE4MywtMTEwOTYwMjMzNyw1MTQ4NDcz
+OTUsLTY2MzE5NzY0MywtMjA1MDIxOTQ2MiwtMTQ5MDc0MTI0NS
+wyMDA4MjEzMTU4LDExMjA2NzUwODQsODIwMzk3MTQzLDEyNDUw
+NTg3NjJdfQ==
 -->
