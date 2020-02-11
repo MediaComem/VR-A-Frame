@@ -248,7 +248,7 @@ Les deux autres sens ? (odorat ? )
 - La trilogie [Matrix](https://fr.wikipedia.org/wiki/Matrix_(s%C3%A9rie_de_films)), 1998 (Andy et Larry Wachowski)
 - [eXistenZ](https://fr.wikipedia.org/wiki/EXistenZ), 1999 (Cronenberg)
 - [Avalon](https://fr.wikipedia.org/wiki/Avalon_(film,_2001)), 2001 (Oshii)
-- Anime [Sword Art Online](https://fr.wikipedia.org/wiki/Sword_Art_Online "Sword Art Online")_, 2012 ([A1-Pictures](https://fr.wikipedia.org/w/index.php?title=A1-Pictures&action=edit&redlink=1 "A1-Pictures (page inexistante)"))
+- Anime [Sword Art Online](https://fr.wikipedia.org/wiki/Sword_Art_Online), 2012 (A1-Pictures)
 - [Ready Player One](https://fr.wikipedia.org/wiki/Ready_Player_One_(film)), 2018 (Steven Spielberg)
 
 ## Sources
@@ -263,11 +263,11 @@ Les deux autres sens ? (odorat ? )
 - Nicolas Chabloz
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNzE1MjE0OTksMTgxOTUyMTkwMSwyMT
-M0MjU2MjI4LC0xODc4NzE0NDg1LDEwMzQ0MjM1MTMsLTE0ODEy
-ODAyNzUsLTIwODc5Nzc1OTQsMTQ3MzIzMjIsLTYwMjE5NzE4NS
-w3MDU4ODAyODgsMTMyNzg5MDAsLTIwODUzMTQ3ODYsLTM3OTg5
-MTgzLC0xMTA5NjAyMzM3LDUxNDg0NzM5NSwtNjYzMTk3NjQzLC
-0yMDUwMjE5NDYyLC0xNDkwNzQxMjQ1LDIwMDgyMTMxNTgsMTEy
-MDY3NTA4NF19
+eyJoaXN0b3J5IjpbLTYyMjc4OTUxNSwxODE5NTIxOTAxLDIxMz
+QyNTYyMjgsLTE4Nzg3MTQ0ODUsMTAzNDQyMzUxMywtMTQ4MTI4
+MDI3NSwtMjA4Nzk3NzU5NCwxNDczMjMyMiwtNjAyMTk3MTg1LD
+cwNTg4MDI4OCwxMzI3ODkwMCwtMjA4NTMxNDc4NiwtMzc5ODkx
+ODMsLTExMDk2MDIzMzcsNTE0ODQ3Mzk1LC02NjMxOTc2NDMsLT
+IwNTAyMTk0NjIsLTE0OTA3NDEyNDUsMjAwODIxMzE1OCwxMTIw
+Njc1MDg0XX0=
 -->
