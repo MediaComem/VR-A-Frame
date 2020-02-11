@@ -237,6 +237,7 @@ Les deux autres sens ? (odorat ? )
 - [Neuromancien](https://fr.wikipedia.org/wiki/Neuromancien "Neuromancien"), 1984 (William Gibson)
 - [Snow Crash](https://fr.wikipedia.org/wiki/Le_Samoura%C3%AF_virtuel), 1992 (Neal Stephenson)
 - [La Cité des permutants](https://fr.wikipedia.org/wiki/La_Cit%C3%A9_des_permutants), 1994 (Greg Egan)
+- [Sword Art Online](https://fr.wikipedia.org/wiki/Sword_Art_Online), 2009 (Reki Kawahara)
 - [Ready Player One](https://fr.wikipedia.org/wiki/Player_One_(roman)), 2011 (Ernest Cline)
 
 ### Films
@@ -248,7 +249,6 @@ Les deux autres sens ? (odorat ? )
 - La trilogie [Matrix](https://fr.wikipedia.org/wiki/Matrix_(s%C3%A9rie_de_films)), 1998 (Andy et Larry Wachowski)
 - [eXistenZ](https://fr.wikipedia.org/wiki/EXistenZ), 1999 (Cronenberg)
 - [Avalon](https://fr.wikipedia.org/wiki/Avalon_(film,_2001)), 2001 (Oshii)
-- Anime [Sword Art Online](https://fr.wikipedia.org/wiki/Sword_Art_Online), 2012 (A1-Pictures)
 - [Ready Player One](https://fr.wikipedia.org/wiki/Ready_Player_One_(film)), 2018 (Steven Spielberg)
 
 ## Sources
@@ -263,7 +263,7 @@ Les deux autres sens ? (odorat ? )
 - Nicolas Chabloz
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYyMjc4OTUxNSwxODE5NTIxOTAxLDIxMz
+eyJoaXN0b3J5IjpbMTY2OTM5MTA2OCwxODE5NTIxOTAxLDIxMz
 QyNTYyMjgsLTE4Nzg3MTQ0ODUsMTAzNDQyMzUxMywtMTQ4MTI4
 MDI3NSwtMjA4Nzk3NzU5NCwxNDczMjMyMiwtNjAyMTk3MTg1LD
 cwNTg4MDI4OCwxMzI3ODkwMCwtMjA4NTMxNDc4NiwtMzc5ODkx
