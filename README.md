@@ -1,7 +1,6 @@
 ### IM - Digital Trends - Heig-VD
 
-# Support de cours VR-A-Frame
-
+# VR Tech
 
 Ce dépôt contient les différents supports pédagogiques nécessaires pour le cours **VR Tech** du module **Digital Trends** de la filière **ingénierie des médias** (IM) de la **HEIG-VD**.
 
@@ -11,6 +10,6 @@ Ce dépôt contient les différents supports pédagogiques nécessaires pour le 
 - Arthur Verdon
 - Nicolas Chabloz
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM1NzkwNjk2NSwtOTIwNjc4ODc5LDIwNT
+eyJoaXN0b3J5IjpbMTc0MTc2NDE5MywtOTIwNjc4ODc5LDIwNT
 U2NTkyODAsMjQ5NzAwMTZdfQ==
 -->
