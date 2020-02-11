@@ -230,7 +230,7 @@ Retours haptiques...
 
 Les deux autres sens ? (odorat ? )
 
-# Sources
+## Sources
 - [Virtual Reality Society](https://www.vrs.org.uk/virtual-reality/history.html)
 - [Geek.com](https://www.geek.com/news/the-history-of-virtual-reality-games-1652225/)
 - [Changing the world: DARPA’s top inventions](https://www.extremetech.com/extreme/105117-inventing-our-world-darpas-top-inventions/2)
@@ -242,11 +242,11 @@ Arthur Verdon
 Nicolas Chabloz
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM1MTQ3ODgzMSwtMTQ4MTI4MDI3NSwtMj
-A4Nzk3NzU5NCwxNDczMjMyMiwtNjAyMTk3MTg1LDcwNTg4MDI4
-OCwxMzI3ODkwMCwtMjA4NTMxNDc4NiwtMzc5ODkxODMsLTExMD
-k2MDIzMzcsNTE0ODQ3Mzk1LC02NjMxOTc2NDMsLTIwNTAyMTk0
-NjIsLTE0OTA3NDEyNDUsMjAwODIxMzE1OCwxMTIwNjc1MDg0LD
-gyMDM5NzE0MywxMjQ1MDU4NzYyLDE5MTM3MDIwNTMsNzg2MTgy
-NTc4XX0=
+eyJoaXN0b3J5IjpbLTE0MTYzMjc0MzgsLTE0ODEyODAyNzUsLT
+IwODc5Nzc1OTQsMTQ3MzIzMjIsLTYwMjE5NzE4NSw3MDU4ODAy
+ODgsMTMyNzg5MDAsLTIwODUzMTQ3ODYsLTM3OTg5MTgzLC0xMT
+A5NjAyMzM3LDUxNDg0NzM5NSwtNjYzMTk3NjQzLC0yMDUwMjE5
+NDYyLC0xNDkwNzQxMjQ1LDIwMDgyMTMxNTgsMTEyMDY3NTA4NC
+w4MjAzOTcxNDMsMTI0NTA1ODc2MiwxOTEzNzAyMDUzLDc4NjE4
+MjU3OF19
 -->
