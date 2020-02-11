@@ -239,6 +239,10 @@ Les deux autres sens ? (odorat ? )
 - [La Cité des permutants](https://fr.wikipedia.org/wiki/La_Cit%C3%A9_des_permutants), 1994 (Greg Egan)
 - [Ready Player One](https://fr.wikipedia.org/wiki/Player_One_(roman)), 2011 (Ernest Cline)
 
+### Films
+
+- [Tron](https://fr.wikipedia.org/wiki/Tron "Tron"), 1982 (Steven Lisberger)
+- [The Lawnmower Man](https://fr.wikipedia.org/wiki/Le_Cobaye "Le Cobaye") (Brett Leonard](https://fr.wikipedia.org/wiki/Brett_Leonard "Brett Leonard"), 1992)
 
 ## Sources
 - [Virtual Reality Society](https://www.vrs.org.uk/virtual-reality/history.html)
@@ -252,11 +256,11 @@ Les deux autres sens ? (odorat ? )
 - Nicolas Chabloz
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNTQ0NTg4MzcsMTAzNDQyMzUxMywtMT
-Q4MTI4MDI3NSwtMjA4Nzk3NzU5NCwxNDczMjMyMiwtNjAyMTk3
-MTg1LDcwNTg4MDI4OCwxMzI3ODkwMCwtMjA4NTMxNDc4NiwtMz
-c5ODkxODMsLTExMDk2MDIzMzcsNTE0ODQ3Mzk1LC02NjMxOTc2
-NDMsLTIwNTAyMTk0NjIsLTE0OTA3NDEyNDUsMjAwODIxMzE1OC
-wxMTIwNjc1MDg0LDgyMDM5NzE0MywxMjQ1MDU4NzYyLDE5MTM3
-MDIwNTNdfQ==
+eyJoaXN0b3J5IjpbMTMxMzc5NDg0MCwxMDM0NDIzNTEzLC0xND
+gxMjgwMjc1LC0yMDg3OTc3NTk0LDE0NzMyMzIyLC02MDIxOTcx
+ODUsNzA1ODgwMjg4LDEzMjc4OTAwLC0yMDg1MzE0Nzg2LC0zNz
+k4OTE4MywtMTEwOTYwMjMzNyw1MTQ4NDczOTUsLTY2MzE5NzY0
+MywtMjA1MDIxOTQ2MiwtMTQ5MDc0MTI0NSwyMDA4MjEzMTU4LD
+ExMjA2NzUwODQsODIwMzk3MTQzLDEyNDUwNTg3NjIsMTkxMzcw
+MjA1M119
 -->
