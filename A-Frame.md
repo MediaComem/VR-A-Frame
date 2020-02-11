@@ -12,9 +12,9 @@
 
 La version 1.0.4 du *framework* [A-Frame](https://aframe.io/docs/1.0.0/introduction/) sera utilisé. Vous pouvez donc simplement la rajouter dans votre code HTML de base ou utiliser une des autres méthodes proposée dans la documentation officielle.
 
-Ajoutez aussi [Aframe-Extras](https://github.com/donmccurdy/aframe-extras) à votre projet, puisque nous utiliserons certaines des extensions du *framework* A-Frame.
+Ajoutez aussi [Aframe-Extras](https://github.com/donmccurdy/aframe-extras) à votre projet, puisque nous utiliserons certaines des extensions du *framework* A-Frame offert par cet ensemble de composants.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA4NzkwOTAzMCwxMDM1MjA3ODM1LC0xMj
+eyJoaXN0b3J5IjpbLTc4Njc1MzcyNiwxMDM1MjA3ODM1LC0xMj
 g4MjgyNDAsLTIwOTg4ODg2OTksLTE3NzI4NDg1NTAsNzQyNzE5
 MzcwLDE5NzIxMjY5OThdfQ==
 -->
