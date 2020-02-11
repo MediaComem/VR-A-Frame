@@ -8,7 +8,9 @@
 - Réaliser une application accessible via une multitude de périphériques (*responsive*).
 -  S'initier au framework A-Frame et à l'architecture [Entity–component–system](https://aframe.io/docs/1.0.0/introduction/entity-component-system.html).
 
-## 
+## Concept
+
+Pour atteindre ces objectifs, nous allons développer un Hub VR.
 
 ## Mise en place
 
@@ -18,7 +20,7 @@ Ajoutez aussi [Aframe-Extras](https://github.com/donmccurdy/aframe-extras) à vo
 
 Pour faire un premier test, vérifiez que tout fonctionne en ajoutant les balises nécessaires à l'affichage d'un océan (qui servira de 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA2MDI5MjcyMCwxMDM1MjA3ODM1LC0xMj
+eyJoaXN0b3J5IjpbLTQ5NzUxMzA0MiwxMDM1MjA3ODM1LC0xMj
 g4MjgyNDAsLTIwOTg4ODg2OTksLTE3NzI4NDg1NTAsNzQyNzE5
 MzcwLDE5NzIxMjY5OThdfQ==
 -->
