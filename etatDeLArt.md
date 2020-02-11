@@ -193,7 +193,7 @@ Si toutefois on opte pour des déplacements libres de la caméra via un contrôl
 
 ### Autres artifices
 
-Si l'espace VR est de taille identique (ou plus petit que l'espace réel), la solution est simple. Il suffit à l'utilisateur de se déplacer dans la réalité pour être déplacé dans la VR de manière identique en utilisant simplement le système de positionnement du casque. Bien sûr, pour que cela soit praticable, il faut que l'application aie connaissance de la taille réelle de l'espace disponible par le joueur. Dans l'expérience immersive [theBlu](https://wevr.com/theblu),  la zone d'exploration sous-marine explorable est générée au début de l’expérience pour que sa taille soit identique à la zone réelle de l'utilisateur. L'immersion est alors fortement accrue, encore plus du fait que le casque VR ressemble à un casque de plongée sous-marine (poids, FOV réduit, ...). 
+Si l'espace VR est de taille identique (ou plus petit que l'espace réel), la solution est simple. Il suffit à l'utilisateur de se déplacer dans la réalité pour être déplacé dans la VR de manière identique en utilisant simplement le système de positionnement du casque. Bien sûr, pour que cela soit praticable, il faut que l'application aie connaissance de la taille réelle de l'espace disponible par le joueur. Dans l'expérience immersive [theBlu](https://wevr.com/theblu),  la zone d'exploration sous-marine est générée au début de l’expérience pour que sa taille soit identique à la zone réelle de l'utilisateur. L'immersion est alors fortement accrue, encore plus du fait que le casque VR ressemble à un casque de plongée sous-marine (poids, FOV réduit, ...). 
 
 Même si l'espace VR est plus grand que l'espace réel, il existe quelques méthodes (*astuces*) pour éviter de devoir déplacer la caméra de l'utilisateur ou d'utiliser des mécanismes de téléportation. En voici quelques-une:
 
@@ -262,11 +262,11 @@ Les deux autres sens ? (odorat ? )
 - Nicolas Chabloz
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDg5ODAzNzM0LDE3OTgyNTcxMDEsLTE4Mj
-Q5NDQ3NzIsLTE3NTcxNDAyNjUsMjA4OTIxNTk2LDU5NDE3MDg4
-OCwxNjY5MzkxMDY4LDE4MTk1MjE5MDEsMjEzNDI1NjIyOCwtMT
-g3ODcxNDQ4NSwxMDM0NDIzNTEzLC0xNDgxMjgwMjc1LC0yMDg3
-OTc3NTk0LDE0NzMyMzIyLC02MDIxOTcxODUsNzA1ODgwMjg4LD
-EzMjc4OTAwLC0yMDg1MzE0Nzg2LC0zNzk4OTE4MywtMTEwOTYw
-MjMzN119
+eyJoaXN0b3J5IjpbLTkzNzEwNDcwNiw0ODk4MDM3MzQsMTc5OD
+I1NzEwMSwtMTgyNDk0NDc3MiwtMTc1NzE0MDI2NSwyMDg5MjE1
+OTYsNTk0MTcwODg4LDE2NjkzOTEwNjgsMTgxOTUyMTkwMSwyMT
+M0MjU2MjI4LC0xODc4NzE0NDg1LDEwMzQ0MjM1MTMsLTE0ODEy
+ODAyNzUsLTIwODc5Nzc1OTQsMTQ3MzIzMjIsLTYwMjE5NzE4NS
+w3MDU4ODAyODgsMTMyNzg5MDAsLTIwODUzMTQ3ODYsLTM3OTg5
+MTgzXX0=
 -->
