@@ -147,7 +147,7 @@ Les lentilles déforment (le ou) les écrans à l'intérieur du casque afin d'av
 
 - **Centre optique (sweet spot)** : afin d'avoir une vision claire (avec un bon focus), il faut que la lentille soit correctement placée face à l’œil. Les casques VR actuels sont plus ou moins permissif sur ce sujet. De plus, la [distance pupillaire](https://en.wikipedia.org/wiki/Pupillary_distance) est différente d'un individus à l'autre. Ainsi, les casques se munissent la plupart du temps d'un système de réglage de la distance séparant les deux lentilles, permettant d'obtenir un bon "sweet spot" plus facilement.
 
-- **Glare et "God rays"**:  En cas de scène à fort forts contrastes, les couleurs clair (le blanc principalement) "bave". On voit comme des rayons lumineux (God Rays). La cause: les lentilles Fresnel utilisées dans le casque. Pour le moment, il faut donc limiter les forts contrastes dans les scènes VR et attendre que les lentilles des futurs casques VR fassent mieux sur ce point.
+- **Glare et "God rays"**:  En cas de scène à fort contraste, les couleurs claires (le blanc principalement) "bavent". On voit des rayons lumineux (God Rays). La cause: les lentilles Fresnel utilisées dans le casque. Pour le moment, il faut donc limiter les forts contrastes dans les scènes VR et attendre que les lentilles fassent mieux sur ce point.
 
 ![Glare](http://i.vimeocdn.com/video/569557579_1280.jpg)
 
@@ -242,7 +242,7 @@ Les deux autres sens ? (odorat ? )
 - Nicolas Chabloz
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkxNDAxMTU4MywtMTQ4MTI4MDI3NSwtMj
+eyJoaXN0b3J5IjpbMTAzNDQyMzUxMywtMTQ4MTI4MDI3NSwtMj
 A4Nzk3NzU5NCwxNDczMjMyMiwtNjAyMTk3MTg1LDcwNTg4MDI4
 OCwxMzI3ODkwMCwtMjA4NTMxNDc4NiwtMzc5ODkxODMsLTExMD
 k2MDIzMzcsNTE0ODQ3Mzk1LC02NjMxOTc2NDMsLTIwNTAyMTk0
