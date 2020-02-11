@@ -248,7 +248,7 @@ Les deux autres sens ? (odorat ? )
 - La trilogie [Matrix](https://fr.wikipedia.org/wiki/Matrix_(s%C3%A9rie_de_films)), 1998 (Andy et Larry Wachowski)
 - [eXistenZ](https://fr.wikipedia.org/wiki/EXistenZ), 1999 (Cronenberg)
 - [Avalon](https://fr.wikipedia.org/wiki/Avalon_(film,_2001)), 2001 (Oshii)
-- [Ready Player One](https://fr.wikipedia.org/wiki/Ready_Player_One_(film)) (Steven Spielberg, 30 mars 2018
+- [Ready Player One](https://fr.wikipedia.org/wiki/Ready_Player_One_(film)), 2018 (Steven Spielberg)
 
 ## Sources
 - [Virtual Reality Society](https://www.vrs.org.uk/virtual-reality/history.html)
@@ -262,11 +262,11 @@ Les deux autres sens ? (odorat ? )
 - Nicolas Chabloz
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEzNDI1NjIyOCwtMTg3ODcxNDQ4NSwxMD
-M0NDIzNTEzLC0xNDgxMjgwMjc1LC0yMDg3OTc3NTk0LDE0NzMy
-MzIyLC02MDIxOTcxODUsNzA1ODgwMjg4LDEzMjc4OTAwLC0yMD
-g1MzE0Nzg2LC0zNzk4OTE4MywtMTEwOTYwMjMzNyw1MTQ4NDcz
-OTUsLTY2MzE5NzY0MywtMjA1MDIxOTQ2MiwtMTQ5MDc0MTI0NS
-wyMDA4MjEzMTU4LDExMjA2NzUwODQsODIwMzk3MTQzLDEyNDUw
-NTg3NjJdfQ==
+eyJoaXN0b3J5IjpbMTgxOTUyMTkwMSwyMTM0MjU2MjI4LC0xOD
+c4NzE0NDg1LDEwMzQ0MjM1MTMsLTE0ODEyODAyNzUsLTIwODc5
+Nzc1OTQsMTQ3MzIzMjIsLTYwMjE5NzE4NSw3MDU4ODAyODgsMT
+MyNzg5MDAsLTIwODUzMTQ3ODYsLTM3OTg5MTgzLC0xMTA5NjAy
+MzM3LDUxNDg0NzM5NSwtNjYzMTk3NjQzLC0yMDUwMjE5NDYyLC
+0xNDkwNzQxMjQ1LDIwMDgyMTMxNTgsMTEyMDY3NTA4NCw4MjAz
+OTcxNDNdfQ==
 -->
