@@ -104,7 +104,7 @@ XIXe s. - [Stéréoscopes](https://fr.wikipedia.org/wiki/St%C3%A9r%C3%A9oscope)
 
 ### Principales problématiques
 
-La réalité virtuelle actuelle, bien que bien meilleure que les essais passés (voir [historique](#histo)) possède encore de nombreux freins envers une immersion idéale.  Voilà quelques points important :
+La réalité virtuelle actuelle, bien que bien meilleure que les essais passés (voir [historique](#histo)) possède encore de nombreux freins envers une immersion idéale.  Voilà quelques points importants :
 
 ### Champ de vue (FOV)
 
@@ -262,7 +262,7 @@ Les deux autres sens ? (odorat ? )
 - Nicolas Chabloz
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQzNzY0NTUzNiwtMTgyNDk0NDc3MiwtMT
+eyJoaXN0b3J5IjpbMTc5ODI1NzEwMSwtMTgyNDk0NDc3MiwtMT
 c1NzE0MDI2NSwyMDg5MjE1OTYsNTk0MTcwODg4LDE2NjkzOTEw
 NjgsMTgxOTUyMTkwMSwyMTM0MjU2MjI4LC0xODc4NzE0NDg1LD
 EwMzQ0MjM1MTMsLTE0ODEyODAyNzUsLTIwODc5Nzc1OTQsMTQ3
