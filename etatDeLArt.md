@@ -9,7 +9,6 @@
 - [Déplacements](#movements)
 - [Performances graphiques](#perf)
 - [Audio, haptique et autres fioritures](#audio-and-co)
-- Réflexion/discussion: UX et interfaces de jeux VR
 
 ## <a name="application-vr"></a>Applications de la VR
 
@@ -231,18 +230,23 @@ Retours haptiques...
 
 Les deux autres sens ? (odorat ? )
 
-## UX/interface de jeux VR, quelles problématiques?
-
 # Sources
 - [Virtual Reality Society](https://www.vrs.org.uk/virtual-reality/history.html)
 - [Geek.com](https://www.geek.com/news/the-history-of-virtual-reality-games-1652225/)
 - [Changing the world: DARPA’s top inventions](https://www.extremetech.com/extreme/105117-inventing-our-world-darpas-top-inventions/2)
+
+
+## Auteurs
+Nicolas Chabloz
+Audrey Huguenin
+Arthur Verdon
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0ODEyODAyNzUsLTIwODc5Nzc1OTQsMT
-Q3MzIzMjIsLTYwMjE5NzE4NSw3MDU4ODAyODgsMTMyNzg5MDAs
-LTIwODUzMTQ3ODYsLTM3OTg5MTgzLC0xMTA5NjAyMzM3LDUxND
-g0NzM5NSwtNjYzMTk3NjQzLC0yMDUwMjE5NDYyLC0xNDkwNzQx
-MjQ1LDIwMDgyMTMxNTgsMTEyMDY3NTA4NCw4MjAzOTcxNDMsMT
-I0NTA1ODc2MiwxOTEzNzAyMDUzLDc4NjE4MjU3OCwtMTQ2MTY0
-NDM4MF19
+eyJoaXN0b3J5IjpbNDk0ODk3MDgxLC0xNDgxMjgwMjc1LC0yMD
+g3OTc3NTk0LDE0NzMyMzIyLC02MDIxOTcxODUsNzA1ODgwMjg4
+LDEzMjc4OTAwLC0yMDg1MzE0Nzg2LC0zNzk4OTE4MywtMTEwOT
+YwMjMzNyw1MTQ4NDczOTUsLTY2MzE5NzY0MywtMjA1MDIxOTQ2
+MiwtMTQ5MDc0MTI0NSwyMDA4MjEzMTU4LDExMjA2NzUwODQsOD
+IwMzk3MTQzLDEyNDUwNTg3NjIsMTkxMzcwMjA1Myw3ODYxODI1
+NzhdfQ==
 -->
