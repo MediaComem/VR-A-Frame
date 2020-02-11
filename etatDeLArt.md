@@ -232,7 +232,7 @@ Les deux autres sens ? (odorat ? )
 
 ## La VR dans la fiction
 
-### livres
+### Livres
 - [Ubik](https://fr.wikipedia.org/wiki/Ubik), 1969 ("Philip K. Dick")
 - [Neuromancien](https://fr.wikipedia.org/wiki/Neuromancien "Neuromancien"), 1984 (William Gibson)
 - [Snow Crash](https://fr.wikipedia.org/wiki/Le_Samoura%C3%AF_virtuel), 1992 (Neal Stephenson)
@@ -252,7 +252,7 @@ Les deux autres sens ? (odorat ? )
 - Nicolas Chabloz
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4OTM0MzQxMDEsMTAzNDQyMzUxMywtMT
+eyJoaXN0b3J5IjpbLTEzNTQ0NTg4MzcsMTAzNDQyMzUxMywtMT
 Q4MTI4MDI3NSwtMjA4Nzk3NzU5NCwxNDczMjMyMiwtNjAyMTk3
 MTg1LDcwNTg4MDI4OCwxMzI3ODkwMCwtMjA4NTMxNDc4NiwtMz
 c5ODkxODMsLTExMDk2MDIzMzcsNTE0ODQ3Mzk1LC02NjMxOTc2
