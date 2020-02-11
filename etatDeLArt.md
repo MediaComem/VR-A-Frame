@@ -233,7 +233,7 @@ Les deux autres sens ? (odorat ? )
 ## La VR dans la fiction
 
 ### Livres
-- [Ubik](https://fr.wikipedia.org/wiki/Ubik), 1969 ("Philip K. Dick")
+- [Ubik](https://fr.wikipedia.org/wiki/Ubik), 1969 (Philip K. Dick)
 - [Neuromancien](https://fr.wikipedia.org/wiki/Neuromancien "Neuromancien"), 1984 (William Gibson)
 - [Snow Crash](https://fr.wikipedia.org/wiki/Le_Samoura%C3%AF_virtuel), 1992 (Neal Stephenson)
 - [La Cité des permutants](https://fr.wikipedia.org/wiki/La_Cit%C3%A9_des_permutants), 1994 (Greg Egan)
@@ -263,11 +263,11 @@ Les deux autres sens ? (odorat ? )
 - Nicolas Chabloz
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTk0MTcwODg4LDE2NjkzOTEwNjgsMTgxOT
-UyMTkwMSwyMTM0MjU2MjI4LC0xODc4NzE0NDg1LDEwMzQ0MjM1
-MTMsLTE0ODEyODAyNzUsLTIwODc5Nzc1OTQsMTQ3MzIzMjIsLT
-YwMjE5NzE4NSw3MDU4ODAyODgsMTMyNzg5MDAsLTIwODUzMTQ3
-ODYsLTM3OTg5MTgzLC0xMTA5NjAyMzM3LDUxNDg0NzM5NSwtNj
-YzMTk3NjQzLC0yMDUwMjE5NDYyLC0xNDkwNzQxMjQ1LDIwMDgy
-MTMxNThdfQ==
+eyJoaXN0b3J5IjpbMjA4OTIxNTk2LDU5NDE3MDg4OCwxNjY5Mz
+kxMDY4LDE4MTk1MjE5MDEsMjEzNDI1NjIyOCwtMTg3ODcxNDQ4
+NSwxMDM0NDIzNTEzLC0xNDgxMjgwMjc1LC0yMDg3OTc3NTk0LD
+E0NzMyMzIyLC02MDIxOTcxODUsNzA1ODgwMjg4LDEzMjc4OTAw
+LC0yMDg1MzE0Nzg2LC0zNzk4OTE4MywtMTEwOTYwMjMzNyw1MT
+Q4NDczOTUsLTY2MzE5NzY0MywtMjA1MDIxOTQ2MiwtMTQ5MDc0
+MTI0NV19
 -->
