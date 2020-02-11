@@ -237,14 +237,12 @@ Les deux autres sens ? (odorat ? )
 
 
 ## Auteurs
-Audrey Huguenin
-
-Arthur Verdon
-
-Nicolas Chabloz
+- Audrey Huguenin
+- Arthur Verdon
+- Nicolas Chabloz
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MzQ2MTUyNDYsLTE0ODEyODAyNzUsLT
+eyJoaXN0b3J5IjpbLTE4MzI1Mzk1NDcsLTE0ODEyODAyNzUsLT
 IwODc5Nzc1OTQsMTQ3MzIzMjIsLTYwMjE5NzE4NSw3MDU4ODAy
 ODgsMTMyNzg5MDAsLTIwODUzMTQ3ODYsLTM3OTg5MTgzLC0xMT
 A5NjAyMzM3LDUxNDg0NzM5NSwtNjYzMTk3NjQzLC0yMDUwMjE5
