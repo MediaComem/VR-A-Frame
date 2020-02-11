@@ -1,4 +1,4 @@
-### IM - Digital Trends - Heig-VD
+### VR Tech - Digital Trends - IM - Heig-VD
 
 # VR Tech
 
@@ -10,6 +10,6 @@ Ce dépôt contient les différents supports pédagogiques nécessaires pour le 
 - Arthur Verdon
 - Nicolas Chabloz
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc0MTc2NDE5MywtOTIwNjc4ODc5LDIwNT
-U2NTkyODAsMjQ5NzAwMTZdfQ==
+eyJoaXN0b3J5IjpbNTgwMTQ5NTU2LC05MjA2Nzg4NzksMjA1NT
+Y1OTI4MCwyNDk3MDAxNl19
 -->
