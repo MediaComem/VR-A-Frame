@@ -2,13 +2,14 @@
 
 # A-Frame
 
-### Objectifs
+## Objectifs
 - Savoir intégrer des technologies Web pour la réalisation d’une expérience VR multi-utilisateurs
 - Réaliser une application accessible via une multitude de périphériques (*responsive*)
 -  S'initier au framework A-Frame et à l'architecture [Entity–component–system](https://en.wikipedia.org/wiki/Entity_component_system).
 
 ## Mise en place
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NzI4NDg1NTAsNzQyNzE5MzcwLDE5Nz
-IxMjY5OThdfQ==
+eyJoaXN0b3J5IjpbLTIwOTg4ODg2OTksLTE3NzI4NDg1NTAsNz
+QyNzE5MzcwLDE5NzIxMjY5OThdfQ==
 -->
