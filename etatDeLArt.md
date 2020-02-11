@@ -245,7 +245,7 @@ Les deux autres sens ? (odorat ? )
 - [Tron](https://fr.wikipedia.org/wiki/Tron "Tron"), 1982 (Steven Lisberger)
 - [The Lawnmower Man](https://fr.wikipedia.org/wiki/Le_Cobaye "Le Cobaye"), 1992 (Brett Leonard)
 - [Strange Days](https://fr.wikipedia.org/wiki/Strange_Days_(film)), 1995 (Kathryn Bigelow)
-- [Ghost in the shell](https://fr.wikipedia.org/wiki/Ghost_in_the_shell), 1995 (Mamoru Oshii)
+- [Ghost in the shell](https://fr.wikipedia.org/wiki/Ghost_in_the_shell), 1995 (Oshii Mamoru)
 - La trilogie [Matrix](https://fr.wikipedia.org/wiki/Matrix_(s%C3%A9rie_de_films)), 1998 (Andy et Larry Wachowski)
 - [eXistenZ](https://fr.wikipedia.org/wiki/EXistenZ), 1999 (David Cronenberg)
 - [Avalon](https://fr.wikipedia.org/wiki/Avalon_(film,_2001)), 2001 (Oshii Mamoru)
@@ -263,11 +263,11 @@ Les deux autres sens ? (odorat ? )
 - Nicolas Chabloz
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA4OTIxNTk2LDU5NDE3MDg4OCwxNjY5Mz
-kxMDY4LDE4MTk1MjE5MDEsMjEzNDI1NjIyOCwtMTg3ODcxNDQ4
-NSwxMDM0NDIzNTEzLC0xNDgxMjgwMjc1LC0yMDg3OTc3NTk0LD
-E0NzMyMzIyLC02MDIxOTcxODUsNzA1ODgwMjg4LDEzMjc4OTAw
-LC0yMDg1MzE0Nzg2LC0zNzk4OTE4MywtMTEwOTYwMjMzNyw1MT
-Q4NDczOTUsLTY2MzE5NzY0MywtMjA1MDIxOTQ2MiwtMTQ5MDc0
-MTI0NV19
+eyJoaXN0b3J5IjpbLTEyNjQyOTE3MDgsMjA4OTIxNTk2LDU5ND
+E3MDg4OCwxNjY5MzkxMDY4LDE4MTk1MjE5MDEsMjEzNDI1NjIy
+OCwtMTg3ODcxNDQ4NSwxMDM0NDIzNTEzLC0xNDgxMjgwMjc1LC
+0yMDg3OTc3NTk0LDE0NzMyMzIyLC02MDIxOTcxODUsNzA1ODgw
+Mjg4LDEzMjc4OTAwLC0yMDg1MzE0Nzg2LC0zNzk4OTE4MywtMT
+EwOTYwMjMzNyw1MTQ4NDczOTUsLTY2MzE5NzY0MywtMjA1MDIx
+OTQ2Ml19
 -->
