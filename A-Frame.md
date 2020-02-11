@@ -19,9 +19,6 @@ Pour atteindre ces objectifs, nous allons développer un *Hub VR* multi-utilisat
 -  créer des *mesh* avec [three.js](https://threejs.org/) (le framework sous-jacent à A-Frame) 
 - Étendre le framework A-Frame via l'architecture ECS
 
-
-### three.js
-
 ## Mise en place
 
 La version 1.0.4 du *framework* [A-Frame](https://aframe.io/docs/1.0.0/introduction/) sera utilisé. Vous pouvez donc simplement la rajouter dans votre code HTML de base ou utiliser une des autres méthodes proposée dans la documentation officielle.
@@ -30,7 +27,7 @@ Ajoutez aussi [Aframe-Extras](https://github.com/donmccurdy/aframe-extras) à vo
 
 Pour faire un premier test, vérifiez que tout fonctionne en ajoutant les balises nécessaires à l'affichage d'un océan (qui servira de 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMzc4MjExNTgsMTAzNTIwNzgzNSwtMT
-I4ODI4MjQwLC0yMDk4ODg4Njk5LC0xNzcyODQ4NTUwLDc0Mjcx
-OTM3MCwxOTcyMTI2OTk4XX0=
+eyJoaXN0b3J5IjpbLTc3MzcyNTE3MCwxMDM1MjA3ODM1LC0xMj
+g4MjgyNDAsLTIwOTg4ODg2OTksLTE3NzI4NDg1NTAsNzQyNzE5
+MzcwLDE5NzIxMjY5OThdfQ==
 -->
