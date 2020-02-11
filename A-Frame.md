@@ -12,7 +12,7 @@
 
 Pour atteindre ces objectifs, nous allons développer un *Hub VR* multi-utilisateurs. Ce *hub* servira de porte d'entrée vers les projets individuels que vous développerez durant la dernière partie du cours. Il se présentera  sous la forme d'une mini expérience VR mettant en pratique les concepts de base du framework A-Frame. On y verra (entre autre) comment: 
 - déplacer l'avatar de l'utilisateur (en évitant la *cinétose*)
--  interagir avec l'environnement VR, synchroniser des entités entres les clients connectés
+- offrir des possibilité d'interaction avec l'environnement
 - animer et déclencher des animations en fonction d'événements
 - gérer les collisions pour la navigation
 -  importer des *asset* 3D (*mesh*)
@@ -27,7 +27,7 @@ Ajoutez aussi [Aframe-Extras](https://github.com/donmccurdy/aframe-extras) à vo
 
 Pour faire un premier test, vérifiez que tout fonctionne en ajoutant les balises nécessaires à l'affichage d'un océan (qui servira de 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTExNjE1NjA4LC03NzM3MjUxNzAsMTAzNT
+eyJoaXN0b3J5IjpbODQ5MTk0MDg1LC03NzM3MjUxNzAsMTAzNT
 IwNzgzNSwtMTI4ODI4MjQwLC0yMDk4ODg4Njk5LC0xNzcyODQ4
 NTUwLDc0MjcxOTM3MCwxOTcyMTI2OTk4XX0=
 -->
