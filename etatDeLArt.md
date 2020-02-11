@@ -232,7 +232,11 @@ Les deux autres sens ? (odorat ? )
 
 ## La VR dans la fiction
 
-[Neuromancien](https://fr.wikipedia.org/wiki/Neuromancien "Neuromancien"), 1984
+### livres
+- [Neuromancien](https://fr.wikipedia.org/wiki/Neuromancien "Neuromancien"), 1984 (William Gibson)
+- [La Cité des permutants](https://fr.wikipedia.org/wiki/La_Cit%C3%A9_des_permutants "La Cité des permutants"), 1994 (Greg Egan)
+- 
+
 
 ## Sources
 - [Virtual Reality Society](https://www.vrs.org.uk/virtual-reality/history.html)
@@ -246,7 +250,7 @@ Les deux autres sens ? (odorat ? )
 - Nicolas Chabloz
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MDY5ODc4OTIsMTAzNDQyMzUxMywtMT
+eyJoaXN0b3J5IjpbLTE3NTA1NjEwOTcsMTAzNDQyMzUxMywtMT
 Q4MTI4MDI3NSwtMjA4Nzk3NzU5NCwxNDczMjMyMiwtNjAyMTk3
 MTg1LDcwNTg4MDI4OCwxMzI3ODkwMCwtMjA4NTMxNDc4NiwtMz
 c5ODkxODMsLTExMDk2MDIzMzcsNTE0ODQ3Mzk1LC02NjMxOTc2
