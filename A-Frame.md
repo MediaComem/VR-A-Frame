@@ -17,7 +17,8 @@ Pour atteindre ces objectifs, nous allons développer un *Hub VR* multi-utilisat
 - gérer les collisions pour la navigation
 -  importer des *asset* 3D (*mesh*)
 -  créer des *mesh* avec [three.js](https://threejs.org/) (le framework sous-jacent à A-Frame) 
-- Étendre le framework A-Frame via l'architecture ECS
+- étendre le framework A-Frame via l'architecture ECS
+- synchroniser des entités entres les clients connectés
 
 ## Mise en place
 
@@ -27,7 +28,7 @@ Ajoutez aussi [Aframe-Extras](https://github.com/donmccurdy/aframe-extras) à vo
 
 Pour faire un premier test, vérifiez que tout fonctionne en ajoutant les balises nécessaires à l'affichage d'un océan (qui servira de 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODQ5MTk0MDg1LC03NzM3MjUxNzAsMTAzNT
-IwNzgzNSwtMTI4ODI4MjQwLC0yMDk4ODg4Njk5LC0xNzcyODQ4
-NTUwLDc0MjcxOTM3MCwxOTcyMTI2OTk4XX0=
+eyJoaXN0b3J5IjpbLTc3MTMzNDgzNiwtNzczNzI1MTcwLDEwMz
+UyMDc4MzUsLTEyODgyODI0MCwtMjA5ODg4ODY5OSwtMTc3Mjg0
+ODU1MCw3NDI3MTkzNzAsMTk3MjEyNjk5OF19
 -->
