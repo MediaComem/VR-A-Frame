@@ -10,7 +10,9 @@
 
 ## Concept
 
-Pour atteindre ces objectifs, nous allons développer un *Hub VR* multi-utilisateurs. Ce *hub* servira de porte d'entrée vers les projets individuels que vous développerez durant la dernière partie du cours.
+Pour atteindre ces objectifs, nous allons développer un *Hub VR* multi-utilisateurs. Ce *hub* servira de porte d'entrée vers les projets individuels que vous développerez durant la dernière partie du cours. Il se présentera  sous la forme d'une mini expérience VR mettant en pratique les concepts de base du framework A-Frame et de [threejs.or](https://threejs.org/)
+
+### three.js
 
 ## Mise en place
 
@@ -20,7 +22,7 @@ Ajoutez aussi [Aframe-Extras](https://github.com/donmccurdy/aframe-extras) à vo
 
 Pour faire un premier test, vérifiez que tout fonctionne en ajoutant les balises nécessaires à l'affichage d'un océan (qui servira de 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg4OTc0MzMwMCwxMDM1MjA3ODM1LC0xMj
+eyJoaXN0b3J5IjpbMjAzNzgwMzY0NCwxMDM1MjA3ODM1LC0xMj
 g4MjgyNDAsLTIwOTg4ODg2OTksLTE3NzI4NDg1NTAsNzQyNzE5
 MzcwLDE5NzIxMjY5OThdfQ==
 -->
