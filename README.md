@@ -1,6 +1,6 @@
 ### Réalité Virtuelle - Digital Trends - IM - Heig-VD
 
-# VR Tech
+# Réalité Virtuelle
 
 Ce dépôt contient les différents supports pédagogiques nécessaires pour le cours à option **Réalité Virtuelle** du module **Digital Trends** de la filière **ingénierie des médias** (IM) de la **HEIG-VD**.
 
@@ -10,6 +10,6 @@ Ce dépôt contient les différents supports pédagogiques nécessaires pour le 
 - Arthur Verdon
 - Nicolas Chabloz
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYwNTAwNzk2MywtOTIwNjc4ODc5LDIwNT
-U2NTkyODAsMjQ5NzAwMTZdfQ==
+eyJoaXN0b3J5IjpbNDkzMzY5NTAxLC05MjA2Nzg4NzksMjA1NT
+Y1OTI4MCwyNDk3MDAxNl19
 -->
