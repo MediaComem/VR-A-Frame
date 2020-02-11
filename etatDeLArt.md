@@ -116,11 +116,11 @@ Le [Field of view](https://vr-lens-lab.com/field-of-view-for-virtual-reality-hea
 
 ### Le casque
 
-Le casque lui même pose certains problèmes. Principalement, celui du confort. Bien que s'améliorant grandement à chaque génération, le poids est encore conséquent et provoque un inconfort lors de séance prolongée. 
+Le casque lui même pose certains problèmes. Principalement, celui du confort. Bien que s'améliorant grandement à chaque génération, le poids est encore conséquent et provoque un inconfort lors des séances prolongées. 
 
 Les casque sont parfois mal adaptés aux porteurs de lunettes. Toutefois, les lentilles peuvent être échangées avec des lentilles de correction, mais cela engendre un surcoût. 
 
-Un autre problème important est le câble des casques reliés. Les casques autonomes n'ont bien sûr pas ce problème, mais leur performance graphique est encore faible. Toutefois des solutions de "streaming" haute définition entre l'ordinateur et le casque existent déjà sous la forme de module externe et vont progressivement être intégrées directement aux casques.
+Un autre problème important est le câble des casques reliés. Les casques autonomes n'ont bien sûr pas ce problème, mais leurs performances graphiques sont encore faibles. Toutefois, des solutions de "streaming" haute définition entre l'ordinateur et le casque existent déjà sous la forme de module externe et vont progressivement être intégrées directement aux casques.
 
 ### Les  écrans
 
@@ -242,11 +242,11 @@ Les deux autres sens ? (odorat ? )
 - Nicolas Chabloz
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA4NjI4NzA3MiwtMTQ4MTI4MDI3NSwtMj
-A4Nzk3NzU5NCwxNDczMjMyMiwtNjAyMTk3MTg1LDcwNTg4MDI4
-OCwxMzI3ODkwMCwtMjA4NTMxNDc4NiwtMzc5ODkxODMsLTExMD
-k2MDIzMzcsNTE0ODQ3Mzk1LC02NjMxOTc2NDMsLTIwNTAyMTk0
-NjIsLTE0OTA3NDEyNDUsMjAwODIxMzE1OCwxMTIwNjc1MDg0LD
-gyMDM5NzE0MywxMjQ1MDU4NzYyLDE5MTM3MDIwNTMsNzg2MTgy
-NTc4XX0=
+eyJoaXN0b3J5IjpbMzI2ODAxMjE5LC0xNDgxMjgwMjc1LC0yMD
+g3OTc3NTk0LDE0NzMyMzIyLC02MDIxOTcxODUsNzA1ODgwMjg4
+LDEzMjc4OTAwLC0yMDg1MzE0Nzg2LC0zNzk4OTE4MywtMTEwOT
+YwMjMzNyw1MTQ4NDczOTUsLTY2MzE5NzY0MywtMjA1MDIxOTQ2
+MiwtMTQ5MDc0MTI0NSwyMDA4MjEzMTU4LDExMjA2NzUwODQsOD
+IwMzk3MTQzLDEyNDUwNTg3NjIsMTkxMzcwMjA1Myw3ODYxODI1
+NzhdfQ==
 -->
