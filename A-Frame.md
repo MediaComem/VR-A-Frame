@@ -1,6 +1,6 @@
 ### Réalité Virtuelle - Digital Trends - IM - Heig-VD
 
-# VR Hub multi-utilisateurs avec A-Frame
+# VR Hub multi-utilisateurs (avec A-Frame et WebSocket)
 
 ## Objectifs
 
@@ -27,7 +27,7 @@ Ajoutez aussi [Aframe-Extras](https://github.com/donmccurdy/aframe-extras) à vo
 
 Pour faire un premier test, vérifiez que tout fonctionne en ajoutant les balises nécessaires à l'affichage d'un océan (qui servira de 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1ODU3NzQyODYsLTc3MzcyNTE3MCwxMD
-M1MjA3ODM1LC0xMjg4MjgyNDAsLTIwOTg4ODg2OTksLTE3NzI4
-NDg1NTAsNzQyNzE5MzcwLDE5NzIxMjY5OThdfQ==
+eyJoaXN0b3J5IjpbMTYxMDAxNzI3NSwtNzczNzI1MTcwLDEwMz
+UyMDc4MzUsLTEyODgyODI0MCwtMjA5ODg4ODY5OSwtMTc3Mjg0
+ODU1MCw3NDI3MTkzNzAsMTk3MjEyNjk5OF19
 -->
