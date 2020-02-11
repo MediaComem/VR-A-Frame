@@ -160,7 +160,7 @@ Les lentilles déforment (le ou) les écrans à l'intérieur du casque afin d'av
  
 - L'espace réel est souvent restreint à une petite partie d'une pièce, souvent entre 1 et 3 [m^2] alors que l'espace virtuel est d'une taille quelconque. 
 
-- L'espace réel peut contenir des obstacles qui seront invisibles en VR. Et inversement, une chaise dans la réalité virtuelle ne sera (peut-être) pas physiquement présente dans la réalité. Pour le moment, quasi tous les systèmes VR utilisent un système  de **chaperon** qui permet de faire apparaître des murs virtuels dans l'espace VR lorsque ltsteu s'approche d'un obstacle dans le monde réel. Toutefois très peu de ces systèmes sont capables de détecter en temps réel des obstacles mobiles comme une autre personne ou un chat ! Ce sont simplement des espaces statiques prédéfinis avant l'entrée en VR.
+- L'espace réel peut contenir des obstacles qui seront invisibles en VR. Et inversement, une chaise dans la réalité virtuelle ne sera (peut-être) pas physiquement présente dans la réalité. Pour le moment, quasi tous les systèmes VR utilisent un système  de **chaperon** qui permet de faire apparaître des murs virtuels dans l'espace VR lorsque l'utilisateur s'approche d'un obstacle dans le monde réel. Toutefois très peu de ces systèmes sont capables de détecter en temps réel des obstacles mobiles comme une autre personne ou un chat ! Ce sont simplement des espaces statiques prédéfinis avant l'entrée en VR.
 
 ### Déplacements et "mal des transports" (cinétose)
 
@@ -262,11 +262,11 @@ Les deux autres sens ? (odorat ? )
 - Nicolas Chabloz
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc5ODI1NzEwMSwtMTgyNDk0NDc3MiwtMT
-c1NzE0MDI2NSwyMDg5MjE1OTYsNTk0MTcwODg4LDE2NjkzOTEw
-NjgsMTgxOTUyMTkwMSwyMTM0MjU2MjI4LC0xODc4NzE0NDg1LD
-EwMzQ0MjM1MTMsLTE0ODEyODAyNzUsLTIwODc5Nzc1OTQsMTQ3
-MzIzMjIsLTYwMjE5NzE4NSw3MDU4ODAyODgsMTMyNzg5MDAsLT
-IwODUzMTQ3ODYsLTM3OTg5MTgzLC0xMTA5NjAyMzM3LDUxNDg0
-NzM5NV19
+eyJoaXN0b3J5IjpbNDg5ODAzNzM0LDE3OTgyNTcxMDEsLTE4Mj
+Q5NDQ3NzIsLTE3NTcxNDAyNjUsMjA4OTIxNTk2LDU5NDE3MDg4
+OCwxNjY5MzkxMDY4LDE4MTk1MjE5MDEsMjEzNDI1NjIyOCwtMT
+g3ODcxNDQ4NSwxMDM0NDIzNTEzLC0xNDgxMjgwMjc1LC0yMDg3
+OTc3NTk0LDE0NzMyMzIyLC02MDIxOTcxODUsNzA1ODgwMjg4LD
+EzMjc4OTAwLC0yMDg1MzE0Nzg2LC0zNzk4OTE4MywtMTEwOTYw
+MjMzN119
 -->
