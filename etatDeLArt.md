@@ -1,6 +1,6 @@
-### VR Tech - Digital Trends - IM - Heig-VD
+### Réalité Virtuelle - Digital Trends - IM - Heig-VD
 
-# VR Tech - Etat de l'art      
+# VR - Etat de l'art      
       
 ### Sommaire
 - [Les applications actuelles et futures de la VR](#application-vr)
@@ -264,11 +264,11 @@ Les deux autres sens ? (odorat ? )
 - Nicolas Chabloz
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjE0MjQxMzcxNCwtMTc1NzE0MDI2NSwyMD
-g5MjE1OTYsNTk0MTcwODg4LDE2NjkzOTEwNjgsMTgxOTUyMTkw
-MSwyMTM0MjU2MjI4LC0xODc4NzE0NDg1LDEwMzQ0MjM1MTMsLT
-E0ODEyODAyNzUsLTIwODc5Nzc1OTQsMTQ3MzIzMjIsLTYwMjE5
-NzE4NSw3MDU4ODAyODgsMTMyNzg5MDAsLTIwODUzMTQ3ODYsLT
-M3OTg5MTgzLC0xMTA5NjAyMzM3LDUxNDg0NzM5NSwtNjYzMTk3
-NjQzXX0=
+eyJoaXN0b3J5IjpbLTE4MjQ5NDQ3NzIsLTE3NTcxNDAyNjUsMj
+A4OTIxNTk2LDU5NDE3MDg4OCwxNjY5MzkxMDY4LDE4MTk1MjE5
+MDEsMjEzNDI1NjIyOCwtMTg3ODcxNDQ4NSwxMDM0NDIzNTEzLC
+0xNDgxMjgwMjc1LC0yMDg3OTc3NTk0LDE0NzMyMzIyLC02MDIx
+OTcxODUsNzA1ODgwMjg4LDEzMjc4OTAwLC0yMDg1MzE0Nzg2LC
+0zNzk4OTE4MywtMTEwOTYwMjMzNyw1MTQ4NDczOTUsLTY2MzE5
+NzY0M119
 -->
