@@ -38,7 +38,7 @@ L'océan actuelle est un peu simple, mais nous pouvons le rendre plus plaisant e
 
 A-Frame offre le composant  [background](https://github.com/aframevr/aframe/blob/master/docs/components/background.md) afin de facilement fixer une couleur de base pour la scène. Il existe aussi un composant [a-sky](https://github.com/aframevr/aframe/blob/master/docs/primitives/a-sky.md) qui permet d'utiliser une image [cylindrique équidistante](https://fr.wikipedia.org/wiki/Projection_cylindrique_%C3%A9quidistante) comme texture intérieure pour une sphère englobant la scène. Puisque notre scène est destinée à tourner aussi sur des périphériques de faible puissance graphique, la première solution sera utilisée.
 
-### Et le soleil
+### La lumière
 
 A-Frame ajoute par défaut une lumière d'ambiance et une lumière directionnel via le composant [light](https://github.com/aframevr/aframe/blob/master/docs/components/light.md). 
 
@@ -46,9 +46,9 @@ A-Frame ajoute par défaut une lumière d'ambiance et une lumière directionnel 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA1OTIwNjA4LDIwNDI1OTAwODIsLTE3OT
-kzNTA3MzgsLTg3MTM3ODcwLDU1ODg5OTgwMiwtMTQwNzI1MTA5
-MSwtMTYzNTA5MjMwNSwtNzcxMzM0ODM2LC03NzM3MjUxNzAsMT
-AzNTIwNzgzNSwtMTI4ODI4MjQwLC0yMDk4ODg4Njk5LC0xNzcy
-ODQ4NTUwLDc0MjcxOTM3MCwxOTcyMTI2OTk4XX0=
+eyJoaXN0b3J5IjpbLTU1OTg2NTUwMSwyMDQyNTkwMDgyLC0xNz
+k5MzUwNzM4LC04NzEzNzg3MCw1NTg4OTk4MDIsLTE0MDcyNTEw
+OTEsLTE2MzUwOTIzMDUsLTc3MTMzNDgzNiwtNzczNzI1MTcwLD
+EwMzUyMDc4MzUsLTEyODgyODI0MCwtMjA5ODg4ODY5OSwtMTc3
+Mjg0ODU1MCw3NDI3MTkzNzAsMTk3MjEyNjk5OF19
 -->
