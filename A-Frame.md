@@ -46,16 +46,20 @@ A-Frame ajoute par défaut une lumière d'ambiance et une lumière directionnel 
 
 Afin de camoufler les bords abruptes de l'océan, vous pouvez ajouter un brouillard grâce au composant [fog](https://github.com/aframevr/aframe/blob/master/docs/components/fog.md). Voilà un exemple d'environnement obtenu après ces quelques retouches: [https://vr.chabloz.eu/ocean_quiet.html](https://vr.chabloz.eu/ocean_quiet.html)
 
-## Mappage en hexagone
+## Pavage hexagonal
+
+Afin de s'initier à **three.js**, le *framework* utilisé par A-Frame pour la gestion de la 3D, nous allons ajouter un nouvelle [primitive](https://aframe.io/docs/1.0.0/introduction/html-and-primitives.html) pour la création des [mesh](https://fr.wikipedia.org/wiki/Mesh_(objet)) nécessaires à un [pavage hexagonal](https://fr.wikipedia.org/wiki/Pavage_hexagonal).
+
+Avant de commencez cette partie, il est fortement recommandé de lire cet excellent support sur l'utilisation du pavage hexagonal: [https://www.redblobgames.com/grids/hexagons/](https://www.redblobgames.com/grids/hexagons/).
 
 
-[https://aframe.io/docs/1.0.0/introduction/html-and-primitives.html](https://aframe.io/docs/1.0.0/introduction/html-and-primitives.html)
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTczOTkzOTg3MSwtMjEyOTA3NzM0Nyw4Nj
-g2ODQ0NzYsLTEyNDAzOTA5MjAsLTE5MjI1NDA0MDAsLTM0MTUx
-NTQyMyw5NjQ5NDg3MzAsLTU1OTg2NTUwMSwyMDQyNTkwMDgyLC
-0xNzk5MzUwNzM4LC04NzEzNzg3MCw1NTg4OTk4MDIsLTE0MDcy
-NTEwOTEsLTE2MzUwOTIzMDUsLTc3MTMzNDgzNiwtNzczNzI1MT
-cwLDEwMzUyMDc4MzUsLTEyODgyODI0MCwtMjA5ODg4ODY5OSwt
-MTc3Mjg0ODU1MF19
+eyJoaXN0b3J5IjpbLTExOTA0NTcwMDgsLTIxMjkwNzczNDcsOD
+Y4Njg0NDc2LC0xMjQwMzkwOTIwLC0xOTIyNTQwNDAwLC0zNDE1
+MTU0MjMsOTY0OTQ4NzMwLC01NTk4NjU1MDEsMjA0MjU5MDA4Mi
+wtMTc5OTM1MDczOCwtODcxMzc4NzAsNTU4ODk5ODAyLC0xNDA3
+MjUxMDkxLC0xNjM1MDkyMzA1LC03NzEzMzQ4MzYsLTc3MzcyNT
+E3MCwxMDM1MjA3ODM1LC0xMjg4MjgyNDAsLTIwOTg4ODg2OTks
+LTE3NzI4NDg1NTBdfQ==
 -->
