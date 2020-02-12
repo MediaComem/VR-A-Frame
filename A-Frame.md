@@ -59,7 +59,7 @@ Afin de simplifier la chose, nous allons nous limiter à une carte en forme d’
 
 Suivez la documentation officielle pour rajouter une primitive et le composant associé nécessaire au pavage hexagonal. Pour les attributs de la primitive, implémentez au minimum les suivants:
 
-- **size**:  la taille du pavage. Une taille de 1 signifie un seul hexagone, une taille de 2 signifie un héxagone au centre et les 6 qui l'entoure et ainsi de suite. Voila un exemple pour la taille 3: 
+- **size**:  la taille du pavage. Une taille de 1 signifie un seul hexagone, une taille de 2 signifie un héxagone au centre et les 6 qui l'entoure et ainsi de suite. Voila un exemple pour la taille 4: 
 
 ![Pavage hexagonal de taille 3](./img/hexagone-3.png)
 
@@ -73,7 +73,7 @@ Suivez la documentation officielle pour rajouter une primitive et le composant a
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTExMjQ1Mjg1NSwxODQ2MDk2MDUzLC01NT
+eyJoaXN0b3J5IjpbLTY0NjkwNzAxNiwxODQ2MDk2MDUzLC01NT
 kxNTgxMjgsMzcxNTA4ODkyLC04NDEyNzI1NTEsLTExOTA0NTcw
 MDgsLTIxMjkwNzczNDcsODY4Njg0NDc2LC0xMjQwMzkwOTIwLC
 0xOTIyNTQwNDAwLC0zNDE1MTU0MjMsOTY0OTQ4NzMwLC01NTk4
