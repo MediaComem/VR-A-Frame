@@ -34,15 +34,15 @@ Pour vérifier que tout fonctionne, ajouter les balises HTML nécessaires à l'a
 L'océan actuelle est un peu simple, mais nous pouvons le rendre plus plaisant en faisant quelques retouches. Premièrement, agrandissez  sa taille pour qu'il couvre 100 [m^2] (toutes les distances dans A-Frame sont en **mètre** et les angles en **degré**). Ensuite, la mer est un peu trop agitée pour notre scène. Essayez donc de modifier les attributs nécessaires pour obtenir un océan plus calme (par exemple: vous pouvez réduire l'amplitude des vagues de base à 0 et leur variance à  0.1). Vous remarquerez ainsi la facilité de paramétrage des composants A-Frame grâce à l'utilisation des attributs HTML.  
 
 ### Le ciel
-A-Frame offre le composant  [background](https://github.com/aframevr/aframe/blob/master/docs/components/background.md) afin de facilement fixer une couleur de base pour la scène. Il existe aussi un composant [a-sky](https://github.com/aframevr/aframe/blob/master/docs/primitives/a-sky.md) qui permet d'utiliser une image [https://fr.wikipedia.org/wiki/Projection_cylindrique_%C3%A9quidistante](https://fr.wikipedia.org/wiki/Projection_cylindrique_%C3%A9quidistante)
+A-Frame offre le composant  [background](https://github.com/aframevr/aframe/blob/master/docs/components/background.md) afin de facilement fixer une couleur de base pour la scène. Il existe aussi un composant [a-sky](https://github.com/aframevr/aframe/blob/master/docs/primitives/a-sky.md) qui permet d'utiliser une image [cylindrique équidistante](https://fr.wikipedia.org/wiki/Projection_cylindrique_%C3%A9quidistante) comme texture intérieur pour une sphère englobant la scène. 
 
 [https://vr.chabloz.eu/ocean_quiet.html](https://vr.chabloz.eu/ocean_quiet.html)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgzMzczODc1LDIwNDI1OTAwODIsLTE3OT
-kzNTA3MzgsLTg3MTM3ODcwLDU1ODg5OTgwMiwtMTQwNzI1MTA5
-MSwtMTYzNTA5MjMwNSwtNzcxMzM0ODM2LC03NzM3MjUxNzAsMT
-AzNTIwNzgzNSwtMTI4ODI4MjQwLC0yMDk4ODg4Njk5LC0xNzcy
-ODQ4NTUwLDc0MjcxOTM3MCwxOTcyMTI2OTk4XX0=
+eyJoaXN0b3J5IjpbLTIxMzUyNTY1MTIsMjA0MjU5MDA4MiwtMT
+c5OTM1MDczOCwtODcxMzc4NzAsNTU4ODk5ODAyLC0xNDA3MjUx
+MDkxLC0xNjM1MDkyMzA1LC03NzEzMzQ4MzYsLTc3MzcyNTE3MC
+wxMDM1MjA3ODM1LC0xMjg4MjgyNDAsLTIwOTg4ODg2OTksLTE3
+NzI4NDg1NTAsNzQyNzE5MzcwLDE5NzIxMjY5OThdfQ==
 -->
