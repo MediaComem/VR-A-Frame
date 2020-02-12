@@ -54,17 +54,18 @@ Avant de commencez cette partie, il est fortement recommandé de lire cet excell
 
 
 ### Enregistrement de la primitive et du composant
-Suivez la documentation officielle pour rajouter une primitive et le composant associé nécessaire au pavage he 
+
+Suivez la documentation officielle pour rajouter une primitive et le composant associé nécessaire au pavage hexagonal.
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg5NDE5ODU3MCwtMTE5MDQ1NzAwOCwtMj
-EyOTA3NzM0Nyw4Njg2ODQ0NzYsLTEyNDAzOTA5MjAsLTE5MjI1
-NDA0MDAsLTM0MTUxNTQyMyw5NjQ5NDg3MzAsLTU1OTg2NTUwMS
-wyMDQyNTkwMDgyLC0xNzk5MzUwNzM4LC04NzEzNzg3MCw1NTg4
-OTk4MDIsLTE0MDcyNTEwOTEsLTE2MzUwOTIzMDUsLTc3MTMzND
-gzNiwtNzczNzI1MTcwLDEwMzUyMDc4MzUsLTEyODgyODI0MCwt
-MjA5ODg4ODY5OV19
+eyJoaXN0b3J5IjpbLTE1MjIzNDM3MTAsLTExOTA0NTcwMDgsLT
+IxMjkwNzczNDcsODY4Njg0NDc2LC0xMjQwMzkwOTIwLC0xOTIy
+NTQwNDAwLC0zNDE1MTU0MjMsOTY0OTQ4NzMwLC01NTk4NjU1MD
+EsMjA0MjU5MDA4MiwtMTc5OTM1MDczOCwtODcxMzc4NzAsNTU4
+ODk5ODAyLC0xNDA3MjUxMDkxLC0xNjM1MDkyMzA1LC03NzEzMz
+Q4MzYsLTc3MzcyNTE3MCwxMDM1MjA3ODM1LC0xMjg4MjgyNDAs
+LTIwOTg4ODg2OTldfQ==
 -->
