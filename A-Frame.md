@@ -26,9 +26,9 @@ La version 1.0.4 du *framework* [A-Frame](https://aframe.io/docs/1.0.0/introduct
 
 Ajoutez aussi [Aframe-Extras](https://github.com/donmccurdy/aframe-extras) à votre projet, puisque nous utiliserons certaines des fonctionnalités offertes par cet ensemble de composants.
 
-Pour faire un premier test, vérifiez que tout fonctionne en ajoutant les balises nécessaires à l'affichage d'un [océan (qui servira d'environnement de base au hub VR)
+Pour faire un premier test, vérifiez que tout fonctionne en ajoutant les balises nécessaires à l'affichage d'un [océan](https://github.com/donmccurdy/aframe-extras/tree/master/src/primitives) (qui servira d'environnement de base au hub VR)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUwOTg2MTg0MSwtMTYzNTA5MjMwNSwtNz
+eyJoaXN0b3J5IjpbLTYwNzA0MzI4NCwtMTYzNTA5MjMwNSwtNz
 cxMzM0ODM2LC03NzM3MjUxNzAsMTAzNTIwNzgzNSwtMTI4ODI4
 MjQwLC0yMDk4ODg4Njk5LC0xNzcyODQ4NTUwLDc0MjcxOTM3MC
 wxOTcyMTI2OTk4XX0=
