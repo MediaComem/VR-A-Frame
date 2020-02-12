@@ -54,13 +54,13 @@ Avant de commencez cette partie, il est fortement recommandé de lire cet excell
 
 
 ### Enregistrement de la primitive et du composant
-
+Suivez la documentation officielle pour rajouter une primitive et le composant associé nécessaire au pavage he 
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY0NjE4MTMzNiwtMTE5MDQ1NzAwOCwtMj
+eyJoaXN0b3J5IjpbMTg5NDE5ODU3MCwtMTE5MDQ1NzAwOCwtMj
 EyOTA3NzM0Nyw4Njg2ODQ0NzYsLTEyNDAzOTA5MjAsLTE5MjI1
 NDA0MDAsLTM0MTUxNTQyMyw5NjQ5NDg3MzAsLTU1OTg2NTUwMS
 wyMDQyNTkwMDgyLC0xNzk5MzUwNzM4LC04NzEzNzg3MCw1NTg4
