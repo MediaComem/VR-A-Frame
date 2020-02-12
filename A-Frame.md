@@ -32,11 +32,15 @@ Pour vérifier que tout fonctionne, ajouter les balises HTML nécessaires à l'a
 
 L'océan actuelle est un peu simple, mais nous pouvons le rendre plus plaisant en faisant quelques retouches. Premièrement, agrandissez  sa taille pour qu'il couvre 100 [m^2] (toutes les distances dans A-Frame sont en **mètre** et les angles en **degré**). Ensuite, la mer est un peu trop agitée pour notre scène. Essayez donc de modifier les attributs nécessaires pour obtenir un océan plus calme (par exemple: vous pouvez réduire l'amplitude des vagues de base à 0 et leur variance à  0.1). Vous remarquerez ainsi la facilité de paramétrage des composants A-Frame grâce à l'utilisation des attributs HTML.  
 
+A-Frame offre un composant  
+
+[https://vr.chabloz.eu/ocean_quiet.html](https://vr.chabloz.eu/ocean_quiet.html)
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA0MjU5MDA4MiwtMTc5OTM1MDczOCwtOD
-cxMzc4NzAsNTU4ODk5ODAyLC0xNDA3MjUxMDkxLC0xNjM1MDky
-MzA1LC03NzEzMzQ4MzYsLTc3MzcyNTE3MCwxMDM1MjA3ODM1LC
-0xMjg4MjgyNDAsLTIwOTg4ODg2OTksLTE3NzI4NDg1NTAsNzQy
-NzE5MzcwLDE5NzIxMjY5OThdfQ==
+eyJoaXN0b3J5IjpbMTE2NTQzODU4MywyMDQyNTkwMDgyLC0xNz
+k5MzUwNzM4LC04NzEzNzg3MCw1NTg4OTk4MDIsLTE0MDcyNTEw
+OTEsLTE2MzUwOTIzMDUsLTc3MTMzNDgzNiwtNzczNzI1MTcwLD
+EwMzUyMDc4MzUsLTEyODgyODI0MCwtMjA5ODg4ODY5OSwtMTc3
+Mjg0ODU1MCw3NDI3MTkzNzAsMTk3MjEyNjk5OF19
 -->
