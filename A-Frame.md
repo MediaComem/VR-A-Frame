@@ -32,7 +32,7 @@ Pour vérifier que tout fonctionne, ajouter les balises HTML nécessaires à l'a
 
 ### L'océan
 
-L'océan actuelle est un peu simple, mais nous pouvons le rendre plus plaisant en faisant quelques retouches. Premièrement, agrandissez  sa taille pour qu'il couvre 100 [m^2] (toutes les distances dans A-Frame sont en **mètre** et les angles en **degré**). Ensuite, la mer est un peu trop agitée pour notre scène. Essayez donc de modifier les attributs nécessaires pour obtenir un océan plus calme (par exemple: vous pouvez réduire l'amplitude des vagues de base à 0 et leur variance à  0.1). Vous remarquerez ainsi la facilité de paramétrage des composants A-Frame grâce à l'utilisation des attributs HTML. Pour un effet intéressant, vous pouvez aussi dupliquer votre balise océan et modifier l'amplitude et la variance  du second océan. Mais bien sûr la performance sera moins bonne.
+L'océan actuelle est un peu simple, mais nous pouvons le rendre plus plaisant en faisant quelques retouches. Premièrement, agrandissez  sa taille pour qu'il couvre 100 [m^2] (toutes les distances dans A-Frame sont en **mètre** et les angles en **degré**). Ensuite, la mer est un peu trop agitée pour notre scène. Essayez donc de modifier les attributs nécessaires pour obtenir un océan plus calme (par exemple: vous pouvez réduire l'amplitude des vagues de base à 0 et leur variance à  0.1). Vous remarquerez ainsi la facilité de paramétrage des composants A-Frame grâce à l'utilisation des attributs HTML. Pour un effet intéressant, vous pouvez aussi dupliquer votre balise océan et modifier l'amplitude et la variance  du second océan. Mais bien sûr la performance sera moins bonne. Puisque nous voulons 
 
 ### Le ciel
 
@@ -48,10 +48,11 @@ Afin de camoufler les bords abruptes de l'océan, vous pouvez ajouter un brouill
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MjI1NDA0MDAsLTM0MTUxNTQyMyw5Nj
-Q5NDg3MzAsLTU1OTg2NTUwMSwyMDQyNTkwMDgyLC0xNzk5MzUw
-NzM4LC04NzEzNzg3MCw1NTg4OTk4MDIsLTE0MDcyNTEwOTEsLT
-E2MzUwOTIzMDUsLTc3MTMzNDgzNiwtNzczNzI1MTcwLDEwMzUy
-MDc4MzUsLTEyODgyODI0MCwtMjA5ODg4ODY5OSwtMTc3Mjg0OD
-U1MCw3NDI3MTkzNzAsMTk3MjEyNjk5OF19
+eyJoaXN0b3J5IjpbLTkyMjgyODIyNSwtMTkyMjU0MDQwMCwtMz
+QxNTE1NDIzLDk2NDk0ODczMCwtNTU5ODY1NTAxLDIwNDI1OTAw
+ODIsLTE3OTkzNTA3MzgsLTg3MTM3ODcwLDU1ODg5OTgwMiwtMT
+QwNzI1MTA5MSwtMTYzNTA5MjMwNSwtNzcxMzM0ODM2LC03NzM3
+MjUxNzAsMTAzNTIwNzgzNSwtMTI4ODI4MjQwLC0yMDk4ODg4Nj
+k5LC0xNzcyODQ4NTUwLDc0MjcxOTM3MCwxOTcyMTI2OTk4XX0=
+
 -->
