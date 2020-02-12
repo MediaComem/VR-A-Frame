@@ -30,12 +30,12 @@ Pour vérifier que tout fonctionne, ajouter les balises HTML nécessaires à l'a
 
 ## Environnement
 
-L'océan actuelle est un peu simple, mais nous pouvons le rendre plus plaisant en faisant quelques simples retouches. 
+L'océan actuelle est un peu simple, mais nous pouvons le rendre plus plaisant en faisant quelques simples retouches. Premièrement, agrandissez  sa taille pour qu'il couvrent 100 [m^2] (toutes les distances dans A-Frame sont en mettre et les angles en degré). 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjI5MzIwNTY0LC0xNDA3MjUxMDkxLC0xNj
-M1MDkyMzA1LC03NzEzMzQ4MzYsLTc3MzcyNTE3MCwxMDM1MjA3
-ODM1LC0xMjg4MjgyNDAsLTIwOTg4ODg2OTksLTE3NzI4NDg1NT
-AsNzQyNzE5MzcwLDE5NzIxMjY5OThdfQ==
+eyJoaXN0b3J5IjpbMjA3MzQ5NzA4NSwtMTQwNzI1MTA5MSwtMT
+YzNTA5MjMwNSwtNzcxMzM0ODM2LC03NzM3MjUxNzAsMTAzNTIw
+NzgzNSwtMTI4ODI4MjQwLC0yMDk4ODg4Njk5LC0xNzcyODQ4NT
+UwLDc0MjcxOTM3MCwxOTcyMTI2OTk4XX0=
 -->
