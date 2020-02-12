@@ -97,21 +97,28 @@ Enfin, sur certain des casques les plus cher ou à l'aide de senseurs supplémen
 
 Il existe bien sur d'autres types de contrôleurs plus exotique, mais ceux-ci reprenne la plupart du temps l'une des principes ci-dessus pour fonctionner.
 
-<!-- - Gaze contrôleur ? -->
+<!-- - Gaze contrôleur ?
 - 3DOF contrôleur
 - 6DOF contrôleur
 - *Tracking* des doigts
-- autres systèmes
+- autres systèmes -->
 
 ### Casques populaires récents
-| Casques             | Platforme  | 6DOF | Contrôleurs | Contrôleurs 6DOF |
-|:--------            |----------:|:----:|:-----------:|:----------------:|
-| HTC Vive Cosmos     | PC         | ✔️    | ✔️          | ✔️                |
-| Oculus Rift S       | PC         | ✔️    | ✔️          | ✔️                |
-| Oculus Quest        | Standalone | ✔️    | ✔️          | ✔️                |
-| Oculus Go           | Standalone | ❌   | ✔️          | ❌               |
-| Google Cardboard    | Android    | ❌   | ❌         | ❌                |
-| Sony Playstation VR | Playstation| ✔️    | ✔️           | ✔️                |
+Le tableau ci-dessous présente quelqu'un des casques RV les plus récents ainsi que compatibilités avec les DoF (Degrees of Freedom).
+
+| Casques               | Platforme     | 6DOF | Contrôleurs | Contrôleurs 6DOF | Hand Tracking
+|:--------              |----------:    |:----:|:-----------:|:---------------: | :-----------:
+| HTC Vive Cosmos       | PC            | ✔️    | ✔️        | ✔️               | ✔️
+| Oculus Rift S         | PC            | ✔️    | ✔️        | ✔️               | ⚠
+| Oculus Quest          | Standalone    | ✔️    | ✔️        | ✔️               | ✔️
+| Oculus Go             | Standalone    | ❌    | ✔️        | ❌               | ❌ 
+| Google Cardboard      | Android       | ❌    | ❌        | ❌               | ❌
+| Sony Playstation VR   | Playstation   | ✔️    | ✔️        | ✔️               | ❌
+| Windows Mixed Reality* | PC            | ✔️    | ✔️        | ✔️              | ✔️
+
+- ⚠ = En beta / pas officielement supporté 
+- ✔️ = Officielement supporté
+- ❌ = Non supporté
 
 ## <a name="immersion"></a> Immersion
 
