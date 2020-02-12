@@ -1,7 +1,7 @@
 ### Réalité Virtuelle - Digital Trends - IM - Heig-VD
 
-# VR - Etat de l'art      
-      
+# VR - Etat de l'art
+
 ### Sommaire
 - [Les applications actuelles et futures de la VR](#application-vr)
 - [Historique](#histo)
@@ -10,19 +10,84 @@
 - [Déplacements](#movements)
 - [Performances graphiques](#perf)
 - [Audio, haptique et autres fioritures](#audio-and-co)
+- [Quelques stats sur la VR](#stats)
+- [La VR dans la fiction](#fiction)
+- [Sources](#sources)
 
-## <a name="application-vr"></a>Applications de la VR
+## <a name="application-vr"></a>Les application actuelles et futures de la VR
 
-- Marketing
-- Jeux vidéos
-- Musées
-- Prototypage
-- Education/formation (médecine, ...)
-- Télétravail
-- Cinéma (animations)
-- ...
+### Marketing
 
-La VR, un média qui englobe tous les autres ?
+La VR est de plus en plus utilisée en marketing. Elle plonge l'utilisateur (et potentiel client) dans une expérience immersive, personnalisée et engageante vis-à-vis du produit vendu.
+
+- [Boursin: The Sensorium](https://www.youtube.com/watch?time_continue=93&v=XRik3h5M-qU&feature=emb_logo): Voyage dans un frigo
+- [Toms Shoes](https://www.fastcompany.com/3059526/why-toms-shoes-and-att-are-taking-a-virtual-reality-trip-to-colombia): Voyage en Colombie
+- [Volvo Reality](https://www.youtube.com/watch?v=Wuln2bJkp1k): Drive test en VR
+
+Article:
+[Marketing VR - Comment la réalité virtuelle transforme la publicité?](https://www.realite-virtuelle.com/marketing-vr/)
+
+## Jeux vidéos
+
+Voir [Steam VR](https://store.steampowered.com/vr/)
+
+- [Beat Saber](https://store.steampowered.com/app/620980/Beat_Saber/)
+- [Richie's Plank Experience](https://store.steampowered.com/app/517160/Richies_Plank_Experience/)
+
+## Musées
+
+Les musées ont commencé à utiliser la VR, en l'adaptant à chaque besoin. Elle permet de rendre les expositions interactives, personnalisées, de les compléter avec des éléments contextuels, parfois de déplacer l'expérience de la visite, ...
+
+- Au Louvre (Paris): [Mona Lisa: Beyond the Glass](https://www.youtube.com/watch?time_continue=119&v=Au_UpzhzHwk&feature=emb_logo)
+- Au musée national de Finlande (Helsinki): [Entrez dans une peinture de 1863](https://www.vrfocus.com/2018/02/national-museum-of-finland-offers-virtual-time-travel/)
+
+Article: [Virtual Reality is a big trend in museums, but what are the best examples of museums using VR?](https://www.museumnext.com/article/how-museums-are-using-virtual-reality/)
+
+## Prototypage
+Dans différents domaines, les prototypes en 3D peuvent être testés et développés en VR ce qui permet un gain de temps (et d'argent!) souvent considérable. Dans l'industrie automobile c'est devenu particulièrement intéressant.
+
+Article: [BMW Uses Virtual Reality to Build Prototypes](https://www.thedrive.com/sheetmetal/8619/bmw-uses-virtual-reality-to-build-prototypes)
+
+Article: [La réalité virtuelle va révolutionner de nombreux secteurs de l’industrie automobile](https://vrgineers.com/fr/la-realite-virtuelle-va-revolutionner-de-nombreux-secteurs-de-lindustrie-automobile/)
+
+## Education/formation
+
+La VR permet notamment la simulation de situations réelles pour l'entraînement (méditaiton, prise de parole en public, interventions médicales, ...). Elle permet aussi d'engager, de stimuler les utilisateurs pour un meilleur apprentissage et mémorisation. Histoire, biologie, médecine, il existe aujourd'hui de nombreuses expériences pédagogiques.
+
+- [Unimersiv](https://unimersiv.com/): une app réunissant des expériences VR pédagogiques (Histoire, espace, anatomie,...)
+- [InMind VR](https://play.google.com/store/apps/details?id=com.nivalvr.inmind&hl=en): une app pour découvrir le cerveau humain
+- [Discovery VR](http://www.discoveryvr.com/watch/discovery-vr-an-introduction): propose des sortes de documentaires immersifs, pour découvrir le monde
+
+Article: [Virtual Reality in Education](https://thinkmobiles.com/blog/virtual-reality-education/)
+
+Article: [How VR In Education Will Change How We Learn And Teach](https://xd.adobe.com/ideas/principles/emerging-technology/virtual-reality-will-change-learn-teach/)
+
+
+## Télétravail
+
+Article: [VR could help transform remote work](https://www.computerworld.com/article/3174756/vr-could-help-transform-remote-work.html)
+
+
+## Cinéma
+
+Pour le cinéma, la VR permet de s'immerger quasiment totalement dans l'univers et les aventures visionnées. La 3D est déjà bien implantée dans les salles aujourd'hui, mais l'immersion à 360 degrés va plus loin encore..
+
+Article: [Cinéma VR – Comment la réalité virtuelle transforme le cinéma](https://www.realite-virtuelle.com/cinema-vr/)
+
+Article: [Films VR : top des meilleurs films sur Oculus Rift, HTC Vive, PSVR et Gear VR](https://www.realite-virtuelle.com/meilleurs-films-oculus-rift-3001/)
+
+Article: [On a testé… la salle de cinéma en réalité virtuelle](https://www.lemonde.fr/pixels/article/2016/05/19/on-a-teste-la-salle-de-cinema-en-realite-virtuelle_4922687_4408996.html)
+
+
+## AI
+
+Article: [Elon Musk’s OpenAI Is Training Robots In VR](https://uploadvr.com/elon-musks-openai-training-robots-vr/)
+
+Article: [VR + AI: the very real reality of virtual artificial intelligence](https://medium.com/shasta-apex/vr-ai-the-very-real-reality-of-virtual-artificial-intelligence-bebcdbbd35a4)
+
+## Autres...?
+
+Réflexion/discussion: La VR, un média qui englobe tous les autres ?
 
 ## <a name="histo"></a> Quelques exemples historiques
 
@@ -64,7 +129,9 @@ XIXe s. - [Stéréoscopes](https://fr.wikipedia.org/wiki/St%C3%A9r%C3%A9oscope)
 
 2014 - [Google Cardboard](https://en.wikipedia.org/wiki/Google_Cardboard)
 
- ...
+2016-2017 - Lancement des [The Oculus Rift CV1](https://en.wikipedia.org/wiki/Oculus_Rift_CV1) et [HTC Vive](https://en.wikipedia.org/wiki/HTC_Vive)
+
+2018 - [Standalone VR Headsets (Oculus Go et Quest)](https://veer.tv/blog/6-best-standalone-virtual-reality-vr-headsets-2018/)
 
 ## <a name="materiel"></a>Le matériel VR
 
@@ -241,11 +308,25 @@ Bien sûr, pour obtenir de bonnes performances sur les cartes graphiques actuell
 
 Le son en VR se doit d'être positionnel [VR positional Audio](https://realnewworld.com/vr-positional-audio/).
 
-Gants à retour haptique :  
+Si la vision et le son ont été prévus, réfléchis et les devices existent pour tromper les sens de la vue et de l'ouïe. qu'en est-il des 3 autres?
 
-Les deux autres sens ? (odorat ? )
+Pour le toucher, des entreprises développent des technologies haptiques (gants et combinaisons).
 
-## La VR dans la fiction
+- [Technologie haptique](https://en.wikipedia.org/wiki/Haptic_technology)
+
+- [Gants haptiques de Haptx](https://haptx.com/)
+
+- [Une combinaison complète I/O](https://teslasuit.io/)
+
+Qu'en est-il des deux autres sens ? (odorat et goût)
+Article: [Can we put all 5 senses in VR simulation?](https://4experience.co/vr-senses-are-the-future/)
+
+# <a name="stats"></a> Quelques stats sur la VR
+- [Les casques VR sur Steam font leurs plus grandes hausses à ce jour](https://www.etr.fr/actualite/7370-les-casques-vr-sur-steam-font-leurs-plus-grandes-hausses-a-ce-jour.html)
+
+- [35 Virtual Reality Statistics That Will Rock the Market in 2020](https://techjury.net/stats-about/virtual-reality/)
+
+# <a name="fiction"></a>La VR dans la fiction
 
 ### Livres
 - [Ubik](https://fr.wikipedia.org/wiki/Ubik), 1969 (Philip K. Dick)
