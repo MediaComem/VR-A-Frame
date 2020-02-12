@@ -67,17 +67,18 @@ Suivez la documentation officielle pour rajouter une primitive et le composant a
 - **cellsize**: la taille des tuiles.
 - **height**: la hauteur des tuiles.
 
-
+### Initialisation
+Lors de la phase d'initialisation du [composant](https://github.com/aframevr/aframe/blob/master/docs/introduction/writing-a-component.md), il va falloir générer toutes lies
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ5NjU3NzE0NSwxODQ2MDk2MDUzLC01NT
-kxNTgxMjgsMzcxNTA4ODkyLC04NDEyNzI1NTEsLTExOTA0NTcw
-MDgsLTIxMjkwNzczNDcsODY4Njg0NDc2LC0xMjQwMzkwOTIwLC
-0xOTIyNTQwNDAwLC0zNDE1MTU0MjMsOTY0OTQ4NzMwLC01NTk4
-NjU1MDEsMjA0MjU5MDA4MiwtMTc5OTM1MDczOCwtODcxMzc4Nz
-AsNTU4ODk5ODAyLC0xNDA3MjUxMDkxLC0xNjM1MDkyMzA1LC03
-NzEzMzQ4MzZdfQ==
+eyJoaXN0b3J5IjpbNTI1NzkyNTM3LDE0OTY1NzcxNDUsMTg0Nj
+A5NjA1MywtNTU5MTU4MTI4LDM3MTUwODg5MiwtODQxMjcyNTUx
+LC0xMTkwNDU3MDA4LC0yMTI5MDc3MzQ3LDg2ODY4NDQ3NiwtMT
+I0MDM5MDkyMCwtMTkyMjU0MDQwMCwtMzQxNTE1NDIzLDk2NDk0
+ODczMCwtNTU5ODY1NTAxLDIwNDI1OTAwODIsLTE3OTkzNTA3Mz
+gsLTg3MTM3ODcwLDU1ODg5OTgwMiwtMTQwNzI1MTA5MSwtMTYz
+NTA5MjMwNV19
 -->
