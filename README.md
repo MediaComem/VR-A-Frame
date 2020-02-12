@@ -215,11 +215,11 @@ Les écrans (où l'écran) utilisés par les casques posent aussi quelques probl
 
 - **Mura Effect**: les à-plats de couleurs ne sont pas homogènes à cause de la composition des écrans qui empêche une luminosité tout à fait régulière ([Mura Effect](https://www.roda-computer.com/technology/mura-effect/)).
 
-![Screen Door Effect](https://external-preview.redd.it/lmskdQbKiWAh14j5dxhCPn-iLTx_uBkHcwZksUQz328.jpg?auto=webp&s=93735d53c775da1b0702cb0fa8126363426f9d53)
+![Mura Effect](./img/screendoor.jpg.webp)
 
 - **Aliasing**: les arrondis sont saccadés. Puisque les écrans utilisent des pixels,  les courbes ne sont pas possibles. Cela rend les textes peu lisibles en VR. Il faut utiliser de bonnes techniques d'anti-aliasing (anticrénelage) ou utiliser des écrans à très forte densité de pixels. ([Aliasing](https://fr.wikipedia.org/wiki/Anticr%C3%A9nelage))
 
-![Aliasing](https://upload.wikimedia.org/wikipedia/commons/2/24/Antialiasing_comparaison.gif)
+![Aliasing](./img/alias.gif)
 
 
 
@@ -231,7 +231,7 @@ Les lentilles déforment (le ou) les écrans à l'intérieur du casque afin d'av
 
 - **Glare et "God rays"**:  En cas de scène à fort contraste, les couleurs claires (le blanc principalement) "bavent". On voit des rayons lumineux (God Rays). La cause: les lentilles Fresnel utilisées dans le casque. Pour le moment, il faut donc limiter les forts contrastes dans les scènes VR et attendre que les lentilles fassent mieux sur ce point.
 
-![Glare](http://i.vimeocdn.com/video/569557579_1280.jpg)
+![Glare](./img/glare.jpg)
 
 - **Lentille à focale variable** : les lentilles utilisées dans les casques actuels ne sont pas à focale variable, ainsi il n'est pas possible de recréer exactement le même ressenti qu'en réalité. Les futurs lentilles (comme par exemple celles du prototype [Half Dome](https://www.oculus.com/blog/half-dome-updates-frl-explores-more-comfortable-compact-vr-prototypes-for-work), le seront. Ce système allié à celui du suivit de l’œil (eye tracking) permettra de se rapprocher de l'idéal.
 
