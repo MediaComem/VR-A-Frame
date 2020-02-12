@@ -52,7 +52,7 @@ Afin de s'initier à **three.js**, le *framework* utilisé par A-Frame pour la g
 
 Avant de commencez cette partie, il est fortement recommandé de lire cet excellent support sur l'utilisation du pavage hexagonal: [https://www.redblobgames.com/grids/hexagons/](https://www.redblobgames.com/grids/hexagons/).
 
-Nous allons nous limité à un pavage hexagonal en forme d'hexagone en utilisant le système des coordonée cubiques
+Afin de simplifier la chose, nous allons nous limité à un pavage hexagonal en forme d'hexagone en utilisant le système des coordonnées cubiques.
 
 
 ### Enregistrement de la primitive et du composant
@@ -63,7 +63,7 @@ Suivez la documentation officielle pour rajouter une primitive et le composant a
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYzNzg3MDQ1MywtMTE5MDQ1NzAwOCwtMj
+eyJoaXN0b3J5IjpbLTc1NzA1MjQ5MiwtMTE5MDQ1NzAwOCwtMj
 EyOTA3NzM0Nyw4Njg2ODQ0NzYsLTEyNDAzOTA5MjAsLTE5MjI1
 NDA0MDAsLTM0MTUxNTQyMyw5NjQ5NDg3MzAsLTU1OTg2NTUwMS
 wyMDQyNTkwMDgyLC0xNzk5MzUwNzM4LC04NzEzNzg3MCw1NTg4
