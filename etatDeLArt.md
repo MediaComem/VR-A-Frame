@@ -97,12 +97,6 @@ Enfin, sur certains casques, ou à l'aide de senseurs supplémentaires (comme le
 
 Il existe bien sur d'autres types de contrôleurs plus exotique, mais ceux-ci reprennent la plupart du temps l'un des principes ci-dessus pour fonctionner.
 
-<!-- - Gaze contrôleur ? -->
-- 3DOF contrôleur
-- 6DOF contrôleur
-- *Tracking* des doigts
-- autres systèmes -->
-
 ### Casques populaires récents
 Le tableau ci-dessous présente quelqu'un des casques RV les plus récents ainsi que compatibilités avec les DoF (Degrees of Freedom).
 
@@ -282,11 +276,11 @@ Les deux autres sens ? (odorat ? )
 - Nicolas Chabloz
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMjQ4NTkyODYsMjE1ODc2NDc4LC01Nz
-A0NTkxNzgsLTkzNzEwNDcwNiw0ODk4MDM3MzQsMTc5ODI1NzEw
-MSwtMTgyNDk0NDc3MiwtMTc1NzE0MDI2NSwyMDg5MjE1OTYsNT
-k0MTcwODg4LDE2NjkzOTEwNjgsMTgxOTUyMTkwMSwyMTM0MjU2
-MjI4LC0xODc4NzE0NDg1LDEwMzQ0MjM1MTMsLTE0ODEyODAyNz
-UsLTIwODc5Nzc1OTQsMTQ3MzIzMjIsLTYwMjE5NzE4NSw3MDU4
-ODAyODhdfQ==
+eyJoaXN0b3J5IjpbLTE1OTc0NjcwMjQsLTExMjQ4NTkyODYsMj
+E1ODc2NDc4LC01NzA0NTkxNzgsLTkzNzEwNDcwNiw0ODk4MDM3
+MzQsMTc5ODI1NzEwMSwtMTgyNDk0NDc3MiwtMTc1NzE0MDI2NS
+wyMDg5MjE1OTYsNTk0MTcwODg4LDE2NjkzOTEwNjgsMTgxOTUy
+MTkwMSwyMTM0MjU2MjI4LC0xODc4NzE0NDg1LDEwMzQ0MjM1MT
+MsLTE0ODEyODAyNzUsLTIwODc5Nzc1OTQsMTQ3MzIzMjIsLTYw
+MjE5NzE4NV19
 -->
