@@ -89,7 +89,7 @@ La VR se démocratisant, les systèmes permettant d'interagir avec aussi. Voici 
 
 Pour les casques les moins chers (Google Cardboard), un système d’interaction par rapport au regard peut être mis en place simplement, un bouton ou un minuteur permettant de *cliquer* sur des objets par rapport à la position du regard (un curseur).
 
-Une autre façon d'interaction peu coûteuse est l'utilisation d'un contrôleur 3DOF (Occulus Go, Google Daydream, Samsung GearVR). Comme celui-ci ne peut suivre que les mouvements de position, son usage en VR se limite à pouvoir pointer des objets comme une télécommande, mais également servir à se déplacer. Toutefois, certains contrôleurs peuvent approximer leurs positions et de ce fait permettent de tenir un objet ([Documentation Unity](https://developers.google.com/vr/develop/unity/controller-support)).
+Une autre façon d'interaction peu coûteuse est l'utilisation d'un contrôleur 3DOF (Occulus Go, Google Daydream, Samsung GearVR). Comme celui-ci ne peut suivre que les mouvements de rotation, son usage en VR se limite à pouvoir pointer des objets comme une télécommande, mais également à servir au déplacement. Toutefois, certains contrôleurs peuvent approximer leurs positions et de ce fait permettent de tenir un objet ([Documentation Unity](https://developers.google.com/vr/develop/unity/controller-support)).
 
 Les contrôleurs 6DOF quant à eux permettent de suivre avec précision leurs positions (que celle-ci soit dans la main du joueur ou ailleurs). Cela permet d'avoir une immersion quasiment parfaite, notamment quand un objet est présent dans la main joueur (épée, pistolet, sabre laser, etc...).
 
@@ -282,11 +282,11 @@ Les deux autres sens ? (odorat ? )
 - Nicolas Chabloz
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNjAzMjI3ODcsLTU3MDQ1OTE3OCwtOT
-M3MTA0NzA2LDQ4OTgwMzczNCwxNzk4MjU3MTAxLC0xODI0OTQ0
-NzcyLC0xNzU3MTQwMjY1LDIwODkyMTU5Niw1OTQxNzA4ODgsMT
-Y2OTM5MTA2OCwxODE5NTIxOTAxLDIxMzQyNTYyMjgsLTE4Nzg3
-MTQ0ODUsMTAzNDQyMzUxMywtMTQ4MTI4MDI3NSwtMjA4Nzk3Nz
-U5NCwxNDczMjMyMiwtNjAyMTk3MTg1LDcwNTg4MDI4OCwxMzI3
-ODkwMF19
+eyJoaXN0b3J5IjpbMjE1ODc2NDc4LC01NzA0NTkxNzgsLTkzNz
+EwNDcwNiw0ODk4MDM3MzQsMTc5ODI1NzEwMSwtMTgyNDk0NDc3
+MiwtMTc1NzE0MDI2NSwyMDg5MjE1OTYsNTk0MTcwODg4LDE2Nj
+kzOTEwNjgsMTgxOTUyMTkwMSwyMTM0MjU2MjI4LC0xODc4NzE0
+NDg1LDEwMzQ0MjM1MTMsLTE0ODEyODAyNzUsLTIwODc5Nzc1OT
+QsMTQ3MzIzMjIsLTYwMjE5NzE4NSw3MDU4ODAyODgsMTMyNzg5
+MDBdfQ==
 -->
