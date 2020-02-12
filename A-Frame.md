@@ -40,16 +40,16 @@ A-Frame offre le composant  [background](https://github.com/aframevr/aframe/blob
 
 ### La lumière
 
-A-Frame ajoute par défaut une lumière d'ambiance et une lumière directionnel via le composant [light](https://github.com/aframevr/aframe/blob/master/docs/components/light.md). Vous pourriez vous contenter de ces lumières par défaut mais, pour rendre notre scène plus personnel,
+A-Frame ajoute par défaut une lumière d'ambiance et une lumière directionnel via le composant [light](https://github.com/aframevr/aframe/blob/master/docs/components/light.md). Vous pourriez vous contenter de ces lumières par défaut mais, pour rendre notre scène plus personnalisée, remplacer les par des lumière en accord avec le choix de couleur que vous avez fait pour votre ciel.
 
 [https://vr.chabloz.eu/ocean_quiet.html](https://vr.chabloz.eu/ocean_quiet.html)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYwMjM4NjI4NSwtNTU5ODY1NTAxLDIwND
-I1OTAwODIsLTE3OTkzNTA3MzgsLTg3MTM3ODcwLDU1ODg5OTgw
-MiwtMTQwNzI1MTA5MSwtMTYzNTA5MjMwNSwtNzcxMzM0ODM2LC
-03NzM3MjUxNzAsMTAzNTIwNzgzNSwtMTI4ODI4MjQwLC0yMDk4
-ODg4Njk5LC0xNzcyODQ4NTUwLDc0MjcxOTM3MCwxOTcyMTI2OT
-k4XX0=
+eyJoaXN0b3J5IjpbOTY0OTQ4NzMwLC01NTk4NjU1MDEsMjA0Mj
+U5MDA4MiwtMTc5OTM1MDczOCwtODcxMzc4NzAsNTU4ODk5ODAy
+LC0xNDA3MjUxMDkxLC0xNjM1MDkyMzA1LC03NzEzMzQ4MzYsLT
+c3MzcyNTE3MCwxMDM1MjA3ODM1LC0xMjg4MjgyNDAsLTIwOTg4
+ODg2OTksLTE3NzI4NDg1NTAsNzQyNzE5MzcwLDE5NzIxMjY5OT
+hdfQ==
 -->
