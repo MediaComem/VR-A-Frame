@@ -87,9 +87,9 @@ Pour aller plus loin sur leurs fonctionnements: [How VR Positional Tracking Syst
 ### Contrôleurs et systèmes d'interaction VR
 La VR se démocratisant, les systèmes permettant d'interagir avec aussi. Voici quelqu'un des systèmes et/ou contrôleurs possibles aujourd'hui:
 
-Pour les casques les moins chers (Google Cardboard), un système d’interaction par rapport au regard peut être mis en place simplement, un bouton ou un minuteur permettant de pointer/sélectionner des objets par rapport à la position du regard (un curseur).
+Pour les casques les moins chers (Google Cardboard), un système d’interaction par rapport au regard peut être mis en place simplement, un bouton ou un minuteur permettant de *cliquer* sur des objets par rapport à la position du regard (un curseur).
 
-Une autre façon d'interagir peu coûteuse est l'utilisation de généralement un contrôleur 3DOF (Occulus Go, Google Daydream, Samsung GearVR). Comme celui-ci ne peut suivre que les mouvements de rotation, son usage en RV se limite généralement à pouvoir pointer des objets comme une télécommande, mais également servir à se déplacer. Toutefois, certains contrôleurs peuvent approximer leurs positions et de ce fait permettent de tenir un objet ([Documentation Unity](https://developers.google.com/vr/develop/unity/controller-support)).
+Une autre façon d'interaction peu coûteuse est l'utilisation d'un contrôleur 3DOF (Occulus Go, Google Daydream, Samsung GearVR). Comme celui-ci ne peut suivre que les mouvements de position, son usage en VR se limite à pouvoir pointer des objets comme une télécommande, mais également servir à se déplacer. Toutefois, certains contrôleurs peuvent approximer leurs positions et de ce fait permettent de tenir un objet ([Documentation Unity](https://developers.google.com/vr/develop/unity/controller-support)).
 
 Les contrôleurs 6DOF quant à eux permettent de suivre avec précision leurs positions (que celle-ci soit dans la main du joueur ou ailleurs). Cela permet d'avoir une immersion quasiment parfaite, notamment quand un objet est présent dans la main joueur (épée, pistolet, sabre laser, etc...).
 
@@ -282,7 +282,7 @@ Les deux autres sens ? (odorat ? )
 - Nicolas Chabloz
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2OTQzNTU2MjMsLTU3MDQ1OTE3OCwtOT
+eyJoaXN0b3J5IjpbLTEwNjAzMjI3ODcsLTU3MDQ1OTE3OCwtOT
 M3MTA0NzA2LDQ4OTgwMzczNCwxNzk4MjU3MTAxLC0xODI0OTQ0
 NzcyLC0xNzU3MTQwMjY1LDIwODkyMTU5Niw1OTQxNzA4ODgsMT
 Y2OTM5MTA2OCwxODE5NTIxOTAxLDIxMzQyNTYyMjgsLTE4Nzg3
