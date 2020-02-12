@@ -22,13 +22,14 @@ Pour atteindre ces objectifs, nous allons développer un *Hub VR* multi-utilisat
 
 ## Mise en place
 
-La version 1.0.4 du *framework* [A-Frame](https://aframe.io/docs/1.0.0/introduction/) sera utilisé. Vous pouvez donc simplement la rajouter dans votre code HTML de base ou utiliser une des autres méthodes proposée dans la documentation officielle.
+La version 1.0.4 du *framework* [A-Frame](https://aframe.io/docs/1.0.0/introduction/) sera utilisé. Vous pouvez donc simplement la rajouter dans votre code HTML de base (ou utiliser une des autres méthodes proposée dans la documentation officielle).
 
-Ajoutez aussi [Aframe-Extras](https://github.com/donmccurdy/aframe-extras) à votre projet, puisque nous utiliserons certaines des extensions du *framework* A-Frame offert par cet ensemble de composants.
+Ajoutez aussi [Aframe-Extras](https://github.com/donmccurdy/aframe-extras) à votre projet, puisque nous utiliserons certaines des extensions offertes par cet ensemble de composants.
 
 Pour faire un premier test, vérifiez que tout fonctionne en ajoutant les balises nécessaires à l'affichage d'un océan (qui servira de 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc3MTMzNDgzNiwtNzczNzI1MTcwLDEwMz
-UyMDc4MzUsLTEyODgyODI0MCwtMjA5ODg4ODY5OSwtMTc3Mjg0
-ODU1MCw3NDI3MTkzNzAsMTk3MjEyNjk5OF19
+eyJoaXN0b3J5IjpbODczNTk0NDg5LC03NzEzMzQ4MzYsLTc3Mz
+cyNTE3MCwxMDM1MjA3ODM1LC0xMjg4MjgyNDAsLTIwOTg4ODg2
+OTksLTE3NzI4NDg1NTAsNzQyNzE5MzcwLDE5NzIxMjY5OThdfQ
+==
 -->
