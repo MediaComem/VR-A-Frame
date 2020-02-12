@@ -113,6 +113,8 @@ Le tableau ci-dessous présente quelqu'un des casques VR les plus récents ainsi
 - ⚠ = En beta / pas officielement supporté 
 - ✔️ = Officielement supporté
 - ❌ = Non supporté|
+- 
+*
 
 ## <a name="immersion"></a> Immersion
 
@@ -276,7 +278,7 @@ Les deux autres sens ? (odorat ? )
 - Nicolas Chabloz
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc0MTQ3MTE4NywtMTEyNDg1OTI4NiwyMT
+eyJoaXN0b3J5IjpbLTQ5OTk1MDY1MCwtMTEyNDg1OTI4NiwyMT
 U4NzY0NzgsLTU3MDQ1OTE3OCwtOTM3MTA0NzA2LDQ4OTgwMzcz
 NCwxNzk4MjU3MTAxLC0xODI0OTQ0NzcyLC0xNzU3MTQwMjY1LD
 IwODkyMTU5Niw1OTQxNzA4ODgsMTY2OTM5MTA2OCwxODE5NTIx
