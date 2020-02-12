@@ -114,7 +114,7 @@ Le tableau ci-dessous présente quelqu'un des casques VR les plus récents ainsi
 - ✔️ = Officielement supporté
 - ❌ = Non supporté|
 
-*Regourpe les casques VR utilisant le système Windows MR (par exemple:  Acer Windows MR, HP Reverb, Lenovo Explorer, ... )
+*Regroupe les casques VR utilisant le système Windows MR (par exemple:  Acer Windows MR, HP Reverb, Lenovo Explorer, Samsung Odyssey, ... )
 
 ## <a name="immersion"></a> Immersion
 
@@ -278,7 +278,7 @@ Les deux autres sens ? (odorat ? )
 - Nicolas Chabloz
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAyMTE5MDY4OSwtMTEyNDg1OTI4NiwyMT
+eyJoaXN0b3J5IjpbMjAzMzU3MTA1OSwtMTEyNDg1OTI4NiwyMT
 U4NzY0NzgsLTU3MDQ1OTE3OCwtOTM3MTA0NzA2LDQ4OTgwMzcz
 NCwxNzk4MjU3MTAxLC0xODI0OTQ0NzcyLC0xNzU3MTQwMjY1LD
 IwODkyMTU5Niw1OTQxNzA4ODgsMTY2OTM5MTA2OCwxODE5NTIx
