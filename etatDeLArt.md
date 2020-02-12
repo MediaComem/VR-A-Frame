@@ -89,13 +89,13 @@ La VR se démocratisant, les systèmes permettant d'interagir avec aussi. Voici 
 
 Pour les casques les moins chers (Google Cardboard), un système d’interaction par rapport au regard peut être mis en place simplement, un bouton ou un minuteur permettant de *cliquer* sur des objets par rapport à la position du regard (un curseur).
 
-Une autre façon d'interaction peu coûteuse est l'utilisation d'un contrôleur 3DOF (Occulus Go, Google Daydream, Samsung GearVR). Comme celui-ci ne peut suivre que les mouvements de rotation, son usage en VR se limite à pouvoir pointer des objets comme une télécommande, mais également à servir au déplacement. Toutefois, certains contrôleurs peuvent approximer leurs positions et de ce fait permettent de tenir un objet ([Documentation Unity](https://developers.google.com/vr/develop/unity/controller-support)).
+Une autre façon d'interaction peu coûteuse est l'utilisation d'un contrôleur 3DOF (Occulus Go, Google Daydream, Samsung GearVR). Comme celui-ci ne peut suivre que les mouvements de rotation, son usage en VR se limite à pouvoir pointer des objets comme une télécommande, mais également à servir aux déplacements. Toutefois, certains contrôleurs peuvent approximer leurs positions et de ce fait permettent de tenir un objet ([Documentation Unity](https://developers.google.com/vr/develop/unity/controller-support)).
 
-Les contrôleurs 6DOF quant à eux permettent de suivre avec précision leurs positions (que celle-ci soit dans la main du joueur ou ailleurs). Cela permet d'avoir une immersion quasiment parfaite, notamment quand un objet est présent dans la main joueur (épée, pistolet, sabre laser, etc...).
+Les contrôleurs 6DOF quant à eux permettent de suivre avec précision leurs positions (que celle-ci soit dans la main du joueur ou ailleurs). Cela permet d'avoir une immersion quasiment parfaite, notamment quand un objet est présent dans la main du joueur (épée, pistolet, sabre laser, etc...).
 
-Enfin, sur certain des casques les plus cher ou à l'aide de senseurs supplémentaires ([Leap Motion](https://en.wikipedia.org/wiki/Leap_Motion)), il est possible de suivre la position des mains et des doigts du joueur.
+Enfin, sur certains casques, ou à l'aide de senseurs supplémentaires (comme le [Leap Motion](https://en.wikipedia.org/wiki/Leap_Motion)), il est possible de suivre la position des mains et des doigts du joueur.
 
-Il existe bien sur d'autres types de contrôleurs plus exotique, mais ceux-ci reprenne la plupart du temps l'une des principes ci-dessus pour fonctionner.
+Il existe bien sur d'autres types de contrôleurs plus exotique, mais ceux-ci reprennent la plupart du temps l'un des principes ci-dessus pour fonctionner.
 
 <!-- - Gaze contrôleur ? -->
 - 3DOF contrôleur
@@ -282,11 +282,11 @@ Les deux autres sens ? (odorat ? )
 - Nicolas Chabloz
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjE1ODc2NDc4LC01NzA0NTkxNzgsLTkzNz
-EwNDcwNiw0ODk4MDM3MzQsMTc5ODI1NzEwMSwtMTgyNDk0NDc3
-MiwtMTc1NzE0MDI2NSwyMDg5MjE1OTYsNTk0MTcwODg4LDE2Nj
-kzOTEwNjgsMTgxOTUyMTkwMSwyMTM0MjU2MjI4LC0xODc4NzE0
-NDg1LDEwMzQ0MjM1MTMsLTE0ODEyODAyNzUsLTIwODc5Nzc1OT
-QsMTQ3MzIzMjIsLTYwMjE5NzE4NSw3MDU4ODAyODgsMTMyNzg5
-MDBdfQ==
+eyJoaXN0b3J5IjpbLTExMjQ4NTkyODYsMjE1ODc2NDc4LC01Nz
+A0NTkxNzgsLTkzNzEwNDcwNiw0ODk4MDM3MzQsMTc5ODI1NzEw
+MSwtMTgyNDk0NDc3MiwtMTc1NzE0MDI2NSwyMDg5MjE1OTYsNT
+k0MTcwODg4LDE2NjkzOTEwNjgsMTgxOTUyMTkwMSwyMTM0MjU2
+MjI4LC0xODc4NzE0NDg1LDEwMzQ0MjM1MTMsLTE0ODEyODAyNz
+UsLTIwODc5Nzc1OTQsMTQ3MzIzMjIsLTYwMjE5NzE4NSw3MDU4
+ODAyODhdfQ==
 -->
