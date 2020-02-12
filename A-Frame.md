@@ -50,14 +50,16 @@ Afin de camoufler les bords abruptes de l'océan, vous pouvez ajouter un brouill
 
 Afin de s'initier à **three.js**, le *framework* utilisé par A-Frame pour la gestion de la 3D, nous allons ajouter un nouvelle [primitive](https://aframe.io/docs/1.0.0/introduction/html-and-primitives.html) pour la création des [mesh](https://fr.wikipedia.org/wiki/Mesh_(objet)) nécessaires à un [pavage hexagonal](https://fr.wikipedia.org/wiki/Pavage_hexagonal).
 
-[https://www.redblobgames.com/grids/hexagons/](https://www.redblobgames.com/grids/hexagons/)
+Avant de commencez cette partie, il est fortement recommandé de lire cet excellent support sur l'utilisation du pavage hexagonal: [https://www.redblobgames.com/grids/hexagons/](https://www.redblobgames.com/grids/hexagons/).
+
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTMzNzcyMTc0LC0yMTI5MDc3MzQ3LDg2OD
-Y4NDQ3NiwtMTI0MDM5MDkyMCwtMTkyMjU0MDQwMCwtMzQxNTE1
-NDIzLDk2NDk0ODczMCwtNTU5ODY1NTAxLDIwNDI1OTAwODIsLT
-E3OTkzNTA3MzgsLTg3MTM3ODcwLDU1ODg5OTgwMiwtMTQwNzI1
-MTA5MSwtMTYzNTA5MjMwNSwtNzcxMzM0ODM2LC03NzM3MjUxNz
-AsMTAzNTIwNzgzNSwtMTI4ODI4MjQwLC0yMDk4ODg4Njk5LC0x
-NzcyODQ4NTUwXX0=
+eyJoaXN0b3J5IjpbLTExOTA0NTcwMDgsLTIxMjkwNzczNDcsOD
+Y4Njg0NDc2LC0xMjQwMzkwOTIwLC0xOTIyNTQwNDAwLC0zNDE1
+MTU0MjMsOTY0OTQ4NzMwLC01NTk4NjU1MDEsMjA0MjU5MDA4Mi
+wtMTc5OTM1MDczOCwtODcxMzc4NzAsNTU4ODk5ODAyLC0xNDA3
+MjUxMDkxLC0xNjM1MDkyMzA1LC03NzEzMzQ4MzYsLTc3MzcyNT
+E3MCwxMDM1MjA3ODM1LC0xMjg4MjgyNDAsLTIwOTg4ODg2OTks
+LTE3NzI4NDg1NTBdfQ==
 -->
