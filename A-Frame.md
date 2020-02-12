@@ -42,14 +42,18 @@ A-Frame offre le composant  [background](https://github.com/aframevr/aframe/blob
 
 A-Frame ajoute par défaut une lumière d'ambiance et une lumière directionnel via le composant [light](https://github.com/aframevr/aframe/blob/master/docs/components/light.md). Vous pourriez vous contenter de ces lumières par défaut mais, pour rendre notre scène plus personnalisée, remplacez les par des lumières en accord avec le choix de couleur que vous avez fait pour votre ciel.
 
+### Le brouillard
+
+Afin de camoufler un p 
+
 [https://vr.chabloz.eu/ocean_quiet.html](https://vr.chabloz.eu/ocean_quiet.html)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg4OTE4MjE0Nyw5NjQ5NDg3MzAsLTU1OT
-g2NTUwMSwyMDQyNTkwMDgyLC0xNzk5MzUwNzM4LC04NzEzNzg3
-MCw1NTg4OTk4MDIsLTE0MDcyNTEwOTEsLTE2MzUwOTIzMDUsLT
-c3MTMzNDgzNiwtNzczNzI1MTcwLDEwMzUyMDc4MzUsLTEyODgy
-ODI0MCwtMjA5ODg4ODY5OSwtMTc3Mjg0ODU1MCw3NDI3MTkzNz
-AsMTk3MjEyNjk5OF19
+eyJoaXN0b3J5IjpbOTQ0NjMzNzQ1LDk2NDk0ODczMCwtNTU5OD
+Y1NTAxLDIwNDI1OTAwODIsLTE3OTkzNTA3MzgsLTg3MTM3ODcw
+LDU1ODg5OTgwMiwtMTQwNzI1MTA5MSwtMTYzNTA5MjMwNSwtNz
+cxMzM0ODM2LC03NzM3MjUxNzAsMTAzNTIwNzgzNSwtMTI4ODI4
+MjQwLC0yMDk4ODg4Njk5LC0xNzcyODQ4NTUwLDc0MjcxOTM3MC
+wxOTcyMTI2OTk4XX0=
 -->
