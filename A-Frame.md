@@ -40,15 +40,15 @@ A-Frame offre le composant  [background](https://github.com/aframevr/aframe/blob
 
 ### Et le soleil
 
-A-Frame ajoute par défaut 
+A-Frame ajoute par défaut une lumière d'ambiance et une lumière directionnel via le composant [light](https://github.com/aframevr/aframe/blob/master/docs/components/light.md). 
 
 [https://vr.chabloz.eu/ocean_quiet.html](https://vr.chabloz.eu/ocean_quiet.html)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjgwMDQ3NTcsMjA0MjU5MDA4MiwtMTc5OT
-M1MDczOCwtODcxMzc4NzAsNTU4ODk5ODAyLC0xNDA3MjUxMDkx
-LC0xNjM1MDkyMzA1LC03NzEzMzQ4MzYsLTc3MzcyNTE3MCwxMD
-M1MjA3ODM1LC0xMjg4MjgyNDAsLTIwOTg4ODg2OTksLTE3NzI4
-NDg1NTAsNzQyNzE5MzcwLDE5NzIxMjY5OThdfQ==
+eyJoaXN0b3J5IjpbMjA1OTIwNjA4LDIwNDI1OTAwODIsLTE3OT
+kzNTA3MzgsLTg3MTM3ODcwLDU1ODg5OTgwMiwtMTQwNzI1MTA5
+MSwtMTYzNTA5MjMwNSwtNzcxMzM0ODM2LC03NzM3MjUxNzAsMT
+AzNTIwNzgzNSwtMTI4ODI4MjQwLC0yMDk4ODg4Njk5LC0xNzcy
+ODQ4NTUwLDc0MjcxOTM3MCwxOTcyMTI2OTk4XX0=
 -->
