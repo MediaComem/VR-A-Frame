@@ -64,7 +64,7 @@ Suivez la documentation officielle pour rajouter une primitive et le composant a
 ![Pavage hexagonal de taille 3](./img/hexagone-3.png)
 
 - **color**: la couleur des tuiles hexagonale 
-- **cellsize**: la taille des tuiles
+- **cellsize**: la taille des tuiles (hexagonale) en [m]
 
 
 
@@ -72,7 +72,7 @@ Suivez la documentation officielle pour rajouter une primitive et le composant a
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA0ODE3Mjk5NCwxODQ2MDk2MDUzLC01NT
+eyJoaXN0b3J5IjpbMTQyMDg5ODUxNywxODQ2MDk2MDUzLC01NT
 kxNTgxMjgsMzcxNTA4ODkyLC04NDEyNzI1NTEsLTExOTA0NTcw
 MDgsLTIxMjkwNzczNDcsODY4Njg0NDc2LC0xMjQwMzkwOTIwLC
 0xOTIyNTQwNDAwLC0zNDE1MTU0MjMsOTY0OTQ4NzMwLC01NTk4
