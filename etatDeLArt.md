@@ -104,7 +104,7 @@ Il existe bien sur d'autres types de contrôleurs plus exotique, mais ceux-ci re
 - autres systèmes -->
 
 ### Casques populaires récents
-Le tableau ci-dessous présente quelqu'un des casques RV les plus récents ainsi que compatibilités avec les DoF (Degrees of Freedom).
+Le tableau ci-dessous présente quelqu'un des casques RVs les plus récents ainsi que leurs différentes fonctionnalités.
 
 | Casques               | Platforme     | 6DOF | Contrôleurs | Contrôleurs 6DOF | Hand Tracking
 |:--------              |----------:    |:----:|:-----------:|:---------------: | :-----------:
@@ -116,9 +116,11 @@ Le tableau ci-dessous présente quelqu'un des casques RV les plus récents ainsi
 | Sony Playstation VR   | Playstation   | ✔️    | ✔️        | ✔️               | ❌
 | Windows Mixed Reality* | PC            | ✔️    | ✔️        | ✔️              | ✔️
 
-- ⚠ = En beta / pas officielement supporté 
-- ✔️ = Officielement supporté
+- ⚠ = En beta / pas officiellement supporté 
+- ✔️ = Officiellement supporté
 - ❌ = Non supporté
+
+[*] - [Windows Mixed Reality](https://en.wikipedia.org/wiki/Windows_Mixed_Reality) n'est pas un casque en soi, mais une plateforme avec des standards.
 
 ## <a name="immersion"></a> Immersion
 
