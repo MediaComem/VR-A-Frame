@@ -82,7 +82,7 @@ Le suivi de position est possible aujourd'hui avec les 2 techniques ci-dessous:
 
 La première est externe au casque et la seconde est intégrée au casque.
 
-Pour aller plus loin sur leurs fonctionnements: [How VR Positional Tracking System Wottps:/sul.cm/hoowtrackg-woks/)
+Pour aller plus loin sur leurs fonctionnements: [How VR Positional Tracking System Work](https://uploadvr.com/how-vr-tracking-works)
 
 ### Contrôleurs et systèmes d'interaction VR
 La RV se démocratisant, les systèmes permettant d'interagir avec aussi. Voici quelqu'un des systèmes et/ou contrôleurs possibles aujourd'hui:
