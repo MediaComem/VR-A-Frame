@@ -53,13 +53,18 @@ Afin de s'initier à **three.js**, le *framework* utilisé par A-Frame pour la g
 Avant de commencez cette partie, il est fortement recommandé de lire cet excellent support sur l'utilisation du pavage hexagonal: [https://www.redblobgames.com/grids/hexagons/](https://www.redblobgames.com/grids/hexagons/).
 
 
+### Enregistrement de la primitive et du composant
+
+
+
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExOTA0NTcwMDgsLTIxMjkwNzczNDcsOD
-Y4Njg0NDc2LC0xMjQwMzkwOTIwLC0xOTIyNTQwNDAwLC0zNDE1
-MTU0MjMsOTY0OTQ4NzMwLC01NTk4NjU1MDEsMjA0MjU5MDA4Mi
-wtMTc5OTM1MDczOCwtODcxMzc4NzAsNTU4ODk5ODAyLC0xNDA3
-MjUxMDkxLC0xNjM1MDkyMzA1LC03NzEzMzQ4MzYsLTc3MzcyNT
-E3MCwxMDM1MjA3ODM1LC0xMjg4MjgyNDAsLTIwOTg4ODg2OTks
-LTE3NzI4NDg1NTBdfQ==
+eyJoaXN0b3J5IjpbMTY0NjE4MTMzNiwtMTE5MDQ1NzAwOCwtMj
+EyOTA3NzM0Nyw4Njg2ODQ0NzYsLTEyNDAzOTA5MjAsLTE5MjI1
+NDA0MDAsLTM0MTUxNTQyMyw5NjQ5NDg3MzAsLTU1OTg2NTUwMS
+wyMDQyNTkwMDgyLC0xNzk5MzUwNzM4LC04NzEzNzg3MCw1NTg4
+OTk4MDIsLTE0MDcyNTEwOTEsLTE2MzUwOTIzMDUsLTc3MTMzND
+gzNiwtNzczNzI1MTcwLDEwMzUyMDc4MzUsLTEyODgyODI0MCwt
+MjA5ODg4ODY5OV19
 -->
