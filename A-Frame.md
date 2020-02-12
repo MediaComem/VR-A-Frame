@@ -32,7 +32,7 @@ Pour vérifier que tout fonctionne, ajouter les balises HTML nécessaires à l'a
 
 ### L'océan
 
-L'océan actuelle est un peu simple, mais nous pouvons le rendre plus plaisant en faisant quelques retouches. Premièrement, agrandissez  sa taille pour qu'il couvre 100 [m^2] (toutes les distances dans A-Frame sont en **mètre** et les angles en **degré**). Ensuite, la mer est un peu trop agitée pour notre scène. Essayez donc de modifier les attributs nécessaires pour obtenir un océan plus calme (par exemple: vous pouvez réduire l'amplitude des vagues de base à 0 et leur variance à  0.1). Vous remarquerez ainsi la facilité de paramétrage des composants A-Frame grâce à l'utilisation des attributs HTML. Pour un effet de vagues plus interessant, vous pouvez aussi dupliquer votre balise océan et modifier l'amplitude et variance  
+L'océan actuelle est un peu simple, mais nous pouvons le rendre plus plaisant en faisant quelques retouches. Premièrement, agrandissez  sa taille pour qu'il couvre 100 [m^2] (toutes les distances dans A-Frame sont en **mètre** et les angles en **degré**). Ensuite, la mer est un peu trop agitée pour notre scène. Essayez donc de modifier les attributs nécessaires pour obtenir un océan plus calme (par exemple: vous pouvez réduire l'amplitude des vagues de base à 0 et leur variance à  0.1). Vous remarquerez ainsi la facilité de paramétrage des composants A-Frame grâce à l'utilisation des attributs HTML. Pour un effet intéressant, vous pouvez aussi dupliquer votre balise océan et modifier l'amplitude et la variance  du second océan. Mais bien sûr cela 
 
 ### Le ciel
 
@@ -48,10 +48,10 @@ Afin de camoufler les bords abruptes de l'océan, vous pouvez ajouter un brouill
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcwNzE4MzU4LC0zNDE1MTU0MjMsOTY0OT
-Q4NzMwLC01NTk4NjU1MDEsMjA0MjU5MDA4MiwtMTc5OTM1MDcz
-OCwtODcxMzc4NzAsNTU4ODk5ODAyLC0xNDA3MjUxMDkxLC0xNj
-M1MDkyMzA1LC03NzEzMzQ4MzYsLTc3MzcyNTE3MCwxMDM1MjA3
-ODM1LC0xMjg4MjgyNDAsLTIwOTg4ODg2OTksLTE3NzI4NDg1NT
-AsNzQyNzE5MzcwLDE5NzIxMjY5OThdfQ==
+eyJoaXN0b3J5IjpbMTI2NDM3MDM4OSwtMzQxNTE1NDIzLDk2ND
+k0ODczMCwtNTU5ODY1NTAxLDIwNDI1OTAwODIsLTE3OTkzNTA3
+MzgsLTg3MTM3ODcwLDU1ODg5OTgwMiwtMTQwNzI1MTA5MSwtMT
+YzNTA5MjMwNSwtNzcxMzM0ODM2LC03NzM3MjUxNzAsMTAzNTIw
+NzgzNSwtMTI4ODI4MjQwLC0yMDk4ODg4Njk5LC0xNzcyODQ4NT
+UwLDc0MjcxOTM3MCwxOTcyMTI2OTk4XX0=
 -->
