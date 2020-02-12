@@ -98,13 +98,13 @@ Enfin, sur certains casques, ou à l'aide de senseurs supplémentaires (comme le
 Il existe bien sur d'autres types de contrôleurs plus exotique, mais ceux-ci reprennent la plupart du temps l'un des principes ci-dessus pour fonctionner.
 
 ### Casques populaires récents
-Le tableau ci-dessous présente quelqu'un des casques RV les plus récents ainsi que compatibilités avec les DoF (Degrees of Freedom).
+Le tableau ci-dessous présente quelqu'un des casques VR les plus récents ainsi que leur compatibilité avec les DoF (Degrees of Freedom).
 
 | Casques               | Platforme     | 6DOF | Contrôleurs | Contrôleurs 6DOF | Hand Tracking
 |:--------              |----------:    |:----:|:-----------:|:---------------: | :-----------:
 | HTC Vive Cosmos       | PC            | ✔️    | ✔️        | ✔️               | ✔️
 | Oculus Rift S         | PC            | ✔️    | ✔️        | ✔️               | ⚠
-| Oculus Quest          | Standalone    | ✔️    | ✔️         ✔️               | ✔️
+| Oculus Quest          | Standalone    | ✔️    | ✔️        | ✔️               | ✔️
 | Oculus Go             | Standalone    | ❌    | ✔️        | ❌               | ❌ 
 | Google Cardboard      | Android       | ❌    | ❌        | ❌               | ❌
 | Sony Playstation VR   | Playstation   | ✔️    | ✔️        | ✔️               | ❌
@@ -276,11 +276,11 @@ Les deux autres sens ? (odorat ? )
 - Nicolas Chabloz
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1OTc0NjcwMjQsLTExMjQ4NTkyODYsMj
-E1ODc2NDc4LC01NzA0NTkxNzgsLTkzNzEwNDcwNiw0ODk4MDM3
-MzQsMTc5ODI1NzEwMSwtMTgyNDk0NDc3MiwtMTc1NzE0MDI2NS
-wyMDg5MjE1OTYsNTk0MTcwODg4LDE2NjkzOTEwNjgsMTgxOTUy
-MTkwMSwyMTM0MjU2MjI4LC0xODc4NzE0NDg1LDEwMzQ0MjM1MT
-MsLTE0ODEyODAyNzUsLTIwODc5Nzc1OTQsMTQ3MzIzMjIsLTYw
-MjE5NzE4NV19
+eyJoaXN0b3J5IjpbLTc0MTQ3MTE4NywtMTEyNDg1OTI4NiwyMT
+U4NzY0NzgsLTU3MDQ1OTE3OCwtOTM3MTA0NzA2LDQ4OTgwMzcz
+NCwxNzk4MjU3MTAxLC0xODI0OTQ0NzcyLC0xNzU3MTQwMjY1LD
+IwODkyMTU5Niw1OTQxNzA4ODgsMTY2OTM5MTA2OCwxODE5NTIx
+OTAxLDIxMzQyNTYyMjgsLTE4Nzg3MTQ0ODUsMTAzNDQyMzUxMy
+wtMTQ4MTI4MDI3NSwtMjA4Nzk3NzU5NCwxNDczMjMyMiwtNjAy
+MTk3MTg1XX0=
 -->
