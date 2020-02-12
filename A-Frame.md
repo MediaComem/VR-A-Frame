@@ -60,6 +60,7 @@ Afin de simplifier la chose, nous allons nous limiter à une carte en forme d’
 Suivez la documentation officielle pour rajouter une primitive et le composant associé nécessaire au pavage hexagonal. Pour les attributs de la primitive, implémentez au minimum les suivants:
 
 - *size*:  la taille du pavage. Une taille de 1 signifie un seul hexagone, une taille de 2 signifie un héxagone au centre et les 6 qui l'entoure et ainsi de suite. Voila un exemple pour la taille 3: 
+[!https://github.com/audreyhuguenin/VR-A-Frame/blob/master/img/hexagone-3.png
 -
 
 
@@ -68,11 +69,11 @@ Suivez la documentation officielle pour rajouter une primitive et le composant a
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU1OTE1ODEyOCwzNzE1MDg4OTIsLTg0MT
-I3MjU1MSwtMTE5MDQ1NzAwOCwtMjEyOTA3NzM0Nyw4Njg2ODQ0
-NzYsLTEyNDAzOTA5MjAsLTE5MjI1NDA0MDAsLTM0MTUxNTQyMy
-w5NjQ5NDg3MzAsLTU1OTg2NTUwMSwyMDQyNTkwMDgyLC0xNzk5
-MzUwNzM4LC04NzEzNzg3MCw1NTg4OTk4MDIsLTE0MDcyNTEwOT
-EsLTE2MzUwOTIzMDUsLTc3MTMzNDgzNiwtNzczNzI1MTcwLDEw
-MzUyMDc4MzVdfQ==
+eyJoaXN0b3J5IjpbLTcxNjIwNDUwOCwtNTU5MTU4MTI4LDM3MT
+UwODg5MiwtODQxMjcyNTUxLC0xMTkwNDU3MDA4LC0yMTI5MDc3
+MzQ3LDg2ODY4NDQ3NiwtMTI0MDM5MDkyMCwtMTkyMjU0MDQwMC
+wtMzQxNTE1NDIzLDk2NDk0ODczMCwtNTU5ODY1NTAxLDIwNDI1
+OTAwODIsLTE3OTkzNTA3MzgsLTg3MTM3ODcwLDU1ODg5OTgwMi
+wtMTQwNzI1MTA5MSwtMTYzNTA5MjMwNSwtNzcxMzM0ODM2LC03
+NzM3MjUxNzBdfQ==
 -->
