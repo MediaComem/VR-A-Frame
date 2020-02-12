@@ -57,13 +57,18 @@ Afin de simplifier la chose, nous allons nous limité à un pavage hexagonal en 
 
 ### Enregistrement de la primitive et du composant
 
-Suivez la documentation officielle pour rajouter une primitive et le composant associé nécessaire au pavage hexagonal. Pour les attributs du pavage
+Suivez la documentation officielle pour rajouter une primitive et le composant associé nécessaire au pavage hexagonal. Pour les attributs de la primitive, implémentez au minimum les suivants:
+
+-
+-
+
+
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc1NzA1MjQ5MiwtMTE5MDQ1NzAwOCwtMj
+eyJoaXN0b3J5IjpbMTQyMDY1NDY4MSwtMTE5MDQ1NzAwOCwtMj
 EyOTA3NzM0Nyw4Njg2ODQ0NzYsLTEyNDAzOTA5MjAsLTE5MjI1
 NDA0MDAsLTM0MTUxNTQyMyw5NjQ5NDg3MzAsLTU1OTg2NTUwMS
 wyMDQyNTkwMDgyLC0xNzk5MzUwNzM4LC04NzEzNzg3MCw1NTg4
