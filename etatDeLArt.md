@@ -71,7 +71,7 @@ XIXe s. - [Stéréoscopes](https://fr.wikipedia.org/wiki/St%C3%A9r%C3%A9oscope)
 ### Degrés de liberté
 ![Les six degrés de liberté dans un espace à trois dimensions, @author:GregorDS, Wikipedia](./img/6DOF.png)
 
-Un des points importants à penser lors de la conception d'une expérience VR, est la façon dont le joueur va pouvoir se déplacer et interagir avec le monde autour de lui. Pour ce qui est du point de vue matériel, on parle de **degrés de liberté (Degree of Freedom)**. Il existe aujourd'hui 2 possibilités pour le nombre de degré de liberté. La première est le 3DOF pour "Three Degrees Of Freedom", qui indique que le matériel peut suivre les mouvements de rotation effectués par le joueur (ces trois axes sont *yaw*, *pitch*  et  *roll*). La deuxième est le 6DOF pour "Six Degrees Of Freedom" indique quant à elle que en plus de pouvoir suivre les mouvements de rotation, le matériel peut également suivre les mouvements de position (forward/back, up/down, left/right).
+Un des points importants à penser lors de la conception d'une expérience VR, est la façon dont le joueur va pouvoir se déplacer et interagir avec le monde autour de lui. Pour ce qui est du point de vue matériel, on parle de **degrés de liberté (Degree of Freedom)**. Il existe aujourd'hui 2 possibilités pour le nombre de degré de liberté. La première est le 3DOF pour "Three Degrees Of Freedom", qui indique que le matériel peut suivre les mouvements de rotation effectués par le joueur (ces trois axes sont *yaw*, *pitch*  et  *roll*). La deuxième est le 6DOF pour "Six Degrees Of Freedom" qui, en plus de pouvoir suivre les mouvements de rotation, le matériel peut également suivre les mouvements de position (*forward/back*, *up/down*, *left/right*).
 
 En général, le nombre de degrés de liberté du casque correspond à celui du contrôleur (quand il y en a un).
 
@@ -282,11 +282,11 @@ Les deux autres sens ? (odorat ? )
 - Nicolas Chabloz
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMjA1ODgwMjAsLTU3MDQ1OTE3OCwtOT
-M3MTA0NzA2LDQ4OTgwMzczNCwxNzk4MjU3MTAxLC0xODI0OTQ0
-NzcyLC0xNzU3MTQwMjY1LDIwODkyMTU5Niw1OTQxNzA4ODgsMT
-Y2OTM5MTA2OCwxODE5NTIxOTAxLDIxMzQyNTYyMjgsLTE4Nzg3
-MTQ0ODUsMTAzNDQyMzUxMywtMTQ4MTI4MDI3NSwtMjA4Nzk3Nz
-U5NCwxNDczMjMyMiwtNjAyMTk3MTg1LDcwNTg4MDI4OCwxMzI3
-ODkwMF19
+eyJoaXN0b3J5IjpbLTM2OTA1NDI5MCwtNTcwNDU5MTc4LC05Mz
+cxMDQ3MDYsNDg5ODAzNzM0LDE3OTgyNTcxMDEsLTE4MjQ5NDQ3
+NzIsLTE3NTcxNDAyNjUsMjA4OTIxNTk2LDU5NDE3MDg4OCwxNj
+Y5MzkxMDY4LDE4MTk1MjE5MDEsMjEzNDI1NjIyOCwtMTg3ODcx
+NDQ4NSwxMDM0NDIzNTEzLC0xNDgxMjgwMjc1LC0yMDg3OTc3NT
+k0LDE0NzMyMzIyLC02MDIxOTcxODUsNzA1ODgwMjg4LDEzMjc4
+OTAwXX0=
 -->
