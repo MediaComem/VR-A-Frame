@@ -85,9 +85,9 @@ La première est externe au casque et la seconde est intégrée au casque.
 Pour aller plus loin sur leurs fonctionnements: [How VR Positional Tracking System Work](https://uploadvr.com/how-vr-tracking-works)
 
 ### Contrôleurs et systèmes d'interaction VR
-La RV se démocratisant, les systèmes permettant d'interagir avec aussi. Voici quelqu'un des systèmes et/ou contrôleurs possibles aujourd'hui:
+La VR se démocratisant, les systèmes permettant d'interagir avec aussi. Voici quelqu'un des systèmes et/ou contrôleurs possibles aujourd'hui:
 
-Pour les casques les moins cher (Google Cardboard), un système d'intéraction par rapport au regard peut être mis en place simplement, un bouton ou un minuteur permettant de pointer/séléctionner des objets par rapport à la position du regard (un curseur).
+Pour les casques les moins chers (Google Cardboard), un système d’interaction par rapport au regard peut être mis en place simplement, un bouton ou un minuteur permettant de pointer/sélectionner des objets par rapport à la position du regard (un curseur).
 
 Une autre façon d'interagir peu coûteuse est l'utilisation de généralement un contrôleur 3DOF (Occulus Go, Google Daydream, Samsung GearVR). Comme celui-ci ne peut suivre que les mouvements de rotation, son usage en RV se limite généralement à pouvoir pointer des objets comme une télécommande, mais également servir à se déplacer. Toutefois, certains contrôleurs peuvent approximer leurs positions et de ce fait permettent de tenir un objet ([Documentation Unity](https://developers.google.com/vr/develop/unity/controller-support)).
 
@@ -282,11 +282,11 @@ Les deux autres sens ? (odorat ? )
 - Nicolas Chabloz
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM2OTA1NDI5MCwtNTcwNDU5MTc4LC05Mz
-cxMDQ3MDYsNDg5ODAzNzM0LDE3OTgyNTcxMDEsLTE4MjQ5NDQ3
-NzIsLTE3NTcxNDAyNjUsMjA4OTIxNTk2LDU5NDE3MDg4OCwxNj
-Y5MzkxMDY4LDE4MTk1MjE5MDEsMjEzNDI1NjIyOCwtMTg3ODcx
-NDQ4NSwxMDM0NDIzNTEzLC0xNDgxMjgwMjc1LC0yMDg3OTc3NT
-k0LDE0NzMyMzIyLC02MDIxOTcxODUsNzA1ODgwMjg4LDEzMjc4
-OTAwXX0=
+eyJoaXN0b3J5IjpbLTE2OTQzNTU2MjMsLTU3MDQ1OTE3OCwtOT
+M3MTA0NzA2LDQ4OTgwMzczNCwxNzk4MjU3MTAxLC0xODI0OTQ0
+NzcyLC0xNzU3MTQwMjY1LDIwODkyMTU5Niw1OTQxNzA4ODgsMT
+Y2OTM5MTA2OCwxODE5NTIxOTAxLDIxMzQyNTYyMjgsLTE4Nzg3
+MTQ0ODUsMTAzNDQyMzUxMywtMTQ4MTI4MDI3NSwtMjA4Nzk3Nz
+U5NCwxNDczMjMyMiwtNjAyMTk3MTg1LDcwNTg4MDI4OCwxMzI3
+ODkwMF19
 -->
