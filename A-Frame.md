@@ -68,17 +68,17 @@ Suivez la documentation officielle pour rajouter une primitive et le composant a
 - **height**: la hauteur des tuiles.
 
 ### Initialisation
-Lors de la phase d'initialisation du [composant](https://github.com/aframevr/aframe/blob/master/docs/introduction/writing-a-component.md), il va falloir générer toutes lies
+Lors de la phase d'initialisation du [composant](https://github.com/aframevr/aframe/blob/master/docs/introduction/writing-a-component.md), il va falloir générer toutes les pièces utiles à la création du *mesh* complet. 
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTI1NzkyNTM3LDE0OTY1NzcxNDUsMTg0Nj
-A5NjA1MywtNTU5MTU4MTI4LDM3MTUwODg5MiwtODQxMjcyNTUx
-LC0xMTkwNDU3MDA4LC0yMTI5MDc3MzQ3LDg2ODY4NDQ3NiwtMT
-I0MDM5MDkyMCwtMTkyMjU0MDQwMCwtMzQxNTE1NDIzLDk2NDk0
-ODczMCwtNTU5ODY1NTAxLDIwNDI1OTAwODIsLTE3OTkzNTA3Mz
-gsLTg3MTM3ODcwLDU1ODg5OTgwMiwtMTQwNzI1MTA5MSwtMTYz
-NTA5MjMwNV19
+eyJoaXN0b3J5IjpbMjA0OTg3ODc3MCwxNDk2NTc3MTQ1LDE4ND
+YwOTYwNTMsLTU1OTE1ODEyOCwzNzE1MDg4OTIsLTg0MTI3MjU1
+MSwtMTE5MDQ1NzAwOCwtMjEyOTA3NzM0Nyw4Njg2ODQ0NzYsLT
+EyNDAzOTA5MjAsLTE5MjI1NDA0MDAsLTM0MTUxNTQyMyw5NjQ5
+NDg3MzAsLTU1OTg2NTUwMSwyMDQyNTkwMDgyLC0xNzk5MzUwNz
+M4LC04NzEzNzg3MCw1NTg4OTk4MDIsLTE0MDcyNTEwOTEsLTE2
+MzUwOTIzMDVdfQ==
 -->
