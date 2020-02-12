@@ -30,12 +30,12 @@ Pour vérifier que tout fonctionne, ajouter les balises HTML nécessaires à l'a
 
 ## Environnement
 
-L'océan actuelle est un peu simple, mais nous pouvons le rendre plus plaisant en faisant quelques simples retouches. Premièrement, agrandissez  sa taille pour qu'il couvre 100 [m^2] (toutes les distances dans A-Frame sont en **mètre** et les angles en **degré**). 
+L'océan actuelle est un peu simple, mais nous pouvons le rendre plus plaisant en faisant quelques simples retouches. Premièrement, agrandissez  sa taille pour qu'il couvre 100 [m^2] (toutes les distances dans A-Frame sont en **mètre** et les angles en **degré**). Ensuite, la mer est un peu trop agitée pour notre scène. Réduisez donc l'amplitude des vagues de base à 0 (attribut *amplitude*) et leur variance à  0.1
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTU4ODk5ODAyLC0xNDA3MjUxMDkxLC0xNj
-M1MDkyMzA1LC03NzEzMzQ4MzYsLTc3MzcyNTE3MCwxMDM1MjA3
-ODM1LC0xMjg4MjgyNDAsLTIwOTg4ODg2OTksLTE3NzI4NDg1NT
-AsNzQyNzE5MzcwLDE5NzIxMjY5OThdfQ==
+eyJoaXN0b3J5IjpbLTg5OTU5NTY5NCw1NTg4OTk4MDIsLTE0MD
+cyNTEwOTEsLTE2MzUwOTIzMDUsLTc3MTMzNDgzNiwtNzczNzI1
+MTcwLDEwMzUyMDc4MzUsLTEyODgyODI0MCwtMjA5ODg4ODY5OS
+wtMTc3Mjg0ODU1MCw3NDI3MTkzNzAsMTk3MjEyNjk5OF19
 -->
