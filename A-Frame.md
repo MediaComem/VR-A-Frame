@@ -44,16 +44,14 @@ A-Frame ajoute par défaut une lumière d'ambiance et une lumière directionnel 
 
 ### Le brouillard
 
-Afin de camoufler les bords abruptes de l'océan, vous pouvez ajouter un brouillard grâce au composant [fog](https://github.com/aframevr/aframe/blob/master/docs/components/fog.md). Voilà un exemple de l'environnement 
-
-[https://vr.chabloz.eu/ocean_quiet.html](https://vr.chabloz.eu/ocean_quiet.html)
+Afin de camoufler les bords abruptes de l'océan, vous pouvez ajouter un brouillard grâce au composant [fog](https://github.com/aframevr/aframe/blob/master/docs/components/fog.md). Voilà un exemple d'environnement obtenue après ces quelques retouches: [https://vr.chabloz.eu/ocean_quiet.html](https://vr.chabloz.eu/ocean_quiet.html)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMDU5MTE0ODEsOTY0OTQ4NzMwLC01NT
-k4NjU1MDEsMjA0MjU5MDA4MiwtMTc5OTM1MDczOCwtODcxMzc4
-NzAsNTU4ODk5ODAyLC0xNDA3MjUxMDkxLC0xNjM1MDkyMzA1LC
-03NzEzMzQ4MzYsLTc3MzcyNTE3MCwxMDM1MjA3ODM1LC0xMjg4
-MjgyNDAsLTIwOTg4ODg2OTksLTE3NzI4NDg1NTAsNzQyNzE5Mz
-cwLDE5NzIxMjY5OThdfQ==
+eyJoaXN0b3J5IjpbNzcwMDIwODk4LDk2NDk0ODczMCwtNTU5OD
+Y1NTAxLDIwNDI1OTAwODIsLTE3OTkzNTA3MzgsLTg3MTM3ODcw
+LDU1ODg5OTgwMiwtMTQwNzI1MTA5MSwtMTYzNTA5MjMwNSwtNz
+cxMzM0ODM2LC03NzM3MjUxNzAsMTAzNTIwNzgzNSwtMTI4ODI4
+MjQwLC0yMDk4ODg4Njk5LC0xNzcyODQ4NTUwLDc0MjcxOTM3MC
+wxOTcyMTI2OTk4XX0=
 -->
