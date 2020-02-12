@@ -69,22 +69,35 @@ XIXe s. - [Stéréoscopes](https://fr.wikipedia.org/wiki/St%C3%A9r%C3%A9oscope)
 ## <a name="materiel"></a>Le matériel VR
 
 ### Degrés de liberté
+![Les six degrés de liberté dans un espace à trois dimensions, @author:GregorDS, Wikipedia](./img/6DOF.png)
 
-3DOF: Three Degrees Of Freedom ou suivi de rotation
+Un des points importants à penser lors de la conception d'une expérience RV, est la façon dont le joueur va pouvoir se déplacer et interagir avec le monde autour de lui. Pour ce qui est du point de vue matériel, on parle de **degrés de liberté (Degree of Freedom)**. Il existe aujourd'hui 2 possibilités de degré de liberté. La première est le 3DOF pour "Three Degrees Of Freedom" indique que le matériel peut suivre les mouvements de rotation effectués par le joueur, 3 étant possibles ("yaw, pitch, roll"). La deuxième est le 6DOF pour "Six Degrees Of Freedom" indique quant à elle que en plus de pouvoir suivre les mouvements de rotation, le matériel peut également suivre les mouvements de position (forward/back, up/down, left/right).
 
-6DOF: Six Degrees Of Freedom ou suivi de position
+En général, le nombre de degrés de liberté du casque correspond à celui du contrôleur (quand il y en a un).
 
-### Systèmes de  suivi de position (*positional tracking*)
-
+### Systèmes de suivi de position (*positional tracking*)
+Le suivi de position est possible aujourd'hui avec les 2 techniques ci-dessous:
 - Outside-in (Oculus camera ir, Valve lighthouse, ...)
 - Inside-out tracking (simultaneous localization and mapping [SLAM](https://en.wikipedia.org/wiki/Simultaneous_localization_and_mapping))
 
-[https://uploadvr.com/how-vr-tracking-works/](https://uploadvr.com/how-vr-tracking-works/)
+La première est externe au casque et la seconde est intégrée au casque.
 
-
+Pour aller plus loin sur leurs fonctionnements: [How VR Positional Tracking System Works](https://uploadvr.com/how-vr-tracking-works/)
 
 ### Contrôleurs et systèmes d'interaction VR
-- Gaze contrôleur ?
+La RV se démocratisant, les systèmes permettant d'interagir avec aussi. Voici quelqu'un des systèmes et/ou contrôleurs possibles aujourd'hui:
+
+Pour les casques les moins cher (Google Cardboard), un système d'intéraction par rapport au regard peut être mis en place simplement, un bouton ou un minuteur permettant de pointer/séléctionner des objets par rapport à la position du regard (un curseur).
+
+Une autre façon d'interagir peu coûteuse est l'utilisation de généralement un contrôleur 3DOF (Occulus Go, Google Daydream, Samsung GearVR). Comme celui-ci ne peut suivre que les mouvements de rotation, son usage en RV se limite généralement à pouvoir pointer des objets comme une télécommande, mais également servir à se déplacer. Toutefois, certains contrôleurs peuvent approximer leurs positions et de ce fait permettent de tenir un objet ([Documentation Unity](https://developers.google.com/vr/develop/unity/controller-support)).
+
+Les contrôleurs 6DOF quant à eux permettent de suivre avec précision leurs positions (que celle-ci soit dans la main du joueur ou ailleurs). Cela permet d'avoir une immersion quasiment parfaite, notamment quand un objet est présent dans la main joueur (épée, pistolet, sabre laser, etc...).
+
+Enfin, sur certain des casques les plus cher ou à l'aide de senseurs supplémentaires ([Leap Motion](https://en.wikipedia.org/wiki/Leap_Motion)), il est possible de suivre la position des mains et des doigts du joueur.
+
+Il existe bien sur d'autres types de contrôleurs plus exotique, mais ceux-ci reprenne la plupart du temps l'une des principes ci-dessus pour fonctionner.
+
+<!-- - Gaze contrôleur ? -->
 - 3DOF contrôleur
 - 6DOF contrôleur
 - *Tracking* des doigts
