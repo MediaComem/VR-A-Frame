@@ -82,7 +82,7 @@ Le suivi de position est possible aujourd'hui avec les 2 techniques ci-dessous:
 
 La première est externe au casque et la seconde est intégrée au casque.
 
-Pour aller plus loin sur leurs fonctionnements: [How VR Positional Tracking System Works](https://uploadvr.com/how-vr-tracking-works/)
+Pour aller plus loin sur leurs fonctionnements: [How VR Positional Tracking System Wottps:/sul.cm/hoowtrackg-woks/)
 
 ### Contrôleurs et systèmes d'interaction VR
 La RV se démocratisant, les systèmes permettant d'interagir avec aussi. Voici quelqu'un des systèmes et/ou contrôleurs possibles aujourd'hui:
@@ -97,7 +97,7 @@ Enfin, sur certain des casques les plus cher ou à l'aide de senseurs supplémen
 
 Il existe bien sur d'autres types de contrôleurs plus exotique, mais ceux-ci reprenne la plupart du temps l'une des principes ci-dessus pour fonctionner.
 
-<!-- - Gaze contrôleur ?
+<!-- - Gaze contrôleur ? -->
 - 3DOF contrôleur
 - 6DOF contrôleur
 - *Tracking* des doigts
@@ -110,7 +110,7 @@ Le tableau ci-dessous présente quelqu'un des casques RV les plus récents ainsi
 |:--------              |----------:    |:----:|:-----------:|:---------------: | :-----------:
 | HTC Vive Cosmos       | PC            | ✔️    | ✔️        | ✔️               | ✔️
 | Oculus Rift S         | PC            | ✔️    | ✔️        | ✔️               | ⚠
-| Oculus Quest          | Standalone    | ✔️    | ✔️        | ✔️               | ✔️
+| Oculus Quest          | Standalone    | ✔️    | ✔️         ✔️               | ✔️
 | Oculus Go             | Standalone    | ❌    | ✔️        | ❌               | ❌ 
 | Google Cardboard      | Android       | ❌    | ❌        | ❌               | ❌
 | Sony Playstation VR   | Playstation   | ✔️    | ✔️        | ✔️               | ❌
@@ -118,7 +118,7 @@ Le tableau ci-dessous présente quelqu'un des casques RV les plus récents ainsi
 
 - ⚠ = En beta / pas officielement supporté 
 - ✔️ = Officielement supporté
-- ❌ = Non supporté
+- ❌ = Non supporté|
 
 ## <a name="immersion"></a> Immersion
 
@@ -282,11 +282,11 @@ Les deux autres sens ? (odorat ? )
 - Nicolas Chabloz
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkzNzEwNDcwNiw0ODk4MDM3MzQsMTc5OD
-I1NzEwMSwtMTgyNDk0NDc3MiwtMTc1NzE0MDI2NSwyMDg5MjE1
-OTYsNTk0MTcwODg4LDE2NjkzOTEwNjgsMTgxOTUyMTkwMSwyMT
-M0MjU2MjI4LC0xODc4NzE0NDg1LDEwMzQ0MjM1MTMsLTE0ODEy
-ODAyNzUsLTIwODc5Nzc1OTQsMTQ3MzIzMjIsLTYwMjE5NzE4NS
-w3MDU4ODAyODgsMTMyNzg5MDAsLTIwODUzMTQ3ODYsLTM3OTg5
-MTgzXX0=
+eyJoaXN0b3J5IjpbLTU3MDQ1OTE3OCwtOTM3MTA0NzA2LDQ4OT
+gwMzczNCwxNzk4MjU3MTAxLC0xODI0OTQ0NzcyLC0xNzU3MTQw
+MjY1LDIwODkyMTU5Niw1OTQxNzA4ODgsMTY2OTM5MTA2OCwxOD
+E5NTIxOTAxLDIxMzQyNTYyMjgsLTE4Nzg3MTQ0ODUsMTAzNDQy
+MzUxMywtMTQ4MTI4MDI3NSwtMjA4Nzk3NzU5NCwxNDczMjMyMi
+wtNjAyMTk3MTg1LDcwNTg4MDI4OCwxMzI3ODkwMCwtMjA4NTMx
+NDc4Nl19
 -->
