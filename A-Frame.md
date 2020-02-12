@@ -48,14 +48,17 @@ Afin de camoufler les bords abruptes de l'océan, vous pouvez ajouter un brouill
 
 ## Mappage en hexagone
 
+Afin de s'initier à **three.js**, le *framework* utiliser par A-Frame pour la gestion 3d, 
+
+[https://www.redblobgames.com/grids/hexagons/](https://www.redblobgames.com/grids/hexagons/)
 
 [https://aframe.io/docs/1.0.0/introduction/html-and-primitives.html](https://aframe.io/docs/1.0.0/introduction/html-and-primitives.html)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTczOTkzOTg3MSwtMjEyOTA3NzM0Nyw4Nj
-g2ODQ0NzYsLTEyNDAzOTA5MjAsLTE5MjI1NDA0MDAsLTM0MTUx
-NTQyMyw5NjQ5NDg3MzAsLTU1OTg2NTUwMSwyMDQyNTkwMDgyLC
-0xNzk5MzUwNzM4LC04NzEzNzg3MCw1NTg4OTk4MDIsLTE0MDcy
-NTEwOTEsLTE2MzUwOTIzMDUsLTc3MTMzNDgzNiwtNzczNzI1MT
-cwLDEwMzUyMDc4MzUsLTEyODgyODI0MCwtMjA5ODg4ODY5OSwt
-MTc3Mjg0ODU1MF19
+eyJoaXN0b3J5IjpbMzE4NjExNTE1LC0yMTI5MDc3MzQ3LDg2OD
+Y4NDQ3NiwtMTI0MDM5MDkyMCwtMTkyMjU0MDQwMCwtMzQxNTE1
+NDIzLDk2NDk0ODczMCwtNTU5ODY1NTAxLDIwNDI1OTAwODIsLT
+E3OTkzNTA3MzgsLTg3MTM3ODcwLDU1ODg5OTgwMiwtMTQwNzI1
+MTA5MSwtMTYzNTA5MjMwNSwtNzcxMzM0ODM2LC03NzM3MjUxNz
+AsMTAzNTIwNzgzNSwtMTI4ODI4MjQwLC0yMDk4ODg4Njk5LC0x
+NzcyODQ4NTUwXX0=
 -->
