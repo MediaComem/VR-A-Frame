@@ -67,7 +67,7 @@ Suivez la documentation officielle pour rajouter une primitive et le composant a
 - **cellsize**: la taille des tuiles.
 - **height**: la hauteur des tuiles.
 
-### Les sommets ( vertex)
+### Les sommets (vertex)
 Lors de la phase d'initialisation du [composant](https://github.com/aframevr/aframe/blob/master/docs/introduction/writing-a-component.md), il va falloir générer toutes les pièces utiles à la création du *mesh* complet. 
 
 
