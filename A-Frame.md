@@ -81,9 +81,9 @@ Il faut désormais transformer la forme 2D en mesh 3D. La classe [THREE.ExtrudeG
 
 ### Le matériel (*material*)
 
-Avec le framework *three.js*, les texture sont appliqué 
+Avec le framework *three.js*, les textures sont appliquées sous la forme d'un matériel (*material*).  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU3MzAzMjU5NywtODY0MjQxOTQ1LC0yND
+eyJoaXN0b3J5IjpbLTU1MzY3MzUxNywtODY0MjQxOTQ1LC0yND
 UwNDIyMzcsLTEyNjgwNjM5NDMsMTcxNTMzNDUyMSwyMTM1ODc1
 MDg1LC0xNTE1OTQ2NDIsMTQ5NjU3NzE0NSwxODQ2MDk2MDUzLC
 01NTkxNTgxMjgsMzcxNTA4ODkyLC04NDEyNzI1NTEsLTExOTA0
