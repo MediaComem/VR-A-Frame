@@ -188,16 +188,16 @@ A-Frame ajoute une [caméra par défaut](https://aframe.io/docs/1.0.0/components
 
 Comme vu dans l'[état de l'art](./README.md#movements), il serait préférable de désactiver le sous-composant **trackpad-controls** grâce à l'option **controls** du composant. Vous pouvez ainsi n'utiliser que **keyboard-controls**, **touch-controls** et **gamepad-controls**. Si un utilisateur veut vraiment utiliser le mode de déplacement libre en VR, il peut le faire avec un *gamepad*. 
 
-
+Pour s’entraîner encore une fois à la création de composant, et pour voir comment gérer les interactions  entre composant, dévlopper un composant nommé **movements-controls-extra** qui permettra à l'utilisateur sur 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NzIwOTkwMDUsLTIxMDczMzUxMTUsMT
-kwNDk5NTM2NywtOTkzNjk2MzM5LC03MTI5MDMxMDQsMTM0OTUz
-ODU4NSwtODgwODk0MTQ2LDE5NzcyMDM4NzEsMjA1ODMzMjUzMi
-wxMTQ1MzA0MjE1LC0xNTExNTc4NzIxLDQzMzk1MTA3MCwxOTc5
-MzYzMzE3LC0yMTI3MTk5MjIxLDU2NDk1OTU3NSw3NDI2NTQwOT
-UsMjA2NjU4NDU5MCwtNTM5NzA2Mzg5LDE0NzY2MDA2NzksLTEw
-MjI5NDY0NzRdfQ==
+eyJoaXN0b3J5IjpbLTczMjQ0NjkxNSwtMjEwNzMzNTExNSwxOT
+A0OTk1MzY3LC05OTM2OTYzMzksLTcxMjkwMzEwNCwxMzQ5NTM4
+NTg1LC04ODA4OTQxNDYsMTk3NzIwMzg3MSwyMDU4MzMyNTMyLD
+ExNDUzMDQyMTUsLTE1MTE1Nzg3MjEsNDMzOTUxMDcwLDE5Nzkz
+NjMzMTcsLTIxMjcxOTkyMjEsNTY0OTU5NTc1LDc0MjY1NDA5NS
+wyMDY2NTg0NTkwLC01Mzk3MDYzODksMTQ3NjYwMDY3OSwtMTAy
+Mjk0NjQ3NF19
 -->
