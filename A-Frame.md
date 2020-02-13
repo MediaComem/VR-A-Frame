@@ -164,7 +164,7 @@ Comme vous pouvez le voir dans ce code, nous obtenons au final qu'un seul mesh p
 
 ### Mise à jour (*update*)
 
-Ajoutez une méthode [update](https://aframe.io/docs/1.0.0/core/component.html#update-olddata) à votre composant. Elle devra être capable de gérer les changements de tous les attributs requis de votre primitive (**size**, **color**, **cellsize** et **height**). Cela permettra d'animer votre pavage correctement lorsque nous parlerons d'animation.
+Ajoutez une méthode [update](https://aframe.io/docs/1.0.0/core/component.html#update-olddata) à votre composant. Elle devra être capable de gérer les changements de tous les attributs requis de votre primitive (**size**, **color**, **cellsize** et **height**). Cela permettra d'animer votre pavage (voir la partie animation plus loin).
 
 ### Variation des couleurs
 
@@ -177,7 +177,7 @@ Essayez de rajouter un système de variation de la couleur de base pour chaque t
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc4NjU5Njg5MSwxMTQ1MzA0MjE1LC0xNT
+eyJoaXN0b3J5IjpbMjA1ODMzMjUzMiwxMTQ1MzA0MjE1LC0xNT
 ExNTc4NzIxLDQzMzk1MTA3MCwxOTc5MzYzMzE3LC0yMTI3MTk5
 MjIxLDU2NDk1OTU3NSw3NDI2NTQwOTUsMjA2NjU4NDU5MCwtNT
 M5NzA2Mzg5LDE0NzY2MDA2NzksLTEwMjI5NDY0NzQsMTExOTY2
