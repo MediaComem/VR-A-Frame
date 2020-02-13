@@ -190,16 +190,16 @@ Comme vu dans l'[état de l'art](./README.md#movements), il serait préférable 
 
 Pour s’entraîner encore une fois à la création de composant, et pour voir comment gérer les interactions  entre composant, développez un composant nommé **movements-controls-extra** qui permettra aux utilisateur sur *desktop* de *courrir* grâce à la touche shift de leur clavier. 
 
-
+### L'avatar
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1OTQwODgwNzEsLTIxMDczMzUxMTUsMT
-kwNDk5NTM2NywtOTkzNjk2MzM5LC03MTI5MDMxMDQsMTM0OTUz
-ODU4NSwtODgwODk0MTQ2LDE5NzcyMDM4NzEsMjA1ODMzMjUzMi
-wxMTQ1MzA0MjE1LC0xNTExNTc4NzIxLDQzMzk1MTA3MCwxOTc5
-MzYzMzE3LC0yMTI3MTk5MjIxLDU2NDk1OTU3NSw3NDI2NTQwOT
-UsMjA2NjU4NDU5MCwtNTM5NzA2Mzg5LDE0NzY2MDA2NzksLTEw
-MjI5NDY0NzRdfQ==
+eyJoaXN0b3J5IjpbLTI0NzgwNzcwNCwtMjEwNzMzNTExNSwxOT
+A0OTk1MzY3LC05OTM2OTYzMzksLTcxMjkwMzEwNCwxMzQ5NTM4
+NTg1LC04ODA4OTQxNDYsMTk3NzIwMzg3MSwyMDU4MzMyNTMyLD
+ExNDUzMDQyMTUsLTE1MTE1Nzg3MjEsNDMzOTUxMDcwLDE5Nzkz
+NjMzMTcsLTIxMjcxOTkyMjEsNTY0OTU5NTc1LDc0MjY1NDA5NS
+wyMDY2NTg0NTkwLC01Mzk3MDYzODksMTQ3NjYwMDY3OSwtMTAy
+Mjk0NjQ3NF19
 -->
