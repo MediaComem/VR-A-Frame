@@ -160,17 +160,17 @@ this.tilemap.forEach(node  => {
 this.el.setObject3D('mesh', new THREE.Mesh(mergedGeo, material));
 ```
 
-Comme vous pouvez le voir dans ce code, nous obtenons au final qu'un seul mesh plutôt que le groupe de *meshes* généré par la première version.  Dans cet exemple [https://vr.chabloz.eu/hexatile_ocean.html](https://vr.chabloz.eu/hexatile_ocean.html), vous pouvez appuyer sur la touche 'O' de votre clavier pour observer la différence entre  la version non-optimisée et optimisée (observez le nombre de *calls* dans les statistiques, deux de ces *calls* sont les dessins des deux océans).  Vous pouvez aussi changer la taille du pavage avec les touches '1' à '9'. (la touche 'B' est toujours active si vous voulez tester l'impacte du biseau sur le nombre de triangles lors de pavage de taille importante. Mais n'oubliez pas de soustraire les 10'000 triangles de l'océans).
+Comme vous pouvez le voir dans ce code, nous obtenons au final qu'un seul mesh plutôt que le groupe de *meshes* généré par la première version.  Dans cet exemple [https://vr.chabloz.eu/hexatile_ocean.html](https://vr.chabloz.eu/hexatile_ocean.html), vous pouvez appuyer sur la touche 'O' de votre clavier pour observer la différence entre  la version non-optimisée et optimisée grâce au nombre de *calls* dans les statistiques (deux de ces *calls* sont les dessins des deux océans).  Vous pouvez aussi changer la taille du pavage avec les touches '1' à '9'. (la touche 'B' est toujours active si vous voulez tester l'impacte du biseau sur le nombre de triangles lors de pavage de taille importante. Mais n'oubliez pas de soustraire les 10'000 triangles de l'océans).
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDMzOTUxMDcwLDE5NzkzNjMzMTcsLTIxMj
-cxOTkyMjEsNTY0OTU5NTc1LDc0MjY1NDA5NSwyMDY2NTg0NTkw
-LC01Mzk3MDYzODksMTQ3NjYwMDY3OSwtMTAyMjk0NjQ3NCwxMT
-E5NjYwMTI0LC0xNzU1ODQxMjAwLC02MzMzMjI2NzMsMTEyMjIw
-MzYxOCwtNDg3OTk3MjAzLDI3ODMxODEwNSwtMTcyMTMzNTc2My
-w2MjM4NDcyOTEsLTE4NTI1NTk4MDgsLTg2NDI0MTk0NSwtMjQ1
-MDQyMjM3XX0=
+eyJoaXN0b3J5IjpbNjk2MTUxMzk0LDQzMzk1MTA3MCwxOTc5Mz
+YzMzE3LC0yMTI3MTk5MjIxLDU2NDk1OTU3NSw3NDI2NTQwOTUs
+MjA2NjU4NDU5MCwtNTM5NzA2Mzg5LDE0NzY2MDA2NzksLTEwMj
+I5NDY0NzQsMTExOTY2MDEyNCwtMTc1NTg0MTIwMCwtNjMzMzIy
+NjczLDExMjIyMDM2MTgsLTQ4Nzk5NzIwMywyNzgzMTgxMDUsLT
+E3MjEzMzU3NjMsNjIzODQ3MjkxLC0xODUyNTU5ODA4LC04NjQy
+NDE5NDVdfQ==
 -->
