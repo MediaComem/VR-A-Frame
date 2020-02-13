@@ -73,7 +73,7 @@ Article: [VR could help transform remote work](https://www.computerworld.com/art
 
 ### Cinéma et l'art
 
-Pour le cinéma, la VR permet de s'immerger quasiment totalement dans l'univers et les aventures visionnées. La 3D est déjà bien implantée dans les salles aujourd'hui, mais l'immersion VR va plus loin encore. Elle est aussi utilisée pour les artistes 3d, qui peuvent créer directement en VR (et s'occuper de l'animation avec des outils comme [PoseVR](https://vrscout.com/news/disneys-posevr-animation-tool/)), ou tout simplement visionner leurs créations via ce média. La VR crée aussi de nouvelle possibilité pour les autres arts, comme par exemple le dessin ou la sculpture en VR (exemple: [https://time.com/vr-is-for-artists/](https://time.com/vr-is-for-artists/)).
+Pour le cinéma, la VR permet de s'immerger quasiment totalement dans l'univers et les aventures visionnées. La 3D est déjà bien implantée dans les salles aujourd'hui, mais l'immersion VR va plus loin encore. Elle est aussi utilisée par les artistes 3D, qui peuvent créer directement en VR (et s'occuper de l'animation avec des outils comme [PoseVR](https://vrscout.com/news/disneys-posevr-animation-tool/)), ou tout simplement visionner leurs créations via ce média. La VR crée aussi de nouvelle possibilité pour les autres arts, comme par exemple le dessin ou la sculpture en VR (ex: [https://time.com/vr-is-for-artists/](https://time.com/vr-is-for-artists/)).
 
 Article: [Cinéma VR – Comment la réalité virtuelle transforme le cinéma](https://www.realite-virtuelle.com/cinema-vr/)
 
@@ -367,11 +367,11 @@ Ce dépôt contient les différents supports pédagogiques nécessaires pour le 
 - Nicolas Chabloz
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDIwNTQ1MDYyLDIwMzM1NzEwNTksLTExMj
-Q4NTkyODYsMjE1ODc2NDc4LC01NzA0NTkxNzgsLTkzNzEwNDcw
-Niw0ODk4MDM3MzQsMTc5ODI1NzEwMSwtMTgyNDk0NDc3MiwtMT
-c1NzE0MDI2NSwyMDg5MjE1OTYsNTk0MTcwODg4LDE2NjkzOTEw
-NjgsMTgxOTUyMTkwMSwyMTM0MjU2MjI4LC0xODc4NzE0NDg1LD
-EwMzQ0MjM1MTMsLTE0ODEyODAyNzUsLTIwODc5Nzc1OTQsMTQ3
-MzIzMjJdfQ==
+eyJoaXN0b3J5IjpbMTUxNTkxNDMxOCwyMDMzNTcxMDU5LC0xMT
+I0ODU5Mjg2LDIxNTg3NjQ3OCwtNTcwNDU5MTc4LC05MzcxMDQ3
+MDYsNDg5ODAzNzM0LDE3OTgyNTcxMDEsLTE4MjQ5NDQ3NzIsLT
+E3NTcxNDAyNjUsMjA4OTIxNTk2LDU5NDE3MDg4OCwxNjY5Mzkx
+MDY4LDE4MTk1MjE5MDEsMjEzNDI1NjIyOCwtMTg3ODcxNDQ4NS
+wxMDM0NDIzNTEzLC0xNDgxMjgwMjc1LC0yMDg3OTc3NTk0LDE0
+NzMyMzIyXX0=
 -->
