@@ -6,7 +6,7 @@
 
 - Savoir intégrer des technologies Web pour la réalisation d’une expérience VR multi-utilisateurs.
 - Réaliser une application accessible via une multitude de périphériques (*responsive*).
--  S'initier au framework A-Frame et à l'architecture [Entity–component–system](https://aframe.io/docs/1.0.0/introduction/entity-component-system.html) (ECS).
+-  Maîtriser le framework A-Frame et son architecture [Entity–component–system](https://aframe.io/docs/1.0.0/introduction/entity-component-system.html) (ECS).
 
 ## Contenu
 
@@ -93,11 +93,11 @@ let material = new  THREE.MeshLambertMaterial({color:  new  THREE.Color(this.dat
 
 Finalement, il faut appliquer notre matériel sur notre géométrie pour avoir un mesh final texturé. Utilsez donc la classe [THREE.Mesh](https://threejs.org/docs/#api/en/objects/Mesh) pour le faire. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU2MzQ0NjA2OCwtODY0MjQxOTQ1LC0yND
-UwNDIyMzcsLTEyNjgwNjM5NDMsMTcxNTMzNDUyMSwyMTM1ODc1
-MDg1LC0xNTE1OTQ2NDIsMTQ5NjU3NzE0NSwxODQ2MDk2MDUzLC
-01NTkxNTgxMjgsMzcxNTA4ODkyLC04NDEyNzI1NTEsLTExOTA0
-NTcwMDgsLTIxMjkwNzczNDcsODY4Njg0NDc2LC0xMjQwMzkwOT
-IwLC0xOTIyNTQwNDAwLC0zNDE1MTU0MjMsOTY0OTQ4NzMwLC01
-NTk4NjU1MDFdfQ==
+eyJoaXN0b3J5IjpbLTE0NTU3OTUwMjUsLTg2NDI0MTk0NSwtMj
+Q1MDQyMjM3LC0xMjY4MDYzOTQzLDE3MTUzMzQ1MjEsMjEzNTg3
+NTA4NSwtMTUxNTk0NjQyLDE0OTY1NzcxNDUsMTg0NjA5NjA1My
+wtNTU5MTU4MTI4LDM3MTUwODg5MiwtODQxMjcyNTUxLC0xMTkw
+NDU3MDA4LC0yMTI5MDc3MzQ3LDg2ODY4NDQ3NiwtMTI0MDM5MD
+kyMCwtMTkyMjU0MDQwMCwtMzQxNTE1NDIzLDk2NDk0ODczMCwt
+NTU5ODY1NTAxXX0=
 -->
