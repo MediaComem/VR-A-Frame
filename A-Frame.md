@@ -73,14 +73,14 @@ Lors de la phase d'initialisation du [composant](https://github.com/aframevr/afr
 
 ### La forme
 
-Une fois les sommets créés, il faut les regrouper dans une unique forme et dessiner les arrêtes.  
+Une fois les sommets créés, il faut les regrouper dans une unique forme et dessiner les arrêtes (*edges*).   
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTY4NjE0OTI0LDIxMzU4NzUwODUsLTE1MT
-U5NDY0MiwxNDk2NTc3MTQ1LDE4NDYwOTYwNTMsLTU1OTE1ODEy
-OCwzNzE1MDg4OTIsLTg0MTI3MjU1MSwtMTE5MDQ1NzAwOCwtMj
-EyOTA3NzM0Nyw4Njg2ODQ0NzYsLTEyNDAzOTA5MjAsLTE5MjI1
-NDA0MDAsLTM0MTUxNTQyMyw5NjQ5NDg3MzAsLTU1OTg2NTUwMS
-wyMDQyNTkwMDgyLC0xNzk5MzUwNzM4LC04NzEzNzg3MCw1NTg4
-OTk4MDJdfQ==
+eyJoaXN0b3J5IjpbMTE0MTQ3MTUzNywyMTM1ODc1MDg1LC0xNT
+E1OTQ2NDIsMTQ5NjU3NzE0NSwxODQ2MDk2MDUzLC01NTkxNTgx
+MjgsMzcxNTA4ODkyLC04NDEyNzI1NTEsLTExOTA0NTcwMDgsLT
+IxMjkwNzczNDcsODY4Njg0NDc2LC0xMjQwMzkwOTIwLC0xOTIy
+NTQwNDAwLC0zNDE1MTU0MjMsOTY0OTQ4NzMwLC01NTk4NjU1MD
+EsMjA0MjU5MDA4MiwtMTc5OTM1MDczOCwtODcxMzc4NzAsNTU4
+ODk5ODAyXX0=
 -->
