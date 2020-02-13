@@ -10,7 +10,7 @@
 - [Déplacements](#movements)
 - [Performances graphiques](#perf)
 - [Audio, haptique et autres fioritures](#audio-and-co)
-- [Quelques stats sur la VR](#stats)
+- [Quelques statistiques](#stats)
 - [La VR dans la fiction](#fiction)
 - [Sources](#sources)
 
@@ -324,7 +324,7 @@ Pour le toucher, des entreprises développent des technologies haptiques (gants 
 Qu'en est-il des deux autres sens ? (odorat et goût)
 Article: [Can we put all 5 senses in VR simulation?](https://4experience.co/vr-senses-are-the-future/)
 
-# <a name="stats"></a> Quelques stats sur la VR
+# <a name="stats"></a> Quelques statistiques
 
 - [2019 Was a Major Inflection Point for VR—Here’s the Proof](https://www.roadtovr.com/2019-major-inflection-point-vr-heres-proof/)
 
@@ -365,7 +365,7 @@ Article: [Can we put all 5 senses in VR simulation?](https://4experience.co/vr-s
 - Nicolas Chabloz
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgwNTEzODUzNCwyMDMzNTcxMDU5LC0xMT
+eyJoaXN0b3J5IjpbMTQwMDU5ODk3NCwyMDMzNTcxMDU5LC0xMT
 I0ODU5Mjg2LDIxNTg3NjQ3OCwtNTcwNDU5MTc4LC05MzcxMDQ3
 MDYsNDg5ODAzNzM0LDE3OTgyNTcxMDEsLTE4MjQ5NDQ3NzIsLT
 E3NTcxNDAyNjUsMjA4OTIxNTk2LDU5NDE3MDg4OCwxNjY5Mzkx
