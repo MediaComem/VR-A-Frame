@@ -81,13 +81,13 @@ Il faut désormais transformer la forme 2D en mesh 3D. La classe [THREE.ExtrudeG
 
 ### Le matériel (*material*)
 
-Avec le framework *three.js*, les textures sont appliquées sous la forme d'un matériel (*material*).  Il existe plusieurs types de matériaux dans *three.js*,  le moins gourmand en ressource étant [THREE.MeshLambertMaterial](https://threejs.org/docs/#api/en/materials/MeshLambertMaterial), nous allons l'utiliser pour appliquer une simple couleur en texture sur notre hexagone. 
+Avec le framework *three.js*, les textures sont appliquées sous la forme d'un matériel (*material*).  Il existe plusieurs types de matériaux dans *three.js*,  le moins gourmand en ressource étant [THREE.MeshLambertMaterial](https://threejs.org/docs/#api/en/materials/MeshLambertMaterial), nous allons l'utiliser pour appliquer une simple texture de couleur sur notre hexagone. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NjI5OTM3NjIsLTg2NDI0MTk0NSwtMj
-Q1MDQyMjM3LC0xMjY4MDYzOTQzLDE3MTUzMzQ1MjEsMjEzNTg3
-NTA4NSwtMTUxNTk0NjQyLDE0OTY1NzcxNDUsMTg0NjA5NjA1My
-wtNTU5MTU4MTI4LDM3MTUwODg5MiwtODQxMjcyNTUxLC0xMTkw
-NDU3MDA4LC0yMTI5MDc3MzQ3LDg2ODY4NDQ3NiwtMTI0MDM5MD
-kyMCwtMTkyMjU0MDQwMCwtMzQxNTE1NDIzLDk2NDk0ODczMCwt
-NTU5ODY1NTAxXX0=
+eyJoaXN0b3J5IjpbMTE4MDQ4NzgwNiwtODY0MjQxOTQ1LC0yND
+UwNDIyMzcsLTEyNjgwNjM5NDMsMTcxNTMzNDUyMSwyMTM1ODc1
+MDg1LC0xNTE1OTQ2NDIsMTQ5NjU3NzE0NSwxODQ2MDk2MDUzLC
+01NTkxNTgxMjgsMzcxNTA4ODkyLC04NDEyNzI1NTEsLTExOTA0
+NTcwMDgsLTIxMjkwNzczNDcsODY4Njg0NDc2LC0xMjQwMzkwOT
+IwLC0xOTIyNTQwNDAwLC0zNDE1MTU0MjMsOTY0OTQ4NzMwLC01
+NTk4NjU1MDFdfQ==
 -->
