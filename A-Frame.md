@@ -150,13 +150,13 @@ this.tilemap.forEach(node  => {
 this.el.setObject3D('mesh', new THREE.Mesh(mergedGeo, material));
 ```
 
-Comme vous pouvez le voir dans ce code, nous obtenons au final qu'un seul mesh plutôt que le groupe de *meshes* généré par la première version.
+Comme vous pouvez le voir dans ce code, nous obtenons au final qu'un seul mesh plutôt que le groupe de *meshes* généré par la première version.  Dans cet exemple [https://vr.chabloz.eu/hexatile_ocean.html](https://vr.chabloz.eu/hexatile_ocean.html), vous pouvez appuyer sur la touche 'O' de votre clavier pour observer la différence entre un la version non-optimisé et optimisé (observez le nombre de *calls* . 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzQyNjU0MDk1LDIwNjY1ODQ1OTAsLTUzOT
-cwNjM4OSwxNDc2NjAwNjc5LC0xMDIyOTQ2NDc0LDExMTk2NjAx
-MjQsLTE3NTU4NDEyMDAsLTYzMzMyMjY3MywxMTIyMjAzNjE4LC
-00ODc5OTcyMDMsMjc4MzE4MTA1LC0xNzIxMzM1NzYzLDYyMzg0
-NzI5MSwtMTg1MjU1OTgwOCwtODY0MjQxOTQ1LC0yNDUwNDIyMz
-csLTEyNjgwNjM5NDMsMTcxNTMzNDUyMSwyMTM1ODc1MDg1LC0x
-NTE1OTQ2NDJdfQ==
+eyJoaXN0b3J5IjpbMTI0NDA2MTE3Niw3NDI2NTQwOTUsMjA2Nj
+U4NDU5MCwtNTM5NzA2Mzg5LDE0NzY2MDA2NzksLTEwMjI5NDY0
+NzQsMTExOTY2MDEyNCwtMTc1NTg0MTIwMCwtNjMzMzIyNjczLD
+ExMjIyMDM2MTgsLTQ4Nzk5NzIwMywyNzgzMTgxMDUsLTE3MjEz
+MzU3NjMsNjIzODQ3MjkxLC0xODUyNTU5ODA4LC04NjQyNDE5ND
+UsLTI0NTA0MjIzNywtMTI2ODA2Mzk0MywxNzE1MzM0NTIxLDIx
+MzU4NzUwODVdfQ==
 -->
