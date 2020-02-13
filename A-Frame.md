@@ -141,21 +141,21 @@ this.el.setObject3D('mesh', group);
 Mais alors *three.js* va dessiner chacun des enfants un par un (avec un appel de méthode à chaque fois). Puisque tous ces *meshes* utilisent le même matériau, il serait souhaitable de ne faire qu'un seul appel de dessin. Pour optimiser le code, *three.js* offre la possibilité de fusionner des géométries. Voilà un exemple de code:
 
 ```js
-let  mergedGeo = new  THREE.Geometry();
+let mergedGeo = new THREE.Geometry();
 this.tilemap.forEach(node  => {
-node.updateMatrix();
-mergedGeo.merge(node.geometry, node.matrix);
+  node.updateMatrix();
+  mergedGeo.merge(node.geometry, node.matrix);
 });
-this.el.setObject3D('mesh', new  THREE.Mesh(mergedGeo, this.material));
+this.el.setObject3D('mesh', new THREE.Mesh(mergedGeo, this.material));
 ```
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODQ1MDE2Nzg4LDIwNjY1ODQ1OTAsLTUzOT
-cwNjM4OSwxNDc2NjAwNjc5LC0xMDIyOTQ2NDc0LDExMTk2NjAx
-MjQsLTE3NTU4NDEyMDAsLTYzMzMyMjY3MywxMTIyMjAzNjE4LC
-00ODc5OTcyMDMsMjc4MzE4MTA1LC0xNzIxMzM1NzYzLDYyMzg0
-NzI5MSwtMTg1MjU1OTgwOCwtODY0MjQxOTQ1LC0yNDUwNDIyMz
-csLTEyNjgwNjM5NDMsMTcxNTMzNDUyMSwyMTM1ODc1MDg1LC0x
-NTE1OTQ2NDJdfQ==
+eyJoaXN0b3J5IjpbLTk1NDI2MTUzMiwyMDY2NTg0NTkwLC01Mz
+k3MDYzODksMTQ3NjYwMDY3OSwtMTAyMjk0NjQ3NCwxMTE5NjYw
+MTI0LC0xNzU1ODQxMjAwLC02MzMzMjI2NzMsMTEyMjIwMzYxOC
+wtNDg3OTk3MjAzLDI3ODMxODEwNSwtMTcyMTMzNTc2Myw2MjM4
+NDcyOTEsLTE4NTI1NTk4MDgsLTg2NDI0MTk0NSwtMjQ1MDQyMj
+M3LC0xMjY4MDYzOTQzLDE3MTUzMzQ1MjEsMjEzNTg3NTA4NSwt
+MTUxNTk0NjQyXX0=
 -->
