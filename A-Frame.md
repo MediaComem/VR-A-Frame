@@ -182,13 +182,13 @@ Pour mettre en pratique votre nouvelle primitive. Créez une *ile* comme zone de
 
 ## Camera, avatar et mesh de navigation (*nav-mesh*) 
 
-A-Frame ajoute une [caméra par défaut](https://aframe.io/docs/1.0.0/components/camera.html#default-camera). 
+A-Frame ajoute une [caméra par défaut](https://aframe.io/docs/1.0.0/components/camera.html#default-camera). Elle possède les composants look-controls et wasd-controls
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MzI5MDIyMDksMTM0OTUzODU4NSwtOD
-gwODk0MTQ2LDE5NzcyMDM4NzEsMjA1ODMzMjUzMiwxMTQ1MzA0
-MjE1LC0xNTExNTc4NzIxLDQzMzk1MTA3MCwxOTc5MzYzMzE3LC
-0yMTI3MTk5MjIxLDU2NDk1OTU3NSw3NDI2NTQwOTUsMjA2NjU4
-NDU5MCwtNTM5NzA2Mzg5LDE0NzY2MDA2NzksLTEwMjI5NDY0Nz
-QsMTExOTY2MDEyNCwtMTc1NTg0MTIwMCwtNjMzMzIyNjczLDEx
-MjIyMDM2MThdfQ==
+eyJoaXN0b3J5IjpbMTg0MDkwODEwMywxMzQ5NTM4NTg1LC04OD
+A4OTQxNDYsMTk3NzIwMzg3MSwyMDU4MzMyNTMyLDExNDUzMDQy
+MTUsLTE1MTE1Nzg3MjEsNDMzOTUxMDcwLDE5NzkzNjMzMTcsLT
+IxMjcxOTkyMjEsNTY0OTU5NTc1LDc0MjY1NDA5NSwyMDY2NTg0
+NTkwLC01Mzk3MDYzODksMTQ3NjYwMDY3OSwtMTAyMjk0NjQ3NC
+wxMTE5NjYwMTI0LC0xNzU1ODQxMjAwLC02MzMzMjI2NzMsMTEy
+MjIwMzYxOF19
 -->
