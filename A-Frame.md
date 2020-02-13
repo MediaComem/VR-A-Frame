@@ -69,17 +69,17 @@ Suivez la documentation officielle pour rajouter une primitive et le composant a
 
 ### Les sommets (vertex)
 
-Lors de la phase d'initialisation du [composant](https://github.com/aframevr/aframe/blob/master/docs/introduction/writing-a-component.md), il va falloir générer toutes les pièces utiles à la création du *mesh* complet. 
+Lors de la phase d'initialisation du [composant](https://github.com/aframevr/aframe/blob/master/docs/introduction/writing-a-component.md), il va falloir générer toutes les pièces utiles à la création du *mesh* complet. Il semble donc logique de commencer par la génération d'un hexagone.
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNjUzMTA2OTYsLTE1MTU5NDY0MiwxND
-k2NTc3MTQ1LDE4NDYwOTYwNTMsLTU1OTE1ODEyOCwzNzE1MDg4
-OTIsLTg0MTI3MjU1MSwtMTE5MDQ1NzAwOCwtMjEyOTA3NzM0Ny
-w4Njg2ODQ0NzYsLTEyNDAzOTA5MjAsLTE5MjI1NDA0MDAsLTM0
-MTUxNTQyMyw5NjQ5NDg3MzAsLTU1OTg2NTUwMSwyMDQyNTkwMD
-gyLC0xNzk5MzUwNzM4LC04NzEzNzg3MCw1NTg4OTk4MDIsLTE0
-MDcyNTEwOTFdfQ==
+eyJoaXN0b3J5IjpbMzk2NjkzMzA4LC0xNTE1OTQ2NDIsMTQ5Nj
+U3NzE0NSwxODQ2MDk2MDUzLC01NTkxNTgxMjgsMzcxNTA4ODky
+LC04NDEyNzI1NTEsLTExOTA0NTcwMDgsLTIxMjkwNzczNDcsOD
+Y4Njg0NDc2LC0xMjQwMzkwOTIwLC0xOTIyNTQwNDAwLC0zNDE1
+MTU0MjMsOTY0OTQ4NzMwLC01NTk4NjU1MDEsMjA0MjU5MDA4Mi
+wtMTc5OTM1MDczOCwtODcxMzc4NzAsNTU4ODk5ODAyLC0xNDA3
+MjUxMDkxXX0=
 -->
