@@ -85,9 +85,7 @@ Article: [VR + AI: the very real reality of virtual artificial intelligence](htt
 
 ### Autres ?
 
-La VR peut être utilisée dans une pléthore d'autre domaine. Par exemple, el pourrait 
-
-Article: [VR could help transform remote work](https://www.computerworld.com/article/3174756/vr-could-help-transform-remote-work.html)
+La VR peut être utilisée dans une pléthore d'autre domaine. Par exemple, elle pourrait améliorer le télétravail (article: [VR could help transform remote work](https://www.computerworld.com/article/3174756/vr-could-help-transform-remote-work.html)). Elle est aussi utilisé en médecine, par exemple pour combattre les phobies 
 
 
 ## <a name="histo"></a> Quelques exemples historiques
@@ -363,7 +361,7 @@ Article: [Can we put all 5 senses in VR simulation?](https://4experience.co/vr-s
 - Nicolas Chabloz
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTM1MzcxMjA4LDIwMzM1NzEwNTksLTExMj
+eyJoaXN0b3J5IjpbNTE5NTg4Njk5LDIwMzM1NzEwNTksLTExMj
 Q4NTkyODYsMjE1ODc2NDc4LC01NzA0NTkxNzgsLTkzNzEwNDcw
 Niw0ODk4MDM3MzQsMTc5ODI1NzEwMSwtMTgyNDk0NDc3MiwtMT
 c1NzE0MDI2NSwyMDg5MjE1OTYsNTk0MTcwODg4LDE2NjkzOTEw
