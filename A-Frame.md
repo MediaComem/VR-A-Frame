@@ -183,16 +183,16 @@ Pour mettre en pratique votre nouvelle primitive. Créez une *ile* comme zone de
 ## Caméra, avatar et mesh de navigation (*nav-mesh*) 
 
 ### La caméra
-A-Frame ajoute une [caméra par défaut](https://aframe.io/docs/1.0.0/components/camera.html#default-camera). Elle possède les composants [look-controls](https://github.com/aframevr/aframe/blob/master/docs/components/look-controls.md) et [wasd-controls](https://github.com/aframevr/aframe/blob/master/docs/components/wasd-controls.md), qui permette réciproquement de contrôler la rotation de la caméra (via la souris, le *touch* ou le casque VR) et sa position (uniquement avec les touches *wasd* ou les touches directionelles). Le composant **look-controls** semble idéal puisqu'il s'adapte tout seul aux environnements desktop, smartphone ou casque VR. Par contre le composant **wasd-controls** ne permet pas de gérer les collisions avec une nav-mesh (voir plus bas), ni de s'adapter aux différents contrôleurs de l'utilisateur (par exemple il ne fonctionne pas sur un smartphone puisque les touches wasd sont inaccessibles). Nous allons donc utiliser un composant de **aframe-extra** pour la gestion des déplacements : [movement-controls](https://github.com/donmccurdy/aframe-extras/tree/master/src/controls). Créez donc une caméra *rig*  comme indiqué dans la documentation. 
+A-Frame ajoute une [caméra par défaut](https://aframe.io/docs/1.0.0/components/camera.html#default-camera). Elle possède les composants [look-controls](https://github.com/aframevr/aframe/blob/master/docs/components/look-controls.md) et [wasd-controls](https://github.com/aframevr/aframe/blob/master/docs/components/wasd-controls.md), qui permette réciproquement de contrôler la rotation de la caméra (via la souris, le *touch* ou le casque VR) et sa position (uniquement avec les touches *wasd* ou les touches directionelles). Le composant **look-controls** semble idéal puisqu'il s'adapte tout seul aux environnements desktop, smartphone ou casque VR. Par contre le composant **wasd-controls** ne permet pas de gérer les collisions avec une nav-mesh (voir plus bas), ni de s'adapter aux différents contrôleurs de l'utilisateur (par exemple il ne fonctionne pas sur un smartphone puisque les touches wasd sont inaccessibles). Nous allons donc utiliser un composant de **aframe-extra** pour la gestion des déplacements : [movement-controls](https://github.com/donmccurdy/aframe-extras/tree/master/src/controls). Créez donc une caméra *rig*  comme indiqué dans la documentation. Vous pouvez désormais tester votre scène avec votre smartphone pour voir que les mouvements sont fonctionnels grâce à la gestion des *touch*. 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjg5MDk3MzEwLC03MTI5MDMxMDQsMTM0OT
-UzODU4NSwtODgwODk0MTQ2LDE5NzcyMDM4NzEsMjA1ODMzMjUz
-MiwxMTQ1MzA0MjE1LC0xNTExNTc4NzIxLDQzMzk1MTA3MCwxOT
-c5MzYzMzE3LC0yMTI3MTk5MjIxLDU2NDk1OTU3NSw3NDI2NTQw
-OTUsMjA2NjU4NDU5MCwtNTM5NzA2Mzg5LDE0NzY2MDA2NzksLT
-EwMjI5NDY0NzQsMTExOTY2MDEyNCwtMTc1NTg0MTIwMCwtNjMz
-MzIyNjczXX0=
+eyJoaXN0b3J5IjpbLTk5MzY5NjMzOSwtNzEyOTAzMTA0LDEzND
+k1Mzg1ODUsLTg4MDg5NDE0NiwxOTc3MjAzODcxLDIwNTgzMzI1
+MzIsMTE0NTMwNDIxNSwtMTUxMTU3ODcyMSw0MzM5NTEwNzAsMT
+k3OTM2MzMxNywtMjEyNzE5OTIyMSw1NjQ5NTk1NzUsNzQyNjU0
+MDk1LDIwNjY1ODQ1OTAsLTUzOTcwNjM4OSwxNDc2NjAwNjc5LC
+0xMDIyOTQ2NDc0LDExMTk2NjAxMjQsLTE3NTU4NDEyMDAsLTYz
+MzMyMjY3M119
 -->
