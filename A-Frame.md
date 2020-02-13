@@ -101,6 +101,8 @@ Finalement, il faut appliquer notre matériel sur notre géométrie pour avoir u
  this.el.setObject3D('mesh', mesh);
 ```
 
+Puis ajouter votre nouvelle primitive dans votre HTML pour que l'hexagone s'affiche au dessus de votre océan.
+
 Comme vous pouvez le remarquer lors de votre test, l'orientation de l'hexagone obtenu permet de paver un mur plutôt qu'un sol.  Comme nous allons l'utiliser pour un pavage au sol, vous pouvez appliquer une rotation au mesh obtenu soit via le composant [rotation](https://github.com/aframevr/aframe/blob/master/docs/components/rotation.md) de A-Frame, soit directement avec three.js grâce à la méthode [rotateOnAxis](https://threejs.org/docs/#api/en/core/Object3D.rotateOnAxis) de three.js (plus propre) comme ceci: 
 
  ```js
@@ -109,7 +111,7 @@ mesh.rotateOnAxis(new THREE.Vector3(-1, 0, 0), Math.PI / 2);
 
 Pour bien comprendre pourquoi la rotation doit s'effectuer autour de l'axe X, je vous laisse lire la [documentation officielle](https://github.com/aframevr/aframe/blob/master/docs/components/position.md#value) sur le système de coordonnées utilisé par A-Frame.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY4MjY3NzA0NCwtNDg3OTk3MjAzLDI3OD
+eyJoaXN0b3J5IjpbMTEyMjIwMzYxOCwtNDg3OTk3MjAzLDI3OD
 MxODEwNSwtMTcyMTMzNTc2Myw2MjM4NDcyOTEsLTE4NTI1NTk4
 MDgsLTg2NDI0MTk0NSwtMjQ1MDQyMjM3LC0xMjY4MDYzOTQzLD
 E3MTUzMzQ1MjEsMjEzNTg3NTA4NSwtMTUxNTk0NjQyLDE0OTY1
