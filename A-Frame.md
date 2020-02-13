@@ -69,12 +69,12 @@ Suivez la documentation officielle pour rajouter une primitive et le composant a
 
 ### Les sommets (*vertices*)
 
-Lors de la phase d'initialisation du [composant](https://github.com/aframevr/aframe/blob/master/docs/introduction/writing-a-component.md), il va falloir générer toutes les pièces utiles à la création du *mesh* complet. Il semble donc logique de commencer par la génération d'un hexagone en 2D et donc de ses sommets. Un hexagone possédant 6 sommets, un tableau semble adéquat pour les stocker. Créez donc les 6 sommets grâce à la classe [THREE.Vector3](https://threejs.org/docs/#api/en/math/Vector3) (comme nous ne nous occupons pas de la 3e dimension, mettez **z** à 0).
+Lors de la phase d'initialisation du [composant](https://github.com/aframevr/aframe/blob/master/docs/introduction/writing-a-component.md), il va falloir générer toutes les pièces utiles à la création du *mesh* complet. Il semble donc logique de commencer par la génération d'un hexagone en 2D et donc de ses sommets. Un hexagone possédant 6 sommets, un tableau semble adéquat pour les stocker. Créez donc les 6 sommets grâce à la classe [THREE.Vector3](https://threejs.org/docs/#api/en/math/Vector3) et à la formule géométrique pour le calcul de la position des sommets (remarque: comme nous ne nous occupons pas de la 3e dimension, mettez **z** à 0).
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MTc3ODQ2MTYsMjEzNTg3NTA4NSwtMT
+eyJoaXN0b3J5IjpbLTE5NTAzMzAyMjcsMjEzNTg3NTA4NSwtMT
 UxNTk0NjQyLDE0OTY1NzcxNDUsMTg0NjA5NjA1MywtNTU5MTU4
 MTI4LDM3MTUwODg5MiwtODQxMjcyNTUxLC0xMTkwNDU3MDA4LC
 0yMTI5MDc3MzQ3LDg2ODY4NDQ3NiwtMTI0MDM5MDkyMCwtMTky
