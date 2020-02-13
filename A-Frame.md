@@ -79,7 +79,7 @@ Une fois les sommets créés, il faut les regrouper dans une unique forme et des
 
 Il faut désormais transformer la forme 2D en mesh 3D. La classe [THREE.ExtrudeGeometry](https://threejs.org/docs/#api/en/geometries/ExtrudeGeometry) permet justement d'extruder une forme 2D. Il faut lui passer en premier paramètre la forme (créée au point précédent ) et en 2e, une configuration (sous la forme d'un objet).  Comme vous pouvez le constater dans la documentation, l'on peut  appliquer un biseau (*bevel*) lors de cette opération (pour être précis, il s'agit plutôt d'un [chanfrein](https://fr.wikipedia.org/wiki/Chanfrein)). Vous pouvez soit désactiver le biseau, soit le rendre optionnel grâce à un attribut de votre primitive. Pour le paramètre **depth** des options, il s'agit (comme son nom l'indique) de la profondeur d'extrusion et correspond donc à la hauteur de l'hexagone (le paramètre **height** de votre primitive ).
 
-Dans cet exemple [https://vr.chabloz.eu/hexagon.html](https://vr.chabloz.eu/hexagon.html), vous pouvez appuyer sur la touche 'B' de votre clavier pour observer la différence entre un hexagone extrudé sans biseau ou avec biseau. Il est **important** de noter l'impact du biseautage sur le nombre de triangles nécessaires à l'affichage de l'hexagone extrudé !
+Dans cet exemple [https://vr.chabloz.eu/hexagon.html](https://vr.chabloz.eu/hexagon.html), vous pouvez appuyer sur la touche 'B' de votre clavier pour observer la différence entre un hexagone extrudé sans biseau ou avec biseau. Il est **important** de noter l'impact du biseautage sur le nombre de triangles nécessaires à l'affichage de l'hexagone extrudé ! Il est aussi important de comprendre pourquoi l'hexagone extrudé a besoin de 20 triangle pour être affiché.
 
 ### Le matériel (*material*)
 
@@ -93,11 +93,11 @@ let material = new  THREE.MeshLambertMaterial({color:  new  THREE.Color(this.dat
 
 Finalement, il faut appliquer notre matériel sur notre géométrie pour avoir un mesh final texturé. Utilsez donc la classe [THREE.Mesh](https://threejs.org/docs/#api/en/objects/Mesh) pour le faire. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NTU3OTUwMjUsLTg2NDI0MTk0NSwtMj
-Q1MDQyMjM3LC0xMjY4MDYzOTQzLDE3MTUzMzQ1MjEsMjEzNTg3
-NTA4NSwtMTUxNTk0NjQyLDE0OTY1NzcxNDUsMTg0NjA5NjA1My
-wtNTU5MTU4MTI4LDM3MTUwODg5MiwtODQxMjcyNTUxLC0xMTkw
-NDU3MDA4LC0yMTI5MDc3MzQ3LDg2ODY4NDQ3NiwtMTI0MDM5MD
-kyMCwtMTkyMjU0MDQwMCwtMzQxNTE1NDIzLDk2NDk0ODczMCwt
-NTU5ODY1NTAxXX0=
+eyJoaXN0b3J5IjpbNTY0NzEyMzgzLC04NjQyNDE5NDUsLTI0NT
+A0MjIzNywtMTI2ODA2Mzk0MywxNzE1MzM0NTIxLDIxMzU4NzUw
+ODUsLTE1MTU5NDY0MiwxNDk2NTc3MTQ1LDE4NDYwOTYwNTMsLT
+U1OTE1ODEyOCwzNzE1MDg4OTIsLTg0MTI3MjU1MSwtMTE5MDQ1
+NzAwOCwtMjEyOTA3NzM0Nyw4Njg2ODQ0NzYsLTEyNDAzOTA5Mj
+AsLTE5MjI1NDA0MDAsLTM0MTUxNTQyMyw5NjQ5NDg3MzAsLTU1
+OTg2NTUwMV19
 -->
