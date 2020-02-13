@@ -48,7 +48,7 @@ Afin de camoufler les bords abruptes de l'océan, vous pouvez ajouter un brouill
 
 ## Pavage hexagonal
 
-Afin de s'initier à **three.js**, le *framework* utilisé par A-Frame pour la gestion de la 3D, nous allons ajouter un nouvelle [primitive](https://aframe.io/docs/1.0.0/introduction/html-and-primitives.html) pour la création des [mesh](https://fr.wikipedia.org/wiki/Mesh_(objet)) nécessaires à un [pavage hexagonal](https://fr.wikipedia.org/wiki/Pavage_hexagonal). Cette partie du TP est inspiré de la bibliothèque de gestion de grille hexagonale  [von-grid](https://github.com/vonWolfehaus/von-grid) dont nous n'allons reprendre aucun code existant, puisqu'elle ne couvre pas les besoins du hub et n'est pas suffisamment optimisée pour tourner correctement sur des casque a faible puissance graphique comme le Quest.
+Afin de s'initier à **three.js**, le *framework* utilisé par A-Frame pour la gestion de la 3D, nous allons ajouter un nouvelle [primitive](https://aframe.io/docs/1.0.0/introduction/html-and-primitives.html) pour la création des [mesh](https://fr.wikipedia.org/wiki/Mesh_(objet)) nécessaires à un [pavage hexagonal](https://fr.wikipedia.org/wiki/Pavage_hexagonal). Cette partie du TP est inspirée de la bibliothèque de gestion de grille hexagonale  [von-grid](https://github.com/vonWolfehaus/von-grid) dont nous n'allons reprendre aucun code existant, puisqu'elle ne couvre pas les besoins du hub et n'est pas suffisamment optimisée pour tourner correctement sur des casques à faible puissance graphique comme le Quest.
 
 Avant de commencez cette partie, il est fortement recommandé de lire cet excellent support sur l'utilisation du pavage hexagonal: [https://www.redblobgames.com/grids/hexagons/](https://www.redblobgames.com/grids/hexagons/).
 
@@ -167,11 +167,11 @@ Comme vous pouvez le voir dans ce code, nous obtenons au final qu'un seul mesh p
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMzI3MjkwNTgsLTE1MTE1Nzg3MjEsND
-MzOTUxMDcwLDE5NzkzNjMzMTcsLTIxMjcxOTkyMjEsNTY0OTU5
-NTc1LDc0MjY1NDA5NSwyMDY2NTg0NTkwLC01Mzk3MDYzODksMT
-Q3NjYwMDY3OSwtMTAyMjk0NjQ3NCwxMTE5NjYwMTI0LC0xNzU1
-ODQxMjAwLC02MzMzMjI2NzMsMTEyMjIwMzYxOCwtNDg3OTk3Mj
-AzLDI3ODMxODEwNSwtMTcyMTMzNTc2Myw2MjM4NDcyOTEsLTE4
-NTI1NTk4MDhdfQ==
+eyJoaXN0b3J5IjpbMTE0NTMwNDIxNSwtMTUxMTU3ODcyMSw0Mz
+M5NTEwNzAsMTk3OTM2MzMxNywtMjEyNzE5OTIyMSw1NjQ5NTk1
+NzUsNzQyNjU0MDk1LDIwNjY1ODQ1OTAsLTUzOTcwNjM4OSwxND
+c2NjAwNjc5LC0xMDIyOTQ2NDc0LDExMTk2NjAxMjQsLTE3NTU4
+NDEyMDAsLTYzMzMyMjY3MywxMTIyMjAzNjE4LC00ODc5OTcyMD
+MsMjc4MzE4MTA1LC0xNzIxMzM1NzYzLDYyMzg0NzI5MSwtMTg1
+MjU1OTgwOF19
 -->
