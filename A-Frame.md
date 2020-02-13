@@ -109,13 +109,13 @@ Comme vous pouvez le remarquer lors de votre test, l'orientation de l'hexagone o
 mesh.rotateOnAxis(new THREE.Vector3(-1, 0, 0), Math.PI / 2);
   ```
 
-Pour bien comprendre pourquoi la rotation doit s'effectuer autour de l'axe X, je vous laisse lire la [documentation officielle](https://github.com/aframevr/aframe/blob/master/docs/components/position.md#value) sur le système de coordonnées utilisé par A-Frame.
+Pour bien comprendre pourquoi la rotation doit s'effectuer autour de l'axe X, je vous laisse lire la [documentation officielle](https://github.com/aframevr/aframe/blob/master/docs/components/position.md#value) sur le système de coordonnées utilisé par A-Frame. Une fois cette rotation effectuée, votre scène devrait ressembler à ça: [https://vr.chabloz.eu/hexagon_ocean.html](https://vr.chabloz.eu/hexagon_ocean.html)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEyMjIwMzYxOCwtNDg3OTk3MjAzLDI3OD
-MxODEwNSwtMTcyMTMzNTc2Myw2MjM4NDcyOTEsLTE4NTI1NTk4
-MDgsLTg2NDI0MTk0NSwtMjQ1MDQyMjM3LC0xMjY4MDYzOTQzLD
-E3MTUzMzQ1MjEsMjEzNTg3NTA4NSwtMTUxNTk0NjQyLDE0OTY1
-NzcxNDUsMTg0NjA5NjA1MywtNTU5MTU4MTI4LDM3MTUwODg5Mi
-wtODQxMjcyNTUxLC0xMTkwNDU3MDA4LC0yMTI5MDc3MzQ3LDg2
-ODY4NDQ3Nl19
+eyJoaXN0b3J5IjpbLTYzMzMyMjY3MywxMTIyMjAzNjE4LC00OD
+c5OTcyMDMsMjc4MzE4MTA1LC0xNzIxMzM1NzYzLDYyMzg0NzI5
+MSwtMTg1MjU1OTgwOCwtODY0MjQxOTQ1LC0yNDUwNDIyMzcsLT
+EyNjgwNjM5NDMsMTcxNTMzNDUyMSwyMTM1ODc1MDg1LC0xNTE1
+OTQ2NDIsMTQ5NjU3NzE0NSwxODQ2MDk2MDUzLC01NTkxNTgxMj
+gsMzcxNTA4ODkyLC04NDEyNzI1NTEsLTExOTA0NTcwMDgsLTIx
+MjkwNzczNDddfQ==
 -->
