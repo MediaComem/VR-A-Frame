@@ -120,9 +120,10 @@ Pour le pavage, il va falloir cloner et positionner notre prisme hexagonal de mu
  ```js
 clone.position.set(x, 0, z);
  ```
+ 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg1MDA0MDU1NywxMTE5NjYwMTI0LC0xNz
+eyJoaXN0b3J5IjpbMTMyMzM5NDkwMSwxMTE5NjYwMTI0LC0xNz
 U1ODQxMjAwLC02MzMzMjI2NzMsMTEyMjIwMzYxOCwtNDg3OTk3
 MjAzLDI3ODMxODEwNSwtMTcyMTMzNTc2Myw2MjM4NDcyOTEsLT
 E4NTI1NTk4MDgsLTg2NDI0MTk0NSwtMjQ1MDQyMjM3LC0xMjY4
