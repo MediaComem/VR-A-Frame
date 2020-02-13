@@ -52,7 +52,7 @@ Afin de s'initier à **three.js**, le *framework* utilisé par A-Frame pour la g
 
 Avant de commencez cette partie, il est fortement recommandé de lire cet excellent support sur l'utilisation du pavage hexagonal: [https://www.redblobgames.com/grids/hexagons/](https://www.redblobgames.com/grids/hexagons/).
 
-Afin de simplifier la chose, nous allons nous limiter à une carte en forme d’hexagone pavé d'hexagones à sommet plat en utilisant le système des coordonnées cubiques.
+Afin de simplifier la chose, nous allons nous limiter à une carte en forme d’hexagone pavé d'hexagones à sommet plat en utilisant le système des coordonnées cubiques/axiales.
 
 
 ### Enregistrement de la primitive et du composant
@@ -115,11 +115,11 @@ Pour bien comprendre pourquoi la rotation doit s'effectuer autour de l'axe X, je
 Pour le pavage, il va falloir cloner et positionner notre prisme hexagonal de base de multiple fois. Si vous avez bien lu la documentation sur le pavage hexagonale, 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTExOTY2MDEyNCwtMTc1NTg0MTIwMCwtNj
-MzMzIyNjczLDExMjIyMDM2MTgsLTQ4Nzk5NzIwMywyNzgzMTgx
-MDUsLTE3MjEzMzU3NjMsNjIzODQ3MjkxLC0xODUyNTU5ODA4LC
-04NjQyNDE5NDUsLTI0NTA0MjIzNywtMTI2ODA2Mzk0MywxNzE1
-MzM0NTIxLDIxMzU4NzUwODUsLTE1MTU5NDY0MiwxNDk2NTc3MT
-Q1LDE4NDYwOTYwNTMsLTU1OTE1ODEyOCwzNzE1MDg4OTIsLTg0
-MTI3MjU1MV19
+eyJoaXN0b3J5IjpbMTcxNjk1MzUzNiwxMTE5NjYwMTI0LC0xNz
+U1ODQxMjAwLC02MzMzMjI2NzMsMTEyMjIwMzYxOCwtNDg3OTk3
+MjAzLDI3ODMxODEwNSwtMTcyMTMzNTc2Myw2MjM4NDcyOTEsLT
+E4NTI1NTk4MDgsLTg2NDI0MTk0NSwtMjQ1MDQyMjM3LC0xMjY4
+MDYzOTQzLDE3MTUzMzQ1MjEsMjEzNTg3NTA4NSwtMTUxNTk0Nj
+QyLDE0OTY1NzcxNDUsMTg0NjA5NjA1MywtNTU5MTU4MTI4LDM3
+MTUwODg5Ml19
 -->
