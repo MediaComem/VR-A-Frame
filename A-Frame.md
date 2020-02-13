@@ -91,9 +91,9 @@ let material = new  THREE.MeshLambertMaterial({color:  new  THREE.Color(this.dat
 
 ### Le mesh
 
-Finalement, il faut appliquer notre matériel sur notre géométrie pour avoir un mesh final texturé. 
+Finalement, il faut appliquer notre matériel sur notre géométrie pour avoir un mesh final texturé. Utilsez donc la classe [THREE.Mesh](https://threejs.org/docs/#api/en/objects/Mesh) pour le faire. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc0NTIwMjcxMywtODY0MjQxOTQ1LC0yND
+eyJoaXN0b3J5IjpbMTU2MzQ0NjA2OCwtODY0MjQxOTQ1LC0yND
 UwNDIyMzcsLTEyNjgwNjM5NDMsMTcxNTMzNDUyMSwyMTM1ODc1
 MDg1LC0xNTE1OTQ2NDIsMTQ5NjU3NzE0NSwxODQ2MDk2MDUzLC
 01NTkxNTgxMjgsMzcxNTA4ODkyLC04NDEyNzI1NTEsLTExOTA0
