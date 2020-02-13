@@ -128,7 +128,7 @@ let s = -q - r;
 clone.userData.coordinates = {q, r, s};
  ```
 
-Maintenant que nous avons notre pavage, 
+Maintenant que nous avons notre pavage, il faut regrouper 
 
  ```js
 let  group = new  THREE.Object3D();
@@ -138,7 +138,7 @@ group.add(new  THREE.Mesh(mergedGeo[i], this.colorVariationMaterial[i]));
 this.el.setObject3D('mesh', group);
  ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAyMzgzNTk1MCwxNDc2NjAwNjc5LC0xMD
+eyJoaXN0b3J5IjpbMTMzNDA2ODY3MCwxNDc2NjAwNjc5LC0xMD
 IyOTQ2NDc0LDExMTk2NjAxMjQsLTE3NTU4NDEyMDAsLTYzMzMy
 MjY3MywxMTIyMjAzNjE4LC00ODc5OTcyMDMsMjc4MzE4MTA1LC
 0xNzIxMzM1NzYzLDYyMzg0NzI5MSwtMTg1MjU1OTgwOCwtODY0
