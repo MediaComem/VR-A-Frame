@@ -358,11 +358,6 @@ Article: [Can we put all 5 senses in VR simulation?](https://4experience.co/vr-s
 - [Geek.com](https://www.geek.com/news/the-history-of-virtual-reality-games-1652225/)
 - [Changing the world: DARPA’s top inventions](https://www.extremetech.com/extreme/105117-inventing-our-world-darpas-top-inventions/2)
 
-
-## AuteursRéalité Virtuelle
-
-Ce dépôt contient les différents supports pédagogiques nécessaires pour le cours à option **Réalité Virtuelle** (VR)  du module **Digital Trends** de la filière **ingénierie des médias** (IM) de la **HEIG-VD**.
-
 ## Auteurs
 
 - Audrey Huguenin
@@ -370,11 +365,11 @@ Ce dépôt contient les différents supports pédagogiques nécessaires pour le 
 - Nicolas Chabloz
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MTI1Nzg0ODUsMjAzMzU3MTA1OSwtMT
-EyNDg1OTI4NiwyMTU4NzY0NzgsLTU3MDQ1OTE3OCwtOTM3MTA0
-NzA2LDQ4OTgwMzczNCwxNzk4MjU3MTAxLC0xODI0OTQ0NzcyLC
-0xNzU3MTQwMjY1LDIwODkyMTU5Niw1OTQxNzA4ODgsMTY2OTM5
-MTA2OCwxODE5NTIxOTAxLDIxMzQyNTYyMjgsLTE4Nzg3MTQ0OD
-UsMTAzNDQyMzUxMywtMTQ4MTI4MDI3NSwtMjA4Nzk3NzU5NCwx
-NDczMjMyMl19
+eyJoaXN0b3J5IjpbLTgwNTEzODUzNCwyMDMzNTcxMDU5LC0xMT
+I0ODU5Mjg2LDIxNTg3NjQ3OCwtNTcwNDU5MTc4LC05MzcxMDQ3
+MDYsNDg5ODAzNzM0LDE3OTgyNTcxMDEsLTE4MjQ5NDQ3NzIsLT
+E3NTcxNDAyNjUsMjA4OTIxNTk2LDU5NDE3MDg4OCwxNjY5Mzkx
+MDY4LDE4MTk1MjE5MDEsMjEzNDI1NjIyOCwtMTg3ODcxNDQ4NS
+wxMDM0NDIzNTEzLC0xNDgxMjgwMjc1LC0yMDg3OTc3NTk0LDE0
+NzMyMzIyXX0=
 -->
