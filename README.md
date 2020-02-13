@@ -223,7 +223,6 @@ Les écrans (où l'écran) utilisés par les casques posent aussi quelques probl
 ![Aliasing](./img/alias.gif)
 
 
-
 ### Les lentilles
 
 Les lentilles déforment (le ou) les écrans à l'intérieur du casque afin d'avoir une mise au point adéquate (qui serait sinon impossible avec un écran si proche des yeux). Mais elles engendrent aussi quelques problématiques d'immersion :
@@ -363,7 +362,7 @@ Article: [Can we put all 5 senses in VR simulation?](https://4experience.co/vr-s
 - Nicolas Chabloz
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcyNzg2Nzc5NiwyMDMzNTcxMDU5LC0xMT
+eyJoaXN0b3J5IjpbMTAzODIyMTQ2NiwyMDMzNTcxMDU5LC0xMT
 I0ODU5Mjg2LDIxNTg3NjQ3OCwtNTcwNDU5MTc4LC05MzcxMDQ3
 MDYsNDg5ODAzNzM0LDE3OTgyNTcxMDEsLTE4MjQ5NDQ3NzIsLT
 E3NTcxNDAyNjUsMjA4OTIxNTk2LDU5NDE3MDg4OCwxNjY5Mzkx
