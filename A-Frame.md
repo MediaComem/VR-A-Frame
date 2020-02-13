@@ -170,11 +170,11 @@ Essayez de rajouter un système de variation de la couleur de base pour chaque t
 
 - Vous pourriez faire que la variation par apport à la couleur de base soit plus ou moins grande selon la valeur d'un attribut (paramétrable)
 
-- Il faudrait stocker la valeur de la variation affecté à chaque tuile, pour qu'en cas d'animation de changement de couleur par xemple,
+- Il faudrait stocker la valeur de la variation affecté à chaque tuile, pour qu'en cas d'animation de changement de couleur par exemple, cette variation reste fixe (sinon cela donnera un effet stroboscopique assez déplaisant) 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjgxNDQ1NDc2LDExNDUzMDQyMTUsLTE1MT
+eyJoaXN0b3J5IjpbNTY2MjExOTc4LDExNDUzMDQyMTUsLTE1MT
 E1Nzg3MjEsNDMzOTUxMDcwLDE5NzkzNjMzMTcsLTIxMjcxOTky
 MjEsNTY0OTU5NTc1LDc0MjY1NDA5NSwyMDY2NTg0NTkwLC01Mz
 k3MDYzODksMTQ3NjYwMDY3OSwtMTAyMjk0NjQ3NCwxMTE5NjYw
