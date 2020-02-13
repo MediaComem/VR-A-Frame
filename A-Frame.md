@@ -71,14 +71,15 @@ Suivez la documentation officielle pour rajouter une primitive et le composant a
 
 Lors de la phase d'initialisation du [composant](https://github.com/aframevr/aframe/blob/master/docs/introduction/writing-a-component.md), il va falloir générer toutes les pièces utiles à la création du *mesh* complet. Il semble donc logique de commencer par la génération d'un hexagone en 2D et donc de ses sommets. Un hexagone possédant 6 sommets, un tableau semble adéquat pour les stocker. Créez donc les 6 sommets grâce à la classe [THREE.Vector3](https://threejs.org/docs/#api/en/math/Vector3) et à la formule géométrique pour le calcul de la position des sommets (remarque: comme nous ne nous occupons pas de la 3e dimension, mettez **z** à 0).
 
-### La forme
+### La forme (*shape*)
 
 Une fois les sommets créés, il faut les regrouper dans une unique forme et dessiner les arrêtes (*edges*) ainsi que son unique face (pour le moment  puisque nous somme en 2D). Créez donc une forme avec la classe [THREE.Shape](https://threejs.org/docs/#api/en/extras/core/Shape), déplacez vous sur le premier sommet (avec la méthode [moveTo](https://threejs.org/docs/#api/en/extras/core/Path.moveTo) de *Shape*) , puis tracez des lignes entre chaque sommet (grâce à la méthode  [lineTo](https://threejs.org/docs/#api/en/extras/core/Path.lineTo) de *Shape*).
 
-### La géométrie
+### La géométrie (*geometry*)
 
+Il faut désormais transformer la forme actuellement en 2D en mesh 3D.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTExNTk4NzM0NiwxNzE1MzM0NTIxLDIxMz
+eyJoaXN0b3J5IjpbMTQwNjkzNTIwOSwxNzE1MzM0NTIxLDIxMz
 U4NzUwODUsLTE1MTU5NDY0MiwxNDk2NTc3MTQ1LDE4NDYwOTYw
 NTMsLTU1OTE1ODEyOCwzNzE1MDg4OTIsLTg0MTI3MjU1MSwtMT
 E5MDQ1NzAwOCwtMjEyOTA3NzM0Nyw4Njg2ODQ0NzYsLTEyNDAz
