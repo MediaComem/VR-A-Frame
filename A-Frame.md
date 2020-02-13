@@ -48,7 +48,7 @@ Afin de camoufler les bords abruptes de l'océan, vous pouvez ajouter un brouill
 
 ## Pavage hexagonal
 
-Afin de s'initier à **three.js**, le *framework* utilisé par A-Frame pour la gestion de la 3D, nous allons ajouter un nouvelle [primitive](https://aframe.io/docs/1.0.0/introduction/html-and-primitives.html) pour la création des [mesh](https://fr.wikipedia.org/wiki/Mesh_(objet)) nécessaires à un [pavage hexagonal](https://fr.wikipedia.org/wiki/Pavage_hexagonal). Cette partie du TP est inspiré de la bibliothèque de gestion de grille hexagonale  [von-grid](https://github.com/vonWolfehaus/von-grid) dont nous n'allons reprendre aucun code existant, puisqu'elle ne couvre pas les besoins du hub.
+Afin de s'initier à **three.js**, le *framework* utilisé par A-Frame pour la gestion de la 3D, nous allons ajouter un nouvelle [primitive](https://aframe.io/docs/1.0.0/introduction/html-and-primitives.html) pour la création des [mesh](https://fr.wikipedia.org/wiki/Mesh_(objet)) nécessaires à un [pavage hexagonal](https://fr.wikipedia.org/wiki/Pavage_hexagonal). Cette partie du TP est inspiré de la bibliothèque de gestion de grille hexagonale  [von-grid](https://github.com/vonWolfehaus/von-grid) dont nous n'allons reprendre aucun code existant, puisqu'elle ne couvre pas les besoins du hub et n'est pas suffisamment optimisée.
 
 Avant de commencez cette partie, il est fortement recommandé de lire cet excellent support sur l'utilisation du pavage hexagonal: [https://www.redblobgames.com/grids/hexagons/](https://www.redblobgames.com/grids/hexagons/).
 
@@ -167,11 +167,11 @@ Comme vous pouvez le voir dans ce code, nous obtenons au final qu'un seul mesh p
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU5MDAxMjExNiw0MzM5NTEwNzAsMTk3OT
-M2MzMxNywtMjEyNzE5OTIyMSw1NjQ5NTk1NzUsNzQyNjU0MDk1
-LDIwNjY1ODQ1OTAsLTUzOTcwNjM4OSwxNDc2NjAwNjc5LC0xMD
-IyOTQ2NDc0LDExMTk2NjAxMjQsLTE3NTU4NDEyMDAsLTYzMzMy
-MjY3MywxMTIyMjAzNjE4LC00ODc5OTcyMDMsMjc4MzE4MTA1LC
-0xNzIxMzM1NzYzLDYyMzg0NzI5MSwtMTg1MjU1OTgwOCwtODY0
-MjQxOTQ1XX0=
+eyJoaXN0b3J5IjpbLTE1MTE1Nzg3MjEsNDMzOTUxMDcwLDE5Nz
+kzNjMzMTcsLTIxMjcxOTkyMjEsNTY0OTU5NTc1LDc0MjY1NDA5
+NSwyMDY2NTg0NTkwLC01Mzk3MDYzODksMTQ3NjYwMDY3OSwtMT
+AyMjk0NjQ3NCwxMTE5NjYwMTI0LC0xNzU1ODQxMjAwLC02MzMz
+MjI2NzMsMTEyMjIwMzYxOCwtNDg3OTk3MjAzLDI3ODMxODEwNS
+wtMTcyMTMzNTc2Myw2MjM4NDcyOTEsLTE4NTI1NTk4MDgsLTg2
+NDI0MTk0NV19
 -->
