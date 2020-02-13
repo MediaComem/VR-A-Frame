@@ -73,7 +73,7 @@ Article: [VR could help transform remote work](https://www.computerworld.com/art
 
 ### Cinéma et l'art
 
-Pour le cinéma, la VR permet de s'immerger quasiment totalement dans l'univers et les aventures visionnées. La 3D est déjà bien implantée dans les salles aujourd'hui, mais l'immersion à 360 degrés va plus loin encore. Elle est aussi utilisée pour les artistes 3d, qui peuvent créer directement en VR ou tout simplement visionner leur créatio
+Pour le cinéma, la VR permet de s'immerger quasiment totalement dans l'univers et les aventures visionnées. La 3D est déjà bien implantée dans les salles aujourd'hui, mais l'immersion à 360 degrés va plus loin encore. Elle est aussi utilisée pour les artistes 3d, qui peuvent créer directement en VR (et s'occuper de l'animation ou tout simplement visionner leurs créations via ce média. La VR crée aussi 
 
 Article: [Cinéma VR – Comment la réalité virtuelle transforme le cinéma](https://www.realite-virtuelle.com/cinema-vr/)
 
@@ -367,7 +367,7 @@ Ce dépôt contient les différents supports pédagogiques nécessaires pour le 
 - Nicolas Chabloz
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk3NjUzMzA4MCwyMDMzNTcxMDU5LC0xMT
+eyJoaXN0b3J5IjpbLTU0MDk5MjIwNSwyMDMzNTcxMDU5LC0xMT
 I0ODU5Mjg2LDIxNTg3NjQ3OCwtNTcwNDU5MTc4LC05MzcxMDQ3
 MDYsNDg5ODAzNzM0LDE3OTgyNTcxMDEsLTE4MjQ5NDQ3NzIsLT
 E3NTcxNDAyNjUsMjA4OTIxNTk2LDU5NDE3MDg4OCwxNjY5Mzkx
