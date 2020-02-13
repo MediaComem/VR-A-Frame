@@ -73,10 +73,10 @@ Lors de la phase d'initialisation du [composant](https://github.com/aframevr/afr
 
 ### La forme
 
-Une fois les sommets créés, il faut les regrouper dans une unique forme et dessiner les arrêtes (*edges*) ainsi que son unique face pour le moment (puisque nous somme en 2D).
+Une fois les sommets créés, il faut les regrouper dans une unique forme et dessiner les arrêtes (*edges*) ainsi que son unique face (pour le moment  puisque nous somme en 2D).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDMzMzczNzg1LDIxMzU4NzUwODUsLTE1MT
+eyJoaXN0b3J5IjpbLTE1NTI5NzAzLDIxMzU4NzUwODUsLTE1MT
 U5NDY0MiwxNDk2NTc3MTQ1LDE4NDYwOTYwNTMsLTU1OTE1ODEy
 OCwzNzE1MDg4OTIsLTg0MTI3MjU1MSwtMTE5MDQ1NzAwOCwtMj
 EyOTA3NzM0Nyw4Njg2ODQ0NzYsLTEyNDAzOTA5MjAsLTE5MjI1
