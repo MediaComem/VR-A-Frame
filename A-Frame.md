@@ -117,17 +117,18 @@ Pour le pavage, il va falloir cloner et positionner notre prisme hexagonal de mu
 - de cloner votre mesh (avec la méthode [clone()](https://threejs.org/docs/#api/en/objects/Mesh.clone) de three.js) et de l'ajouter à une structure pour le stockage du pavage (un tableau par exemple)
 
 -  de calculer les coordonnées **x** et **z** associées aux coordonnées **q** et **r**, et des les attribuer au mesh cloné grâce au  code suivant:
+- 
  ```js
 clone.position.set(x, 0, z);
  ```
- 
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMyMzM5NDkwMSwxMTE5NjYwMTI0LC0xNz
-U1ODQxMjAwLC02MzMzMjI2NzMsMTEyMjIwMzYxOCwtNDg3OTk3
-MjAzLDI3ODMxODEwNSwtMTcyMTMzNTc2Myw2MjM4NDcyOTEsLT
-E4NTI1NTk4MDgsLTg2NDI0MTk0NSwtMjQ1MDQyMjM3LC0xMjY4
-MDYzOTQzLDE3MTUzMzQ1MjEsMjEzNTg3NTA4NSwtMTUxNTk0Nj
-QyLDE0OTY1NzcxNDUsMTg0NjA5NjA1MywtNTU5MTU4MTI4LDM3
-MTUwODg5Ml19
+eyJoaXN0b3J5IjpbLTEwMjI5NDY0NzQsMTExOTY2MDEyNCwtMT
+c1NTg0MTIwMCwtNjMzMzIyNjczLDExMjIyMDM2MTgsLTQ4Nzk5
+NzIwMywyNzgzMTgxMDUsLTE3MjEzMzU3NjMsNjIzODQ3MjkxLC
+0xODUyNTU5ODA4LC04NjQyNDE5NDUsLTI0NTA0MjIzNywtMTI2
+ODA2Mzk0MywxNzE1MzM0NTIxLDIxMzU4NzUwODUsLTE1MTU5ND
+Y0MiwxNDk2NTc3MTQ1LDE4NDYwOTYwNTMsLTU1OTE1ODEyOCwz
+NzE1MDg4OTJdfQ==
 -->
