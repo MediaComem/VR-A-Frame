@@ -114,16 +114,16 @@ Pour bien comprendre pourquoi la rotation doit s'effectuer autour de l'axe X, je
 ### Pavage
 
 Pour le pavage, il va falloir cloner et positionner notre prisme hexagonal de multiple fois. Si vous avez bien lu la documentation sur le pavage hexagonale (lien directe vers les parties qui nous intéresse: [hex to pixel](https://www.redblobgames.com/grids/hexagons/#hex-to-pixel) et [range](https://www.redblobgames.com/grids/hexagons/#range)),  il vous suffit de parcourir les coordonnées axiales **q** et **r** puis, pour chaque tuile:
--  de calculer les coordonnées **x** et **z** associées
+-  de calculer les coordonnées **x** et **z** associées au coordonnées  **q** et **r**
 - de cloner votre mesh (avec la méthode [clone()](https://threejs.org/docs/#api/en/objects/Mesh.clone) de three.js)    
-- de lui attribuer les coordonées (x, 0, z)
+- de lui attribuer les coordonnées (x, 0, z) grâce au code suivant
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzI2NjUwOTIyLDExMTk2NjAxMjQsLTE3NT
-U4NDEyMDAsLTYzMzMyMjY3MywxMTIyMjAzNjE4LC00ODc5OTcy
-MDMsMjc4MzE4MTA1LC0xNzIxMzM1NzYzLDYyMzg0NzI5MSwtMT
-g1MjU1OTgwOCwtODY0MjQxOTQ1LC0yNDUwNDIyMzcsLTEyNjgw
-NjM5NDMsMTcxNTMzNDUyMSwyMTM1ODc1MDg1LC0xNTE1OTQ2ND
-IsMTQ5NjU3NzE0NSwxODQ2MDk2MDUzLC01NTkxNTgxMjgsMzcx
-NTA4ODkyXX0=
+eyJoaXN0b3J5IjpbMjE0NzAzMTkwMywxMTE5NjYwMTI0LC0xNz
+U1ODQxMjAwLC02MzMzMjI2NzMsMTEyMjIwMzYxOCwtNDg3OTk3
+MjAzLDI3ODMxODEwNSwtMTcyMTMzNTc2Myw2MjM4NDcyOTEsLT
+E4NTI1NTk4MDgsLTg2NDI0MTk0NSwtMjQ1MDQyMjM3LC0xMjY4
+MDYzOTQzLDE3MTUzMzQ1MjEsMjEzNTg3NTA4NSwtMTUxNTk0Nj
+QyLDE0OTY1NzcxNDUsMTg0NjA5NjA1MywtNTU5MTU4MTI4LDM3
+MTUwODg5Ml19
 -->
