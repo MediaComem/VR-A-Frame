@@ -48,7 +48,7 @@ Afin de camoufler les bords abruptes de l'océan, vous pouvez ajouter un brouill
 
 ## Pavage hexagonal
 
-Afin de s'initier à **three.js**, le *framework* utilisé par A-Frame pour la gestion de la 3D, nous allons ajouter un nouvelle [primitive](https://aframe.io/docs/1.0.0/introduction/html-and-primitives.html) pour la création des [mesh](https://fr.wikipedia.org/wiki/Mesh_(objet)) nécessaires à un [pavage hexagonal](https://fr.wikipedia.org/wiki/Pavage_hexagonal). 
+Afin de s'initier à **three.js**, le *framework* utilisé par A-Frame pour la gestion de la 3D, nous allons ajouter un nouvelle [primitive](https://aframe.io/docs/1.0.0/introduction/html-and-primitives.html) pour la création des [mesh](https://fr.wikipedia.org/wiki/Mesh_(objet)) nécessaires à un [pavage hexagonal](https://fr.wikipedia.org/wiki/Pavage_hexagonal). Cette partie du TP est inspiré de la bibliothèque de gestion de grille hexagonale  [von-grid](https://github.com/vonWolfehaus/von-grid)
 
 Avant de commencez cette partie, il est fortement recommandé de lire cet excellent support sur l'utilisation du pavage hexagonal: [https://www.redblobgames.com/grids/hexagons/](https://www.redblobgames.com/grids/hexagons/).
 
@@ -167,7 +167,7 @@ Comme vous pouvez le voir dans ce code, nous obtenons au final qu'un seul mesh p
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA1MDA0MTAzNCw0MzM5NTEwNzAsMTk3OT
+eyJoaXN0b3J5IjpbLTMxMjU2MDk2Niw0MzM5NTEwNzAsMTk3OT
 M2MzMxNywtMjEyNzE5OTIyMSw1NjQ5NTk1NzUsNzQyNjU0MDk1
 LDIwNjY1ODQ1OTAsLTUzOTcwNjM4OSwxNDc2NjAwNjc5LC0xMD
 IyOTQ2NDc0LDExMTk2NjAxMjQsLTE3NTU4NDEyMDAsLTYzMzMy
