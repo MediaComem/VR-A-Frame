@@ -73,14 +73,14 @@ Lors de la phase d'initialisation du [composant](https://github.com/aframevr/afr
 
 ### La forme
 
-Une fois les sommets créés, il faut les regrouper dans une unique forme et dessiner les arrêtes (*edges*) ainsi que son unique face (pour le moment  puisque nous somme en 2D). Créez donc une forme avec la classe [THREE.Shape](https://threejs.org/docs/#api/en/extras/core/Shape), déplacez vous sur le premier sommet (avec la méthode *moveTo* de *Shape*) , puis tracez des 
+Une fois les sommets créés, il faut les regrouper dans une unique forme et dessiner les arrêtes (*edges*) ainsi que son unique face (pour le moment  puisque nous somme en 2D). Créez donc une forme avec la classe [THREE.Shape](https://threejs.org/docs/#api/en/extras/core/Shape), déplacez vous sur le premier sommet (avec la méthode *moveTo* de *Shape*) , puis tracez des lignes entre chaque sommet (grâce à la méthode  *lineTo* de *Shape*).
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjk4NDY1NTU2LDIxMzU4NzUwODUsLTE1MT
-U5NDY0MiwxNDk2NTc3MTQ1LDE4NDYwOTYwNTMsLTU1OTE1ODEy
-OCwzNzE1MDg4OTIsLTg0MTI3MjU1MSwtMTE5MDQ1NzAwOCwtMj
-EyOTA3NzM0Nyw4Njg2ODQ0NzYsLTEyNDAzOTA5MjAsLTE5MjI1
-NDA0MDAsLTM0MTUxNTQyMyw5NjQ5NDg3MzAsLTU1OTg2NTUwMS
-wyMDQyNTkwMDgyLC0xNzk5MzUwNzM4LC04NzEzNzg3MCw1NTg4
-OTk4MDJdfQ==
+eyJoaXN0b3J5IjpbLTIwNzM3NTQwNjYsMjEzNTg3NTA4NSwtMT
+UxNTk0NjQyLDE0OTY1NzcxNDUsMTg0NjA5NjA1MywtNTU5MTU4
+MTI4LDM3MTUwODg5MiwtODQxMjcyNTUxLC0xMTkwNDU3MDA4LC
+0yMTI5MDc3MzQ3LDg2ODY4NDQ3NiwtMTI0MDM5MDkyMCwtMTky
+MjU0MDQwMCwtMzQxNTE1NDIzLDk2NDk0ODczMCwtNTU5ODY1NT
+AxLDIwNDI1OTAwODIsLTE3OTkzNTA3MzgsLTg3MTM3ODcwLDU1
+ODg5OTgwMl19
 -->
