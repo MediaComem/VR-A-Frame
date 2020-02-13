@@ -31,9 +31,7 @@ Article:
 
 La VR permet de faire partie intégrante de l'univers du jeu, ce qui apporte une grande immersion. Des jeux aux univers très développés, principalement à la première personne, cherchant une grande immersion du joueur bénéficient grandement de la VR. Un bon exemple est le jeu [Sykrim](https://bethesda.net/fr/article/4YSRrlXtpuKeWIK6EMiG84/skyrim-vr-arrive-sur-steamvr), adapté à la VR en 2018. un autre est le futur [Half-Life: Alyx](https://www.youtube.com/watch?v=O2W0N3uKXmo). 
 
-La VR semble aussi adéquate pour les [MMORPG](https://fr.wikipedia.org/wiki/Jeu_de_r%C3%B4le_en_ligne_massivement_multijoueur), bien que pour le moment peu de tentative sont faites (à cause, entre autre, des problèmes de complexité, de coût et de gestion des déplacements). La VR s'applique aussi très bien au jeu de simulation. Elle va de plus permettre de créer de nouveaux genres.
-
-Voir [Steam VR](https://store.steampowered.com/vr/)
+La VR semble aussi adéquate pour les [MMORPG](https://fr.wikipedia.org/wiki/Jeu_de_r%C3%B4le_en_ligne_massivement_multijoueur), bien que pour le moment peu de tentative sont faites (à cause, entre autre, des problèmes de complexité, de coût et de gestion des déplacements). La VR s'applique aussi très bien au jeu de simulation. Elle va de plus permettre de créer de nouveaux genres. Voir [Steam VR](https://store.steampowered.com/vr/)
 
 - [Beat Saber](https://store.steampowered.com/app/620980/Beat_Saber/)
 - [Richie's Plank Experience](https://store.steampowered.com/app/517160/Richies_Plank_Experience/)
@@ -368,7 +366,7 @@ Ce dépôt contient les différents supports pédagogiques nécessaires pour le 
 - Nicolas Chabloz
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMzMzQ5NjA1MSwyMDMzNTcxMDU5LC0xMT
+eyJoaXN0b3J5IjpbMTc4NDM3ODAxNywyMDMzNTcxMDU5LC0xMT
 I0ODU5Mjg2LDIxNTg3NjQ3OCwtNTcwNDU5MTc4LC05MzcxMDQ3
 MDYsNDg5ODAzNzM0LDE3OTgyNTcxMDEsLTE4MjQ5NDQ3NzIsLT
 E3NTcxNDAyNjUsMjA4OTIxNTk2LDU5NDE3MDg4OCwxNjY5Mzkx
