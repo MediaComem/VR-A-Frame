@@ -31,7 +31,7 @@ Article:
 
 La VR permet de faire partie intégrante de l'univers du jeu, ce qui apporte une grande immersion. Des jeux aux univers très développés, principalement à la première personne, cherchant une grande immersion du joueur bénéficient grandement de la VR. Un bon exemple est le jeu [Sykrim](https://bethesda.net/fr/article/4YSRrlXtpuKeWIK6EMiG84/skyrim-vr-arrive-sur-steamvr), adapté à la VR en 2018. Un autre est le futur [Half-Life: Alyx](https://www.youtube.com/watch?v=O2W0N3uKXmo). 
 
-La VR semble aussi adéquate pour les [MMORPG](https://fr.wikipedia.org/wiki/Jeu_de_r%C3%B4le_en_ligne_massivement_multijoueur), bien que pour le moment peu de tentative sont faites (à cause, entre autre, des problèmes de complexité, de coût et de gestion des déplacements). La VR s'applique aussi très bien au jeu de simulation. Elle va de plus permettre de créer de nouveaux genres. Voir [Steam VR](https://store.steampowered.com/vr/)
+La VR semble aussi adéquate pour les [MMORPG](https://fr.wikipedia.org/wiki/Jeu_de_r%C3%B4le_en_ligne_massivement_multijoueur), bien que pour le moment peu de tentative sont faites (à cause, entre autre, des problèmes de complexité, de coût et de gestion des déplacements). La VR s'applique aussi très bien au jeu de simulation. Elle va aussi créer de nouveaux genres possibles uniquement en VR. Voir [Steam VR](https://store.steampowered.com/vr/)
 
 - [Beat Saber](https://store.steampowered.com/app/620980/Beat_Saber/)
 - [Richie's Plank Experience](https://store.steampowered.com/app/517160/Richies_Plank_Experience/)
@@ -362,11 +362,11 @@ Article: [Can we put all 5 senses in VR simulation?](https://4experience.co/vr-s
 - Nicolas Chabloz
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODUzODMyNzI5LDIwMzM1NzEwNTksLTExMj
-Q4NTkyODYsMjE1ODc2NDc4LC01NzA0NTkxNzgsLTkzNzEwNDcw
-Niw0ODk4MDM3MzQsMTc5ODI1NzEwMSwtMTgyNDk0NDc3MiwtMT
-c1NzE0MDI2NSwyMDg5MjE1OTYsNTk0MTcwODg4LDE2NjkzOTEw
-NjgsMTgxOTUyMTkwMSwyMTM0MjU2MjI4LC0xODc4NzE0NDg1LD
-EwMzQ0MjM1MTMsLTE0ODEyODAyNzUsLTIwODc5Nzc1OTQsMTQ3
-MzIzMjJdfQ==
+eyJoaXN0b3J5IjpbMTE1NTcxNTk5Niw4NTM4MzI3MjksMjAzMz
+U3MTA1OSwtMTEyNDg1OTI4NiwyMTU4NzY0NzgsLTU3MDQ1OTE3
+OCwtOTM3MTA0NzA2LDQ4OTgwMzczNCwxNzk4MjU3MTAxLC0xOD
+I0OTQ0NzcyLC0xNzU3MTQwMjY1LDIwODkyMTU5Niw1OTQxNzA4
+ODgsMTY2OTM5MTA2OCwxODE5NTIxOTAxLDIxMzQyNTYyMjgsLT
+E4Nzg3MTQ0ODUsMTAzNDQyMzUxMywtMTQ4MTI4MDI3NSwtMjA4
+Nzk3NzU5NF19
 -->
