@@ -101,9 +101,9 @@ Finalement, il faut appliquer notre matériel sur notre géométrie pour avoir u
  this.el.setObject3D('mesh', mesh);
 ```
 
-Comme vous pouvez le remarquer lors de votre test, l'orientation de l'hexagone obtenu permet de paver un mur plutôt qu'un sol.  Comme nous allons l'utiliser pour un pavage au sol, appliquer un rotation au mesh obtenu. 
+Comme vous pouvez le remarquer lors de votre test, l'orientation de l'hexagone obtenu permet de paver un mur plutôt qu'un sol.  Comme nous allons l'utiliser pour un pavage au sol, vous pouvez appliquer une rotation au mesh obtenu. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNjQzMDc1NzcsMjc4MzE4MTA1LC0xNz
+eyJoaXN0b3J5IjpbLTE5MTE0MTc5MjIsMjc4MzE4MTA1LC0xNz
 IxMzM1NzYzLDYyMzg0NzI5MSwtMTg1MjU1OTgwOCwtODY0MjQx
 OTQ1LC0yNDUwNDIyMzcsLTEyNjgwNjM5NDMsMTcxNTMzNDUyMS
 wyMTM1ODc1MDg1LC0xNTE1OTQ2NDIsMTQ5NjU3NzE0NSwxODQ2
