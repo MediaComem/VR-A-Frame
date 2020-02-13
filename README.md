@@ -46,7 +46,7 @@ Les musées ont commencé à utiliser la VR, en l'adaptant à chaque besoin. Ell
 Article: [Virtual Reality is a big trend in museums, but what are the best examples of museums using VR?](https://www.museumnext.com/article/how-museums-are-using-virtual-reality/)
 
 ## Prototypage
-Dans différents domaines, les prototypes en 3D peuvent être testés et développés en VR ce qui permet un gain de temps (et d'argent!) souvent considérable. Dans l'industrie automobile c'est devenu particulièrement intéressant.
+Dans différents domaines, les prototypes en 3D peuvent être testés et développés en VR ce qui permet un gain de temps (et d'argent!) souvent considérable (par exemple en architecture). Dans l'industrie automobile c'est devenu particulièrement intéressant.
 
 Article: [BMW Uses Virtual Reality to Build Prototypes](https://www.thedrive.com/sheetmetal/8619/bmw-uses-virtual-reality-to-build-prototypes)
 
@@ -366,7 +366,7 @@ Ce dépôt contient les différents supports pédagogiques nécessaires pour le 
 - Nicolas Chabloz
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc4NDM3ODAxNywyMDMzNTcxMDU5LC0xMT
+eyJoaXN0b3J5IjpbLTkxOTgyNzc4MywyMDMzNTcxMDU5LC0xMT
 I0ODU5Mjg2LDIxNTg3NjQ3OCwtNTcwNDU5MTc4LC05MzcxMDQ3
 MDYsNDg5ODAzNzM0LDE3OTgyNTcxMDEsLTE4MjQ5NDQ3NzIsLT
 E3NTcxNDAyNjUsMjA4OTIxNTk2LDU5NDE3MDg4OCwxNjY5Mzkx
