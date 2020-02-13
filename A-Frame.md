@@ -12,7 +12,7 @@
 
 Pour atteindre ces objectifs, nous allons développer un *Hub VR* multi-utilisateurs. Ce *hub* servira de porte d'entrée vers les projets individuels que vous développerez durant la dernière partie du cours. Il se présentera  sous la forme d'une mini expérience VR mettant en pratique les concepts de base du framework A-Frame. On y verra (entre autre) comment: 
 - déplacer l'avatar de l'utilisateur (en évitant la *cinétose*)
-- offrir des possibilité d'interaction avec l'environnement
+- offrir des possibilités d'interaction avec l'environnement
 - animer et déclencher des animations en fonction d'événements
 - gérer les collisions pour la navigation
 -  importer des *asset* 3D (*mesh*)
@@ -75,11 +75,11 @@ Lors de la phase d'initialisation du [composant](https://github.com/aframevr/afr
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzk2NjkzMzA4LC0xNTE1OTQ2NDIsMTQ5Nj
-U3NzE0NSwxODQ2MDk2MDUzLC01NTkxNTgxMjgsMzcxNTA4ODky
-LC04NDEyNzI1NTEsLTExOTA0NTcwMDgsLTIxMjkwNzczNDcsOD
-Y4Njg0NDc2LC0xMjQwMzkwOTIwLC0xOTIyNTQwNDAwLC0zNDE1
-MTU0MjMsOTY0OTQ4NzMwLC01NTk4NjU1MDEsMjA0MjU5MDA4Mi
-wtMTc5OTM1MDczOCwtODcxMzc4NzAsNTU4ODk5ODAyLC0xNDA3
-MjUxMDkxXX0=
+eyJoaXN0b3J5IjpbMjEzNTg3NTA4NSwtMTUxNTk0NjQyLDE0OT
+Y1NzcxNDUsMTg0NjA5NjA1MywtNTU5MTU4MTI4LDM3MTUwODg5
+MiwtODQxMjcyNTUxLC0xMTkwNDU3MDA4LC0yMTI5MDc3MzQ3LD
+g2ODY4NDQ3NiwtMTI0MDM5MDkyMCwtMTkyMjU0MDQwMCwtMzQx
+NTE1NDIzLDk2NDk0ODczMCwtNTU5ODY1NTAxLDIwNDI1OTAwOD
+IsLTE3OTkzNTA3MzgsLTg3MTM3ODcwLDU1ODg5OTgwMiwtMTQw
+NzI1MTA5MV19
 -->
