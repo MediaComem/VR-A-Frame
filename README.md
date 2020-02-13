@@ -325,6 +325,9 @@ Qu'en est-il des deux autres sens ? (odorat et goût)
 Article: [Can we put all 5 senses in VR simulation?](https://4experience.co/vr-senses-are-the-future/)
 
 # <a name="stats"></a> Quelques stats sur la VR
+
+- [# 2019 Was a Major Inflection Point for VR—Here’s the Proof](https://www.roadtovr.com/2019-major-inflection-point-vr-heres-proof/)
+
 - [Les casques VR sur Steam font leurs plus grandes hausses à ce jour](https://www.etr.fr/actualite/7370-les-casques-vr-sur-steam-font-leurs-plus-grandes-hausses-a-ce-jour.html)
 
 - [35 Virtual Reality Statistics That Will Rock the Market in 2020](https://techjury.net/stats-about/virtual-reality/)
@@ -367,11 +370,11 @@ Ce dépôt contient les différents supports pédagogiques nécessaires pour le 
 - Nicolas Chabloz
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUyNTUxNTU0LDIwMzM1NzEwNTksLTExMj
-Q4NTkyODYsMjE1ODc2NDc4LC01NzA0NTkxNzgsLTkzNzEwNDcw
-Niw0ODk4MDM3MzQsMTc5ODI1NzEwMSwtMTgyNDk0NDc3MiwtMT
-c1NzE0MDI2NSwyMDg5MjE1OTYsNTk0MTcwODg4LDE2NjkzOTEw
-NjgsMTgxOTUyMTkwMSwyMTM0MjU2MjI4LC0xODc4NzE0NDg1LD
-EwMzQ0MjM1MTMsLTE0ODEyODAyNzUsLTIwODc5Nzc1OTQsMTQ3
-MzIzMjJdfQ==
+eyJoaXN0b3J5IjpbLTE2NTI0MzM0MzIsMjAzMzU3MTA1OSwtMT
+EyNDg1OTI4NiwyMTU4NzY0NzgsLTU3MDQ1OTE3OCwtOTM3MTA0
+NzA2LDQ4OTgwMzczNCwxNzk4MjU3MTAxLC0xODI0OTQ0NzcyLC
+0xNzU3MTQwMjY1LDIwODkyMTU5Niw1OTQxNzA4ODgsMTY2OTM5
+MTA2OCwxODE5NTIxOTAxLDIxMzQyNTYyMjgsLTE4Nzg3MTQ0OD
+UsMTAzNDQyMzUxMywtMTQ4MTI4MDI3NSwtMjA4Nzk3NzU5NCwx
+NDczMjMyMl19
 -->
