@@ -83,7 +83,7 @@ Article: [Elon Musk’s OpenAI Is Training Robots In VR](https://uploadvr.com/el
 
 Article: [VR + AI: the very real reality of virtual artificial intelligence](https://medium.com/shasta-apex/vr-ai-the-very-real-reality-of-virtual-artificial-intelligence-bebcdbbd35a4)
 
-### Autres ?
+### Autres applications
 
 La VR peut être utilisée dans une pléthore d'autres domaines. Par exemple, elle pourrait améliorer le télétravail (article: [VR could help transform remote work](https://www.computerworld.com/article/3174756/vr-could-help-transform-remote-work.html)). Elle est aussi utilisée en médecine, par exemple pour [combattre les phobies](https://www.letemps.ch/sciences/soigner-phobies-grace-realite-virtuelle). Les applications semblent infinies, puisque ce média semble être capable d'englober tous les autres.
 
@@ -361,7 +361,7 @@ Article: [Can we put all 5 senses in VR simulation?](https://4experience.co/vr-s
 - Nicolas Chabloz
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc0NjY1MzUxOSwyMDMzNTcxMDU5LC0xMT
+eyJoaXN0b3J5IjpbMTM0NDA3MDA2MSwyMDMzNTcxMDU5LC0xMT
 I0ODU5Mjg2LDIxNTg3NjQ3OCwtNTcwNDU5MTc4LC05MzcxMDQ3
 MDYsNDg5ODAzNzM0LDE3OTgyNTcxMDEsLTE4MjQ5NDQ3NzIsLT
 E3NTcxNDAyNjUsMjA4OTIxNTk2LDU5NDE3MDg4OCwxNjY5Mzkx
