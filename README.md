@@ -326,7 +326,7 @@ Article: [Can we put all 5 senses in VR simulation?](https://4experience.co/vr-s
 
 # <a name="stats"></a> Quelques stats sur la VR
 
-- [# 2019 Was a Major Inflection Point for VR—Here’s the Proof](https://www.roadtovr.com/2019-major-inflection-point-vr-heres-proof/)
+- [2019 Was a Major Inflection Point for VR—Here’s the Proof](https://www.roadtovr.com/2019-major-inflection-point-vr-heres-proof/)
 
 - [Les casques VR sur Steam font leurs plus grandes hausses à ce jour](https://www.etr.fr/actualite/7370-les-casques-vr-sur-steam-font-leurs-plus-grandes-hausses-a-ce-jour.html)
 
@@ -370,7 +370,7 @@ Ce dépôt contient les différents supports pédagogiques nécessaires pour le 
 - Nicolas Chabloz
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NTI0MzM0MzIsMjAzMzU3MTA1OSwtMT
+eyJoaXN0b3J5IjpbLTE0MTI1Nzg0ODUsMjAzMzU3MTA1OSwtMT
 EyNDg1OTI4NiwyMTU4NzY0NzgsLTU3MDQ1OTE3OCwtOTM3MTA0
 NzA2LDQ4OTgwMzczNCwxNzk4MjU3MTAxLC0xODI0OTQ0NzcyLC
 0xNzU3MTQwMjY1LDIwODkyMTU5Niw1OTQxNzA4ODgsMTY2OTM5
