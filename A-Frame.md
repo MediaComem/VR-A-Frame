@@ -101,13 +101,13 @@ Finalement, il faut appliquer notre matériel sur notre géométrie pour avoir u
  this.el.setObject3D('mesh', mesh);
 ```
 
-Comme vous pouvez le remarquer lors de votre test, l'orientation de l'hexagone obtenu permet de paver un mur plutôt qu'un sol.  Comme nous allons l'utiliser pour un pavage au sol, vous pouvez appliquer une rotation au mesh obtenu. 
+Comme vous pouvez le remarquer lors de votre test, l'orientation de l'hexagone obtenu permet de paver un mur plutôt qu'un sol.  Comme nous allons l'utiliser pour un pavage au sol, vous pouvez appliquer une rotation au mesh obtenu soit via le composant [rotation](https://github.com/aframevr/aframe/blob/master/docs/components/rotation.md) de A-Frame, soit directement avec three.js grâce à la méthode . 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MTE0MTc5MjIsMjc4MzE4MTA1LC0xNz
-IxMzM1NzYzLDYyMzg0NzI5MSwtMTg1MjU1OTgwOCwtODY0MjQx
-OTQ1LC0yNDUwNDIyMzcsLTEyNjgwNjM5NDMsMTcxNTMzNDUyMS
-wyMTM1ODc1MDg1LC0xNTE1OTQ2NDIsMTQ5NjU3NzE0NSwxODQ2
-MDk2MDUzLC01NTkxNTgxMjgsMzcxNTA4ODkyLC04NDEyNzI1NT
-EsLTExOTA0NTcwMDgsLTIxMjkwNzczNDcsODY4Njg0NDc2LC0x
-MjQwMzkwOTIwXX0=
+eyJoaXN0b3J5IjpbMTQ0NjgxNzk2MSwyNzgzMTgxMDUsLTE3Mj
+EzMzU3NjMsNjIzODQ3MjkxLC0xODUyNTU5ODA4LC04NjQyNDE5
+NDUsLTI0NTA0MjIzNywtMTI2ODA2Mzk0MywxNzE1MzM0NTIxLD
+IxMzU4NzUwODUsLTE1MTU5NDY0MiwxNDk2NTc3MTQ1LDE4NDYw
+OTYwNTMsLTU1OTE1ODEyOCwzNzE1MDg4OTIsLTg0MTI3MjU1MS
+wtMTE5MDQ1NzAwOCwtMjEyOTA3NzM0Nyw4Njg2ODQ0NzYsLTEy
+NDAzOTA5MjBdfQ==
 -->
