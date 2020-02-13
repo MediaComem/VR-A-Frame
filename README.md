@@ -71,9 +71,9 @@ Article: [How VR In Education Will Change How We Learn And Teach](https://xd.ado
 Article: [VR could help transform remote work](https://www.computerworld.com/article/3174756/vr-could-help-transform-remote-work.html)
 
 
-### Cinéma
+### Cinéma et l'art
 
-Pour le cinéma, la VR permet de s'immerger quasiment totalement dans l'univers et les aventures visionnées. La 3D est déjà bien implantée dans les salles aujourd'hui, mais l'immersion à 360 degrés va plus loin encore. Elle est parfois utilisé 
+Pour le cinéma, la VR permet de s'immerger quasiment totalement dans l'univers et les aventures visionnées. La 3D est déjà bien implantée dans les salles aujourd'hui, mais l'immersion à 360 degrés va plus loin encore. Elle est aussi utilisée pour les artistes 3d, qui peuvent créer directement en VR ou tout simplement visionner leur créatio
 
 Article: [Cinéma VR – Comment la réalité virtuelle transforme le cinéma](https://www.realite-virtuelle.com/cinema-vr/)
 
@@ -367,7 +367,7 @@ Ce dépôt contient les différents supports pédagogiques nécessaires pour le 
 - Nicolas Chabloz
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEzMDg5OTkxNSwyMDMzNTcxMDU5LC0xMT
+eyJoaXN0b3J5IjpbMTk3NjUzMzA4MCwyMDMzNTcxMDU5LC0xMT
 I0ODU5Mjg2LDIxNTg3NjQ3OCwtNTcwNDU5MTc4LC05MzcxMDQ3
 MDYsNDg5ODAzNzM0LDE3OTgyNTcxMDEsLTE4MjQ5NDQ3NzIsLT
 E3NTcxNDAyNjUsMjA4OTIxNTk2LDU5NDE3MDg4OCwxNjY5Mzkx
