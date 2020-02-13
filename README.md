@@ -85,7 +85,7 @@ Article: [VR + AI: the very real reality of virtual artificial intelligence](htt
 
 ### Autres ?
 
-La VR peut être utilisée dans une pléthore d'autres domaines. Par exemple, elle pourrait améliorer le télétravail (article: [VR could help transform remote work](https://www.computerworld.com/article/3174756/vr-could-help-transform-remote-work.html)). Elle est aussi utilisée en médecine, par exemple pour [combattre les phobies](https://www.letemps.ch/sciences/soigner-phobies-grace-realite-virtuelle). Les applications semblent infinies.
+La VR peut être utilisée dans une pléthore d'autres domaines. Par exemple, elle pourrait améliorer le télétravail (article: [VR could help transform remote work](https://www.computerworld.com/article/3174756/vr-could-help-transform-remote-work.html)). Elle est aussi utilisée en médecine, par exemple pour [combattre les phobies](https://www.letemps.ch/sciences/soigner-phobies-grace-realite-virtuelle). Les applications semblent infinies, puisque ce média semble être capable d'englober tous les autres.
 
 
 ## <a name="histo"></a> Quelques exemples historiques
@@ -361,11 +361,11 @@ Article: [Can we put all 5 senses in VR simulation?](https://4experience.co/vr-s
 - Nicolas Chabloz
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MDk3NzYwMDgsMjAzMzU3MTA1OSwtMT
-EyNDg1OTI4NiwyMTU4NzY0NzgsLTU3MDQ1OTE3OCwtOTM3MTA0
-NzA2LDQ4OTgwMzczNCwxNzk4MjU3MTAxLC0xODI0OTQ0NzcyLC
-0xNzU3MTQwMjY1LDIwODkyMTU5Niw1OTQxNzA4ODgsMTY2OTM5
-MTA2OCwxODE5NTIxOTAxLDIxMzQyNTYyMjgsLTE4Nzg3MTQ0OD
-UsMTAzNDQyMzUxMywtMTQ4MTI4MDI3NSwtMjA4Nzk3NzU5NCwx
-NDczMjMyMl19
+eyJoaXN0b3J5IjpbLTc0NjY1MzUxOSwyMDMzNTcxMDU5LC0xMT
+I0ODU5Mjg2LDIxNTg3NjQ3OCwtNTcwNDU5MTc4LC05MzcxMDQ3
+MDYsNDg5ODAzNzM0LDE3OTgyNTcxMDEsLTE4MjQ5NDQ3NzIsLT
+E3NTcxNDAyNjUsMjA4OTIxNTk2LDU5NDE3MDg4OCwxNjY5Mzkx
+MDY4LDE4MTk1MjE5MDEsMjEzNDI1NjIyOCwtMTg3ODcxNDQ4NS
+wxMDM0NDIzNTEzLC0xNDgxMjgwMjc1LC0yMDg3OTc3NTk0LDE0
+NzMyMzIyXX0=
 -->
