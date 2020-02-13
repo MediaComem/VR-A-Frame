@@ -27,7 +27,7 @@ La VR est de plus en plus utilisée en marketing. Elle plonge l'utilisateur (et 
 Article:
 [Marketing VR - Comment la réalité virtuelle transforme la publicité?](https://www.realite-virtuelle.com/marketing-vr/)
 
-## Jeux vidéos
+### Jeux vidéos
 
 La VR permet de faire partie intégrante de l'univers du jeu, ce qui apporte une grande immersion. Des jeux aux univers très développés, principalement à la première personne, cherchant une grande immersion du joueur bénéficient grandement de la VR. Un bon exemple est le jeu [Sykrim](https://bethesda.net/fr/article/4YSRrlXtpuKeWIK6EMiG84/skyrim-vr-arrive-sur-steamvr), adapté à la VR en 2018. un autre est le futur [Half-Life: Alyx](https://www.youtube.com/watch?v=O2W0N3uKXmo). 
 
@@ -45,14 +45,15 @@ Les musées ont commencé à utiliser la VR, en l'adaptant à chaque besoin. Ell
 
 Article: [Virtual Reality is a big trend in museums, but what are the best examples of museums using VR?](https://www.museumnext.com/article/how-museums-are-using-virtual-reality/)
 
-## Prototypage
+### Prototypage
+
 Dans différents domaines, les prototypes en 3D peuvent être testés et développés en VR ce qui permet un gain de temps (et d'argent!) souvent considérable (par exemple en architecture). Dans l'industrie automobile c'est devenu particulièrement intéressant.
 
 Article: [BMW Uses Virtual Reality to Build Prototypes](https://www.thedrive.com/sheetmetal/8619/bmw-uses-virtual-reality-to-build-prototypes)
 
 Article: [La réalité virtuelle va révolutionner de nombreux secteurs de l’industrie automobile](https://vrgineers.com/fr/la-realite-virtuelle-va-revolutionner-de-nombreux-secteurs-de-lindustrie-automobile/)
 
-## Education/formation
+### Education/formation
 
 La VR permet notamment la simulation de situations réelles pour l'entraînement (méditaiton, prise de parole en public, interventions médicales, ...). Elle permet aussi d'engager, de stimuler les utilisateurs pour un meilleur apprentissage et mémorisation. Histoire, biologie, médecine, il existe aujourd'hui de nombreuses expériences pédagogiques.
 
@@ -366,7 +367,7 @@ Ce dépôt contient les différents supports pédagogiques nécessaires pour le 
 - Nicolas Chabloz
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkxOTgyNzc4MywyMDMzNTcxMDU5LC0xMT
+eyJoaXN0b3J5IjpbLTE5Nzg3NDAzMCwyMDMzNTcxMDU5LC0xMT
 I0ODU5Mjg2LDIxNTg3NjQ3OCwtNTcwNDU5MTc4LC05MzcxMDQ3
 MDYsNDg5ODAzNzM0LDE3OTgyNTcxMDEsLTE4MjQ5NDQ3NzIsLT
 E3NTcxNDAyNjUsMjA4OTIxNTk2LDU5NDE3MDg4OCwxNjY5Mzkx
