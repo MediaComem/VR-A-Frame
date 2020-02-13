@@ -77,13 +77,13 @@ Une fois les sommets créés, il faut les regrouper dans une unique forme et des
 
 ### La géométrie (*geometry*)
 
-Il faut désormais transformer la forme 2D en mesh 3D. La classe [THREE.ExtrudeGeometry](https://threejs.org/docs/#api/en/geometries/ExtrudeGeometry) permet justement d'extruder une forme 2D. Il faut lui passer en premier paramètre la forme (créée au point précédent ) et en 2e, une configuration (sous la forme d'un objet).  Comme vous pouvez le constater dans la documentation, l'on peut  appliquer un biseau (*bevel*) lors de cette opération (pour être précis, il s'agit plutôt d'un [chanfrein](https://fr.wikipedia.org/wiki/Chanfrein)). Vous pouvez soit désactiver le biseau, soit le rendre optionnel grâce à un attribut de votre primitive. Le paramètre **depth** des options correspond à votre paramètre **height** de votre primitive (il s'agit comme son nom l'indique de la profondeur d'extrusion)
+Il faut désormais transformer la forme 2D en mesh 3D. La classe [THREE.ExtrudeGeometry](https://threejs.org/docs/#api/en/geometries/ExtrudeGeometry) permet justement d'extruder une forme 2D. Il faut lui passer en premier paramètre la forme (créée au point précédent ) et en 2e, une configuration (sous la forme d'un objet).  Comme vous pouvez le constater dans la documentation, l'on peut  appliquer un biseau (*bevel*) lors de cette opération (pour être précis, il s'agit plutôt d'un [chanfrein](https://fr.wikipedia.org/wiki/Chanfrein)). Vous pouvez soit désactiver le biseau, soit le rendre optionnel grâce à un attribut de votre primitive. Le paramètre **depth** des options correspond à votre paramètre **height** de votre primitive (il s'agit comme son nom l'indique de la profondeur d'extrusion).
 
 ### Le matériel (*material*)
 
 Avec le framework *three.js*, les textures sont appliquées sous la forme d'un matériel (*material*).  Il existe plusieurs types de matériaux dans *three.js*,  le moins gourmand en ressource étant [THREE.MeshLambertMaterial](https://threejs.org/docs/#api/en/materials/MeshLambertMaterial), nous allons l'utiliser pour appliquer une simple couleur en texture.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTUzMDcyNjUyLC04NjQyNDE5NDUsLTI0NT
+eyJoaXN0b3J5IjpbOTI5MDQyMTM2LC04NjQyNDE5NDUsLTI0NT
 A0MjIzNywtMTI2ODA2Mzk0MywxNzE1MzM0NTIxLDIxMzU4NzUw
 ODUsLTE1MTU5NDY0MiwxNDk2NTc3MTQ1LDE4NDYwOTYwNTMsLT
 U1OTE1ODEyOCwzNzE1MDg4OTIsLTg0MTI3MjU1MSwtMTE5MDQ1
