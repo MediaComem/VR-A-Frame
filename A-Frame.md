@@ -101,12 +101,13 @@ Finalement, il faut appliquer notre matériel sur notre géométrie pour avoir u
  this.el.setObject3D('mesh', mesh);
 ```
 
+Comme vous pouvez le remarquer lors de votre test, l'orientation de l'hexagone obtenu permet de paver un mur plutôt qu'un sol.  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MjEzMzU3NjMsNjIzODQ3MjkxLC0xOD
-UyNTU5ODA4LC04NjQyNDE5NDUsLTI0NTA0MjIzNywtMTI2ODA2
-Mzk0MywxNzE1MzM0NTIxLDIxMzU4NzUwODUsLTE1MTU5NDY0Mi
-wxNDk2NTc3MTQ1LDE4NDYwOTYwNTMsLTU1OTE1ODEyOCwzNzE1
-MDg4OTIsLTg0MTI3MjU1MSwtMTE5MDQ1NzAwOCwtMjEyOTA3Nz
-M0Nyw4Njg2ODQ0NzYsLTEyNDAzOTA5MjAsLTE5MjI1NDA0MDAs
-LTM0MTUxNTQyM119
+eyJoaXN0b3J5IjpbMjc4MzE4MTA1LC0xNzIxMzM1NzYzLDYyMz
+g0NzI5MSwtMTg1MjU1OTgwOCwtODY0MjQxOTQ1LC0yNDUwNDIy
+MzcsLTEyNjgwNjM5NDMsMTcxNTMzNDUyMSwyMTM1ODc1MDg1LC
+0xNTE1OTQ2NDIsMTQ5NjU3NzE0NSwxODQ2MDk2MDUzLC01NTkx
+NTgxMjgsMzcxNTA4ODkyLC04NDEyNzI1NTEsLTExOTA0NTcwMD
+gsLTIxMjkwNzczNDcsODY4Njg0NDc2LC0xMjQwMzkwOTIwLC0x
+OTIyNTQwNDAwXX0=
 -->
