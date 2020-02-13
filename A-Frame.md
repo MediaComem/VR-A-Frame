@@ -83,13 +83,13 @@ Dans cet exemple [https://vr.chabloz.eu/hexagon.html](https://vr.chabloz.eu/hexa
 
 ### Le matériel (*material*)
 
-Avec le framework *three.js*, les textures sont appliquées sous la forme d'un matériel (*material*).  Il existe plusieurs types de matériaux dans *three.js*,  le moins gourmand en ressource étant [THREE.MeshLambertMaterial](https://threejs.org/docs/#api/en/materials/MeshLambertMaterial), nous allons l'utiliser pour appliquer une simple texture de couleur sur notre hexagone. 
+Avec le framework *three.js*, les textures sont appliquées sous la forme d'un matériel (*material*).  Il existe plusieurs types de matériaux dans *three.js*,  le moins gourmand en ressource étant [THREE.MeshLambertMaterial](https://threejs.org/docs/#api/en/materials/MeshLambertMaterial), nous allons l'utiliser pour appliquer une simple texture de couleur sur notre hexagone. Comme nous n'utiliserons pas de texture, mais une simple couleur, three.js offre l
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTgwMTUyNDMsLTg2NDI0MTk0NSwtMjQ1MD
-QyMjM3LC0xMjY4MDYzOTQzLDE3MTUzMzQ1MjEsMjEzNTg3NTA4
-NSwtMTUxNTk0NjQyLDE0OTY1NzcxNDUsMTg0NjA5NjA1MywtNT
-U5MTU4MTI4LDM3MTUwODg5MiwtODQxMjcyNTUxLC0xMTkwNDU3
-MDA4LC0yMTI5MDc3MzQ3LDg2ODY4NDQ3NiwtMTI0MDM5MDkyMC
-wtMTkyMjU0MDQwMCwtMzQxNTE1NDIzLDk2NDk0ODczMCwtNTU5
-ODY1NTAxXX0=
+eyJoaXN0b3J5IjpbNDUwMDQyNTc1LC04NjQyNDE5NDUsLTI0NT
+A0MjIzNywtMTI2ODA2Mzk0MywxNzE1MzM0NTIxLDIxMzU4NzUw
+ODUsLTE1MTU5NDY0MiwxNDk2NTc3MTQ1LDE4NDYwOTYwNTMsLT
+U1OTE1ODEyOCwzNzE1MDg4OTIsLTg0MTI3MjU1MSwtMTE5MDQ1
+NzAwOCwtMjEyOTA3NzM0Nyw4Njg2ODQ0NzYsLTEyNDAzOTA5Mj
+AsLTE5MjI1NDA0MDAsLTM0MTUxNTQyMyw5NjQ5NDg3MzAsLTU1
+OTg2NTUwMV19
 -->
