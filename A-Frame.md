@@ -79,7 +79,7 @@ Une fois les sommets créés, il faut les regrouper dans une unique forme et des
 
 Il faut désormais transformer la forme 2D (un hexagone) en mesh 3D (un [prisme hexagonal](https://fr.wikipedia.org/wiki/Prisme_hexagonal)). La classe [THREE.ExtrudeGeometry](https://threejs.org/docs/#api/en/geometries/ExtrudeGeometry) permet justement d'extruder une forme 2D. Il faut lui passer en premier paramètre la forme (créée au point précédent ) et en 2e, une configuration (sous la forme d'un objet).  Comme vous pouvez le constater dans la documentation, l'on peut  appliquer un biseau (*bevel*) lors de cette opération (pour être précis, il s'agit plutôt d'un [chanfrein](https://fr.wikipedia.org/wiki/Chanfrein)). Vous pouvez soit désactiver le biseau, soit le rendre optionnel grâce à un attribut de votre primitive. Pour le paramètre **depth** des options, il s'agit (comme son nom l'indique) de la profondeur d'extrusion et correspond donc à la hauteur de l'hexagone (le paramètre **height** de votre primitive ).
 
-Dans cet exemple [https://vr.chabloz.eu/hexagon.html](https://vr.chabloz.eu/hexagon.html), vous pouvez appuyer sur la touche 'B' de votre clavier pour observer la différence entre un prisme hexagonal sans biseau ou avec biseau. Il est **important** de noter l'impact du biseautage sur le nombre de triangles nécessaires à l'affichage de l'hexagone extrudé ! Il est aussi important de comprendre pourquoi l'hexagone extrudé a besoin de 20 triangles pour être affiché (voir l'image suivante).
+Dans cet exemple [https://vr.chabloz.eu/hexagon.html](https://vr.chabloz.eu/hexagon.html), vous pouvez appuyer sur la touche 'B' de votre clavier pour observer la différence entre un prisme hexagonal sans biseau ou avec biseau. Il est **important** de noter l'impact du biseautage sur le nombre de triangles nécessaires à l'affichage du prisme hexagonal ! Il est aussi important de comprendre pourquoi le prisme hexagonal a besoin de 20 triangles pour être affiché (voir l'image suivante).
 
 ![Triangles dans un hexagone](./img/hexaInTri.png)
 
@@ -115,11 +115,11 @@ Pour bien comprendre pourquoi la rotation doit s'effectuer autour de l'axe X, je
 Pour le pavage, il va falloir générer cloner et positionner notre prisme hexagonal de pase 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjkzMTA2MDE1LC0xNzU1ODQxMjAwLC02Mz
-MzMjI2NzMsMTEyMjIwMzYxOCwtNDg3OTk3MjAzLDI3ODMxODEw
-NSwtMTcyMTMzNTc2Myw2MjM4NDcyOTEsLTE4NTI1NTk4MDgsLT
-g2NDI0MTk0NSwtMjQ1MDQyMjM3LC0xMjY4MDYzOTQzLDE3MTUz
-MzQ1MjEsMjEzNTg3NTA4NSwtMTUxNTk0NjQyLDE0OTY1NzcxND
-UsMTg0NjA5NjA1MywtNTU5MTU4MTI4LDM3MTUwODg5MiwtODQx
-MjcyNTUxXX0=
+eyJoaXN0b3J5IjpbLTE1ODk5Mzg5NDQsLTE3NTU4NDEyMDAsLT
+YzMzMyMjY3MywxMTIyMjAzNjE4LC00ODc5OTcyMDMsMjc4MzE4
+MTA1LC0xNzIxMzM1NzYzLDYyMzg0NzI5MSwtMTg1MjU1OTgwOC
+wtODY0MjQxOTQ1LC0yNDUwNDIyMzcsLTEyNjgwNjM5NDMsMTcx
+NTMzNDUyMSwyMTM1ODc1MDg1LC0xNTE1OTQ2NDIsMTQ5NjU3Nz
+E0NSwxODQ2MDk2MDUzLC01NTkxNTgxMjgsMzcxNTA4ODkyLC04
+NDEyNzI1NTFdfQ==
 -->
