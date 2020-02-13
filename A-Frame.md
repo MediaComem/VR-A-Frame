@@ -168,16 +168,17 @@ Essayez de rajouter un système de variation de la couleur de base pour chaque t
 
 - Ne générer pas une variation aléatoire à chaque tuile du pavage, sinon vous ne pourrez plus optimiser le tout (puisque chaque tuile aura un matériau différent). Il serait-mieux de pré-générer un certain nombre de matériaux. (3 par exemple. Mais si ce nombre était configurable via un attribut, cela serait encore mieux.)
 
-- Vous pourriez faire que la variation par apport à la couleur de base soit plus ou moins grande selon la valeur d'un attribut
-- 
+- Vous pourriez faire que la variation par apport à la couleur de base soit plus ou moins grande selon la valeur d'un attribut (paramétrable)
+
+- Il faudrait stocker la valeur de la variation affecté à chaque tuile, pour qu'en cas d'animation de changement de couleur par xemple,
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY0Mzc5NjMxNSwxMTQ1MzA0MjE1LC0xNT
-ExNTc4NzIxLDQzMzk1MTA3MCwxOTc5MzYzMzE3LC0yMTI3MTk5
-MjIxLDU2NDk1OTU3NSw3NDI2NTQwOTUsMjA2NjU4NDU5MCwtNT
-M5NzA2Mzg5LDE0NzY2MDA2NzksLTEwMjI5NDY0NzQsMTExOTY2
-MDEyNCwtMTc1NTg0MTIwMCwtNjMzMzIyNjczLDExMjIyMDM2MT
-gsLTQ4Nzk5NzIwMywyNzgzMTgxMDUsLTE3MjEzMzU3NjMsNjIz
-ODQ3MjkxXX0=
+eyJoaXN0b3J5IjpbMjgxNDQ1NDc2LDExNDUzMDQyMTUsLTE1MT
+E1Nzg3MjEsNDMzOTUxMDcwLDE5NzkzNjMzMTcsLTIxMjcxOTky
+MjEsNTY0OTU5NTc1LDc0MjY1NDA5NSwyMDY2NTg0NTkwLC01Mz
+k3MDYzODksMTQ3NjYwMDY3OSwtMTAyMjk0NjQ3NCwxMTE5NjYw
+MTI0LC0xNzU1ODQxMjAwLC02MzMzMjI2NzMsMTEyMjIwMzYxOC
+wtNDg3OTk3MjAzLDI3ODMxODEwNSwtMTcyMTMzNTc2Myw2MjM4
+NDcyOTFdfQ==
 -->
