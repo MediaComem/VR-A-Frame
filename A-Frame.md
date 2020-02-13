@@ -77,9 +77,9 @@ Une fois les sommets créés, il faut les regrouper dans une unique forme et des
 
 ### La géométrie (*geometry*)
 
-Il faut désormais transformer la forme actuellement en 2D en mesh 3D. 
+Il faut désormais transformer la forme 2D en mesh 3D. La classe [THREE.ExtrudeGeometry](https://threejs.org/docs/#api/en/geometries/ExtrudeGeometry) permet justement d'extruder une forme 2D. Il faut lui passer en p
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc3MzY2NjMzMSwtMTI2ODA2Mzk0MywxNz
+eyJoaXN0b3J5IjpbLTUxMzk3ODI3MywtMTI2ODA2Mzk0MywxNz
 E1MzM0NTIxLDIxMzU4NzUwODUsLTE1MTU5NDY0MiwxNDk2NTc3
 MTQ1LDE4NDYwOTYwNTMsLTU1OTE1ODEyOCwzNzE1MDg4OTIsLT
 g0MTI3MjU1MSwtMTE5MDQ1NzAwOCwtMjEyOTA3NzM0Nyw4Njg2
