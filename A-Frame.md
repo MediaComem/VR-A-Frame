@@ -162,19 +162,22 @@ this.el.setObject3D('mesh', new THREE.Mesh(mergedGeo, material));
 
 Comme vous pouvez le voir dans ce code, nous obtenons au final qu'un seul mesh plutôt que le groupe de *meshes* généré par la première version.  Dans cet exemple [https://vr.chabloz.eu/hexatile_ocean.html](https://vr.chabloz.eu/hexatile_ocean.html), vous pouvez appuyer sur la touche 'O' de votre clavier pour observer la différence entre  la version non-optimisée et optimisée grâce au nombre de *calls* dans les statistiques (deux de ces *calls* sont les dessins des deux océans).  Vous pouvez aussi changer la taille du pavage avec les touches '1' à '9'. (la touche 'B' est toujours active si vous voulez tester l'impacte du biseau sur le nombre de triangles lors de pavage de taille importante. Mais n'oubliez pas de soustraire les 10'000 triangles de l'océans).
 
+### Mise à jour (*update*)
+
+
+
 ### Variation des couleurs
 
 Essayez de rajouter un système de variation de la couleur de base pour chaque tuile du pavage. Afin de le faire proprement, voilà quelques recommandations:
 
 - Ne générer pas une variation aléatoire à chaque tuile du pavage, sinon vous ne pourrez plus optimiser le tout (puisque chaque tuile aura un matériau différent). Il serait-mieux de pré-générer un certain nombre de matériaux. (3 par exemple. Mais si ce nombre était configurable via un attribut, cela serait encore mieux.)
+- Vous pourriez faire que la variation par apport à la couleur de base soit plus ou moins grande selon la valeur d'un attribut (paramétrable).
+- Il faudrait stocker la valeur de la variation affecté à chaque tuile, pour qu'en cas d'animation de changement de couleur par exemple, cette variation reste fixe (sinon cela donnera un effet stroboscopique assez déplaisant).
 
-- Vous pourriez faire que la variation par apport à la couleur de base soit plus ou moins grande selon la valeur d'un attribut (paramétrable)
-
-- Il faudrait stocker la valeur de la variation affecté à chaque tuile, pour qu'en cas d'animation de changement de couleur par exemple, cette variation reste fixe (sinon cela donnera un effet stroboscopique assez déplaisant) 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NzQ3NTc0MzEsMTE0NTMwNDIxNSwtMT
+eyJoaXN0b3J5IjpbLTE0MTY2NzgyMTAsMTE0NTMwNDIxNSwtMT
 UxMTU3ODcyMSw0MzM5NTEwNzAsMTk3OTM2MzMxNywtMjEyNzE5
 OTIyMSw1NjQ5NTk1NzUsNzQyNjU0MDk1LDIwNjY1ODQ1OTAsLT
 UzOTcwNjM4OSwxNDc2NjAwNjc5LC0xMDIyOTQ2NDc0LDExMTk2
