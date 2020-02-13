@@ -166,17 +166,18 @@ Comme vous pouvez le voir dans ce code, nous obtenons au final qu'un seul mesh p
 
 Essayez de rajouter un système de variation de la couleur de base pour chaque tuile du pavage. Afin de le faire proprement, voilà quelques recommandation:
 
-- Ne générer pas une variation aléatoire à chaque tuile du pavage, sinon vous ne pourrez plus optimiser le tout (puisque chaque tuile aura un matériau différent). Il serait-mieux de pré-générer un certain nombre de matériaux (3 par exemple. Mais si ce nombre était configurable via un attribut, cela serait encore mieux).
+- Ne générer pas une variation aléatoire à chaque tuile du pavage, sinon vous ne pourrez plus optimiser le tout (puisque chaque tuile aura un matériau différent). Il serait-mieux de pré-générer un certain nombre de matériaux. (3 par exemple. Mais si ce nombre était configurable via un attribut, cela serait encore mieux.)
+
 - Vous pourriez faire que la variation par apport à la couleur de base soit plus ou moins grande selon la valeur d'un attribut
 - 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTI0NjEzNjcsMTE0NTMwNDIxNSwtMTUxMT
-U3ODcyMSw0MzM5NTEwNzAsMTk3OTM2MzMxNywtMjEyNzE5OTIy
-MSw1NjQ5NTk1NzUsNzQyNjU0MDk1LDIwNjY1ODQ1OTAsLTUzOT
-cwNjM4OSwxNDc2NjAwNjc5LC0xMDIyOTQ2NDc0LDExMTk2NjAx
-MjQsLTE3NTU4NDEyMDAsLTYzMzMyMjY3MywxMTIyMjAzNjE4LC
-00ODc5OTcyMDMsMjc4MzE4MTA1LC0xNzIxMzM1NzYzLDYyMzg0
-NzI5MV19
+eyJoaXN0b3J5IjpbLTY0Mzc5NjMxNSwxMTQ1MzA0MjE1LC0xNT
+ExNTc4NzIxLDQzMzk1MTA3MCwxOTc5MzYzMzE3LC0yMTI3MTk5
+MjIxLDU2NDk1OTU3NSw3NDI2NTQwOTUsMjA2NjU4NDU5MCwtNT
+M5NzA2Mzg5LDE0NzY2MDA2NzksLTEwMjI5NDY0NzQsMTExOTY2
+MDEyNCwtMTc1NTg0MTIwMCwtNjMzMzIyNjczLDExMjIyMDM2MT
+gsLTQ4Nzk5NzIwMywyNzgzMTgxMDUsLTE3MjEzMzU3NjMsNjIz
+ODQ3MjkxXX0=
 -->
