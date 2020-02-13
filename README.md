@@ -353,17 +353,22 @@ Article: [Can we put all 5 senses in VR simulation?](https://4experience.co/vr-s
 - [Changing the world: DARPA’s top inventions](https://www.extremetech.com/extreme/105117-inventing-our-world-darpas-top-inventions/2)
 
 
+## AuteursRéalité Virtuelle
+
+Ce dépôt contient les différents supports pédagogiques nécessaires pour le cours à option **Réalité Virtuelle** (VR)  du module **Digital Trends** de la filière **ingénierie des médias** (IM) de la **HEIG-VD**.
+
 ## Auteurs
+
 - Audrey Huguenin
 - Arthur Verdon
 - Nicolas Chabloz
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAzMzU3MTA1OSwtMTEyNDg1OTI4NiwyMT
-U4NzY0NzgsLTU3MDQ1OTE3OCwtOTM3MTA0NzA2LDQ4OTgwMzcz
-NCwxNzk4MjU3MTAxLC0xODI0OTQ0NzcyLC0xNzU3MTQwMjY1LD
-IwODkyMTU5Niw1OTQxNzA4ODgsMTY2OTM5MTA2OCwxODE5NTIx
-OTAxLDIxMzQyNTYyMjgsLTE4Nzg3MTQ0ODUsMTAzNDQyMzUxMy
-wtMTQ4MTI4MDI3NSwtMjA4Nzk3NzU5NCwxNDczMjMyMiwtNjAy
-MTk3MTg1XX0=
+eyJoaXN0b3J5IjpbMTg0NzYzNjYwOSwyMDMzNTcxMDU5LC0xMT
+I0ODU5Mjg2LDIxNTg3NjQ3OCwtNTcwNDU5MTc4LC05MzcxMDQ3
+MDYsNDg5ODAzNzM0LDE3OTgyNTcxMDEsLTE4MjQ5NDQ3NzIsLT
+E3NTcxNDAyNjUsMjA4OTIxNTk2LDU5NDE3MDg4OCwxNjY5Mzkx
+MDY4LDE4MTk1MjE5MDEsMjEzNDI1NjIyOCwtMTg3ODcxNDQ4NS
+wxMDM0NDIzNTEzLC0xNDgxMjgwMjc1LC0yMDg3OTc3NTk0LDE0
+NzMyMzIyXX0=
 -->
