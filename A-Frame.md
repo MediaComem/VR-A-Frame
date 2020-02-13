@@ -150,13 +150,13 @@ this.tilemap.forEach(node  => {
 this.el.setObject3D('mesh', new THREE.Mesh(mergedGeo, material));
 ```
 
-Comme vous pouvez le voir dans ce code, nous obtenons au final qu'un seul mesh plutôt que le groupe de *meshes* généré par la première version.  Dans cet exemple [https://vr.chabloz.eu/hexatile_ocean.html](https://vr.chabloz.eu/hexatile_ocean.html), vous pouvez appuyer sur la touche 'O' de votre clavier pour observer la différence entre  la version non-optimisée et optimisée (observez le nombre de *calls* dans les statistiques).  Vous pouvez aussi changer la taille du pavage avec les touches 1 à 9. (la touche 'B' est toujours active si vous voulez tester l'impacte du biseau sur le nombre de triangles).
+Comme vous pouvez le voir dans ce code, nous obtenons au final qu'un seul mesh plutôt que le groupe de *meshes* généré par la première version.  Dans cet exemple [https://vr.chabloz.eu/hexatile_ocean.html](https://vr.chabloz.eu/hexatile_ocean.html), vous pouvez appuyer sur la touche 'O' de votre clavier pour observer la différence entre  la version non-optimisée et optimisée (observez le nombre de *calls* dans les statistiques).  Vous pouvez aussi changer la taille du pavage avec les touches 1 à 9. (la touche 'B' est toujours active si vous voulez tester l'impacte du biseau sur le nombre de triangles lors de pavage de taille importante).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc3MzcyMjEwNyw1NjQ5NTk1NzUsNzQyNj
-U0MDk1LDIwNjY1ODQ1OTAsLTUzOTcwNjM4OSwxNDc2NjAwNjc5
-LC0xMDIyOTQ2NDc0LDExMTk2NjAxMjQsLTE3NTU4NDEyMDAsLT
-YzMzMyMjY3MywxMTIyMjAzNjE4LC00ODc5OTcyMDMsMjc4MzE4
-MTA1LC0xNzIxMzM1NzYzLDYyMzg0NzI5MSwtMTg1MjU1OTgwOC
-wtODY0MjQxOTQ1LC0yNDUwNDIyMzcsLTEyNjgwNjM5NDMsMTcx
-NTMzNDUyMV19
+eyJoaXN0b3J5IjpbLTE2NDMyMjgwNjcsNTY0OTU5NTc1LDc0Mj
+Y1NDA5NSwyMDY2NTg0NTkwLC01Mzk3MDYzODksMTQ3NjYwMDY3
+OSwtMTAyMjk0NjQ3NCwxMTE5NjYwMTI0LC0xNzU1ODQxMjAwLC
+02MzMzMjI2NzMsMTEyMjIwMzYxOCwtNDg3OTk3MjAzLDI3ODMx
+ODEwNSwtMTcyMTMzNTc2Myw2MjM4NDcyOTEsLTE4NTI1NTk4MD
+gsLTg2NDI0MTk0NSwtMjQ1MDQyMjM3LC0xMjY4MDYzOTQzLDE3
+MTUzMzQ1MjFdfQ==
 -->
