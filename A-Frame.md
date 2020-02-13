@@ -174,16 +174,16 @@ Essayez de rajouter un système de variation de la couleur de base pour chaque t
 - Vous pourriez faire que la variation par apport à la couleur de base soit plus ou moins grande selon la valeur d'un attribut (paramétrable).
 - Il faudrait stocker la valeur de la variation affecté à chaque tuile, pour qu'en cas d'animation de changement de couleur par exemple, cette variation reste fixe (sinon cela donnera un effet stroboscopique).
 
-
+Voila un exemple: [https://vr.chabloz.eu/variation.html](https://vr.chabloz.eu/variation.html)
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk3NzIwMzg3MSwyMDU4MzMyNTMyLDExND
-UzMDQyMTUsLTE1MTE1Nzg3MjEsNDMzOTUxMDcwLDE5NzkzNjMz
-MTcsLTIxMjcxOTkyMjEsNTY0OTU5NTc1LDc0MjY1NDA5NSwyMD
-Y2NTg0NTkwLC01Mzk3MDYzODksMTQ3NjYwMDY3OSwtMTAyMjk0
-NjQ3NCwxMTE5NjYwMTI0LC0xNzU1ODQxMjAwLC02MzMzMjI2Nz
-MsMTEyMjIwMzYxOCwtNDg3OTk3MjAzLDI3ODMxODEwNSwtMTcy
-MTMzNTc2M119
+eyJoaXN0b3J5IjpbLTg4MDg5NDE0NiwxOTc3MjAzODcxLDIwNT
+gzMzI1MzIsMTE0NTMwNDIxNSwtMTUxMTU3ODcyMSw0MzM5NTEw
+NzAsMTk3OTM2MzMxNywtMjEyNzE5OTIyMSw1NjQ5NTk1NzUsNz
+QyNjU0MDk1LDIwNjY1ODQ1OTAsLTUzOTcwNjM4OSwxNDc2NjAw
+Njc5LC0xMDIyOTQ2NDc0LDExMTk2NjAxMjQsLTE3NTU4NDEyMD
+AsLTYzMzMyMjY3MywxMTIyMjAzNjE4LC00ODc5OTcyMDMsMjc4
+MzE4MTA1XX0=
 -->
