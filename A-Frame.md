@@ -87,7 +87,7 @@ Dans cet exemple [https://vr.chabloz.eu/hexagon.html](https://vr.chabloz.eu/hexa
 
 ### Le matériel (*material*)
 
-Avec le framework *three.js*, les textures sont appliquées sous la forme d'un matériel (*material*).  Il existe plusieurs types de matériaux dans *three.js*,  le moins gourmand en ressource étant [THREE.MeshLambertMaterial](https://threejs.org/docs/#api/en/materials/MeshLambertMaterial), nous allons l'utiliser pour appliquer une simple texture de couleur sur notre hexagone. Comme nous n'utiliserons pas de texture, mais une simple couleur, three.js offre la possibilité de passer directement celle-ci au matériel comme ceci : 
+Avec le framework *three.js*, les textures sont appliquées sous la forme d'un matériel (*material*).  Il existe plusieurs types de matériaux dans *three.js*,  le moins gourmand en ressource étant [THREE.MeshLambertMaterial](https://threejs.org/docs/#api/en/materials/MeshLambertMaterial), nous allons l'utiliser pour appliquer une simple texture de couleur sur notre hexagone. three.js offre la possibilité de passer directement la couleur au matériel comme ceci : 
 
 ```js
 let material = new  THREE.MeshLambertMaterial({color:  new  THREE.Color(this.data.color)});
@@ -115,11 +115,11 @@ Pour bien comprendre pourquoi la rotation doit s'effectuer autour de l'axe X, je
 Pour le pavage, il va falloir générer cloner et positionner notre prisme hexagonal de pase 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1ODk5Mzg5NDQsLTE3NTU4NDEyMDAsLT
-YzMzMyMjY3MywxMTIyMjAzNjE4LC00ODc5OTcyMDMsMjc4MzE4
-MTA1LC0xNzIxMzM1NzYzLDYyMzg0NzI5MSwtMTg1MjU1OTgwOC
-wtODY0MjQxOTQ1LC0yNDUwNDIyMzcsLTEyNjgwNjM5NDMsMTcx
-NTMzNDUyMSwyMTM1ODc1MDg1LC0xNTE1OTQ2NDIsMTQ5NjU3Nz
-E0NSwxODQ2MDk2MDUzLC01NTkxNTgxMjgsMzcxNTA4ODkyLC04
-NDEyNzI1NTFdfQ==
+eyJoaXN0b3J5IjpbMjEyOTQ0ODMwMywtMTc1NTg0MTIwMCwtNj
+MzMzIyNjczLDExMjIyMDM2MTgsLTQ4Nzk5NzIwMywyNzgzMTgx
+MDUsLTE3MjEzMzU3NjMsNjIzODQ3MjkxLC0xODUyNTU5ODA4LC
+04NjQyNDE5NDUsLTI0NTA0MjIzNywtMTI2ODA2Mzk0MywxNzE1
+MzM0NTIxLDIxMzU4NzUwODUsLTE1MTU5NDY0MiwxNDk2NTc3MT
+Q1LDE4NDYwOTYwNTMsLTU1OTE1ODEyOCwzNzE1MDg4OTIsLTg0
+MTI3MjU1MV19
 -->
