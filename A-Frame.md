@@ -71,14 +71,16 @@ Suivez la documentation officielle pour rajouter une primitive et le composant a
 
 Lors de la phase d'initialisation du [composant](https://github.com/aframevr/aframe/blob/master/docs/introduction/writing-a-component.md), il va falloir générer toutes les pièces utiles à la création du *mesh* complet. Il semble donc logique de commencer par la génération d'un hexagone en 2D et donc de ses sommets. Un hexagone possédant 6 sommets, un tableau semble adéquat pour les stocker. Créez donc les 6 sommets grâce à la classe [THREE.Vector3](https://threejs.org/docs/#api/en/math/Vector3) et à la formule géométrique pour le calcul de la position des sommets (remarque: comme nous ne nous occupons pas de la 3e dimension, mettez **z** à 0).
 
+### La forme
 
+Une fois les sommets créés, il faut les regrouper dans une unique forme et dessiner les arrêtes.  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NTAzMzAyMjcsMjEzNTg3NTA4NSwtMT
-UxNTk0NjQyLDE0OTY1NzcxNDUsMTg0NjA5NjA1MywtNTU5MTU4
-MTI4LDM3MTUwODg5MiwtODQxMjcyNTUxLC0xMTkwNDU3MDA4LC
-0yMTI5MDc3MzQ3LDg2ODY4NDQ3NiwtMTI0MDM5MDkyMCwtMTky
-MjU0MDQwMCwtMzQxNTE1NDIzLDk2NDk0ODczMCwtNTU5ODY1NT
-AxLDIwNDI1OTAwODIsLTE3OTkzNTA3MzgsLTg3MTM3ODcwLDU1
-ODg5OTgwMl19
+eyJoaXN0b3J5IjpbOTY4NjE0OTI0LDIxMzU4NzUwODUsLTE1MT
+U5NDY0MiwxNDk2NTc3MTQ1LDE4NDYwOTYwNTMsLTU1OTE1ODEy
+OCwzNzE1MDg4OTIsLTg0MTI3MjU1MSwtMTE5MDQ1NzAwOCwtMj
+EyOTA3NzM0Nyw4Njg2ODQ0NzYsLTEyNDAzOTA5MjAsLTE5MjI1
+NDA0MDAsLTM0MTUxNTQyMyw5NjQ5NDg3MzAsLTU1OTg2NTUwMS
+wyMDQyNTkwMDgyLC0xNzk5MzUwNzM4LC04NzEzNzg3MCw1NTg4
+OTk4MDJdfQ==
 -->
