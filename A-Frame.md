@@ -112,10 +112,10 @@ mesh.rotateOnAxis(new THREE.Vector3(-1, 0, 0), Math.PI / 2);
 Pour bien comprendre pourquoi la rotation doit s'effectuer autour de l'axe X, je vous laisse lire la [documentation officielle](https://github.com/aframevr/aframe/blob/master/docs/components/position.md#value) sur le système de coordonnées utilisé par A-Frame. Vous remarquerez aussi que three.js utilise des radians comme unité angulaire alors qu'A-Frame des degrés. Une fois cette rotation effectuée, votre scène devrait ressembler à ça: [https://vr.chabloz.eu/hexagon_ocean.html](https://vr.chabloz.eu/hexagon_ocean.html)
 
 ### Pavage
-Pour le pavage, il va falloir cloner et positionner notre prisme hexagonal de base de multiple fois. Si vous avez bien lu la documentation sur le pavage hexagonale, 
+Pour le pavage, il va falloir cloner et positionner notre prisme hexagonal de base de multiple fois. Si vous avez bien lu la documentation sur le pavage hexagonale (lien directe vers la prtie qui nous interesse: [hex to pixel](https://www.redblobgames.com/grids/hexagons/#hex-to-pixel), 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcxNjk1MzUzNiwxMTE5NjYwMTI0LC0xNz
+eyJoaXN0b3J5IjpbMTI2NTUxMDI2OCwxMTE5NjYwMTI0LC0xNz
 U1ODQxMjAwLC02MzMzMjI2NzMsMTEyMjIwMzYxOCwtNDg3OTk3
 MjAzLDI3ODMxODEwNSwtMTcyMTMzNTc2Myw2MjM4NDcyOTEsLT
 E4NTI1NTk4MDgsLTg2NDI0MTk0NSwtMjQ1MDQyMjM3LC0xMjY4
