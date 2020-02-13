@@ -164,7 +164,7 @@ Comme vous pouvez le voir dans ce code, nous obtenons au final qu'un seul mesh p
 
 ### Mise à jour (*update*)
 
-
+Ajouter une méthode [update](https://aframe.io/docs/1.0.0/core/component.html#update-olddata) à votre compo
 
 ### Variation des couleurs
 
@@ -177,11 +177,11 @@ Essayez de rajouter un système de variation de la couleur de base pour chaque t
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MTY2NzgyMTAsMTE0NTMwNDIxNSwtMT
-UxMTU3ODcyMSw0MzM5NTEwNzAsMTk3OTM2MzMxNywtMjEyNzE5
-OTIyMSw1NjQ5NTk1NzUsNzQyNjU0MDk1LDIwNjY1ODQ1OTAsLT
-UzOTcwNjM4OSwxNDc2NjAwNjc5LC0xMDIyOTQ2NDc0LDExMTk2
-NjAxMjQsLTE3NTU4NDEyMDAsLTYzMzMyMjY3MywxMTIyMjAzNj
-E4LC00ODc5OTcyMDMsMjc4MzE4MTA1LC0xNzIxMzM1NzYzLDYy
-Mzg0NzI5MV19
+eyJoaXN0b3J5IjpbMTM2NDA3NzcxOCwxMTQ1MzA0MjE1LC0xNT
+ExNTc4NzIxLDQzMzk1MTA3MCwxOTc5MzYzMzE3LC0yMTI3MTk5
+MjIxLDU2NDk1OTU3NSw3NDI2NTQwOTUsMjA2NjU4NDU5MCwtNT
+M5NzA2Mzg5LDE0NzY2MDA2NzksLTEwMjI5NDY0NzQsMTExOTY2
+MDEyNCwtMTc1NTg0MTIwMCwtNjMzMzIyNjczLDExMjIyMDM2MT
+gsLTQ4Nzk5NzIwMywyNzgzMTgxMDUsLTE3MjEzMzU3NjMsNjIz
+ODQ3MjkxXX0=
 -->
