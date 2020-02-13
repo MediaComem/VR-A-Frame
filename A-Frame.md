@@ -176,14 +176,16 @@ Essayez de rajouter un système de variation de la couleur de base pour chaque t
 
 Voila un exemple: [https://vr.chabloz.eu/variation.html](https://vr.chabloz.eu/variation.html). Les touches 'I' et 'K' permettent réciproquement d’augmenter ou de décrémenter la variation de couleur. Les touches 'J' et 'L' permettent réciproquement d’augmenter ou de décrémenter le nombre de variations de couleur. Enfin la touche 'C' permet de changer la couleur de manière aléatoire. (Les touches des exemples précédents restent valables).
 
+### Zone d'aparition (*spawn zone*)
 
+Pour mettre en pratique votre nouvelle primitive. Créez un *ile* comme zone de départ pour le Hub VR.  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM0OTUzODU4NSwtODgwODk0MTQ2LDE5Nz
-cyMDM4NzEsMjA1ODMzMjUzMiwxMTQ1MzA0MjE1LC0xNTExNTc4
-NzIxLDQzMzk1MTA3MCwxOTc5MzYzMzE3LC0yMTI3MTk5MjIxLD
-U2NDk1OTU3NSw3NDI2NTQwOTUsMjA2NjU4NDU5MCwtNTM5NzA2
-Mzg5LDE0NzY2MDA2NzksLTEwMjI5NDY0NzQsMTExOTY2MDEyNC
-wtMTc1NTg0MTIwMCwtNjMzMzIyNjczLDExMjIyMDM2MTgsLTQ4
-Nzk5NzIwM119
+eyJoaXN0b3J5IjpbMTYwNTU5MDE2NCwxMzQ5NTM4NTg1LC04OD
+A4OTQxNDYsMTk3NzIwMzg3MSwyMDU4MzMyNTMyLDExNDUzMDQy
+MTUsLTE1MTE1Nzg3MjEsNDMzOTUxMDcwLDE5NzkzNjMzMTcsLT
+IxMjcxOTkyMjEsNTY0OTU5NTc1LDc0MjY1NDA5NSwyMDY2NTg0
+NTkwLC01Mzk3MDYzODksMTQ3NjYwMDY3OSwtMTAyMjk0NjQ3NC
+wxMTE5NjYwMTI0LC0xNzU1ODQxMjAwLC02MzMzMjI2NzMsMTEy
+MjIwMzYxOF19
 -->
