@@ -150,9 +150,9 @@ this.tilemap.forEach(node  => {
 this.el.setObject3D('mesh', new THREE.Mesh(mergedGeo, material));
 ```
 
-Comme vous pouvez le voir dans ce code, nous obtenons au final qu'un seul mesh plutôt que le groupe de *meshes* généré par la première version.  Dans cet exemple [https://vr.chabloz.eu/hexatile_ocean.html](https://vr.chabloz.eu/hexatile_ocean.html), vous pouvez appuyer sur la touche 'O' de votre clavier pour observer la différence entre  la version non-optimisée et optimisée (observez le nombre de *calls* dans les statistiques).  Vous pouvez aussi changer la taille du pavage avec les touches 1 à 9. (la touche 'B' est toujours active si vous voulez tester l'impacte du biseau sur le nombre de triangles lors de pavage de taille importante).
+Comme vous pouvez le voir dans ce code, nous obtenons au final qu'un seul mesh plutôt que le groupe de *meshes* généré par la première version.  Dans cet exemple [https://vr.chabloz.eu/hexatile_ocean.html](https://vr.chabloz.eu/hexatile_ocean.html), vous pouvez appuyer sur la touche 'O' de votre clavier pour observer la différence entre  la version non-optimisée et optimisée (observez le nombre de *calls* dans les statistiques).  Vous pouvez aussi changer la taille du pavage avec les touches 1 à 9. (la touche 'B' est toujours active si vous voulez tester l'impacte du biseau sur le nombre de triangles lors de pavage de taille importante. Mais n'oubliez pas de soustraite les 1000 traingles de l'océans).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NDMyMjgwNjcsNTY0OTU5NTc1LDc0Mj
+eyJoaXN0b3J5IjpbLTIxNDY4MDEwOTUsNTY0OTU5NTc1LDc0Mj
 Y1NDA5NSwyMDY2NTg0NTkwLC01Mzk3MDYzODksMTQ3NjYwMDY3
 OSwtMTAyMjk0NjQ3NCwxMTE5NjYwMTI0LC0xNzU1ODQxMjAwLC
 02MzMzMjI2NzMsMTEyMjIwMzYxOCwtNDg3OTk3MjAzLDI3ODMx
