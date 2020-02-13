@@ -150,9 +150,9 @@ this.tilemap.forEach(node  => {
 this.el.setObject3D('mesh', new THREE.Mesh(mergedGeo, material));
 ```
 
-
+Comme vous pouvez le voir dans ce code, nous obtenons au final qu'un seul mesh plutôt que le group de mesh généré par la première version.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMTk1MDk4NTIsMjA2NjU4NDU5MCwtNT
+eyJoaXN0b3J5IjpbLTE4NDcxODgxMjYsMjA2NjU4NDU5MCwtNT
 M5NzA2Mzg5LDE0NzY2MDA2NzksLTEwMjI5NDY0NzQsMTExOTY2
 MDEyNCwtMTc1NTg0MTIwMCwtNjMzMzIyNjczLDExMjIyMDM2MT
 gsLTQ4Nzk5NzIwMywyNzgzMTgxMDUsLTE3MjEzMzU3NjMsNjIz
