@@ -138,13 +138,13 @@ group.add(...this.tilemap);
 this.el.setObject3D('mesh', group);
  ```
 
-Mais ce qu'il va se passer avec cette méthode, c'est que three.js va dessiner chacun des enfants un par un (avec un appel de méthode à chaque fois). Puisque tous ces *meshes* utilisent le même matériau, il serait souhaitable de ne faire qu'un seul appel 
+Mais alors *three.js* va dessiner chacun des enfants un par un (avec un appel de méthode à chaque fois). Puisque tous ces *meshes* utilisent le même matériau, il serait souhaitable de ne faire qu'un seul appel de dessin. Pour optimiser notre code, 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTEzODUzMTMzLDIwNjY1ODQ1OTAsLTUzOT
-cwNjM4OSwxNDc2NjAwNjc5LC0xMDIyOTQ2NDc0LDExMTk2NjAx
-MjQsLTE3NTU4NDEyMDAsLTYzMzMyMjY3MywxMTIyMjAzNjE4LC
-00ODc5OTcyMDMsMjc4MzE4MTA1LC0xNzIxMzM1NzYzLDYyMzg0
-NzI5MSwtMTg1MjU1OTgwOCwtODY0MjQxOTQ1LC0yNDUwNDIyMz
-csLTEyNjgwNjM5NDMsMTcxNTMzNDUyMSwyMTM1ODc1MDg1LC0x
-NTE1OTQ2NDJdfQ==
+eyJoaXN0b3J5IjpbLTE2ODU0NjY0MjgsMjA2NjU4NDU5MCwtNT
+M5NzA2Mzg5LDE0NzY2MDA2NzksLTEwMjI5NDY0NzQsMTExOTY2
+MDEyNCwtMTc1NTg0MTIwMCwtNjMzMzIyNjczLDExMjIyMDM2MT
+gsLTQ4Nzk5NzIwMywyNzgzMTgxMDUsLTE3MjEzMzU3NjMsNjIz
+ODQ3MjkxLC0xODUyNTU5ODA4LC04NjQyNDE5NDUsLTI0NTA0Mj
+IzNywtMTI2ODA2Mzk0MywxNzE1MzM0NTIxLDIxMzU4NzUwODUs
+LTE1MTU5NDY0Ml19
 -->
