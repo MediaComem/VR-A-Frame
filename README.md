@@ -29,7 +29,7 @@ Article:
 
 ## Jeux vidéos
 
-La VR permet de faire partie intégrante de l'univers du jeu, ce qui apporte une grande immersion. Des jeux aux univers très développés, principalement à la première personne, cherchant une grande immersion du joueur bénéficie grandement de la VR. Un bon exemple est le jeu [Sykrim](https://bethesda.net/fr/article/4YSRrlXtpuKeWIK6EMiG84/skyrim-vr-arrive-sur-steamvr), adapté à la VR en 2018. un autre est le futur [Half-Life: Alyx](https://www.youtube.com/watch?v=O2W0N3uKXmo). La VR semble aussi adéquate pour les MMORPG, bien que pour le moment peu de tentative sont faites (à cause, entre autre, des problèmes de complexité, coût et  gestion des déplacements).
+La VR permet de faire partie intégrante de l'univers du jeu, ce qui apporte une grande immersion. Des jeux aux univers très développés, principalement à la première personne, cherchant une grande immersion du joueur bénéficie grandement de la VR. Un bon exemple est le jeu [Sykrim](https://bethesda.net/fr/article/4YSRrlXtpuKeWIK6EMiG84/skyrim-vr-arrive-sur-steamvr), adapté à la VR en 2018. un autre est le futur [Half-Life: Alyx](https://www.youtube.com/watch?v=O2W0N3uKXmo). La VR semble aussi adéquate pour les [MMORPG](https://fr.wikipedia.org/wiki/Jeu_de_r%C3%B4le_en_ligne_massivement_multijoueur), bien que pour le moment peu de tentative sont faites (à cause, entre autre, des problèmes de complexité, coût et  gestion des déplacements).
 
 Voir [Steam VR](https://store.steampowered.com/vr/)
 
@@ -366,11 +366,11 @@ Ce dépôt contient les différents supports pédagogiques nécessaires pour le 
 - Nicolas Chabloz
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNzU3NDgzMzcsMjAzMzU3MTA1OSwtMT
-EyNDg1OTI4NiwyMTU4NzY0NzgsLTU3MDQ1OTE3OCwtOTM3MTA0
-NzA2LDQ4OTgwMzczNCwxNzk4MjU3MTAxLC0xODI0OTQ0NzcyLC
-0xNzU3MTQwMjY1LDIwODkyMTU5Niw1OTQxNzA4ODgsMTY2OTM5
-MTA2OCwxODE5NTIxOTAxLDIxMzQyNTYyMjgsLTE4Nzg3MTQ0OD
-UsMTAzNDQyMzUxMywtMTQ4MTI4MDI3NSwtMjA4Nzk3NzU5NCwx
-NDczMjMyMl19
+eyJoaXN0b3J5IjpbMjUxMTA3Mjg5LDIwMzM1NzEwNTksLTExMj
+Q4NTkyODYsMjE1ODc2NDc4LC01NzA0NTkxNzgsLTkzNzEwNDcw
+Niw0ODk4MDM3MzQsMTc5ODI1NzEwMSwtMTgyNDk0NDc3MiwtMT
+c1NzE0MDI2NSwyMDg5MjE1OTYsNTk0MTcwODg4LDE2NjkzOTEw
+NjgsMTgxOTUyMTkwMSwyMTM0MjU2MjI4LC0xODc4NzE0NDg1LD
+EwMzQ0MjM1MTMsLTE0ODEyODAyNzUsLTIwODc5Nzc1OTQsMTQ3
+MzIzMjJdfQ==
 -->
