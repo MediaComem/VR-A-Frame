@@ -77,13 +77,13 @@ Une fois les sommets créés, il faut les regrouper dans une unique forme et des
 
 ### La géométrie (*geometry*)
 
-Il faut désormais transformer la forme 2D en mesh 3D. La classe [THREE.ExtrudeGeometry](https://threejs.org/docs/#api/en/geometries/ExtrudeGeometry) permet justement d'extruder une forme 2D. Il faut lui passer en p
+Il faut désormais transformer la forme 2D en mesh 3D. La classe [THREE.ExtrudeGeometry](https://threejs.org/docs/#api/en/geometries/ExtrudeGeometry) permet justement d'extruder une forme 2D. Il faut lui passer en premier paramètre la forme (créée au point précédent ) et en 2e, une configuration (sous la formte . 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUxMzk3ODI3MywtMTI2ODA2Mzk0MywxNz
-E1MzM0NTIxLDIxMzU4NzUwODUsLTE1MTU5NDY0MiwxNDk2NTc3
-MTQ1LDE4NDYwOTYwNTMsLTU1OTE1ODEyOCwzNzE1MDg4OTIsLT
-g0MTI3MjU1MSwtMTE5MDQ1NzAwOCwtMjEyOTA3NzM0Nyw4Njg2
-ODQ0NzYsLTEyNDAzOTA5MjAsLTE5MjI1NDA0MDAsLTM0MTUxNT
-QyMyw5NjQ5NDg3MzAsLTU1OTg2NTUwMSwyMDQyNTkwMDgyLC0x
-Nzk5MzUwNzM4XX0=
+eyJoaXN0b3J5IjpbLTE5NDE1ODE1OTUsLTEyNjgwNjM5NDMsMT
+cxNTMzNDUyMSwyMTM1ODc1MDg1LC0xNTE1OTQ2NDIsMTQ5NjU3
+NzE0NSwxODQ2MDk2MDUzLC01NTkxNTgxMjgsMzcxNTA4ODkyLC
+04NDEyNzI1NTEsLTExOTA0NTcwMDgsLTIxMjkwNzczNDcsODY4
+Njg0NDc2LC0xMjQwMzkwOTIwLC0xOTIyNTQwNDAwLC0zNDE1MT
+U0MjMsOTY0OTQ4NzMwLC01NTk4NjU1MDEsMjA0MjU5MDA4Miwt
+MTc5OTM1MDczOF19
 -->
