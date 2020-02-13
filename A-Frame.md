@@ -185,16 +185,18 @@ Pour mettre en pratique votre nouvelle primitive. Créez une *ile* comme zone de
 ### La caméra
 A-Frame ajoute une [caméra par défaut](https://aframe.io/docs/1.0.0/components/camera.html#default-camera). Elle possède les composants [look-controls](https://github.com/aframevr/aframe/blob/master/docs/components/look-controls.md) et [wasd-controls](https://github.com/aframevr/aframe/blob/master/docs/components/wasd-controls.md), qui permette réciproquement de contrôler la rotation de la caméra (via la souris, le *touch* ou le casque VR) et sa position (uniquement avec les touches *wasd* ou les touches directionelles). Le composant **look-controls** semble idéal puisqu'il s'adapte tout seul aux environnements desktop, smartphone ou casque VR. Par contre le composant **wasd-controls** ne permet pas de gérer les collisions avec une nav-mesh (voir plus bas), ni de s'adapter aux différents contrôleurs de l'utilisateur (par exemple il ne fonctionne pas sur un smartphone puisque les touches wasd sont inaccessibles). Nous allons donc utiliser un composant de **aframe-extra** pour la gestion des déplacements : [movement-controls](https://github.com/donmccurdy/aframe-extras/tree/master/src/controls). Créez donc une caméra *rig*  comme indiqué dans la documentation. Vous pouvez désormais tester votre scène avec votre smartphone pour voir que les mouvements sont fonctionnels grâce à la gestion des *touch* par le composant. 
 
+Comme vu dans l'[état de l'art](./
 
+todo: désactivation du sous-composant **trackpad-controls** grâce à l'option **controls** du composant. 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkwNDk5NTM2NywtOTkzNjk2MzM5LC03MT
-I5MDMxMDQsMTM0OTUzODU4NSwtODgwODk0MTQ2LDE5NzcyMDM4
-NzEsMjA1ODMzMjUzMiwxMTQ1MzA0MjE1LC0xNTExNTc4NzIxLD
-QzMzk1MTA3MCwxOTc5MzYzMzE3LC0yMTI3MTk5MjIxLDU2NDk1
-OTU3NSw3NDI2NTQwOTUsMjA2NjU4NDU5MCwtNTM5NzA2Mzg5LD
-E0NzY2MDA2NzksLTEwMjI5NDY0NzQsMTExOTY2MDEyNCwtMTc1
-NTg0MTIwMF19
+eyJoaXN0b3J5IjpbMTQ3NDg1NDU5LDE5MDQ5OTUzNjcsLTk5Mz
+Y5NjMzOSwtNzEyOTAzMTA0LDEzNDk1Mzg1ODUsLTg4MDg5NDE0
+NiwxOTc3MjAzODcxLDIwNTgzMzI1MzIsMTE0NTMwNDIxNSwtMT
+UxMTU3ODcyMSw0MzM5NTEwNzAsMTk3OTM2MzMxNywtMjEyNzE5
+OTIyMSw1NjQ5NTk1NzUsNzQyNjU0MDk1LDIwNjY1ODQ1OTAsLT
+UzOTcwNjM4OSwxNDc2NjAwNjc5LC0xMDIyOTQ2NDc0LDExMTk2
+NjAxMjRdfQ==
 -->
