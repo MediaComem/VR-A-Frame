@@ -134,15 +134,15 @@ Maintenant que nous avons notre pavage, il faut fusionner toutes les tuiles en u
 
  ```js
 let group = new THREE.Object3D(); // creat 
-this.tilemap.forEach(node => group.add(node));
+group.add(...this.tilemap);
 this.el.setObject3D('mesh', group);
  ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MjI1Mzk1NjksMTQ3NjYwMDY3OSwtMT
-AyMjk0NjQ3NCwxMTE5NjYwMTI0LC0xNzU1ODQxMjAwLC02MzMz
-MjI2NzMsMTEyMjIwMzYxOCwtNDg3OTk3MjAzLDI3ODMxODEwNS
-wtMTcyMTMzNTc2Myw2MjM4NDcyOTEsLTE4NTI1NTk4MDgsLTg2
-NDI0MTk0NSwtMjQ1MDQyMjM3LC0xMjY4MDYzOTQzLDE3MTUzMz
-Q1MjEsMjEzNTg3NTA4NSwtMTUxNTk0NjQyLDE0OTY1NzcxNDUs
-MTg0NjA5NjA1M119
+eyJoaXN0b3J5IjpbMTcwODM0NjMxLDE0NzY2MDA2NzksLTEwMj
+I5NDY0NzQsMTExOTY2MDEyNCwtMTc1NTg0MTIwMCwtNjMzMzIy
+NjczLDExMjIyMDM2MTgsLTQ4Nzk5NzIwMywyNzgzMTgxMDUsLT
+E3MjEzMzU3NjMsNjIzODQ3MjkxLC0xODUyNTU5ODA4LC04NjQy
+NDE5NDUsLTI0NTA0MjIzNywtMTI2ODA2Mzk0MywxNzE1MzM0NT
+IxLDIxMzU4NzUwODUsLTE1MTU5NDY0MiwxNDk2NTc3MTQ1LDE4
+NDYwOTYwNTNdfQ==
 -->
