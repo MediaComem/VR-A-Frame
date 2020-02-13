@@ -182,9 +182,9 @@ Pour mettre en pratique votre nouvelle primitive. Créez une *ile* comme zone de
 
 ## Camera, avatar et mesh de navigation (*nav-mesh*) 
 
-A-Frame ajoute une [caméra par défaut](https://aframe.io/docs/1.0.0/components/camera.html#default-camera). Elle possède les composants look-controls et wasd-controls
+A-Frame ajoute une [caméra par défaut](https://aframe.io/docs/1.0.0/components/camera.html#default-camera). Elle possède les composants [look-controls](https://github.com/aframevr/aframe/blob/master/docs/components/look-controls.md) et wasd-controls[https://github.com/aframevr/aframe/blob/master/docs/components/wasd-controls.md](https://github.com/aframevr/aframe/blob/master/docs/components/wasd-controls.md)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg0MDkwODEwMywxMzQ5NTM4NTg1LC04OD
+eyJoaXN0b3J5IjpbMTAwMjAzMjI4OCwxMzQ5NTM4NTg1LC04OD
 A4OTQxNDYsMTk3NzIwMzg3MSwyMDU4MzMyNTMyLDExNDUzMDQy
 MTUsLTE1MTE1Nzg3MjEsNDMzOTUxMDcwLDE5NzkzNjMzMTcsLT
 IxMjcxOTkyMjEsNTY0OTU5NTc1LDc0MjY1NDA5NSwyMDY2NTg0
