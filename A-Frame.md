@@ -130,7 +130,7 @@ clone.userData.coordinates = {q, r, s};
 
 ### Fusion des géométries (*merge*)
 
-Maintenant que nous avons notre pavage, il faut fusionner toutes les tuiles en un seul mesh.  Nous pourrions le faire naïvement en créant un objet 3D avec [THREE.Object3D](https://threejs.org/docs/#api/en/core/Object3D) et en ajoutant chaque tuile comme enfant comme ceci (si **tilemap** est le nom de notre tableau stockant toutes les tuiles du pavage) :
+Maintenant que nous avons notre pavage, il faut fusionner toutes les tuiles en un seul mesh.  Nous pourrions le faire naïvement en créant un objet 3D avec [THREE.Object3D](https://threejs.org/docs/#api/en/core/Object3D) et en ajoutant chaque tuile comme enfant (si **tilemap** est le nom de notre tableau stockant toutes les tuiles du pavage) :
 
  ```js
 let group = new THREE.Object3D(); 
@@ -139,11 +139,11 @@ this.el.setObject3D('mesh', group);
  ```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUzOTcwNjM4OSwxNDc2NjAwNjc5LC0xMD
-IyOTQ2NDc0LDExMTk2NjAxMjQsLTE3NTU4NDEyMDAsLTYzMzMy
-MjY3MywxMTIyMjAzNjE4LC00ODc5OTcyMDMsMjc4MzE4MTA1LC
-0xNzIxMzM1NzYzLDYyMzg0NzI5MSwtMTg1MjU1OTgwOCwtODY0
-MjQxOTQ1LC0yNDUwNDIyMzcsLTEyNjgwNjM5NDMsMTcxNTMzND
-UyMSwyMTM1ODc1MDg1LC0xNTE1OTQ2NDIsMTQ5NjU3NzE0NSwx
-ODQ2MDk2MDUzXX0=
+eyJoaXN0b3J5IjpbMjA2NjU4NDU5MCwtNTM5NzA2Mzg5LDE0Nz
+Y2MDA2NzksLTEwMjI5NDY0NzQsMTExOTY2MDEyNCwtMTc1NTg0
+MTIwMCwtNjMzMzIyNjczLDExMjIyMDM2MTgsLTQ4Nzk5NzIwMy
+wyNzgzMTgxMDUsLTE3MjEzMzU3NjMsNjIzODQ3MjkxLC0xODUy
+NTU5ODA4LC04NjQyNDE5NDUsLTI0NTA0MjIzNywtMTI2ODA2Mz
+k0MywxNzE1MzM0NTIxLDIxMzU4NzUwODUsLTE1MTU5NDY0Miwx
+NDk2NTc3MTQ1XX0=
 -->
