@@ -122,7 +122,7 @@ Pour le pavage, il va falloir cloner et positionner notre prisme hexagonal de mu
 clone.position.set(x, 0, z);
  ```
 
-**Petit ajout**: three.js offre la possibilité de stocker des données dans un mesh (sans impacter le framework) dans la propriété userData. Comme nous avons stocker nos tuiles dans un simple tableau, nous n'avons plus à disposition leurs coordonnées cubiques alors qu'elles pourraient être utile par la suite. Sauvegardons les dans cette propriété comme suit:
+**Petit ajout**: three.js offre la possibilité de stocker des données dans un mesh (sans impacter le framework) dans la propriété userData. Comme nous avons stocker nos tuiles dans un simple tableau, nous n'avons plus à disposition leurs coordonnées cubiques alors qu'elles pourraient être utile par la suite. Sauvegardons donc les coordonnées sur chaque clone comme suit:
  ```js
 let s = -q - r;
 clone.userData.coordinates = {q, r, s};
@@ -130,7 +130,7 @@ clone.userData.coordinates = {q, r, s};
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkxMDk2NDU2NSwxNDc2NjAwNjc5LC0xMD
+eyJoaXN0b3J5IjpbLTUzNjk2MDU3MywxNDc2NjAwNjc5LC0xMD
 IyOTQ2NDc0LDExMTk2NjAxMjQsLTE3NTU4NDEyMDAsLTYzMzMy
 MjY3MywxMTIyMjAzNjE4LC00ODc5OTcyMDMsMjc4MzE4MTA1LC
 0xNzIxMzM1NzYzLDYyMzg0NzI5MSwtMTg1MjU1OTgwOCwtODY0
