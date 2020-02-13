@@ -69,17 +69,17 @@ Suivez la documentation officielle pour rajouter une primitive et le composant a
 
 ### Les sommets (*vertices*)
 
-Lors de la phase d'initialisation du [composant](https://github.com/aframevr/aframe/blob/master/docs/introduction/writing-a-component.md), il va falloir générer toutes les pièces utiles à la création du *mesh* complet. Il semble donc logique de commencer par la génération d'un hexagone. 
+Lors de la phase d'initialisation du [composant](https://github.com/aframevr/aframe/blob/master/docs/introduction/writing-a-component.md), il va falloir générer toutes les pièces utiles à la création du *mesh* complet. Il semble donc logique de commencer par la génération d'un hexagone et donc de ses sommets. Un hexagone possédant 6 sommets, un tableau semble adéquat pour les stocké.
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA4NjMwNTI1OSwyMTM1ODc1MDg1LC0xNT
-E1OTQ2NDIsMTQ5NjU3NzE0NSwxODQ2MDk2MDUzLC01NTkxNTgx
-MjgsMzcxNTA4ODkyLC04NDEyNzI1NTEsLTExOTA0NTcwMDgsLT
-IxMjkwNzczNDcsODY4Njg0NDc2LC0xMjQwMzkwOTIwLC0xOTIy
-NTQwNDAwLC0zNDE1MTU0MjMsOTY0OTQ4NzMwLC01NTk4NjU1MD
-EsMjA0MjU5MDA4MiwtMTc5OTM1MDczOCwtODcxMzc4NzAsNTU4
-ODk5ODAyXX0=
+eyJoaXN0b3J5IjpbOTYwNjUyNjIsMjEzNTg3NTA4NSwtMTUxNT
+k0NjQyLDE0OTY1NzcxNDUsMTg0NjA5NjA1MywtNTU5MTU4MTI4
+LDM3MTUwODg5MiwtODQxMjcyNTUxLC0xMTkwNDU3MDA4LC0yMT
+I5MDc3MzQ3LDg2ODY4NDQ3NiwtMTI0MDM5MDkyMCwtMTkyMjU0
+MDQwMCwtMzQxNTE1NDIzLDk2NDk0ODczMCwtNTU5ODY1NTAxLD
+IwNDI1OTAwODIsLTE3OTkzNTA3MzgsLTg3MTM3ODcwLDU1ODg5
+OTgwMl19
 -->
