@@ -150,13 +150,13 @@ this.tilemap.forEach(node  => {
 this.el.setObject3D('mesh', new THREE.Mesh(mergedGeo, material));
 ```
 
-Comme vous pouvez le voir dans ce code, nous obtenons au final qu'un seul mesh plutôt que le groupe de *meshes* généré par la première version.  Dans cet exemple [https://vr.chabloz.eu/hexatile_ocean.html](https://vr.chabloz.eu/hexatile_ocean.html), vous pouvez appuyer sur la touche 'O' de votre clavier pour observer la différence entre  la version non-optimisée et optimisée (observez le nombre de *calls* dans les statistiques).  Vous pouvez aussi changer la taille du pavage avec les touches 1 à 9. (la touche 'B' est toujours active si vous voulez tester l'impacte du biseau sur le nombre de triangles lors de pavage de taille importante. Mais n'oubliez pas de soustraire les 10'000 triangles de l'océans).
+Comme vous pouvez le voir dans ce code, nous obtenons au final qu'un seul mesh plutôt que le groupe de *meshes* généré par la première version.  Dans cet exemple [https://vr.chabloz.eu/hexatile_ocean.html](https://vr.chabloz.eu/hexatile_ocean.html), vous pouvez appuyer sur la touche 'O' de votre clavier pour observer la différence entre  la version non-optimisée et optimisée (observez le nombre de *calls* dans les statistiques, deux de ces *calls*).  Vous pouvez aussi changer la taille du pavage avec les touches 1 à 9. (la touche 'B' est toujours active si vous voulez tester l'impacte du biseau sur le nombre de triangles lors de pavage de taille importante. Mais n'oubliez pas de soustraire les 10'000 triangles de l'océans).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjg1MTIwMDk4LDU2NDk1OTU3NSw3NDI2NT
-QwOTUsMjA2NjU4NDU5MCwtNTM5NzA2Mzg5LDE0NzY2MDA2Nzks
-LTEwMjI5NDY0NzQsMTExOTY2MDEyNCwtMTc1NTg0MTIwMCwtNj
-MzMzIyNjczLDExMjIyMDM2MTgsLTQ4Nzk5NzIwMywyNzgzMTgx
-MDUsLTE3MjEzMzU3NjMsNjIzODQ3MjkxLC0xODUyNTU5ODA4LC
-04NjQyNDE5NDUsLTI0NTA0MjIzNywtMTI2ODA2Mzk0MywxNzE1
-MzM0NTIxXX0=
+eyJoaXN0b3J5IjpbLTIzMDA4MTYxNSw1NjQ5NTk1NzUsNzQyNj
+U0MDk1LDIwNjY1ODQ1OTAsLTUzOTcwNjM4OSwxNDc2NjAwNjc5
+LC0xMDIyOTQ2NDc0LDExMTk2NjAxMjQsLTE3NTU4NDEyMDAsLT
+YzMzMyMjY3MywxMTIyMjAzNjE4LC00ODc5OTcyMDMsMjc4MzE4
+MTA1LC0xNzIxMzM1NzYzLDYyMzg0NzI5MSwtMTg1MjU1OTgwOC
+wtODY0MjQxOTQ1LC0yNDUwNDIyMzcsLTEyNjgwNjM5NDMsMTcx
+NTMzNDUyMV19
 -->
