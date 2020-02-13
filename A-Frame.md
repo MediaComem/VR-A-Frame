@@ -122,7 +122,9 @@ Pour le pavage, il va falloir cloner et positionner notre prisme hexagonal de mu
 clone.position.set(x, 0, z);
  ```
 
-Afin de donner un pavage plus esthétique, vous pouvez aussi rajouter 
+Afin de donner un pavage plus esthétique, vous pouvez aussi rajouter un écart entre les tuiles. Vous pouvez-faire ceci en réduisant simplement la taille du mesh de l'hexagone de base en three.js comme ceci:
+
+
 
 **Petit ajout**: three.js offre la possibilité de stocker des données dans un mesh (sans impacter le framework) dans la propriété **userData**. Comme nous avons stocké nos tuiles dans un simple tableau, nous n'avons plus à disposition leurs coordonnées cubiques alors qu'elles pourraient être utile par la suite. Sauvegardons donc les coordonnées de chaque clone comme ceci:
  ```js
@@ -156,11 +158,11 @@ Comme vous pouvez le voir dans ce code, nous obtenons au final qu'un seul mesh p
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMjMzNzkyMTUsMTk3OTM2MzMxNywtMj
-EyNzE5OTIyMSw1NjQ5NTk1NzUsNzQyNjU0MDk1LDIwNjY1ODQ1
-OTAsLTUzOTcwNjM4OSwxNDc2NjAwNjc5LC0xMDIyOTQ2NDc0LD
-ExMTk2NjAxMjQsLTE3NTU4NDEyMDAsLTYzMzMyMjY3MywxMTIy
-MjAzNjE4LC00ODc5OTcyMDMsMjc4MzE4MTA1LC0xNzIxMzM1Nz
-YzLDYyMzg0NzI5MSwtMTg1MjU1OTgwOCwtODY0MjQxOTQ1LC0y
-NDUwNDIyMzddfQ==
+eyJoaXN0b3J5IjpbLTc5NDU1NDI4NSwxOTc5MzYzMzE3LC0yMT
+I3MTk5MjIxLDU2NDk1OTU3NSw3NDI2NTQwOTUsMjA2NjU4NDU5
+MCwtNTM5NzA2Mzg5LDE0NzY2MDA2NzksLTEwMjI5NDY0NzQsMT
+ExOTY2MDEyNCwtMTc1NTg0MTIwMCwtNjMzMzIyNjczLDExMjIy
+MDM2MTgsLTQ4Nzk5NzIwMywyNzgzMTgxMDUsLTE3MjEzMzU3Nj
+MsNjIzODQ3MjkxLC0xODUyNTU5ODA4LC04NjQyNDE5NDUsLTI0
+NTA0MjIzN119
 -->
