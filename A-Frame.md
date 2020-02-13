@@ -95,9 +95,14 @@ let material = new  THREE.MeshLambertMaterial({color:  new  THREE.Color(this.dat
 
 ### Le mesh
 
-Finalement, il faut appliquer notre matériel sur notre géométrie pour avoir un mesh final texturé. Utilsez donc la classe [THREE.Mesh](https://threejs.org/docs/#api/en/objects/Mesh) pour le faire. Pour faire un test, utiliser ce mesh thrre.js en temps que mesh A-Frame 
+Finalement, il faut appliquer notre matériel sur notre géométrie pour avoir un mesh final texturé. Utilsez donc la classe [THREE.Mesh](https://threejs.org/docs/#api/en/objects/Mesh) pour le faire. Pour faire un test, utiliser ce mesh *three.js* en temps que mesh *A-Frame*  grâce au code suivant:
+
+ ```js
+ this.el.setObject3D('mesh', mesh);
+```
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNTI2NjIwMjQsNjIzODQ3MjkxLC0xOD
+eyJoaXN0b3J5IjpbLTE3MjEzMzU3NjMsNjIzODQ3MjkxLC0xOD
 UyNTU5ODA4LC04NjQyNDE5NDUsLTI0NTA0MjIzNywtMTI2ODA2
 Mzk0MywxNzE1MzM0NTIxLDIxMzU4NzUwODUsLTE1MTU5NDY0Mi
 wxNDk2NTc3MTQ1LDE4NDYwOTYwNTMsLTU1OTE1ODEyOCwzNzE1
