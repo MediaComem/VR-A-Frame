@@ -107,12 +107,13 @@ Comme vous pouvez le remarquer lors de votre test, l'orientation de l'hexagone o
 mesh.rotateOnAxis(new THREE.Vector3(-1, 0, 0), Math.PI / 2);
   ```
 
+Pour bien comprendre pourquoi la rotation doit s'effectuer autour de l'axe X, je vous laisse lire la [documentation officielle](https://github.com/aframevr/aframe/blob/master/docs/components/position.md#value).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ4Nzk5NzIwMywyNzgzMTgxMDUsLTE3Mj
-EzMzU3NjMsNjIzODQ3MjkxLC0xODUyNTU5ODA4LC04NjQyNDE5
-NDUsLTI0NTA0MjIzNywtMTI2ODA2Mzk0MywxNzE1MzM0NTIxLD
-IxMzU4NzUwODUsLTE1MTU5NDY0MiwxNDk2NTc3MTQ1LDE4NDYw
-OTYwNTMsLTU1OTE1ODEyOCwzNzE1MDg4OTIsLTg0MTI3MjU1MS
-wtMTE5MDQ1NzAwOCwtMjEyOTA3NzM0Nyw4Njg2ODQ0NzYsLTEy
-NDAzOTA5MjBdfQ==
+eyJoaXN0b3J5IjpbMTkyNjg0MDc1MywtNDg3OTk3MjAzLDI3OD
+MxODEwNSwtMTcyMTMzNTc2Myw2MjM4NDcyOTEsLTE4NTI1NTk4
+MDgsLTg2NDI0MTk0NSwtMjQ1MDQyMjM3LC0xMjY4MDYzOTQzLD
+E3MTUzMzQ1MjEsMjEzNTg3NTA4NSwtMTUxNTk0NjQyLDE0OTY1
+NzcxNDUsMTg0NjA5NjA1MywtNTU5MTU4MTI4LDM3MTUwODg5Mi
+wtODQxMjcyNTUxLC0xMTkwNDU3MDA4LC0yMTI5MDc3MzQ3LDg2
+ODY4NDQ3Nl19
 -->
