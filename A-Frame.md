@@ -77,13 +77,13 @@ Une fois les sommets créés, il faut les regrouper dans une unique forme et des
 
 ### La géométrie (*geometry*)
 
-Il faut désormais transformer la forme 2D en mesh 3D. La classe [THREE.ExtrudeGeometry](https://threejs.org/docs/#api/en/geometries/ExtrudeGeometry) permet justement d'extruder une forme 2D. Il faut lui passer en premier paramètre la forme (créée au point précédent ) et en 2e, une configuration (sous la forme d'un objet).  Comme vous pouvez le constater dans la documentation, l'on peut  appliquer un biseau (*bevel*) lors de cette opération (pour être précis il s'agit plutôt d'un [chanfrein](https://fr.wikipedia.org/wiki/Chanfrein). Vous pouvez soit désactiver le biseau, 
+Il faut désormais transformer la forme 2D en mesh 3D. La classe [THREE.ExtrudeGeometry](https://threejs.org/docs/#api/en/geometries/ExtrudeGeometry) permet justement d'extruder une forme 2D. Il faut lui passer en premier paramètre la forme (créée au point précédent ) et en 2e, une configuration (sous la forme d'un objet).  Comme vous pouvez le constater dans la documentation, l'on peut  appliquer un biseau (*bevel*) lors de cette opération (pour être précis, il s'agit plutôt d'un [chanfrein](https://fr.wikipedia.org/wiki/Chanfrein)). Vous pouvez soit désactiver le biseau, soit le rendre optionnel grâce à un attribut de votre primitive. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI0NTA0MjIzNywtMTI2ODA2Mzk0MywxNz
-E1MzM0NTIxLDIxMzU4NzUwODUsLTE1MTU5NDY0MiwxNDk2NTc3
-MTQ1LDE4NDYwOTYwNTMsLTU1OTE1ODEyOCwzNzE1MDg4OTIsLT
-g0MTI3MjU1MSwtMTE5MDQ1NzAwOCwtMjEyOTA3NzM0Nyw4Njg2
-ODQ0NzYsLTEyNDAzOTA5MjAsLTE5MjI1NDA0MDAsLTM0MTUxNT
-QyMyw5NjQ5NDg3MzAsLTU1OTg2NTUwMSwyMDQyNTkwMDgyLC0x
-Nzk5MzUwNzM4XX0=
+eyJoaXN0b3J5IjpbLTg2NDI0MTk0NSwtMjQ1MDQyMjM3LC0xMj
+Y4MDYzOTQzLDE3MTUzMzQ1MjEsMjEzNTg3NTA4NSwtMTUxNTk0
+NjQyLDE0OTY1NzcxNDUsMTg0NjA5NjA1MywtNTU5MTU4MTI4LD
+M3MTUwODg5MiwtODQxMjcyNTUxLC0xMTkwNDU3MDA4LC0yMTI5
+MDc3MzQ3LDg2ODY4NDQ3NiwtMTI0MDM5MDkyMCwtMTkyMjU0MD
+QwMCwtMzQxNTE1NDIzLDk2NDk0ODczMCwtNTU5ODY1NTAxLDIw
+NDI1OTAwODJdfQ==
 -->
