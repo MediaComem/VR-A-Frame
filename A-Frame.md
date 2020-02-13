@@ -87,7 +87,7 @@ Dans cet exemple [https://vr.chabloz.eu/hexagon.html](https://vr.chabloz.eu/hexa
 
 ### Le matériau (*material*)
 
-Avec le framework *three.js*, les textures sont appliquées sous la forme d'un matériel (*material*).  Il existe plusieurs types de matériaux dans *three.js*,  le moins gourmand en ressource étant [THREE.MeshLambertMaterial](https://threejs.org/docs/#api/en/materials/MeshLambertMaterial), nous allons l'utiliser pour appliquer une simple texture de couleur sur notre hexagone. three.js offre la possibilité de passer directement la couleur au matériel comme ceci : 
+Avec le framework *three.js*, les textures sont appliquées sous la forme d'un matériau (*material*).  Il existe plusieurs types de matériaux dans *three.js*,  le moins gourmand en ressource étant [THREE.MeshLambertMaterial](https://threejs.org/docs/#api/en/materials/MeshLambertMaterial), nous allons l'utiliser pour appliquer une simple texture de couleur sur notre hexagone. three.js offre la possibilité de passer directement la couleur au matériau comme ceci : 
 
 ```js
 let material = new  THREE.MeshLambertMaterial({color:  new  THREE.Color(this.data.color)});
@@ -95,7 +95,7 @@ let material = new  THREE.MeshLambertMaterial({color:  new  THREE.Color(this.dat
 
 ### Le mesh
 
-Finalement, il faut appliquer notre matériel sur notre géométrie pour avoir un mesh final texturé. Utilsez donc la classe [THREE.Mesh](https://threejs.org/docs/#api/en/objects/Mesh) pour le faire. Pour faire un test, utiliser ce mesh *three.js* en temps que mesh *A-Frame*  grâce au code suivant:
+Finalement, il faut appliquer notre matériau sur notre géométrie pour avoir un mesh final texturé. Utilisez donc la classe [THREE.Mesh](https://threejs.org/docs/#api/en/objects/Mesh) pour le faire. Pour faire un test, utiliser ce mesh *three.js* en temps que mesh *A-Frame*  grâce au code suivant:
 
  ```js
  this.el.setObject3D('mesh', mesh);
@@ -113,7 +113,7 @@ Pour bien comprendre pourquoi la rotation doit s'effectuer autour de l'axe X, je
 
 ### Pavage
 
-Pour le pavage, il va falloir cloner et positionner notre prisme hexagonal de multiple fois. Si vous avez bien lu la documentation sur le pavage hexagonale (lien directe vers les parties qui nous intéresse: [hex to pixel](https://www.redblobgames.com/grids/hexagons/#hex-to-pixel) et [range](https://www.redblobgames.com/grids/hexagons/#range)),  il vous suffit de parcourir les coordonnées axiales **q** et **r** puis, pour chaque tuile:
+Pour le pavage, il va falloir cloner et positionner notre prisme hexagonal de multiple fois. Si vous avez bien lu la documentation sur le pavage hexagonale (lien directe vers les parties qui nous intéresse: [hex to pixel](https://www.redblobgames.com/grids/hexagons/#hex-to-pixel) et [range](https://www.redblobgames.com/grids/hexagons/#range)),  il vous suffit de parcourir les coordonnées axiales **q** et **r** selpuis, pour chaque tuile:
 - de cloner votre mesh (avec la méthode [clone()](https://threejs.org/docs/#api/en/objects/Mesh.clone) de three.js) et de l'ajouter à une structure pour le stockage du pavage (un tableau par exemple)
 
 -  de calculer les coordonnées **x** et **z** associées aux coordonnées **q** et **r**, et des les attribuer au mesh cloné grâce au  code suivant:
@@ -138,13 +138,13 @@ group.add(...this.tilemap);
 this.el.setObject3D('mesh', group);
  ```
 
-Mais ce qu'il va se passer avec cette méthode, c'est que three.js va dessiner chacun des enfants un par un (avec un appel de méthode à chaque fois). Puisque tous ces *meshes* utilisent le même matériau, 
+Mais ce qu'il va se passer avec cette méthode, c'est que three.js va dessiner chacun des enfants un par un (avec un appel de méthode à chaque fois). Puisque tous ces *meshes* utilisent le même matériau, il serait souhaitable de ne faire qu'un seul appel 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNjMyNDk4NjQsMjA2NjU4NDU5MCwtNT
-M5NzA2Mzg5LDE0NzY2MDA2NzksLTEwMjI5NDY0NzQsMTExOTY2
-MDEyNCwtMTc1NTg0MTIwMCwtNjMzMzIyNjczLDExMjIyMDM2MT
-gsLTQ4Nzk5NzIwMywyNzgzMTgxMDUsLTE3MjEzMzU3NjMsNjIz
-ODQ3MjkxLC0xODUyNTU5ODA4LC04NjQyNDE5NDUsLTI0NTA0Mj
-IzNywtMTI2ODA2Mzk0MywxNzE1MzM0NTIxLDIxMzU4NzUwODUs
-LTE1MTU5NDY0Ml19
+eyJoaXN0b3J5IjpbMTcyMTI1NDMwMCwyMDY2NTg0NTkwLC01Mz
+k3MDYzODksMTQ3NjYwMDY3OSwtMTAyMjk0NjQ3NCwxMTE5NjYw
+MTI0LC0xNzU1ODQxMjAwLC02MzMzMjI2NzMsMTEyMjIwMzYxOC
+wtNDg3OTk3MjAzLDI3ODMxODEwNSwtMTcyMTMzNTc2Myw2MjM4
+NDcyOTEsLTE4NTI1NTk4MDgsLTg2NDI0MTk0NSwtMjQ1MDQyMj
+M3LC0xMjY4MDYzOTQzLDE3MTUzMzQ1MjEsMjEzNTg3NTA4NSwt
+MTUxNTk0NjQyXX0=
 -->
