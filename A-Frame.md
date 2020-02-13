@@ -178,10 +178,12 @@ Voila un exemple: [https://vr.chabloz.eu/variation.html](https://vr.chabloz.eu/v
 
 ### Zone d'aparition (*spawn zone*)
 
-Pour mettre en pratique votre nouvelle primitive. Créez une *ile* comme zone de départ pour le Hub VR. Vous pouvez prendre comme exemple le hub du corrigé ([https://vr.chabloz.eu](https://vr.chabloz.eu)), mais vous ê. La seul chose requise sur 
+Pour mettre en pratique votre nouvelle primitive. Créez une *ile* comme zone de départ pour le Hub VR. Vous pouvez prendre comme exemple le hub du corrigé ([https://vr.chabloz.eu](https://vr.chabloz.eu)). La seul chose requise pour la suite est d'y faire figurer un interrupteur (*switch*) qui permettra de sortir de cette zone.
+
+## Camera et mesh de navi 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkwOTYwNTk4MywxMzQ5NTM4NTg1LC04OD
+eyJoaXN0b3J5IjpbMTMzODAxMTI2MCwxMzQ5NTM4NTg1LC04OD
 A4OTQxNDYsMTk3NzIwMzg3MSwyMDU4MzMyNTMyLDExNDUzMDQy
 MTUsLTE1MTE1Nzg3MjEsNDMzOTUxMDcwLDE5NzkzNjMzMTcsLT
 IxMjcxOTkyMjEsNTY0OTU5NTc1LDc0MjY1NDA5NSwyMDY2NTg0
