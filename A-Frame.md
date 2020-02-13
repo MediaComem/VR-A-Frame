@@ -183,9 +183,9 @@ Pour mettre en pratique votre nouvelle primitive. Créez une *ile* comme zone de
 ## Caméra, avatar et mesh de navigation (*nav-mesh*) 
 
 ### La caméra
-A-Frame ajoute une [caméra par défaut](https://aframe.io/docs/1.0.0/components/camera.html#default-camera). Elle possède les composants [look-controls](https://github.com/aframevr/aframe/blob/master/docs/components/look-controls.md) et [wasd-controls](https://github.com/aframevr/aframe/blob/master/docs/components/wasd-controls.md), qui permette réciproquement de contrôler la rotation de la caméra (via la souris, le *touch* ou le casque VR) et sa position (uniquement avec les touches *wasd* ou les touches directionelles). Le composant look-controls semble idéal pour ce que nous voulons réaliser puisqu'il s'adapte tout seul à l'environnement  *desktop*, *smartphone* ou casque VR. 
+A-Frame ajoute une [caméra par défaut](https://aframe.io/docs/1.0.0/components/camera.html#default-camera). Elle possède les composants [look-controls](https://github.com/aframevr/aframe/blob/master/docs/components/look-controls.md) et [wasd-controls](https://github.com/aframevr/aframe/blob/master/docs/components/wasd-controls.md), qui permette réciproquement de contrôler la rotation de la caméra (via la souris, le *touch* ou le casque VR) et sa position (uniquement avec les touches *wasd* ou les touches directionelles). Le composant **look-controls** semble idéal puisqu'il s'adapte tout seul aux l'environnements  desktop, smartphone ou casque VR. Par contre le composant **wasd-controls** ne permet pas de gérer les collisions avec une nav-mesh (voir plus bas), ni de s'adapter 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjExNzE0Mjc5MCwtNzEyOTAzMTA0LDEzND
+eyJoaXN0b3J5IjpbMTk0MDU4NTE3NiwtNzEyOTAzMTA0LDEzND
 k1Mzg1ODUsLTg4MDg5NDE0NiwxOTc3MjAzODcxLDIwNTgzMzI1
 MzIsMTE0NTMwNDIxNSwtMTUxMTU3ODcyMSw0MzM5NTEwNzAsMT
 k3OTM2MzMxNywtMjEyNzE5OTIyMSw1NjQ5NTk1NzUsNzQyNjU0
