@@ -124,13 +124,13 @@ clone.position.set(x, 0, z);
 
 **Petit ajout**: three.js offre la possibilité de stocker des données dans un mesh (sans impacter le framework) dans la propriété userData. Comme nous avons stocker nos tuiles dans un simple tableau, nous n'avons plus à disposition leurs coordonnées cubiques. Sauvegardons les dans cette propriété comme suit:
  ```js
-let s = -q -r;
+let s = -q - r;
 clone.userData.coordinates = {q, r, s};
  ```
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk4OTkyNDQ2MSwtMTAyMjk0NjQ3NCwxMT
+eyJoaXN0b3J5IjpbMTQ3NjYwMDY3OSwtMTAyMjk0NjQ3NCwxMT
 E5NjYwMTI0LC0xNzU1ODQxMjAwLC02MzMzMjI2NzMsMTEyMjIw
 MzYxOCwtNDg3OTk3MjAzLDI3ODMxODEwNSwtMTcyMTMzNTc2My
 w2MjM4NDcyOTEsLTE4NTI1NTk4MDgsLTg2NDI0MTk0NSwtMjQ1
