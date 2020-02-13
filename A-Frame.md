@@ -116,7 +116,7 @@ Pour bien comprendre pourquoi la rotation doit s'effectuer autour de l'axe X, je
 Pour le pavage, il va falloir cloner et positionner notre prisme hexagonal de multiple fois. Si vous avez bien lu la documentation sur le pavage hexagonale (lien directe vers les parties qui nous intéresse: [hex to pixel](https://www.redblobgames.com/grids/hexagons/#hex-to-pixel) et [range](https://www.redblobgames.com/grids/hexagons/#range)),  il vous suffit de parcourir les coordonnées axiales **q** et **r** selon la taille du pavage (attribut **size**) , pour chaque tuile:
 - de cloner votre mesh (avec la méthode [clone()](https://threejs.org/docs/#api/en/objects/Mesh.clone) de three.js) et de l'ajouter à une structure pour le stockage du pavage (un tableau par exemple)
 
--  de calculer les coordonnées **x** et **z** associées aux coordonnées **q** et **r** et à la tailles des tuiles (attribut **tilesize**), et des les attribuer au mesh cloné grâce au  code suivant:
+-  de calculer les coordonnées **x** et **z** associées aux coordonnées **q** et **r** et à la tailles des tuiles (attribut **cellsize**), et des les attribuer au mesh cloné grâce au  code suivant:
 
  ```js
 clone.position.set(x, 0, z);
@@ -152,11 +152,11 @@ this.el.setObject3D('mesh', new THREE.Mesh(mergedGeo, material));
 
 Comme vous pouvez le voir dans ce code, nous obtenons au final qu'un seul mesh plutôt que le groupe de *meshes* généré par la première version.  Dans cet exemple [https://vr.chabloz.eu/hexatile_ocean.html](https://vr.chabloz.eu/hexatile_ocean.html), vous pouvez appuyer sur la touche 'O' de votre clavier pour observer la différence entre  la version non-optimisée et optimisée (observez le nombre de *calls* dans les statistiques, deux de ces *calls* sont les dessins des deux océans).  Vous pouvez aussi changer la taille du pavage avec les touches '1' à '9'. (la touche 'B' est toujours active si vous voulez tester l'impacte du biseau sur le nombre de triangles lors de pavage de taille importante. Mais n'oubliez pas de soustraire les 10'000 triangles de l'océans).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMyMjYyODEsLTIxMjcxOTkyMjEsNTY0OT
-U5NTc1LDc0MjY1NDA5NSwyMDY2NTg0NTkwLC01Mzk3MDYzODks
-MTQ3NjYwMDY3OSwtMTAyMjk0NjQ3NCwxMTE5NjYwMTI0LC0xNz
-U1ODQxMjAwLC02MzMzMjI2NzMsMTEyMjIwMzYxOCwtNDg3OTk3
-MjAzLDI3ODMxODEwNSwtMTcyMTMzNTc2Myw2MjM4NDcyOTEsLT
-E4NTI1NTk4MDgsLTg2NDI0MTk0NSwtMjQ1MDQyMjM3LC0xMjY4
-MDYzOTQzXX0=
+eyJoaXN0b3J5IjpbMTk3OTM2MzMxNywtMjEyNzE5OTIyMSw1Nj
+Q5NTk1NzUsNzQyNjU0MDk1LDIwNjY1ODQ1OTAsLTUzOTcwNjM4
+OSwxNDc2NjAwNjc5LC0xMDIyOTQ2NDc0LDExMTk2NjAxMjQsLT
+E3NTU4NDEyMDAsLTYzMzMyMjY3MywxMTIyMjAzNjE4LC00ODc5
+OTcyMDMsMjc4MzE4MTA1LC0xNzIxMzM1NzYzLDYyMzg0NzI5MS
+wtMTg1MjU1OTgwOCwtODY0MjQxOTQ1LC0yNDUwNDIyMzcsLTEy
+NjgwNjM5NDNdfQ==
 -->
