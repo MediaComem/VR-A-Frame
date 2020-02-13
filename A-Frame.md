@@ -130,7 +130,7 @@ clone.userData.coordinates = {q, r, s};
 
 ### Fusion des géométries (*merge*
 
-Maintenant que nous avons notre pavage, il faut fusionner toutes les tuiles en un seul mesh.  Nous pourrions le faire naïvement comme ceci (si **tilemap** est le nom de notre tableau stockant toutes les tuiles du pavage) :
+Maintenant que nous avons notre pavage, il faut fusionner toutes les tuiles en un seul mesh.  Nous pourrions le faire naïvement en créant un objet 3D avec [THREE.Object3D](https://threejs.org/docs/#api/en/core/Object3D) et en ajoutant chaque tuile comme enfant comme ceci (si **tilemap** est le nom de notre tableau stockant toutes les tuiles du pavage) :
 
  ```js
 let group = new THREE.Object3D(); // creat 
@@ -140,7 +140,7 @@ this.tilemap.forEach(node  => {
 this.el.setObject3D('mesh', group);
  ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NDE1NTg0MDEsMTQ3NjYwMDY3OSwtMT
+eyJoaXN0b3J5IjpbLTE0NzI0MTU4OTUsMTQ3NjYwMDY3OSwtMT
 AyMjk0NjQ3NCwxMTE5NjYwMTI0LC0xNzU1ODQxMjAwLC02MzMz
 MjI2NzMsMTEyMjIwMzYxOCwtNDg3OTk3MjAzLDI3ODMxODEwNS
 wtMTcyMTMzNTc2Myw2MjM4NDcyOTEsLTE4NTI1NTk4MDgsLTg2
