@@ -113,14 +113,14 @@ Pour bien comprendre pourquoi la rotation doit s'effectuer autour de l'axe X, je
 
 ### Pavage
 
-Pour le pavage, il va falloir cloner et positionner notre prisme hexagonal de base de multiple fois. Si vous avez bien lu la documentation sur le pavage hexagonale (lien directe vers les parties qui nous intéresse: [hex to pixel](https://www.redblobgames.com/grids/hexagons/#hex-to-pixel) et [range](https://www.redblobgames.com/grids/hexagons/#range)),  il vous suffit de parcourir les coordonnées axiales **q** et **r** puis, pour chaque tuile de notre pavage hexagonal, de calculer les coordonnées **x** et **z** associées et enfin de cloner votre mesh (avec la méthode [clone()](https://threejs.org/docs/#api/en/objects/Mesh.clone) de three.js)    
+Pour le pavage, il va falloir cloner et positionner notre prisme hexagonal de multiple fois. Si vous avez bien lu la documentation sur le pavage hexagonale (lien directe vers les parties qui nous intéresse: [hex to pixel](https://www.redblobgames.com/grids/hexagons/#hex-to-pixel) et [range](https://www.redblobgames.com/grids/hexagons/#range)),  il vous suffit de parcourir les coordonnées axiales **q** et **r** puis, pour chaque tuile de notre pavage hexagonal, de calculer les coordonnées **x** et **z** associées et enfin de cloner votre mesh (avec la méthode [clone()](https://threejs.org/docs/#api/en/objects/Mesh.clone) de three.js)    
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzQwNjA0MzksMTExOTY2MDEyNCwtMTc1NT
-g0MTIwMCwtNjMzMzIyNjczLDExMjIyMDM2MTgsLTQ4Nzk5NzIw
-MywyNzgzMTgxMDUsLTE3MjEzMzU3NjMsNjIzODQ3MjkxLC0xOD
-UyNTU5ODA4LC04NjQyNDE5NDUsLTI0NTA0MjIzNywtMTI2ODA2
-Mzk0MywxNzE1MzM0NTIxLDIxMzU4NzUwODUsLTE1MTU5NDY0Mi
-wxNDk2NTc3MTQ1LDE4NDYwOTYwNTMsLTU1OTE1ODEyOCwzNzE1
-MDg4OTJdfQ==
+eyJoaXN0b3J5IjpbLTE3OTcyODcwMzMsMTExOTY2MDEyNCwtMT
+c1NTg0MTIwMCwtNjMzMzIyNjczLDExMjIyMDM2MTgsLTQ4Nzk5
+NzIwMywyNzgzMTgxMDUsLTE3MjEzMzU3NjMsNjIzODQ3MjkxLC
+0xODUyNTU5ODA4LC04NjQyNDE5NDUsLTI0NTA0MjIzNywtMTI2
+ODA2Mzk0MywxNzE1MzM0NTIxLDIxMzU4NzUwODUsLTE1MTU5ND
+Y0MiwxNDk2NTc3MTQ1LDE4NDYwOTYwNTMsLTU1OTE1ODEyOCwz
+NzE1MDg4OTJdfQ==
 -->
