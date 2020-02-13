@@ -150,9 +150,9 @@ this.tilemap.forEach(node  => {
 this.el.setObject3D('mesh', new THREE.Mesh(mergedGeo, material));
 ```
 
-Comme vous pouvez le voir dans ce code, nous obtenons au final qu'un seul mesh plutôt que le groupe de *meshes* généré par la première version.  Dans cet exemple [https://vr.chabloz.eu/hexatile_ocean.html](https://vr.chabloz.eu/hexatile_ocean.html), vous pouvez appuyer sur la touche 'O' de votre clavier pour observer la différence entre un la version non-optimisé et optimisé (observez le nombre de *calls* dans les statistiques).  (la touche 'B' est toujours active si vous voulez tester l'impacte du biseau sur le nombre de triangles lorsque l'on a un pavage).
+Comme vous pouvez le voir dans ce code, nous obtenons au final qu'un seul mesh plutôt que le groupe de *meshes* généré par la première version.  Dans cet exemple [https://vr.chabloz.eu/hexatile_ocean.html](https://vr.chabloz.eu/hexatile_ocean.html), vous pouvez appuyer sur la touche 'O' de votre clavier pour observer la différence entre  la version non-optimisée et optimisée (observez le nombre de *calls* dans les statistiques).  (la touche 'B' est toujours active si vous voulez tester l'impacte du biseau sur le nombre de triangles lorsque l'on a un pavag).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM3OTA0Mzg3MSw3NDI2NTQwOTUsMjA2Nj
+eyJoaXN0b3J5IjpbMTc3Mzc1Mzg0MSw3NDI2NTQwOTUsMjA2Nj
 U4NDU5MCwtNTM5NzA2Mzg5LDE0NzY2MDA2NzksLTEwMjI5NDY0
 NzQsMTExOTY2MDEyNCwtMTc1NTg0MTIwMCwtNjMzMzIyNjczLD
 ExMjIyMDM2MTgsLTQ4Nzk5NzIwMywyNzgzMTgxMDUsLTE3MjEz
