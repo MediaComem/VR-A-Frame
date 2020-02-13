@@ -180,11 +180,12 @@ Voila un exemple: [https://vr.chabloz.eu/variation.html](https://vr.chabloz.eu/v
 
 Pour mettre en pratique votre nouvelle primitive. Créez une *ile* comme zone de départ pour le Hub VR. Vous pouvez prendre comme exemple le hub du corrigé ([https://vr.chabloz.eu](https://vr.chabloz.eu)). La seul chose requise pour la suite est d'y faire figurer un interrupteur (*switch*) qui permettra de sortir de cette zone.
 
-## Camera, avatar et mesh de navigation (*nav-mesh*) 
+## Caméra, avatar et mesh de navigation (*nav-mesh*) 
 
+### La caméra
 A-Frame ajoute une [caméra par défaut](https://aframe.io/docs/1.0.0/components/camera.html#default-camera). Elle possède les composants [look-controls](https://github.com/aframevr/aframe/blob/master/docs/components/look-controls.md) et [wasd-controls](https://github.com/aframevr/aframe/blob/master/docs/components/wasd-controls.md), qui permette réciproquement de contrôler la rotation de la caméra (via la souris, le *touch* ou le casque VR) et sa position (uniquement avec les touches *wasd* ou les touches directionelles). 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY3NTUxOTc5MywxMzQ5NTM4NTg1LC04OD
+eyJoaXN0b3J5IjpbLTcxMjkwMzEwNCwxMzQ5NTM4NTg1LC04OD
 A4OTQxNDYsMTk3NzIwMzg3MSwyMDU4MzMyNTMyLDExNDUzMDQy
 MTUsLTE1MTE1Nzg3MjEsNDMzOTUxMDcwLDE5NzkzNjMzMTcsLT
 IxMjcxOTkyMjEsNTY0OTU5NTc1LDc0MjY1NDA5NSwyMDY2NTg0
