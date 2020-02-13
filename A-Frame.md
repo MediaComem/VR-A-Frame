@@ -57,7 +57,7 @@ Afin de simplifier la chose, nous allons nous limiter à une carte en forme d’
 
 ### Enregistrement de la primitive et du composant
 
-Suivez la documentation officielle pour rajouter une primitive et le composant associé nécessaire au pavage hexagonal. Pour les attributs de la primitive, implémentez au minimum les suivants:
+Suivez la documentation officielle pour rajouter une primitive et le composant associé nécessaire au pavage hexagonal. Pour les attributs, implémentez au minimum les suivants:
 
 - **size**:  la taille du pavage. Une taille de 1 signifie un seul hexagone, une taille de 2 signifie un héxagone au centre et les 6 qui l'entoure et ainsi de suite. Voila un exemple pour la taille 4: 
 
@@ -75,11 +75,11 @@ Lors de la phase d'initialisation du [composant](https://github.com/aframevr/afr
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEzNTg3NTA4NSwtMTUxNTk0NjQyLDE0OT
-Y1NzcxNDUsMTg0NjA5NjA1MywtNTU5MTU4MTI4LDM3MTUwODg5
-MiwtODQxMjcyNTUxLC0xMTkwNDU3MDA4LC0yMTI5MDc3MzQ3LD
-g2ODY4NDQ3NiwtMTI0MDM5MDkyMCwtMTkyMjU0MDQwMCwtMzQx
-NTE1NDIzLDk2NDk0ODczMCwtNTU5ODY1NTAxLDIwNDI1OTAwOD
-IsLTE3OTkzNTA3MzgsLTg3MTM3ODcwLDU1ODg5OTgwMiwtMTQw
-NzI1MTA5MV19
+eyJoaXN0b3J5IjpbMTQ0NDgwODY5MCwyMTM1ODc1MDg1LC0xNT
+E1OTQ2NDIsMTQ5NjU3NzE0NSwxODQ2MDk2MDUzLC01NTkxNTgx
+MjgsMzcxNTA4ODkyLC04NDEyNzI1NTEsLTExOTA0NTcwMDgsLT
+IxMjkwNzczNDcsODY4Njg0NDc2LC0xMjQwMzkwOTIwLC0xOTIy
+NTQwNDAwLC0zNDE1MTU0MjMsOTY0OTQ4NzMwLC01NTk4NjU1MD
+EsMjA0MjU5MDA4MiwtMTc5OTM1MDczOCwtODcxMzc4NzAsNTU4
+ODk5ODAyXX0=
 -->
