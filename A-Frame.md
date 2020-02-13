@@ -138,9 +138,9 @@ group.add(...this.tilemap);
 this.el.setObject3D('mesh', group);
  ```
 
-Mais ce qu'il va se passer avec cette méthode, c'est que three.js va dessiner chacun des enfants un par un  
+Mais ce qu'il va se passer avec cette méthode, c'est que three.js va dessiner chacun des enfants un par un (avec un appel de méthode à chaque fois). Puisque tous ces *meshes* utilisent la
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg5NDgwMjQyOSwyMDY2NTg0NTkwLC01Mz
+eyJoaXN0b3J5IjpbMTc5OTkxMjA5MiwyMDY2NTg0NTkwLC01Mz
 k3MDYzODksMTQ3NjYwMDY3OSwtMTAyMjk0NjQ3NCwxMTE5NjYw
 MTI0LC0xNzU1ODQxMjAwLC02MzMzMjI2NzMsMTEyMjIwMzYxOC
 wtNDg3OTk3MjAzLDI3ODMxODEwNSwtMTcyMTMzNTc2Myw2MjM4
