@@ -133,16 +133,16 @@ clone.userData.coordinates = {q, r, s};
 Maintenant que nous avons notre pavage, il faut fusionner toutes les tuiles en un seul mesh.  Nous pourrions le faire naïvement en créant un objet 3D avec [THREE.Object3D](https://threejs.org/docs/#api/en/core/Object3D) et en ajoutant chaque tuile comme enfant comme ceci (si **tilemap** est le nom de notre tableau stockant toutes les tuiles du pavage) :
 
  ```js
-let group = new THREE.Object3D(); // creat 
+let group = new THREE.Object3D(); 
 group.add(...this.tilemap);
 this.el.setObject3D('mesh', group);
  ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcwODM0NjMxLDE0NzY2MDA2NzksLTEwMj
-I5NDY0NzQsMTExOTY2MDEyNCwtMTc1NTg0MTIwMCwtNjMzMzIy
-NjczLDExMjIyMDM2MTgsLTQ4Nzk5NzIwMywyNzgzMTgxMDUsLT
-E3MjEzMzU3NjMsNjIzODQ3MjkxLC0xODUyNTU5ODA4LC04NjQy
-NDE5NDUsLTI0NTA0MjIzNywtMTI2ODA2Mzk0MywxNzE1MzM0NT
-IxLDIxMzU4NzUwODUsLTE1MTU5NDY0MiwxNDk2NTc3MTQ1LDE4
-NDYwOTYwNTNdfQ==
+eyJoaXN0b3J5IjpbLTY5NTkxMzkxMiwxNDc2NjAwNjc5LC0xMD
+IyOTQ2NDc0LDExMTk2NjAxMjQsLTE3NTU4NDEyMDAsLTYzMzMy
+MjY3MywxMTIyMjAzNjE4LC00ODc5OTcyMDMsMjc4MzE4MTA1LC
+0xNzIxMzM1NzYzLDYyMzg0NzI5MSwtMTg1MjU1OTgwOCwtODY0
+MjQxOTQ1LC0yNDUwNDIyMzcsLTEyNjgwNjM5NDMsMTcxNTMzND
+UyMSwyMTM1ODc1MDg1LC0xNTE1OTQ2NDIsMTQ5NjU3NzE0NSwx
+ODQ2MDk2MDUzXX0=
 -->
