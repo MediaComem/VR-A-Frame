@@ -164,9 +164,8 @@ Comme vous pouvez le voir dans ce code, nous obtenons au final qu'un seul mesh p
 
 
 
-
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjk2MTUxMzk0LDQzMzk1MTA3MCwxOTc5Mz
+eyJoaXN0b3J5IjpbMzYwNjE5MDYwLDQzMzk1MTA3MCwxOTc5Mz
 YzMzE3LC0yMTI3MTk5MjIxLDU2NDk1OTU3NSw3NDI2NTQwOTUs
 MjA2NjU4NDU5MCwtNTM5NzA2Mzg5LDE0NzY2MDA2NzksLTEwMj
 I5NDY0NzQsMTExOTY2MDEyNCwtMTc1NTg0MTIwMCwtNjMzMzIy
