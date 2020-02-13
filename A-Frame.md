@@ -134,13 +134,11 @@ Maintenant que nous avons notre pavage, il faut fusionner toutes les tuiles en u
 
  ```js
 let group = new THREE.Object3D(); // creat 
-this.tilemap.forEach(node  => {
-  group.add(node)
-});
+this.tilemap.forEach(node => group.add(node));
 this.el.setObject3D('mesh', group);
  ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NzI0MTU4OTUsMTQ3NjYwMDY3OSwtMT
+eyJoaXN0b3J5IjpbLTE0MjI1Mzk1NjksMTQ3NjYwMDY3OSwtMT
 AyMjk0NjQ3NCwxMTE5NjYwMTI0LC0xNzU1ODQxMjAwLC02MzMz
 MjI2NzMsMTEyMjIwMzYxOCwtNDg3OTk3MjAzLDI3ODMxODEwNS
 wtMTcyMTMzNTc2Myw2MjM4NDcyOTEsLTE4NTI1NTk4MDgsLTg2
