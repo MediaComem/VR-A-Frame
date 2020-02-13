@@ -48,7 +48,7 @@ Afin de camoufler les bords abruptes de l'océan, vous pouvez ajouter un brouill
 
 ## Pavage hexagonal
 
-Afin de s'initier à **three.js**, le *framework* utilisé par A-Frame pour la gestion de la 3D, nous allons ajouter un nouvelle [primitive](https://aframe.io/docs/1.0.0/introduction/html-and-primitives.html) pour la création des [mesh](https://fr.wikipedia.org/wiki/Mesh_(objet)) nécessaires à un [pavage hexagonal](https://fr.wikipedia.org/wiki/Pavage_hexagonal). Cette partie du TP est inspiré de la bibliothèque de gestion de grille hexagonale  [von-grid](https://github.com/vonWolfehaus/von-grid)
+Afin de s'initier à **three.js**, le *framework* utilisé par A-Frame pour la gestion de la 3D, nous allons ajouter un nouvelle [primitive](https://aframe.io/docs/1.0.0/introduction/html-and-primitives.html) pour la création des [mesh](https://fr.wikipedia.org/wiki/Mesh_(objet)) nécessaires à un [pavage hexagonal](https://fr.wikipedia.org/wiki/Pavage_hexagonal). Cette partie du TP est inspiré de la bibliothèque de gestion de grille hexagonale  [von-grid](https://github.com/vonWolfehaus/von-grid). Mais nous n'allons reprendre aucun code existant, p
 
 Avant de commencez cette partie, il est fortement recommandé de lire cet excellent support sur l'utilisation du pavage hexagonal: [https://www.redblobgames.com/grids/hexagons/](https://www.redblobgames.com/grids/hexagons/).
 
@@ -167,11 +167,11 @@ Comme vous pouvez le voir dans ce code, nous obtenons au final qu'un seul mesh p
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMxMjU2MDk2Niw0MzM5NTEwNzAsMTk3OT
-M2MzMxNywtMjEyNzE5OTIyMSw1NjQ5NTk1NzUsNzQyNjU0MDk1
-LDIwNjY1ODQ1OTAsLTUzOTcwNjM4OSwxNDc2NjAwNjc5LC0xMD
-IyOTQ2NDc0LDExMTk2NjAxMjQsLTE3NTU4NDEyMDAsLTYzMzMy
-MjY3MywxMTIyMjAzNjE4LC00ODc5OTcyMDMsMjc4MzE4MTA1LC
-0xNzIxMzM1NzYzLDYyMzg0NzI5MSwtMTg1MjU1OTgwOCwtODY0
-MjQxOTQ1XX0=
+eyJoaXN0b3J5IjpbMzk2MjQ4MzM1LDQzMzk1MTA3MCwxOTc5Mz
+YzMzE3LC0yMTI3MTk5MjIxLDU2NDk1OTU3NSw3NDI2NTQwOTUs
+MjA2NjU4NDU5MCwtNTM5NzA2Mzg5LDE0NzY2MDA2NzksLTEwMj
+I5NDY0NzQsMTExOTY2MDEyNCwtMTc1NTg0MTIwMCwtNjMzMzIy
+NjczLDExMjIyMDM2MTgsLTQ4Nzk5NzIwMywyNzgzMTgxMDUsLT
+E3MjEzMzU3NjMsNjIzODQ3MjkxLC0xODUyNTU5ODA4LC04NjQy
+NDE5NDVdfQ==
 -->
