@@ -113,7 +113,7 @@ Pour bien comprendre pourquoi la rotation doit s'effectuer autour de l'axe X, je
 
 ### Pavage
 
-Pour le pavage, il va falloir cloner et positionner notre prisme hexagonal de multiple fois. Si vous avez bien lu la documentation sur le pavage hexagonale (lien directe vers les parties qui nous intéresse: [hex to pixel](https://www.redblobgames.com/grids/hexagons/#hex-to-pixel) et [range](https://www.redblobgames.com/grids/hexagons/#range)),  il vous suffit de parcourir les coordonnées axiales **q** et **r** selpuis, pour chaque tuile:
+Pour le pavage, il va falloir cloner et positionner notre prisme hexagonal de multiple fois. Si vous avez bien lu la documentation sur le pavage hexagonale (lien directe vers les parties qui nous intéresse: [hex to pixel](https://www.redblobgames.com/grids/hexagons/#hex-to-pixel) et [range](https://www.redblobgames.com/grids/hexagons/#range)),  il vous suffit de parcourir les coordonnées axiales **q** et **r** selon la taille du pavage (attribut **size**) puis, pour chaque tuile:
 - de cloner votre mesh (avec la méthode [clone()](https://threejs.org/docs/#api/en/objects/Mesh.clone) de three.js) et de l'ajouter à une structure pour le stockage du pavage (un tableau par exemple)
 
 -  de calculer les coordonnées **x** et **z** associées aux coordonnées **q** et **r**, et des les attribuer au mesh cloné grâce au  code suivant:
@@ -140,11 +140,11 @@ this.el.setObject3D('mesh', group);
 
 Mais ce qu'il va se passer avec cette méthode, c'est que three.js va dessiner chacun des enfants un par un (avec un appel de méthode à chaque fois). Puisque tous ces *meshes* utilisent le même matériau, il serait souhaitable de ne faire qu'un seul appel 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcyMTI1NDMwMCwyMDY2NTg0NTkwLC01Mz
-k3MDYzODksMTQ3NjYwMDY3OSwtMTAyMjk0NjQ3NCwxMTE5NjYw
-MTI0LC0xNzU1ODQxMjAwLC02MzMzMjI2NzMsMTEyMjIwMzYxOC
-wtNDg3OTk3MjAzLDI3ODMxODEwNSwtMTcyMTMzNTc2Myw2MjM4
-NDcyOTEsLTE4NTI1NTk4MDgsLTg2NDI0MTk0NSwtMjQ1MDQyMj
-M3LC0xMjY4MDYzOTQzLDE3MTUzMzQ1MjEsMjEzNTg3NTA4NSwt
-MTUxNTk0NjQyXX0=
+eyJoaXN0b3J5IjpbOTEzODUzMTMzLDIwNjY1ODQ1OTAsLTUzOT
+cwNjM4OSwxNDc2NjAwNjc5LC0xMDIyOTQ2NDc0LDExMTk2NjAx
+MjQsLTE3NTU4NDEyMDAsLTYzMzMyMjY3MywxMTIyMjAzNjE4LC
+00ODc5OTcyMDMsMjc4MzE4MTA1LC0xNzIxMzM1NzYzLDYyMzg0
+NzI5MSwtMTg1MjU1OTgwOCwtODY0MjQxOTQ1LC0yNDUwNDIyMz
+csLTEyNjgwNjM5NDMsMTcxNTMzNDUyMSwyMTM1ODc1MDg1LC0x
+NTE1OTQ2NDJdfQ==
 -->
