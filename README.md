@@ -29,7 +29,7 @@ Article:
 
 ## Jeux vidéos
 
-La VR permet de faire partie intégrante de l'univers du jeu, ce qui apporte une grande immersion. Des jeux aux univers très développés, principalement à la première personne, cherchant une grande immersion du joueur bénéficie grandement de la VR. Un bon exemple est le jeu [Sykrim](https://bethesda.net/fr/article/4YSRrlXtpuKeWIK6EMiG84/skyrim-vr-arrive-sur-steamvr), adapté à la VR en 2018. un autre est le futur [Half-Life: Alyx](https://www.youtube.com/watch?v=O2W0N3uKXmo). La VR semble aussi adéquate pour les MMORPG, bien que pour le moment peu de tentative sont faites (entre autre à cause des problèmes de complexité, de coût et de gestion des déplacements).
+La VR permet de faire partie intégrante de l'univers du jeu, ce qui apporte une grande immersion. Des jeux aux univers très développés, principalement à la première personne, cherchant une grande immersion du joueur bénéficie grandement de la VR. Un bon exemple est le jeu [Sykrim](https://bethesda.net/fr/article/4YSRrlXtpuKeWIK6EMiG84/skyrim-vr-arrive-sur-steamvr), adapté à la VR en 2018. un autre est le futur [Half-Life: Alyx](https://www.youtube.com/watch?v=O2W0N3uKXmo). La VR semble aussi adéquate pour les MMORPG, bien que pour le moment peu de tentative sont faites (à cause, entre autre, des problèmes de complexité, coût et  gestion des déplacements).
 
 Voir [Steam VR](https://store.steampowered.com/vr/)
 
@@ -366,11 +366,11 @@ Ce dépôt contient les différents supports pédagogiques nécessaires pour le 
 - Nicolas Chabloz
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUzNzgxNzM4NywyMDMzNTcxMDU5LC0xMT
-I0ODU5Mjg2LDIxNTg3NjQ3OCwtNTcwNDU5MTc4LC05MzcxMDQ3
-MDYsNDg5ODAzNzM0LDE3OTgyNTcxMDEsLTE4MjQ5NDQ3NzIsLT
-E3NTcxNDAyNjUsMjA4OTIxNTk2LDU5NDE3MDg4OCwxNjY5Mzkx
-MDY4LDE4MTk1MjE5MDEsMjEzNDI1NjIyOCwtMTg3ODcxNDQ4NS
-wxMDM0NDIzNTEzLC0xNDgxMjgwMjc1LC0yMDg3OTc3NTk0LDE0
-NzMyMzIyXX0=
+eyJoaXN0b3J5IjpbLTEzNzU3NDgzMzcsMjAzMzU3MTA1OSwtMT
+EyNDg1OTI4NiwyMTU4NzY0NzgsLTU3MDQ1OTE3OCwtOTM3MTA0
+NzA2LDQ4OTgwMzczNCwxNzk4MjU3MTAxLC0xODI0OTQ0NzcyLC
+0xNzU3MTQwMjY1LDIwODkyMTU5Niw1OTQxNzA4ODgsMTY2OTM5
+MTA2OCwxODE5NTIxOTAxLDIxMzQyNTYyMjgsLTE4Nzg3MTQ0OD
+UsMTAzNDQyMzUxMywtMTQ4MTI4MDI3NSwtMjA4Nzk3NzU5NCwx
+NDczMjMyMl19
 -->
