@@ -69,7 +69,7 @@ Suivez la documentation officielle pour rajouter une primitive et le composant a
 
 ### Les sommets (*vertices*)
 
-Lors de la phase d'initialisation du [composant](https://github.com/aframevr/aframe/blob/master/docs/introduction/writing-a-component.md), il va falloir générer toutes les pièces utiles à la création du *mesh* complet. Il semble donc logique de commencer par la génération d'un hexagone en 2D et donc de ses sommets. Un hexagone possédant 6 sommets, un tableau semble adéquat pour les stocker. Créez donc les 6 sommets grâce à la classe [THREE.Vector3](https://threejs.org/docs/#api/en/math/Vector3) et à la formule géométrique pour le calcul de la position des sommets (remarque: comme nous ne nous occupons pas de la 3e dimension, mettez **z** à 0).
+Lors de la phase d'initialisation du [composant](https://github.com/aframevr/aframe/blob/master/docs/introduction/writing-a-component.md), il va falloir générer toutes les pièces utiles à la création du *mesh* complet. Il semble donc logique de commencer par la génération d'un hexagone en 2D et donc de ses sommets. Un hexagone possédant 6 sommets, un tableau semble adéquat pour les stocker. Créez donc les 6 sommets grâce à la classe [THREE.Vector2](https://threejs.org/docs/#api/en/math/Vector2) et à la formule géométrique pour le calcul de la position des sommets.
 
 ### La forme (*shape*)
 
@@ -79,11 +79,11 @@ Une fois les sommets créés, il faut les regrouper dans une unique forme et des
 
 Il faut désormais transformer la forme actuellement en 2D en mesh 3D.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQwNjkzNTIwOSwxNzE1MzM0NTIxLDIxMz
-U4NzUwODUsLTE1MTU5NDY0MiwxNDk2NTc3MTQ1LDE4NDYwOTYw
-NTMsLTU1OTE1ODEyOCwzNzE1MDg4OTIsLTg0MTI3MjU1MSwtMT
-E5MDQ1NzAwOCwtMjEyOTA3NzM0Nyw4Njg2ODQ0NzYsLTEyNDAz
-OTA5MjAsLTE5MjI1NDA0MDAsLTM0MTUxNTQyMyw5NjQ5NDg3Mz
-AsLTU1OTg2NTUwMSwyMDQyNTkwMDgyLC0xNzk5MzUwNzM4LC04
-NzEzNzg3MF19
+eyJoaXN0b3J5IjpbNjIzMjY3NTAzLDE3MTUzMzQ1MjEsMjEzNT
+g3NTA4NSwtMTUxNTk0NjQyLDE0OTY1NzcxNDUsMTg0NjA5NjA1
+MywtNTU5MTU4MTI4LDM3MTUwODg5MiwtODQxMjcyNTUxLC0xMT
+kwNDU3MDA4LC0yMTI5MDc3MzQ3LDg2ODY4NDQ3NiwtMTI0MDM5
+MDkyMCwtMTkyMjU0MDQwMCwtMzQxNTE1NDIzLDk2NDk0ODczMC
+wtNTU5ODY1NTAxLDIwNDI1OTAwODIsLTE3OTkzNTA3MzgsLTg3
+MTM3ODcwXX0=
 -->
