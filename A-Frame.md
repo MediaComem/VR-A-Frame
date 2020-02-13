@@ -77,13 +77,13 @@ Une fois les sommets créés, il faut les regrouper dans une unique forme et des
 
 ### La géométrie (*geometry*)
 
-Il faut désormais transformer la forme actuellement en 2D en mesh 3D.
+Il faut désormais transformer la forme actuellement en 2D en mesh 3D. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNjgwNjM5NDMsMTcxNTMzNDUyMSwyMT
-M1ODc1MDg1LC0xNTE1OTQ2NDIsMTQ5NjU3NzE0NSwxODQ2MDk2
-MDUzLC01NTkxNTgxMjgsMzcxNTA4ODkyLC04NDEyNzI1NTEsLT
-ExOTA0NTcwMDgsLTIxMjkwNzczNDcsODY4Njg0NDc2LC0xMjQw
-MzkwOTIwLC0xOTIyNTQwNDAwLC0zNDE1MTU0MjMsOTY0OTQ4Nz
-MwLC01NTk4NjU1MDEsMjA0MjU5MDA4MiwtMTc5OTM1MDczOCwt
-ODcxMzc4NzBdfQ==
+eyJoaXN0b3J5IjpbMTc3MzY2NjMzMSwtMTI2ODA2Mzk0MywxNz
+E1MzM0NTIxLDIxMzU4NzUwODUsLTE1MTU5NDY0MiwxNDk2NTc3
+MTQ1LDE4NDYwOTYwNTMsLTU1OTE1ODEyOCwzNzE1MDg4OTIsLT
+g0MTI3MjU1MSwtMTE5MDQ1NzAwOCwtMjEyOTA3NzM0Nyw4Njg2
+ODQ0NzYsLTEyNDAzOTA5MjAsLTE5MjI1NDA0MDAsLTM0MTUxNT
+QyMyw5NjQ5NDg3MzAsLTU1OTg2NTUwMSwyMDQyNTkwMDgyLC0x
+Nzk5MzUwNzM4XX0=
 -->
