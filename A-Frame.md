@@ -128,7 +128,9 @@ let s = -q - r;
 clone.userData.coordinates = {q, r, s};
  ```
 
-Maintenant que nous avons notre pavage, il faut regrouper 
+### Fusion des géométries (*merge*
+
+Maintenant que nous avons notre pavage, il faut toutes les fusionner dans un seul mesh.  
 
  ```js
 let  group = new  THREE.Object3D();
@@ -138,11 +140,11 @@ group.add(new  THREE.Mesh(mergedGeo[i], this.colorVariationMaterial[i]));
 this.el.setObject3D('mesh', group);
  ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMzNDA2ODY3MCwxNDc2NjAwNjc5LC0xMD
-IyOTQ2NDc0LDExMTk2NjAxMjQsLTE3NTU4NDEyMDAsLTYzMzMy
-MjY3MywxMTIyMjAzNjE4LC00ODc5OTcyMDMsMjc4MzE4MTA1LC
-0xNzIxMzM1NzYzLDYyMzg0NzI5MSwtMTg1MjU1OTgwOCwtODY0
-MjQxOTQ1LC0yNDUwNDIyMzcsLTEyNjgwNjM5NDMsMTcxNTMzND
-UyMSwyMTM1ODc1MDg1LC0xNTE1OTQ2NDIsMTQ5NjU3NzE0NSwx
-ODQ2MDk2MDUzXX0=
+eyJoaXN0b3J5IjpbLTEwNzM4NjEwMzAsMTQ3NjYwMDY3OSwtMT
+AyMjk0NjQ3NCwxMTE5NjYwMTI0LC0xNzU1ODQxMjAwLC02MzMz
+MjI2NzMsMTEyMjIwMzYxOCwtNDg3OTk3MjAzLDI3ODMxODEwNS
+wtMTcyMTMzNTc2Myw2MjM4NDcyOTEsLTE4NTI1NTk4MDgsLTg2
+NDI0MTk0NSwtMjQ1MDQyMjM3LC0xMjY4MDYzOTQzLDE3MTUzMz
+Q1MjEsMjEzNTg3NTA4NSwtMTUxNTk0NjQyLDE0OTY1NzcxNDUs
+MTg0NjA5NjA1M119
 -->
