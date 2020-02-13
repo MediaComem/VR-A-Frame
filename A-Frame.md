@@ -79,17 +79,17 @@ Une fois les sommets créés, il faut les regrouper dans une unique forme et des
 
 Il faut désormais transformer la forme 2D en mesh 3D. La classe [THREE.ExtrudeGeometry](https://threejs.org/docs/#api/en/geometries/ExtrudeGeometry) permet justement d'extruder une forme 2D. Il faut lui passer en premier paramètre la forme (créée au point précédent ) et en 2e, une configuration (sous la forme d'un objet).  Comme vous pouvez le constater dans la documentation, l'on peut  appliquer un biseau (*bevel*) lors de cette opération (pour être précis, il s'agit plutôt d'un [chanfrein](https://fr.wikipedia.org/wiki/Chanfrein)). Vous pouvez soit désactiver le biseau, soit le rendre optionnel grâce à un attribut de votre primitive. Pour le paramètre **depth** des options, il s'agit (comme son nom l'indique) de la profondeur d'extrusion et correspond donc à la hauteur de l'hexagone (le paramètre **height** de votre primitive ).
 
-Dans cet exemple [https://vr.chabloz.eu/hexagon.html](https://vr.chabloz.eu/hexagon.html), vous pouvez appuyer sur la touche 'B' de votre clavier pour observer la différence entre un hexagone extrudé sans biseau ou avec biseau. Il est **important** de noter l'impact du biseautage sur le nombre de triangles nécessaire à l'affichage de l'hexagone extrudé !
+Dans cet exemple [https://vr.chabloz.eu/hexagon.html](https://vr.chabloz.eu/hexagon.html), vous pouvez appuyer sur la touche 'B' de votre clavier pour observer la différence entre un hexagone extrudé sans biseau ou avec biseau. Il est **important** de noter l'impact du biseautage sur le nombre de triangles nécessaires à l'affichage de l'hexagone extrudé !
 
 ### Le matériel (*material*)
 
 Avec le framework *three.js*, les textures sont appliquées sous la forme d'un matériel (*material*).  Il existe plusieurs types de matériaux dans *three.js*,  le moins gourmand en ressource étant [THREE.MeshLambertMaterial](https://threejs.org/docs/#api/en/materials/MeshLambertMaterial), nous allons l'utiliser pour appliquer une simple texture de couleur sur notre hexagone. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM1Njc5Mjg3MiwtODY0MjQxOTQ1LC0yND
-UwNDIyMzcsLTEyNjgwNjM5NDMsMTcxNTMzNDUyMSwyMTM1ODc1
-MDg1LC0xNTE1OTQ2NDIsMTQ5NjU3NzE0NSwxODQ2MDk2MDUzLC
-01NTkxNTgxMjgsMzcxNTA4ODkyLC04NDEyNzI1NTEsLTExOTA0
-NTcwMDgsLTIxMjkwNzczNDcsODY4Njg0NDc2LC0xMjQwMzkwOT
-IwLC0xOTIyNTQwNDAwLC0zNDE1MTU0MjMsOTY0OTQ4NzMwLC01
-NTk4NjU1MDFdfQ==
+eyJoaXN0b3J5IjpbNTgwMTUyNDMsLTg2NDI0MTk0NSwtMjQ1MD
+QyMjM3LC0xMjY4MDYzOTQzLDE3MTUzMzQ1MjEsMjEzNTg3NTA4
+NSwtMTUxNTk0NjQyLDE0OTY1NzcxNDUsMTg0NjA5NjA1MywtNT
+U5MTU4MTI4LDM3MTUwODg5MiwtODQxMjcyNTUxLC0xMTkwNDU3
+MDA4LC0yMTI5MDc3MzQ3LDg2ODY4NDQ3NiwtMTI0MDM5MDkyMC
+wtMTkyMjU0MDQwMCwtMzQxNTE1NDIzLDk2NDk0ODczMCwtNTU5
+ODY1NTAxXX0=
 -->
