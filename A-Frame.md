@@ -164,14 +164,16 @@ Comme vous pouvez le voir dans ce code, nous obtenons au final qu'un seul mesh p
 
 ### Variation des couleurs
 
+Essayez de rajouter un système de variation de la couleur de base pour chaque tuile du pavage. Afin de le faire proprement, voilà quelques recommandation:
+
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE0NTMwNDIxNSwtMTUxMTU3ODcyMSw0Mz
-M5NTEwNzAsMTk3OTM2MzMxNywtMjEyNzE5OTIyMSw1NjQ5NTk1
-NzUsNzQyNjU0MDk1LDIwNjY1ODQ1OTAsLTUzOTcwNjM4OSwxND
-c2NjAwNjc5LC0xMDIyOTQ2NDc0LDExMTk2NjAxMjQsLTE3NTU4
-NDEyMDAsLTYzMzMyMjY3MywxMTIyMjAzNjE4LC00ODc5OTcyMD
-MsMjc4MzE4MTA1LC0xNzIxMzM1NzYzLDYyMzg0NzI5MSwtMTg1
-MjU1OTgwOF19
+eyJoaXN0b3J5IjpbMjMxNTkxMTIzLDExNDUzMDQyMTUsLTE1MT
+E1Nzg3MjEsNDMzOTUxMDcwLDE5NzkzNjMzMTcsLTIxMjcxOTky
+MjEsNTY0OTU5NTc1LDc0MjY1NDA5NSwyMDY2NTg0NTkwLC01Mz
+k3MDYzODksMTQ3NjYwMDY3OSwtMTAyMjk0NjQ3NCwxMTE5NjYw
+MTI0LC0xNzU1ODQxMjAwLC02MzMzMjI2NzMsMTEyMjIwMzYxOC
+wtNDg3OTk3MjAzLDI3ODMxODEwNSwtMTcyMTMzNTc2Myw2MjM4
+NDcyOTFdfQ==
 -->
