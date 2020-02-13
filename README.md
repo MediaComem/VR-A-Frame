@@ -66,11 +66,6 @@ Article: [Virtual Reality in Education](https://thinkmobiles.com/blog/virtual-re
 Article: [How VR In Education Will Change How We Learn And Teach](https://xd.adobe.com/ideas/principles/emerging-technology/virtual-reality-will-change-learn-teach/)
 
 
-### Télétravail
-
-Article: [VR could help transform remote work](https://www.computerworld.com/article/3174756/vr-could-help-transform-remote-work.html)
-
-
 ### Cinéma et art
 
 Pour le cinéma, la VR permet de s'immerger quasiment totalement dans l'univers et les aventures visionnées. La 3D est déjà bien implantée dans les salles aujourd'hui, mais l'immersion VR va plus loin encore. Elle est aussi utilisée par les artistes 3D, qui peuvent créer directement en VR (et s'occuper de l'animation avec des outils comme [PoseVR](https://vrscout.com/news/disneys-posevr-animation-tool/)), ou tout simplement visionner leurs créations via ce média. La VR crée aussi de nouvelle possibilité pour les autres arts, comme par exemple le dessin ou la sculpture en VR (ex: [https://time.com/vr-is-for-artists/](https://time.com/vr-is-for-artists/)).
@@ -88,9 +83,12 @@ Article: [Elon Musk’s OpenAI Is Training Robots In VR](https://uploadvr.com/el
 
 Article: [VR + AI: the very real reality of virtual artificial intelligence](https://medium.com/shasta-apex/vr-ai-the-very-real-reality-of-virtual-artificial-intelligence-bebcdbbd35a4)
 
-### Autres...?
+### Autres ?
 
-Réflexion/discussion: La VR, un média qui englobe tous les autres ?
+La VR peut être utilisée dans une pléthore d'autre domaine. Par exemple, el pourrait 
+
+Article: [VR could help transform remote work](https://www.computerworld.com/article/3174756/vr-could-help-transform-remote-work.html)
+
 
 ## <a name="histo"></a> Quelques exemples historiques
 
@@ -365,11 +363,11 @@ Article: [Can we put all 5 senses in VR simulation?](https://4experience.co/vr-s
 - Nicolas Chabloz
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2ODA4NzUxMDYsMjAzMzU3MTA1OSwtMT
-EyNDg1OTI4NiwyMTU4NzY0NzgsLTU3MDQ1OTE3OCwtOTM3MTA0
-NzA2LDQ4OTgwMzczNCwxNzk4MjU3MTAxLC0xODI0OTQ0NzcyLC
-0xNzU3MTQwMjY1LDIwODkyMTU5Niw1OTQxNzA4ODgsMTY2OTM5
-MTA2OCwxODE5NTIxOTAxLDIxMzQyNTYyMjgsLTE4Nzg3MTQ0OD
-UsMTAzNDQyMzUxMywtMTQ4MTI4MDI3NSwtMjA4Nzk3NzU5NCwx
-NDczMjMyMl19
+eyJoaXN0b3J5IjpbOTM1MzcxMjA4LDIwMzM1NzEwNTksLTExMj
+Q4NTkyODYsMjE1ODc2NDc4LC01NzA0NTkxNzgsLTkzNzEwNDcw
+Niw0ODk4MDM3MzQsMTc5ODI1NzEwMSwtMTgyNDk0NDc3MiwtMT
+c1NzE0MDI2NSwyMDg5MjE1OTYsNTk0MTcwODg4LDE2NjkzOTEw
+NjgsMTgxOTUyMTkwMSwyMTM0MjU2MjI4LC0xODc4NzE0NDg1LD
+EwMzQ0MjM1MTMsLTE0ODEyODAyNzUsLTIwODc5Nzc1OTQsMTQ3
+MzIzMjJdfQ==
 -->
