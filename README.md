@@ -36,7 +36,7 @@ La VR semble aussi adéquate pour les [MMORPG](https://fr.wikipedia.org/wiki/Jeu
 - [Beat Saber](https://store.steampowered.com/app/620980/Beat_Saber/)
 - [Richie's Plank Experience](https://store.steampowered.com/app/517160/Richies_Plank_Experience/)
 
-## Musées
+### Musées
 
 Les musées ont commencé à utiliser la VR, en l'adaptant à chaque besoin. Elle permet de rendre les expositions interactives, personnalisées, de les compléter avec des éléments contextuels, parfois de déplacer l'expérience de la visite, ...
 
@@ -367,11 +367,11 @@ Ce dépôt contient les différents supports pédagogiques nécessaires pour le 
 - Nicolas Chabloz
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUxNTkxNDMxOCwyMDMzNTcxMDU5LC0xMT
-I0ODU5Mjg2LDIxNTg3NjQ3OCwtNTcwNDU5MTc4LC05MzcxMDQ3
-MDYsNDg5ODAzNzM0LDE3OTgyNTcxMDEsLTE4MjQ5NDQ3NzIsLT
-E3NTcxNDAyNjUsMjA4OTIxNTk2LDU5NDE3MDg4OCwxNjY5Mzkx
-MDY4LDE4MTk1MjE5MDEsMjEzNDI1NjIyOCwtMTg3ODcxNDQ4NS
-wxMDM0NDIzNTEzLC0xNDgxMjgwMjc1LC0yMDg3OTc3NTk0LDE0
-NzMyMzIyXX0=
+eyJoaXN0b3J5IjpbLTIwNjQ4ODY0NjksMjAzMzU3MTA1OSwtMT
+EyNDg1OTI4NiwyMTU4NzY0NzgsLTU3MDQ1OTE3OCwtOTM3MTA0
+NzA2LDQ4OTgwMzczNCwxNzk4MjU3MTAxLC0xODI0OTQ0NzcyLC
+0xNzU3MTQwMjY1LDIwODkyMTU5Niw1OTQxNzA4ODgsMTY2OTM5
+MTA2OCwxODE5NTIxOTAxLDIxMzQyNTYyMjgsLTE4Nzg3MTQ0OD
+UsMTAzNDQyMzUxMywtMTQ4MTI4MDI3NSwtMjA4Nzk3NzU5NCwx
+NDczMjMyMl19
 -->
