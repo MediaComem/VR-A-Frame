@@ -14,7 +14,7 @@
 - [La VR dans la fiction](#fiction)
 - [Sources](#sources)
 
-## <a name="application-vr"></a>Les application actuelles et futures de la VR
+## <a name="application-vr"></a>Les applications actuelles et futures de la VR
 
 ### Marketing
 
@@ -362,11 +362,11 @@ Article: [Can we put all 5 senses in VR simulation?](https://4experience.co/vr-s
 - Nicolas Chabloz
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAzODIyMTQ2NiwyMDMzNTcxMDU5LC0xMT
-I0ODU5Mjg2LDIxNTg3NjQ3OCwtNTcwNDU5MTc4LC05MzcxMDQ3
-MDYsNDg5ODAzNzM0LDE3OTgyNTcxMDEsLTE4MjQ5NDQ3NzIsLT
-E3NTcxNDAyNjUsMjA4OTIxNTk2LDU5NDE3MDg4OCwxNjY5Mzkx
-MDY4LDE4MTk1MjE5MDEsMjEzNDI1NjIyOCwtMTg3ODcxNDQ4NS
-wxMDM0NDIzNTEzLC0xNDgxMjgwMjc1LC0yMDg3OTc3NTk0LDE0
-NzMyMzIyXX0=
+eyJoaXN0b3J5IjpbODUzODMyNzI5LDIwMzM1NzEwNTksLTExMj
+Q4NTkyODYsMjE1ODc2NDc4LC01NzA0NTkxNzgsLTkzNzEwNDcw
+Niw0ODk4MDM3MzQsMTc5ODI1NzEwMSwtMTgyNDk0NDc3MiwtMT
+c1NzE0MDI2NSwyMDg5MjE1OTYsNTk0MTcwODg4LDE2NjkzOTEw
+NjgsMTgxOTUyMTkwMSwyMTM0MjU2MjI4LC0xODc4NzE0NDg1LD
+EwMzQ0MjM1MTMsLTE0ODEyODAyNzUsLTIwODc5Nzc1OTQsMTQ3
+MzIzMjJdfQ==
 -->
