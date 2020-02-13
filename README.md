@@ -133,6 +133,7 @@ XIXe s. - [Stéréoscopes](https://fr.wikipedia.org/wiki/St%C3%A9r%C3%A9oscope)
 ## <a name="materiel"></a>Le matériel VR
 
 ### Degrés de liberté
+
 ![Les six degrés de liberté dans un espace à trois dimensions, @author:GregorDS, Wikipedia](./img/6DOF.png)
 
 Un des points importants à penser lors de la conception d'une expérience VR, est la façon dont le joueur va pouvoir se déplacer et interagir avec le monde autour de lui. Pour ce qui est du point de vue matériel, on parle de **degrés de liberté (Degree of Freedom)**. Il existe aujourd'hui 2 possibilités pour le nombre de degré de liberté. La première est le 3DOF pour "Three Degrees Of Freedom", qui indique que le matériel peut suivre les mouvements de rotation effectués par le joueur (ces trois axes sont *yaw*, *pitch*  et  *roll*). La deuxième est le 6DOF pour "Six Degrees Of Freedom" qui, en plus de pouvoir suivre les mouvements de rotation, le matériel peut également suivre les mouvements de position (*forward/back*, *up/down*, *left/right*).
@@ -140,6 +141,7 @@ Un des points importants à penser lors de la conception d'une expérience VR, e
 En général, le nombre de degrés de liberté du casque correspond à celui du contrôleur (quand il y en a un).
 
 ### Systèmes de suivi de position (*positional tracking*)
+
 Le suivi de position est possible aujourd'hui avec les 2 techniques ci-dessous:
 - Outside-in (Oculus camera ir, Valve lighthouse, ...)
 - Inside-out tracking (simultaneous localization and mapping [SLAM](https://en.wikipedia.org/wiki/Simultaneous_localization_and_mapping))
@@ -149,6 +151,7 @@ La première est externe au casque et la seconde est intégrée au casque.
 Pour aller plus loin sur leurs fonctionnements: [How VR Positional Tracking System Work](https://uploadvr.com/how-vr-tracking-works)
 
 ### Contrôleurs et systèmes d'interaction VR
+
 La VR se démocratisant, les systèmes permettant d'interagir avec aussi. Voici quelqu'un des systèmes et/ou contrôleurs possibles aujourd'hui:
 
 Pour les casques les moins chers (Google Cardboard), un système d’interaction par rapport au regard peut être mis en place simplement, un bouton ou un minuteur permettant de *cliquer* sur des objets par rapport à la position du regard (un curseur).
@@ -162,7 +165,8 @@ Enfin, sur certains casques, ou à l'aide de senseurs supplémentaires (comme le
 Il existe bien sur d'autres types de contrôleurs plus exotique, mais ceux-ci reprennent la plupart du temps l'un des principes ci-dessus pour fonctionner.
 
 ### Casques populaires récents
-Le tableau ci-dessous présente quelqu'un des casques RVs les plus récents ainsi que leurs différentes fonctionnalités.
+
+Le tableau ci-dessous présente quelques'un des casques VR les plus récents ainsi que leurs différentes fonctionnalités.
 
 | Casques               | Platforme     | 6DOF | Contrôleurs | Contrôleurs 6DOF | Hand Tracking
 |:--------              |----------:    |:----:|:-----------:|:---------------: | :-----------:
@@ -184,7 +188,7 @@ Le tableau ci-dessous présente quelqu'un des casques RVs les plus récents ains
 
 ### Principales problématiques
 
-La réalité virtuelle actuelle, bien que bien meilleure que les essais passés (voir [historique](#histo)) possède encore de nombreux freins envers une immersion idéale.  Voilà quelques points importants :
+La réalité virtuelle actuelle, bien que meilleure que les essais passés (voir [historique](#histo)) possède encore de nombreux freins envers une immersion idéale.  Voilà quelques points importants :
 
 ### Champ de vue (FOV)
 
@@ -359,11 +363,11 @@ Article: [Can we put all 5 senses in VR simulation?](https://4experience.co/vr-s
 - Nicolas Chabloz
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MDc3NTQ3MDcsMjAzMzU3MTA1OSwtMT
-EyNDg1OTI4NiwyMTU4NzY0NzgsLTU3MDQ1OTE3OCwtOTM3MTA0
-NzA2LDQ4OTgwMzczNCwxNzk4MjU3MTAxLC0xODI0OTQ0NzcyLC
-0xNzU3MTQwMjY1LDIwODkyMTU5Niw1OTQxNzA4ODgsMTY2OTM5
-MTA2OCwxODE5NTIxOTAxLDIxMzQyNTYyMjgsLTE4Nzg3MTQ0OD
-UsMTAzNDQyMzUxMywtMTQ4MTI4MDI3NSwtMjA4Nzk3NzU5NCwx
-NDczMjMyMl19
+eyJoaXN0b3J5IjpbLTcyNzg2Nzc5NiwyMDMzNTcxMDU5LC0xMT
+I0ODU5Mjg2LDIxNTg3NjQ3OCwtNTcwNDU5MTc4LC05MzcxMDQ3
+MDYsNDg5ODAzNzM0LDE3OTgyNTcxMDEsLTE4MjQ5NDQ3NzIsLT
+E3NTcxNDAyNjUsMjA4OTIxNTk2LDU5NDE3MDg4OCwxNjY5Mzkx
+MDY4LDE4MTk1MjE5MDEsMjEzNDI1NjIyOCwtMTg3ODcxNDQ4NS
+wxMDM0NDIzNTEzLC0xNDgxMjgwMjc1LC0yMDg3OTc3NTk0LDE0
+NzMyMzIyXX0=
 -->
