@@ -174,16 +174,16 @@ Essayez de rajouter un système de variation de la couleur de base pour chaque t
 - Vous pourriez faire que la variation par apport à la couleur de base soit plus ou moins grande selon la valeur d'un attribut (paramétrable).
 - Il faudrait stocker la valeur de la variation affecté à chaque tuile, pour qu'en cas d'animation de changement de couleur par exemple, cette variation reste fixe (sinon cela donnera un effet stroboscopique).
 
-Voila un exemple: [https://vr.chabloz.eu/variation.html](https://vr.chabloz.eu/variation.html). Les touches 'I' et 'K' permettent réciproquement d’augmenter ou de décrémenter la variation de couleur.  
+Voila un exemple: [https://vr.chabloz.eu/variation.html](https://vr.chabloz.eu/variation.html). Les touches 'I' et 'K' permettent réciproquement d’augmenter ou de décrémenter la variation de couleur. Les touches 'J' et 'L' permettent réciproquement d’augmenter ou de décrémenter le nombre de variation de couleur. Enfin la touche 'C' permet de changer la couleur de manière aléatoire.
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgzMjkzMDA3MSwtODgwODk0MTQ2LDE5Nz
-cyMDM4NzEsMjA1ODMzMjUzMiwxMTQ1MzA0MjE1LC0xNTExNTc4
-NzIxLDQzMzk1MTA3MCwxOTc5MzYzMzE3LC0yMTI3MTk5MjIxLD
-U2NDk1OTU3NSw3NDI2NTQwOTUsMjA2NjU4NDU5MCwtNTM5NzA2
-Mzg5LDE0NzY2MDA2NzksLTEwMjI5NDY0NzQsMTExOTY2MDEyNC
-wtMTc1NTg0MTIwMCwtNjMzMzIyNjczLDExMjIyMDM2MTgsLTQ4
-Nzk5NzIwM119
+eyJoaXN0b3J5IjpbOTk5MjkzMjczLC04ODA4OTQxNDYsMTk3Nz
+IwMzg3MSwyMDU4MzMyNTMyLDExNDUzMDQyMTUsLTE1MTE1Nzg3
+MjEsNDMzOTUxMDcwLDE5NzkzNjMzMTcsLTIxMjcxOTkyMjEsNT
+Y0OTU5NTc1LDc0MjY1NDA5NSwyMDY2NTg0NTkwLC01Mzk3MDYz
+ODksMTQ3NjYwMDY3OSwtMTAyMjk0NjQ3NCwxMTE5NjYwMTI0LC
+0xNzU1ODQxMjAwLC02MzMzMjI2NzMsMTEyMjIwMzYxOCwtNDg3
+OTk3MjAzXX0=
 -->
