@@ -76,7 +76,7 @@ Article: [Films VR : top des meilleurs films sur Oculus Rift, HTC Vive, PSVR et 
 
 Article: [On a testé… la salle de cinéma en réalité virtuelle](https://www.lemonde.fr/pixels/article/2016/05/19/on-a-teste-la-salle-de-cinema-en-realite-virtuelle_4922687_4408996.html)
 
-### Intelligence artificielle
+### Intelligence artificielle et robotique
 
 Les systèmes utilisant l'intelligence artificielle (comme entre autre la robotique) doivent tout d'abord  être entraîné avant d'être opérationnel. 
 
@@ -364,11 +364,11 @@ Article: [Can we put all 5 senses in VR simulation?](https://4experience.co/vr-s
 - Nicolas Chabloz
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAxOTg0MzMxMiwtNjc0ODc0NzYsODUzOD
-MyNzI5LDIwMzM1NzEwNTksLTExMjQ4NTkyODYsMjE1ODc2NDc4
-LC01NzA0NTkxNzgsLTkzNzEwNDcwNiw0ODk4MDM3MzQsMTc5OD
-I1NzEwMSwtMTgyNDk0NDc3MiwtMTc1NzE0MDI2NSwyMDg5MjE1
-OTYsNTk0MTcwODg4LDE2NjkzOTEwNjgsMTgxOTUyMTkwMSwyMT
-M0MjU2MjI4LC0xODc4NzE0NDg1LDEwMzQ0MjM1MTMsLTE0ODEy
-ODAyNzVdfQ==
+eyJoaXN0b3J5IjpbMTI3NTE2MzkzNywxMDE5ODQzMzEyLC02Nz
+Q4NzQ3Niw4NTM4MzI3MjksMjAzMzU3MTA1OSwtMTEyNDg1OTI4
+NiwyMTU4NzY0NzgsLTU3MDQ1OTE3OCwtOTM3MTA0NzA2LDQ4OT
+gwMzczNCwxNzk4MjU3MTAxLC0xODI0OTQ0NzcyLC0xNzU3MTQw
+MjY1LDIwODkyMTU5Niw1OTQxNzA4ODgsMTY2OTM5MTA2OCwxOD
+E5NTIxOTAxLDIxMzQyNTYyMjgsLTE4Nzg3MTQ0ODUsMTAzNDQy
+MzUxM119
 -->
