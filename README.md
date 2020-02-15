@@ -78,6 +78,8 @@ Article: [On a testé… la salle de cinéma en réalité virtuelle](https://www
 
 ### AI
 
+
+
 Article: [Elon Musk’s OpenAI Is Training Robots In VR](https://uploadvr.com/elon-musks-openai-training-robots-vr/)
 
 Article: [VR + AI: the very real reality of virtual artificial intelligence](https://medium.com/shasta-apex/vr-ai-the-very-real-reality-of-virtual-artificial-intelligence-bebcdbbd35a4)
@@ -362,11 +364,11 @@ Article: [Can we put all 5 senses in VR simulation?](https://4experience.co/vr-s
 - Nicolas Chabloz
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY3NDg3NDc2LDg1MzgzMjcyOSwyMDMzNT
-cxMDU5LC0xMTI0ODU5Mjg2LDIxNTg3NjQ3OCwtNTcwNDU5MTc4
-LC05MzcxMDQ3MDYsNDg5ODAzNzM0LDE3OTgyNTcxMDEsLTE4Mj
-Q5NDQ3NzIsLTE3NTcxNDAyNjUsMjA4OTIxNTk2LDU5NDE3MDg4
-OCwxNjY5MzkxMDY4LDE4MTk1MjE5MDEsMjEzNDI1NjIyOCwtMT
-g3ODcxNDQ4NSwxMDM0NDIzNTEzLC0xNDgxMjgwMjc1LC0yMDg3
-OTc3NTk0XX0=
+eyJoaXN0b3J5IjpbMTg2MDgzMzc2LC02NzQ4NzQ3Niw4NTM4Mz
+I3MjksMjAzMzU3MTA1OSwtMTEyNDg1OTI4NiwyMTU4NzY0Nzgs
+LTU3MDQ1OTE3OCwtOTM3MTA0NzA2LDQ4OTgwMzczNCwxNzk4Mj
+U3MTAxLC0xODI0OTQ0NzcyLC0xNzU3MTQwMjY1LDIwODkyMTU5
+Niw1OTQxNzA4ODgsMTY2OTM5MTA2OCwxODE5NTIxOTAxLDIxMz
+QyNTYyMjgsLTE4Nzg3MTQ0ODUsMTAzNDQyMzUxMywtMTQ4MTI4
+MDI3NV19
 -->
