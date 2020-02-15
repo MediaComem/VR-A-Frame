@@ -186,7 +186,7 @@ Pour mettre en pratique votre nouvelle primitive. Créez une *ile* comme zone de
 
 A-Frame ajoute une [caméra par défaut](https://aframe.io/docs/1.0.0/components/camera.html#default-camera). Elle possède les composants [look-controls](https://github.com/aframevr/aframe/blob/master/docs/components/look-controls.md) et [wasd-controls](https://github.com/aframevr/aframe/blob/master/docs/components/wasd-controls.md), qui permette réciproquement de contrôler la rotation de la caméra (via la souris, le *touch* ou le casque VR) et sa position (uniquement avec les touches *wasd* ou les touches directionelles). Le composant **look-controls** semble idéal puisqu'il s'adapte tout seul aux environnements desktop, smartphone ou casque VR. Par contre le composant **wasd-controls** ne permet pas de gérer les collisions avec une nav-mesh (voir plus bas), ni de s'adapter aux différents contrôleurs de l'utilisateur (par exemple il ne fonctionne pas sur un smartphone puisque les touches wasd sont inaccessibles). Nous allons donc utiliser un composant de **aframe-extra** pour la gestion des déplacements : [movement-controls](https://github.com/donmccurdy/aframe-extras/tree/master/src/controls). Créez donc une caméra *rig*  comme indiqué dans la documentation. Vous pouvez désormais tester votre scène avec votre smartphone pour voir que les mouvements sont fonctionnels grâce à la gestion des *touch* par le composant. 
 
-Comme vu dans l'[état de l'art](./README.md#movements), il serait préférable de désactiver le composant **movement-controls** en VR  et d'implémenter un autre système de déplacement comme la téléportation (nous le ferons dans la suite de ce TP).  Pour s’entraîner encore une fois à la création de composant, et pour voir comment gérer les interactions  entre composant, développez un composant nommé **disable-in-vr** qui désactivera un autre composant lorsque la scene . 
+Comme vu dans l'[état de l'art](./README.md#movements), il serait préférable de désactiver le composant **movement-controls** en VR  et d'implémenter un autre système de déplacement comme la téléportation (nous le ferons dans la suite de ce TP).  Pour s’entraîner encore une fois à la création de composant, et pour voir comment gérer les interactions  entre composant, développez un composant nommé **disable-in-vr** qui désactivera un autre composant lorsque la scène est(ou passe) en mode VR. 
 
 
 
@@ -195,11 +195,11 @@ Comme vu dans l'[état de l'art](./README.md#movements), il serait préférable 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTI0MjM5MTE5LC0xNDMzOTkyNjYwLC0yND
-c4MDc3MDQsLTIxMDczMzUxMTUsMTkwNDk5NTM2NywtOTkzNjk2
-MzM5LC03MTI5MDMxMDQsMTM0OTUzODU4NSwtODgwODk0MTQ2LD
-E5NzcyMDM4NzEsMjA1ODMzMjUzMiwxMTQ1MzA0MjE1LC0xNTEx
-NTc4NzIxLDQzMzk1MTA3MCwxOTc5MzYzMzE3LC0yMTI3MTk5Mj
-IxLDU2NDk1OTU3NSw3NDI2NTQwOTUsMjA2NjU4NDU5MCwtNTM5
-NzA2Mzg5XX0=
+eyJoaXN0b3J5IjpbLTEwMTQ5MDkzNDcsLTE0MzM5OTI2NjAsLT
+I0NzgwNzcwNCwtMjEwNzMzNTExNSwxOTA0OTk1MzY3LC05OTM2
+OTYzMzksLTcxMjkwMzEwNCwxMzQ5NTM4NTg1LC04ODA4OTQxND
+YsMTk3NzIwMzg3MSwyMDU4MzMyNTMyLDExNDUzMDQyMTUsLTE1
+MTE1Nzg3MjEsNDMzOTUxMDcwLDE5NzkzNjMzMTcsLTIxMjcxOT
+kyMjEsNTY0OTU5NTc1LDc0MjY1NDA5NSwyMDY2NTg0NTkwLC01
+Mzk3MDYzODldfQ==
 -->
