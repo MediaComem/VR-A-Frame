@@ -78,7 +78,9 @@ Article: [On a testé… la salle de cinéma en réalité virtuelle](https://www
 
 ### Intelligence artificielle et robotique
 
-Les systèmes utilisant l'intelligence artificielle (comme entre autre la robotique) doivent tout d'abord  être entraîné avant d'être opérationnel. Souvent, le robot est construit, entraîné et testé, mais il est possible de faire quelques essais en amont grâce à la réalité virtuel. Il est par xemple possible de tester les interactions d'un robot (virtuel) avec un environnement virtuel
+Les systèmes utilisant l'intelligence artificielle (comme entre autre la robotique) doivent tout d'abord  être entraîné avant d'être opérationnel. Souvent, le robot est construit, entraîné et testé, mais il est possible de faire quelques essais en amont grâce à la réalité virtuel. Il est par xemple possible de tester les interactions d'un robot (virtuel) avec un environnement virtuel avant de passer à l'étape de construction. Ou encore d’entraîner le robot directement en  réalité virtuel. 
+
+Article: [Entrainement d'un robot en VR](https://www.tomshardware.com/news/ai-robot-training-isaac-holodeck,35126.html)
 
 Article: [Elon Musk’s OpenAI Is Training Robots In VR](https://uploadvr.com/elon-musks-openai-training-robots-vr/)
 
@@ -364,7 +366,7 @@ Article: [Can we put all 5 senses in VR simulation?](https://4experience.co/vr-s
 - Nicolas Chabloz
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk3NTkzMjg2MiwxMjc1MTYzOTM3LDEwMT
+eyJoaXN0b3J5IjpbLTE0NDU3ODcxMywxMjc1MTYzOTM3LDEwMT
 k4NDMzMTIsLTY3NDg3NDc2LDg1MzgzMjcyOSwyMDMzNTcxMDU5
 LC0xMTI0ODU5Mjg2LDIxNTg3NjQ3OCwtNTcwNDU5MTc4LC05Mz
 cxMDQ3MDYsNDg5ODAzNzM0LDE3OTgyNTcxMDEsLTE4MjQ5NDQ3
