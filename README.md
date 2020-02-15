@@ -84,8 +84,6 @@ Article: [AI Meets VR When Nvidia Trains Isaac On Holodeck](https://www.tomshard
 
 Article: [Elon Musk’s OpenAI Is Training Robots In VR](https://uploadvr.com/elon-musks-openai-training-robots-vr/)
 
-Article: [VR + AI: the very real reality of virtual artificial intelligence](https://medium.com/shasta-apex/vr-ai-the-very-real-reality-of-virtual-artificial-intelligence-bebcdbbd35a4)
-
 ### Autres applications
 
 La VR peut être utilisée dans une pléthore d'autres domaines. Par exemple, elle pourrait améliorer le télétravail (article: [VR could help transform remote work](https://www.computerworld.com/article/3174756/vr-could-help-transform-remote-work.html)). Elle est aussi utilisée en médecine, par exemple pour [combattre les phobies](https://www.letemps.ch/sciences/soigner-phobies-grace-realite-virtuelle). Les applications semblent infinies, puisque ce média semble être capable d'englober tous les autres.
@@ -366,11 +364,11 @@ Article: [Can we put all 5 senses in VR simulation?](https://4experience.co/vr-s
 - Nicolas Chabloz
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU0MjY1NjU1NywxMjc1MTYzOTM3LDEwMT
-k4NDMzMTIsLTY3NDg3NDc2LDg1MzgzMjcyOSwyMDMzNTcxMDU5
-LC0xMTI0ODU5Mjg2LDIxNTg3NjQ3OCwtNTcwNDU5MTc4LC05Mz
-cxMDQ3MDYsNDg5ODAzNzM0LDE3OTgyNTcxMDEsLTE4MjQ5NDQ3
-NzIsLTE3NTcxNDAyNjUsMjA4OTIxNTk2LDU5NDE3MDg4OCwxNj
-Y5MzkxMDY4LDE4MTk1MjE5MDEsMjEzNDI1NjIyOCwtMTg3ODcx
-NDQ4NV19
+eyJoaXN0b3J5IjpbNjU1NzgxODY4LDEyNzUxNjM5MzcsMTAxOT
+g0MzMxMiwtNjc0ODc0NzYsODUzODMyNzI5LDIwMzM1NzEwNTks
+LTExMjQ4NTkyODYsMjE1ODc2NDc4LC01NzA0NTkxNzgsLTkzNz
+EwNDcwNiw0ODk4MDM3MzQsMTc5ODI1NzEwMSwtMTgyNDk0NDc3
+MiwtMTc1NzE0MDI2NSwyMDg5MjE1OTYsNTk0MTcwODg4LDE2Nj
+kzOTEwNjgsMTgxOTUyMTkwMSwyMTM0MjU2MjI4LC0xODc4NzE0
+NDg1XX0=
 -->
