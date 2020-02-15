@@ -190,14 +190,15 @@ Comme vu dans l'[état de l'art](./README.md#movements), il serait préférable 
 
 ### L'avatar
 
+Puisque le Hub sera multi-utilisateurs, il est nécessaire de représenter les utilisateur sous la forme d'un avatar. 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYyMTI4MzU1LC0xNDMzOTkyNjYwLC0yND
-c4MDc3MDQsLTIxMDczMzUxMTUsMTkwNDk5NTM2NywtOTkzNjk2
-MzM5LC03MTI5MDMxMDQsMTM0OTUzODU4NSwtODgwODk0MTQ2LD
-E5NzcyMDM4NzEsMjA1ODMzMjUzMiwxMTQ1MzA0MjE1LC0xNTEx
-NTc4NzIxLDQzMzk1MTA3MCwxOTc5MzYzMzE3LC0yMTI3MTk5Mj
-IxLDU2NDk1OTU3NSw3NDI2NTQwOTUsMjA2NjU4NDU5MCwtNTM5
-NzA2Mzg5XX0=
+eyJoaXN0b3J5IjpbLTIwNDgzNDI2MTMsLTE0MzM5OTI2NjAsLT
+I0NzgwNzcwNCwtMjEwNzMzNTExNSwxOTA0OTk1MzY3LC05OTM2
+OTYzMzksLTcxMjkwMzEwNCwxMzQ5NTM4NTg1LC04ODA4OTQxND
+YsMTk3NzIwMzg3MSwyMDU4MzMyNTMyLDExNDUzMDQyMTUsLTE1
+MTE1Nzg3MjEsNDMzOTUxMDcwLDE5NzkzNjMzMTcsLTIxMjcxOT
+kyMjEsNTY0OTU5NTc1LDc0MjY1NDA5NSwyMDY2NTg0NTkwLC01
+Mzk3MDYzODldfQ==
 -->
