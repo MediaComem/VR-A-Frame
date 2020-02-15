@@ -78,7 +78,7 @@ Article: [On a testé… la salle de cinéma en réalité virtuelle](https://www
 
 ### Intelligence artificielle
 
-Les systèmes utilisant l'intelligence artificielle (comme entre autre la robotique) doivent tout d'abord  être entraîné avant d'êt
+Les systèmes utilisant l'intelligence artificielle (comme entre autre la robotique) doivent tout d'abord  être entraîné avant d'être opérationnel. 
 
 Article: [Elon Musk’s OpenAI Is Training Robots In VR](https://uploadvr.com/elon-musks-openai-training-robots-vr/)
 
@@ -364,11 +364,11 @@ Article: [Can we put all 5 senses in VR simulation?](https://4experience.co/vr-s
 - Nicolas Chabloz
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NDc5OTQ4NzcsLTY3NDg3NDc2LDg1Mz
-gzMjcyOSwyMDMzNTcxMDU5LC0xMTI0ODU5Mjg2LDIxNTg3NjQ3
-OCwtNTcwNDU5MTc4LC05MzcxMDQ3MDYsNDg5ODAzNzM0LDE3OT
-gyNTcxMDEsLTE4MjQ5NDQ3NzIsLTE3NTcxNDAyNjUsMjA4OTIx
-NTk2LDU5NDE3MDg4OCwxNjY5MzkxMDY4LDE4MTk1MjE5MDEsMj
-EzNDI1NjIyOCwtMTg3ODcxNDQ4NSwxMDM0NDIzNTEzLC0xNDgx
-MjgwMjc1XX0=
+eyJoaXN0b3J5IjpbMTAxOTg0MzMxMiwtNjc0ODc0NzYsODUzOD
+MyNzI5LDIwMzM1NzEwNTksLTExMjQ4NTkyODYsMjE1ODc2NDc4
+LC01NzA0NTkxNzgsLTkzNzEwNDcwNiw0ODk4MDM3MzQsMTc5OD
+I1NzEwMSwtMTgyNDk0NDc3MiwtMTc1NzE0MDI2NSwyMDg5MjE1
+OTYsNTk0MTcwODg4LDE2NjkzOTEwNjgsMTgxOTUyMTkwMSwyMT
+M0MjU2MjI4LC0xODc4NzE0NDg1LDEwMzQ0MjM1MTMsLTE0ODEy
+ODAyNzVdfQ==
 -->
