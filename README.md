@@ -78,7 +78,7 @@ Article: [On a testé… la salle de cinéma en réalité virtuelle](https://www
 
 ### Intelligence artificielle et robotique
 
-Les systèmes utilisant l'intelligence artificielle (comme entre autre la robotique) doivent tout d'abord  être entraîné avant d'être opérationnel. Souvent, le robot est construit, entraîné et testé, mais il est possible de faire quelques essais en amont grâce à la réalité virtuel. Il est par xemple possible de tester les interactions d'un robot (virtuel) avec un environnement virtuel avant de passer à l'étape de construction. Ou encore d’entraîner le robot directement en  réalité virtuel. 
+Les systèmes utilisant l'intelligence artificielle (comme entre autre la robotique) doivent tout d'abord  être entraîné avant d'être opérationnel. Souvent, le robot est construit, entraîné et testé, mais il est possible de faire quelques essais en amont grâce à la VR. Il est par exemple possible de tester les interactions d'un robot (virtuel) avec un environnement virtuel avant de passer à l'étape de construction. Ou encore d’entraîner le robot directement en  VR. 
 
 Article: [AI Meets VR When Nvidia Trains Isaac On Holodeck](https://www.tomshardware.com/news/ai-robot-training-isaac-holodeck,35126.html)
 
@@ -364,11 +364,11 @@ Article: [Can we put all 5 senses in VR simulation?](https://4experience.co/vr-s
 - Nicolas Chabloz
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjU1NzgxODY4LDEyNzUxNjM5MzcsMTAxOT
-g0MzMxMiwtNjc0ODc0NzYsODUzODMyNzI5LDIwMzM1NzEwNTks
-LTExMjQ4NTkyODYsMjE1ODc2NDc4LC01NzA0NTkxNzgsLTkzNz
-EwNDcwNiw0ODk4MDM3MzQsMTc5ODI1NzEwMSwtMTgyNDk0NDc3
-MiwtMTc1NzE0MDI2NSwyMDg5MjE1OTYsNTk0MTcwODg4LDE2Nj
-kzOTEwNjgsMTgxOTUyMTkwMSwyMTM0MjU2MjI4LC0xODc4NzE0
-NDg1XX0=
+eyJoaXN0b3J5IjpbLTEzNTkyOTE4OTksMTI3NTE2MzkzNywxMD
+E5ODQzMzEyLC02NzQ4NzQ3Niw4NTM4MzI3MjksMjAzMzU3MTA1
+OSwtMTEyNDg1OTI4NiwyMTU4NzY0NzgsLTU3MDQ1OTE3OCwtOT
+M3MTA0NzA2LDQ4OTgwMzczNCwxNzk4MjU3MTAxLC0xODI0OTQ0
+NzcyLC0xNzU3MTQwMjY1LDIwODkyMTU5Niw1OTQxNzA4ODgsMT
+Y2OTM5MTA2OCwxODE5NTIxOTAxLDIxMzQyNTYyMjgsLTE4Nzg3
+MTQ0ODVdfQ==
 -->
