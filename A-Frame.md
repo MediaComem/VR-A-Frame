@@ -190,15 +190,15 @@ Comme vu dans l'[état de l'art](./README.md#movements), il serait préférable 
 
 ### L'avatar
 
-Puisque le Hub sera multi-utilisateurs, il est nécessaire de représenter les utilisateurs sous la forme d'un avatar. Vous avez libre choix quand aux modèles, mais il est conseillé d'utiliser pour les mains les mêmes modèles que ceux d'A-Frame. Les voilà: 
+Puisque le Hub sera multi-utilisateurs, il est nécessaire de représenter les utilisateurs sous la forme d'un avatar. Vous avez libre choix quand aux modèles, mais il est conseillé d'utiliser pour les mains les mêmes modèles que ceux par défaut d'A-Frame. Les voilà: [main gauche](https://cdn.aframe.io/controllers/hands/leftHand.glb) et [main droite](https://cdn.aframe.io/controllers/hands/rightHand.glb)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcyMzM4MTQyMCwtMjA0ODM0MjYxMywtMT
-QzMzk5MjY2MCwtMjQ3ODA3NzA0LC0yMTA3MzM1MTE1LDE5MDQ5
-OTUzNjcsLTk5MzY5NjMzOSwtNzEyOTAzMTA0LDEzNDk1Mzg1OD
-UsLTg4MDg5NDE0NiwxOTc3MjAzODcxLDIwNTgzMzI1MzIsMTE0
-NTMwNDIxNSwtMTUxMTU3ODcyMSw0MzM5NTEwNzAsMTk3OTM2Mz
-MxNywtMjEyNzE5OTIyMSw1NjQ5NTk1NzUsNzQyNjU0MDk1LDIw
-NjY1ODQ1OTBdfQ==
+eyJoaXN0b3J5IjpbLTEzNjQxODEzNzgsMTcyMzM4MTQyMCwtMj
+A0ODM0MjYxMywtMTQzMzk5MjY2MCwtMjQ3ODA3NzA0LC0yMTA3
+MzM1MTE1LDE5MDQ5OTUzNjcsLTk5MzY5NjMzOSwtNzEyOTAzMT
+A0LDEzNDk1Mzg1ODUsLTg4MDg5NDE0NiwxOTc3MjAzODcxLDIw
+NTgzMzI1MzIsMTE0NTMwNDIxNSwtMTUxMTU3ODcyMSw0MzM5NT
+EwNzAsMTk3OTM2MzMxNywtMjEyNzE5OTIyMSw1NjQ5NTk1NzUs
+NzQyNjU0MDk1XX0=
 -->
