@@ -194,13 +194,15 @@ Puisque le Hub sera multi-utilisateurs, il est nécessaire de représenter les u
 
 Lorsque l'utilisateur explorera la scène avec un casque VR et des contrôleurs VR, la position et rotation des mains seront liées aux contrôleurs (nous verrons par la suite comment le faire). Par contre, lorsque l'utilisateur est sur *desktop* ou *mobile*, ce ne sera bien sûr pas le cas. Dans cette situation, il vous faut donc lier la position des mains à la position de la caméra. Pour la position, cela peut se faire très simplement en mettant les entités DOM des mains comme enfants de l'entité caméra *rig*.  Pour la rotation par contre, il faudrait qu'elle soit liée à celle de la tête de l'avatar. Pour le faire, tout en respectant l'architecture ECS, réalisez un composant nommé par exemple **bind-rotation** qui permettra de lié la rotation d'un élément à un autre. Puis, appliquez le à vos deux entités des mains.  Bien sûr, avec des contrôleurs VR ce composant n'aura aucun sens. Mais vous possédez déjà la solution à ce problème puisque vous avez précédemment développer un composant **disable-in-vr** ! Indication: je vous conseille de regrouper vos deux entités des mains dans une entité parente, et de faire que c'est cette entité parente qui sera enfant de l'entité caméra *rig*. Ainsi vous pourrez facilement positionner vos mains à la bonne hauteur grâce à leur entité parente commune.
 
-### Mesh de 
+### Mesh de navigation (*nav-mesh*)
+
+Il reste un problème important, l'utilisateur peut désormais se déplacer dans la scène, mais ce déplacement est beaucoup trop permissif (il peut se balader sur l'eau par exemple !).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MTU3OTIxMDQsMTU0MzYzMjM1MywxMT
-k2ODY4OTU0LC0xOTA5MjgxNzMyLDE3MjMzODE0MjAsLTIwNDgz
-NDI2MTMsLTE0MzM5OTI2NjAsLTI0NzgwNzcwNCwtMjEwNzMzNT
-ExNSwxOTA0OTk1MzY3LC05OTM2OTYzMzksLTcxMjkwMzEwNCwx
-MzQ5NTM4NTg1LC04ODA4OTQxNDYsMTk3NzIwMzg3MSwyMDU4Mz
-MyNTMyLDExNDUzMDQyMTUsLTE1MTE1Nzg3MjEsNDMzOTUxMDcw
-LDE5NzkzNjMzMTddfQ==
+eyJoaXN0b3J5IjpbLTg2MDQ2NTkzLDE1NDM2MzIzNTMsMTE5Nj
+g2ODk1NCwtMTkwOTI4MTczMiwxNzIzMzgxNDIwLC0yMDQ4MzQy
+NjEzLC0xNDMzOTkyNjYwLC0yNDc4MDc3MDQsLTIxMDczMzUxMT
+UsMTkwNDk5NTM2NywtOTkzNjk2MzM5LC03MTI5MDMxMDQsMTM0
+OTUzODU4NSwtODgwODk0MTQ2LDE5NzcyMDM4NzEsMjA1ODMzMj
+UzMiwxMTQ1MzA0MjE1LC0xNTExNTc4NzIxLDQzMzk1MTA3MCwx
+OTc5MzYzMzE3XX0=
 -->
