@@ -192,15 +192,15 @@ Comme vu dans l'[état de l'art](./README.md#movements), il serait préférable 
 
 Puisque le Hub sera multi-utilisateurs, il est nécessaire de représenter les utilisateurs sous la forme d'un avatar. Vous avez libre choix quand aux modèles, mais il est conseillé d'utiliser pour les mains les mêmes modèles que ceux par défaut d'A-Frame. Les voilà: [main gauche](https://cdn.aframe.io/controllers/hands/leftHand.glb) et [main droite](https://cdn.aframe.io/controllers/hands/rightHand.glb).
 
-
+Lorsque l'utilisateur explorera la scène avec un casque VR et des contrôleurs VR, la position et rotation des mains seront liées aux contrôleurs (nous verrons par la suite comment le faire). Par contre, lorsque l'utilisateur est sur desktop ou 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE5Njg2ODk1NCwtMTkwOTI4MTczMiwxNz
-IzMzgxNDIwLC0yMDQ4MzQyNjEzLC0xNDMzOTkyNjYwLC0yNDc4
-MDc3MDQsLTIxMDczMzUxMTUsMTkwNDk5NTM2NywtOTkzNjk2Mz
-M5LC03MTI5MDMxMDQsMTM0OTUzODU4NSwtODgwODk0MTQ2LDE5
-NzcyMDM4NzEsMjA1ODMzMjUzMiwxMTQ1MzA0MjE1LC0xNTExNT
-c4NzIxLDQzMzk1MTA3MCwxOTc5MzYzMzE3LC0yMTI3MTk5MjIx
-LDU2NDk1OTU3NV19
+eyJoaXN0b3J5IjpbNDY2NDE3MTE1LDExOTY4Njg5NTQsLTE5MD
+kyODE3MzIsMTcyMzM4MTQyMCwtMjA0ODM0MjYxMywtMTQzMzk5
+MjY2MCwtMjQ3ODA3NzA0LC0yMTA3MzM1MTE1LDE5MDQ5OTUzNj
+csLTk5MzY5NjMzOSwtNzEyOTAzMTA0LDEzNDk1Mzg1ODUsLTg4
+MDg5NDE0NiwxOTc3MjAzODcxLDIwNTgzMzI1MzIsMTE0NTMwND
+IxNSwtMTUxMTU3ODcyMSw0MzM5NTEwNzAsMTk3OTM2MzMxNywt
+MjEyNzE5OTIyMV19
 -->
