@@ -192,15 +192,15 @@ Comme vu dans l'[état de l'art](./README.md#movements), il serait préférable 
 
 Puisque le Hub sera multi-utilisateurs, il est nécessaire de représenter les utilisateurs sous la forme d'un avatar. Vous avez libre choix quand aux modèles, mais il est conseillé d'utiliser pour les mains les mêmes modèles que ceux par défaut d'A-Frame. Les voilà: [main gauche](https://cdn.aframe.io/controllers/hands/leftHand.glb) et [main droite](https://cdn.aframe.io/controllers/hands/rightHand.glb).
 
-Lorsque l'utilisateur explorera la scène avec un casque VR et des contrôleurs VR, la position et rotation des mains seront liées aux contrôleurs (nous verrons par la suite comment le faire). Par contre, lorsque l'utilisateur est sur *desktop* ou *mobile*, ce ne sera bien sûr pas le cas. Dans cette situation, il vous faut donc lier la position des mains à la position de la caméra. Pour la position, cela peut se faire très simplement en mettant les entités DOM des mains comme enfants de l'entité caméra *rig*.  Pour la rotation par contre, il faudrait qu'elle soit liée à celle de la tête de l'avatar. Pour le faire, tout en respectant le concept ECS 
+Lorsque l'utilisateur explorera la scène avec un casque VR et des contrôleurs VR, la position et rotation des mains seront liées aux contrôleurs (nous verrons par la suite comment le faire). Par contre, lorsque l'utilisateur est sur *desktop* ou *mobile*, ce ne sera bien sûr pas le cas. Dans cette situation, il vous faut donc lier la position des mains à la position de la caméra. Pour la position, cela peut se faire très simplement en mettant les entités DOM des mains comme enfants de l'entité caméra *rig*.  Pour la rotation par contre, il faudrait qu'elle soit liée à celle de la tête de l'avatar. Pour le faire, tout en respectant l'architecture ECS, réalisez un composant nommé par exemple **bind-rotation** qui permettra de lié la rotation d'un élément à un autre. Puis, appliquez le à vos deux entités des mains.  Bien sûr, avec des controlleurs
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTEzNjY5NzkwLDExOTY4Njg5NTQsLTE5MD
-kyODE3MzIsMTcyMzM4MTQyMCwtMjA0ODM0MjYxMywtMTQzMzk5
-MjY2MCwtMjQ3ODA3NzA0LC0yMTA3MzM1MTE1LDE5MDQ5OTUzNj
-csLTk5MzY5NjMzOSwtNzEyOTAzMTA0LDEzNDk1Mzg1ODUsLTg4
-MDg5NDE0NiwxOTc3MjAzODcxLDIwNTgzMzI1MzIsMTE0NTMwND
-IxNSwtMTUxMTU3ODcyMSw0MzM5NTEwNzAsMTk3OTM2MzMxNywt
-MjEyNzE5OTIyMV19
+eyJoaXN0b3J5IjpbLTE2NzYyNDgwODcsMTE5Njg2ODk1NCwtMT
+kwOTI4MTczMiwxNzIzMzgxNDIwLC0yMDQ4MzQyNjEzLC0xNDMz
+OTkyNjYwLC0yNDc4MDc3MDQsLTIxMDczMzUxMTUsMTkwNDk5NT
+M2NywtOTkzNjk2MzM5LC03MTI5MDMxMDQsMTM0OTUzODU4NSwt
+ODgwODk0MTQ2LDE5NzcyMDM4NzEsMjA1ODMzMjUzMiwxMTQ1Mz
+A0MjE1LC0xNTExNTc4NzIxLDQzMzk1MTA3MCwxOTc5MzYzMzE3
+LC0yMTI3MTk5MjIxXX0=
 -->
