@@ -196,9 +196,9 @@ Lorsque l'utilisateur explorera la scène avec un casque VR et des contrôleurs 
 
 ### Mesh de navigation (*nav-mesh*)
 
-Il reste un problème important, l'utilisateur peut désormais se déplacer dans la scène, mais ce déplacement est beaucoup trop permissif (il peut se balader sur l'eau par exemple !).
+Il reste un problème important, l'utilisateur peut désormais se déplacer dans la scène, mais ce déplacement est beaucoup trop permissif (il peut se balader sur l'eau par exemple !). Il va donc nous falloir la restreindre. Il y a plusieurs possibilités pour le faire. Les deux plus utilisées sont les suivantes: 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg2MDQ2NTkzLDE1NDM2MzIzNTMsMTE5Nj
+eyJoaXN0b3J5IjpbNjE1MDA0MzE3LDE1NDM2MzIzNTMsMTE5Nj
 g2ODk1NCwtMTkwOTI4MTczMiwxNzIzMzgxNDIwLC0yMDQ4MzQy
 NjEzLC0xNDMzOTkyNjYwLC0yNDc4MDc3MDQsLTIxMDczMzUxMT
 UsMTkwNDk5NTM2NywtOTkzNjk2MzM5LC03MTI5MDMxMDQsMTM0
