@@ -198,13 +198,13 @@ Lorsque l'utilisateur explorera la scène avec un casque VR et des contrôleurs 
 
 Il reste un problème important, l'utilisateur peut désormais se déplacer dans la scène, mais ce déplacement est beaucoup trop permissif (il peut se balader sur l'eau par exemple !). Il va donc nous falloir la restreindre. Il y a plusieurs possibilités pour le faire. Les deux plus utilisées sont les suivantes: utilisé un moteur physique pour la gestion des collisions, ou utiliser un mesh de navigation. Nous allons implémenter la 2e solution puisqu'elle est beaucoup moins gourmande en performance (et qu'il est difficile de détecter une collision physique avec le bord de notre île). Dans la jeux, c'est souvent une combinaison de ces deux méthodes qui est utilisée, pour offrir une méthode de navigation performante via les *nav-mesh* et des possibilités d'interactions avec l'environnement via le moteur physique. 
 
-L'implémentation des *nav-mesh* va être grandement simplifiée par le fait qu'**aframe-extras** offre sa gestion. Le principale problème sera de générer des *nav-mesh* en accord avec notre scène VR. Pour ce faire, un composant A-Frame existe pour générer directement la chose via l'inspecteur (ctrl+alt+i): [aframe-inspector-plugin-recast](https://github.com/donmccurdy/aframe-inspector-plugin-recast)
+L'implémentation des *nav-mesh* va être grandement simplifiée par le fait qu'**aframe-extras** offre sa gestion. Le principale problème sera de générer des *nav-mesh* en accord avec notre scène VR. Pour ce faire, un composant A-Frame existe pour générer directement la chose via l'inspecteur (ctrl+alt+i): [aframe-inspector-plugin-recast](https://github.com/donmccurdy/aframe-inspector-plugin-recast). Ce composant utilise une api backend libre d'accès qui utilise l'outils de génération de *nav-mesh*  [recast](https://github.com/recastnavigation/recastnavigation).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI0MTkzMTI0NywxNTQzNjMyMzUzLDExOT
-Y4Njg5NTQsLTE5MDkyODE3MzIsMTcyMzM4MTQyMCwtMjA0ODM0
-MjYxMywtMTQzMzk5MjY2MCwtMjQ3ODA3NzA0LC0yMTA3MzM1MT
-E1LDE5MDQ5OTUzNjcsLTk5MzY5NjMzOSwtNzEyOTAzMTA0LDEz
-NDk1Mzg1ODUsLTg4MDg5NDE0NiwxOTc3MjAzODcxLDIwNTgzMz
-I1MzIsMTE0NTMwNDIxNSwtMTUxMTU3ODcyMSw0MzM5NTEwNzAs
-MTk3OTM2MzMxN119
+eyJoaXN0b3J5IjpbLTE3OTgxNTAxMTksMTU0MzYzMjM1MywxMT
+k2ODY4OTU0LC0xOTA5MjgxNzMyLDE3MjMzODE0MjAsLTIwNDgz
+NDI2MTMsLTE0MzM5OTI2NjAsLTI0NzgwNzcwNCwtMjEwNzMzNT
+ExNSwxOTA0OTk1MzY3LC05OTM2OTYzMzksLTcxMjkwMzEwNCwx
+MzQ5NTM4NTg1LC04ODA4OTQxNDYsMTk3NzIwMzg3MSwyMDU4Mz
+MyNTMyLDExNDUzMDQyMTUsLTE1MTE1Nzg3MjEsNDMzOTUxMDcw
+LDE5NzkzNjMzMTddfQ==
 -->
