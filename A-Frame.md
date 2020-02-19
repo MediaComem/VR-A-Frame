@@ -196,13 +196,13 @@ Lorsque l'utilisateur explorera la scène avec un casque VR et des contrôleurs 
 
 ### Mesh de navigation (*nav-mesh*)
 
-Il reste un problème important, l'utilisateur peut désormais se déplacer dans la scène, mais ce déplacement est beaucoup trop permissif (il peut se balader sur l'eau par exemple !). Il va donc nous falloir la restreindre. Il y a plusieurs possibilités pour le faire. Les deux plus utilisées sont les suivantes: 
+Il reste un problème important, l'utilisateur peut désormais se déplacer dans la scène, mais ce déplacement est beaucoup trop permissif (il peut se balader sur l'eau par exemple !). Il va donc nous falloir la restreindre. Il y a plusieurs possibilités pour le faire. Les deux plus utilisées sont les suivantes: utilisé un moteur physique pour la gestion des collisions, ou utiliser un mesh de navigation. Nous allons implémenter la 2e solution puisqu'elle est beaucoup moins gourmande en performance (et qu'il est difficle .  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjE1MDA0MzE3LDE1NDM2MzIzNTMsMTE5Nj
-g2ODk1NCwtMTkwOTI4MTczMiwxNzIzMzgxNDIwLC0yMDQ4MzQy
-NjEzLC0xNDMzOTkyNjYwLC0yNDc4MDc3MDQsLTIxMDczMzUxMT
-UsMTkwNDk5NTM2NywtOTkzNjk2MzM5LC03MTI5MDMxMDQsMTM0
-OTUzODU4NSwtODgwODk0MTQ2LDE5NzcyMDM4NzEsMjA1ODMzMj
-UzMiwxMTQ1MzA0MjE1LC0xNTExNTc4NzIxLDQzMzk1MTA3MCwx
-OTc5MzYzMzE3XX0=
+eyJoaXN0b3J5IjpbMjA5NDIwODQ3NSwxNTQzNjMyMzUzLDExOT
+Y4Njg5NTQsLTE5MDkyODE3MzIsMTcyMzM4MTQyMCwtMjA0ODM0
+MjYxMywtMTQzMzk5MjY2MCwtMjQ3ODA3NzA0LC0yMTA3MzM1MT
+E1LDE5MDQ5OTUzNjcsLTk5MzY5NjMzOSwtNzEyOTAzMTA0LDEz
+NDk1Mzg1ODUsLTg4MDg5NDE0NiwxOTc3MjAzODcxLDIwNTgzMz
+I1MzIsMTE0NTMwNDIxNSwtMTUxMTU3ODcyMSw0MzM5NTEwNzAs
+MTk3OTM2MzMxN119
 -->
