@@ -184,7 +184,7 @@ Pour mettre en pratique votre nouvelle primitive. Créez une *ile* comme zone de
 
 ### Contrôle de la caméra
 
-A-Frame ajoute une [caméra par défaut](https://aframe.io/docs/1.0.0/components/camera.html#default-camera). Elle possède les composants [look-controls](https://github.com/aframevr/aframe/blob/master/docs/components/look-controls.md) et [wasd-controls](https://github.com/aframevr/aframe/blob/master/docs/components/wasd-controls.md), qui permette réciproquement de contrôler la rotation de la caméra (via la souris, le *touch* ou le casque VR) et sa position (uniquement avec les touches *wasd* ou les touches directionelles). Le composant **look-controls** semble idéal puisqu'il s'adapte tout seul aux environnements desktop, smartphone ou casque VR. Par contre le composant **wasd-controls** ne permet pas de gérer les collisions avec une nav-mesh (voir plus bas), ni de s'adapter aux différents contrôleurs de l'utilisateur (par exemple il ne fonctionne pas sur un smartphone puisque les touches wasd sont inaccessibles). Nous allons donc utiliser un composant de **aframe-extra** pour la gestion des déplacements : [movement-controls](https://github.com/donmccurdy/aframe-extras/tree/master/src/controls). Créez donc une caméra *rig*  comme indiqué dans la documentation. Vous pouvez désormais tester votre scène avec votre smartphone pour voir que les mouvements sont fonctionnels grâce à la gestion des *touch* par le composant. 
+A-Frame ajoute une [caméra par défaut](https://aframe.io/docs/1.0.0/components/camera.html#default-camera). Elle possède les composants [look-controls](https://github.com/aframevr/aframe/blob/master/docs/components/look-controls.md) et [wasd-controls](https://github.com/aframevr/aframe/blob/master/docs/components/wasd-controls.md), qui permette réciproquement de contrôler la rotation de la caméra (via la souris, le *touch* ou le casque VR) et sa position (uniquement avec les touches *wasd* ou les touches directionelles). Le composant **look-controls** semble idéal puisqu'il s'adapte tout seul aux environnements desktop, smartphone ou casque VR. Par contre le composant **wasd-controls** ne permet pas de gérer les collisions avec une nav-mesh (voir plus bas), ni de s'adapter aux différents contrôleurs de l'utilisateur (par exemple il ne fonctionne pas sur un smartphone puisque les touches wasd sont inaccessibles). Nous allons donc utiliser un composant de **aframe-extra** pour la  gestion des déplacements : [movement-controls](https://github.com/donmccurdy/aframe-extras/tree/master/src/controls). Créez donc une caméra *rig*  comme indiqué dans la documentation. Vous pouvez désormais tester votre scène avec votre smartphone pour voir que les mouvements sont fonctionnels grâce à la gestion des *touch* par le composant. 
 
 Comme vu dans l'[état de l'art](./README.md#movements), il serait préférable de désactiver le composant **movement-controls** en VR  et d'implémenter un autre système de déplacement comme la téléportation (nous le ferons dans la suite de ce TP).  Pour s’entraîner encore une fois à la création de composant, et pour voir comment gérer les interactions  entre composant, développez un composant nommé **disable-in-vr** qui désactivera un autre composant lorsque la scène est (ou passe) en mode VR. 
 
@@ -196,11 +196,11 @@ Puisque le Hub sera multi-utilisateurs, il est nécessaire de représenter les u
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MDkyODE3MzIsMTcyMzM4MTQyMCwtMj
-A0ODM0MjYxMywtMTQzMzk5MjY2MCwtMjQ3ODA3NzA0LC0yMTA3
-MzM1MTE1LDE5MDQ5OTUzNjcsLTk5MzY5NjMzOSwtNzEyOTAzMT
-A0LDEzNDk1Mzg1ODUsLTg4MDg5NDE0NiwxOTc3MjAzODcxLDIw
-NTgzMzI1MzIsMTE0NTMwNDIxNSwtMTUxMTU3ODcyMSw0MzM5NT
-EwNzAsMTk3OTM2MzMxNywtMjEyNzE5OTIyMSw1NjQ5NTk1NzUs
-NzQyNjU0MDk1XX0=
+eyJoaXN0b3J5IjpbMTE5Njg2ODk1NCwtMTkwOTI4MTczMiwxNz
+IzMzgxNDIwLC0yMDQ4MzQyNjEzLC0xNDMzOTkyNjYwLC0yNDc4
+MDc3MDQsLTIxMDczMzUxMTUsMTkwNDk5NTM2NywtOTkzNjk2Mz
+M5LC03MTI5MDMxMDQsMTM0OTUzODU4NSwtODgwODk0MTQ2LDE5
+NzcyMDM4NzEsMjA1ODMzMjUzMiwxMTQ1MzA0MjE1LC0xNTExNT
+c4NzIxLDQzMzk1MTA3MCwxOTc5MzYzMzE3LC0yMTI3MTk5MjIx
+LDU2NDk1OTU3NV19
 -->
