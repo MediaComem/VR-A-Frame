@@ -200,9 +200,11 @@ Il reste un problème important, l'utilisateur peut désormais se déplacer dans
 
 L'implémentation des *nav-mesh* va être grandement simplifiée par le fait qu'**aframe-extras** offre sa gestion. Le principale problème sera de générer des *nav-mesh* en accord avec notre scène VR. Pour ce faire, un composant A-Frame existe pour générer directement la chose via l'inspecteur (ctrl+alt+i): [aframe-inspector-plugin-recast](https://github.com/donmccurdy/aframe-inspector-plugin-recast). Ce composant utilise une api backend libre d'accès qui utilise l'outils de génération de *nav-mesh*  [recast](https://github.com/recastnavigation/recastnavigation). Il est aussi possible de générer la *nav-mesh* via [blender](https://www.blender.org/) ou autre logiciel.  
 
-### La 
+### La téléportation
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk1MzA2ODAxOSwxNzIxNDkyODE2LC0xNz
+eyJoaXN0b3J5IjpbMTc0NDIyODY2NywxNzIxNDkyODE2LC0xNz
 k4MTUwMTE5LDE1NDM2MzIzNTMsMTE5Njg2ODk1NCwtMTkwOTI4
 MTczMiwxNzIzMzgxNDIwLC0yMDQ4MzQyNjEzLC0xNDMzOTkyNj
 YwLC0yNDc4MDc3MDQsLTIxMDczMzUxMTUsMTkwNDk5NTM2Nywt
