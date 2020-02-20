@@ -32,7 +32,7 @@ Pour vérifier que tout fonctionne, ajouter les balises HTML nécessaires à l'a
 
 ### L'océan
 
-L'océan actuelle est un peu simple, mais nous pouvons le rendre plus plaisant en faisant quelques retouches. Premièrement, agrandissez  sa taille pour qu'il couvre 100 [m^2] (toutes les distances dans A-Frame sont en **mètre** et les angles en **degré**). Ensuite, la mer est un peu trop agitée pour notre scène. Essayez donc de modifier les attributs nécessaires pour obtenir un océan plus calme (par exemple: vous pouvez réduire l'amplitude des vagues de base à 0 et leur variance à  0.1). Vous remarquerez ainsi la facilité de paramétrage des composants A-Frame grâce à l'utilisation des attributs HTML. Pour un effet intéressant, vous pouvez aussi dupliquer votre balise océan et modifier l'amplitude et la variance  du second océan. Mais bien sûr la performance sera moins bonne. Puisque nous voulons que notre scène tourne sur le plus grand nombre de périphériques, il serait utile de pouvoir la *monitorer*. A-Frame l'inclut grâce au composant [stats](https://github.com/aframevr/aframe/blob/master/docs/components/stats.md) (que vous pouvez ajouter dés maintenant). Vous trouverez des bonnes pratiques pour l'optimisation des performances ici: [A-Frame best practices](https://github.com/aframevr/aframe/blob/master/docs/introduction/best-practices.md#performance). Nous allons suivre le plus possible ces recommandations durant le développement du *hub*.  
+L'océan actuel est un peu simple, mais nous pouvons le rendre plus plaisant en faisant quelques retouches. Premièrement, agrandissez  sa taille pour qu'il couvre 100 [m^2] (toutes les distances dans A-Frame sont en **mètre** et les angles en **degré**). Ensuite, la mer est un peu trop agitée pour notre scène. Essayez donc de modifier les attributs nécessaires pour obtenir un océan plus calme (par exemple: vous pouvez réduire l'amplitude des vagues de base à 0 et leur variance à  0.1). Vous remarquerez ainsi la facilité de paramétrage des composants A-Frame grâce à l'utilisation des attributs HTML. Pour un effet intéressant, vous pouvez aussi dupliquer votre balise océan et modifier l'amplitude et la variance  du second océan. Mais bien sûr la performance sera moins bonne. Puisque nous voulons que notre scène tourne sur le plus grand nombre de périphériques, il serait utile de pouvoir la *monitorer*. A-Frame l'inclut grâce au composant [stats](https://github.com/aframevr/aframe/blob/master/docs/components/stats.md) (que vous pouvez ajouter dés maintenant). Vous trouverez des bonnes pratiques pour l'optimisation des performances ici: [A-Frame best practices](https://github.com/aframevr/aframe/blob/master/docs/introduction/best-practices.md#performance). Nous allons suivre le plus possible ces recommandations durant le développement du *hub*.  
 
 ### Le ciel
 
@@ -199,12 +199,14 @@ Lorsque l'utilisateur explorera la scène avec un casque VR et des contrôleurs 
 Il reste un problème important, l'utilisateur peut désormais se déplacer dans la scène, mais ce déplacement est beaucoup trop permissif (il peut se balader sur l'eau par exemple !). Il va donc nous falloir la restreindre. Il y a plusieurs possibilités pour le faire. Les deux plus utilisées sont les suivantes: utilisé un moteur physique pour la gestion des collisions, ou utiliser un mesh de navigation. Nous allons implémenter la 2e solution puisqu'elle est beaucoup moins gourmande en performance (et qu'il est difficile de détecter une collision physique avec le bord de notre île). Dans la jeux, c'est souvent une combinaison de ces deux méthodes qui est utilisée, pour offrir une méthode de navigation performante via les *nav-mesh* et des possibilités d'interactions avec l'environnement via le moteur physique. 
 
 L'implémentation des *nav-mesh* va être grandement simplifiée par le fait qu'**aframe-extras** offre sa gestion. Le principale problème sera de générer des *nav-mesh* en accord avec notre scène VR. Pour ce faire, un composant A-Frame existe pour générer directement la chose via l'inspecteur (ctrl+alt+i): [aframe-inspector-plugin-recast](https://github.com/donmccurdy/aframe-inspector-plugin-recast). Ce composant utilise une api backend libre d'accès qui utilise l'outils de génération de *nav-mesh*  [recast](https://github.com/recastnavigation/recastnavigation). Il est aussi possible de générer la *nav-mesh* via [blender](https://www.blender.org/) ou autre logiciel.  
+
+### 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcyMTQ5MjgxNiwtMTc5ODE1MDExOSwxNT
-QzNjMyMzUzLDExOTY4Njg5NTQsLTE5MDkyODE3MzIsMTcyMzM4
-MTQyMCwtMjA0ODM0MjYxMywtMTQzMzk5MjY2MCwtMjQ3ODA3Nz
-A0LC0yMTA3MzM1MTE1LDE5MDQ5OTUzNjcsLTk5MzY5NjMzOSwt
-NzEyOTAzMTA0LDEzNDk1Mzg1ODUsLTg4MDg5NDE0NiwxOTc3Mj
-AzODcxLDIwNTgzMzI1MzIsMTE0NTMwNDIxNSwtMTUxMTU3ODcy
-MSw0MzM5NTEwNzBdfQ==
+eyJoaXN0b3J5IjpbMTg1ODc0NDI3OCwxNzIxNDkyODE2LC0xNz
+k4MTUwMTE5LDE1NDM2MzIzNTMsMTE5Njg2ODk1NCwtMTkwOTI4
+MTczMiwxNzIzMzgxNDIwLC0yMDQ4MzQyNjEzLC0xNDMzOTkyNj
+YwLC0yNDc4MDc3MDQsLTIxMDczMzUxMTUsMTkwNDk5NTM2Nywt
+OTkzNjk2MzM5LC03MTI5MDMxMDQsMTM0OTUzODU4NSwtODgwOD
+k0MTQ2LDE5NzcyMDM4NzEsMjA1ODMzMjUzMiwxMTQ1MzA0MjE1
+LC0xNTExNTc4NzIxXX0=
 -->
