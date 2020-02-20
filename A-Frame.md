@@ -203,13 +203,13 @@ L'implémentation des *nav-mesh* va être grandement simplifiée par le fait qu'
 ### La téléportation
 
 Nous allons mettre en place le système de téléportation libre vu dans l’état  de l'art. Le composant suivant vous offre tout ce qu'il faut pour le faire: 
-[aframe-teleport-controls](https://github.com/donmccurdy/aframe-teleport-controls).  Il faut bien sûr,  
+[aframe-teleport-controls](https://github.com/donmccurdy/aframe-teleport-controls).  Il faut bien sûr limiter la téléportation à votre *nav-mesh*.  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEyNDc3Njk5NywxNzIxNDkyODE2LC0xNz
-k4MTUwMTE5LDE1NDM2MzIzNTMsMTE5Njg2ODk1NCwtMTkwOTI4
-MTczMiwxNzIzMzgxNDIwLC0yMDQ4MzQyNjEzLC0xNDMzOTkyNj
-YwLC0yNDc4MDc3MDQsLTIxMDczMzUxMTUsMTkwNDk5NTM2Nywt
-OTkzNjk2MzM5LC03MTI5MDMxMDQsMTM0OTUzODU4NSwtODgwOD
-k0MTQ2LDE5NzcyMDM4NzEsMjA1ODMzMjUzMiwxMTQ1MzA0MjE1
-LC0xNTExNTc4NzIxXX0=
+eyJoaXN0b3J5IjpbLTE5NzU1NzYyMDksMTcyMTQ5MjgxNiwtMT
+c5ODE1MDExOSwxNTQzNjMyMzUzLDExOTY4Njg5NTQsLTE5MDky
+ODE3MzIsMTcyMzM4MTQyMCwtMjA0ODM0MjYxMywtMTQzMzk5Mj
+Y2MCwtMjQ3ODA3NzA0LC0yMTA3MzM1MTE1LDE5MDQ5OTUzNjcs
+LTk5MzY5NjMzOSwtNzEyOTAzMTA0LDEzNDk1Mzg1ODUsLTg4MD
+g5NDE0NiwxOTc3MjAzODcxLDIwNTgzMzI1MzIsMTE0NTMwNDIx
+NSwtMTUxMTU3ODcyMV19
 -->
