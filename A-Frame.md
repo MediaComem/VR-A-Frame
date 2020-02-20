@@ -206,9 +206,10 @@ Nous allons mettre en place le système de téléportation libre vu dans l’ét
 [aframe-teleport-controls](https://github.com/donmccurdy/aframe-teleport-controls).  Il faut bien sûr limiter la téléportation à votre *nav-mesh*. 
 
  ## Intéraction et animation
- Depuis la zone de 
+
+Utilisez le composant [cursor](https://github.com/aframevr/aframe/blob/master/docs/components/cursor.md) pour que l'utilisateur puisse interagir sur *desktop*
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEzOTMzNTQyOCwxNzIxNDkyODE2LC0xNz
+eyJoaXN0b3J5IjpbMTgzODMyMDU5MywxNzIxNDkyODE2LC0xNz
 k4MTUwMTE5LDE1NDM2MzIzNTMsMTE5Njg2ODk1NCwtMTkwOTI4
 MTczMiwxNzIzMzgxNDIwLC0yMDQ4MzQyNjEzLC0xNDMzOTkyNj
 YwLC0yNDc4MDc3MDQsLTIxMDczMzUxMTUsMTkwNDk5NTM2Nywt
