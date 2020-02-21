@@ -55,7 +55,7 @@ Article: [La réalité virtuelle va révolutionner de nombreux secteurs de l’i
 
 ### Education/formation
 
-La VR permet notamment la simulation de situations réelles pour l'entraînement (méditaiton, prise de parole en public, interventions médicales, ...). Elle permet aussi d'engager, de stimuler les utilisateurs pour un meilleur apprentissage et mémorisation. Histoire, biologie, médecine, il existe aujourd'hui de nombreuses expériences pédagogiques.
+La VR permet notamment la simulation de situations réelles pour l'entraînement (méditatiton, prise de parole en public, interventions médicales, ...). Elle permet aussi d'engager, de stimuler les utilisateurs pour un meilleur apprentissage et mémorisation. Histoire, biologie, médecine, il existe aujourd'hui de nombreuses expériences pédagogiques.
 
 - [Unimersiv](https://unimersiv.com/): une app réunissant des expériences VR pédagogiques (Histoire, espace, anatomie,...)
 - [InMind VR](https://play.google.com/store/apps/details?id=com.nivalvr.inmind&hl=en): une app pour découvrir le cerveau humain
