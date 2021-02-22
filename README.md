@@ -319,9 +319,7 @@ Article: [Can we put all 5 senses in VR simulation?](https://4experience.co/vr-s
 
 - [2019 Was a Major Inflection Point for VR—Here’s the Proof](https://www.roadtovr.com/2019-major-inflection-point-vr-heres-proof/)
 
-- [Les casques VR sur Steam font leurs plus grandes hausses à ce jour](https://www.etr.fr/actualite/7370-les-casques-vr-sur-steam-font-leurs-plus-grandes-hausses-a-ce-jour.html)
-
-- [35 Virtual Reality Statistics That Will Rock the Market in 2020](https://techjury.net/stats-about/virtual-reality/)
+- [Monthly-connected headsets on Steam are up 94% year-over-year](https://www.roadtovr.com/steam-survey-vr-monthly-active-user-2-million-milestone/)
 
 # <a name="fiction"></a>La VR dans la fiction
 
