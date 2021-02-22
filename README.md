@@ -20,18 +20,11 @@
 
 La VR est de plus en plus utilisée en marketing. Elle plonge l'utilisateur (et potentiel client) dans une expérience immersive, personnalisée et engageante vis-à-vis du produit vendu.
 
-- [Boursin: The Sensorium](https://www.youtube.com/watch?time_continue=93&v=XRik3h5M-qU&feature=emb_logo): Voyage dans un frigo
-- [Toms Shoes](https://www.fastcompany.com/3059526/why-toms-shoes-and-att-are-taking-a-virtual-reality-trip-to-colombia): Voyage en Colombie
-- [Volvo Reality](https://www.youtube.com/watch?v=Wuln2bJkp1k): Drive test en VR
-
-Article:
-[Marketing VR - Comment la réalité virtuelle transforme la publicité?](https://www.realite-virtuelle.com/marketing-vr/)
-
 ### Jeux vidéos
 
-La VR permet de faire partie intégrante de l'univers du jeu, ce qui apporte une grande immersion. Des jeux aux univers très développés, principalement à la première personne, cherchant une grande immersion du joueur bénéficient grandement de la VR. Un bon exemple est le jeu [Sykrim](https://bethesda.net/fr/article/4YSRrlXtpuKeWIK6EMiG84/skyrim-vr-arrive-sur-steamvr), adapté à la VR en 2018. Un autre est le futur [Half-Life: Alyx](https://www.youtube.com/watch?v=O2W0N3uKXmo). 
+La VR permet de faire partie intégrante de l'univers du jeu, ce qui apporte une grande immersion. Des jeux aux univers très développés, principalement à la première personne, cherchant une grande immersion du joueur bénéficient grandement de la VR. Un bon exemple est le jeu [Half-Life: Alyx](https://www.youtube.com/watch?v=O2W0N3uKXmo). 
 
-La VR semble aussi adéquate pour les [MMORPG](https://fr.wikipedia.org/wiki/Jeu_de_r%C3%B4le_en_ligne_massivement_multijoueur), bien que pour le moment peu de tentative sont faites (à cause, entre autre, des problèmes de complexité, de coût et de gestion des déplacements). La VR s'applique aussi très bien au jeu de simulation. Elle va aussi créer de nouveaux genres. Voir [Steam VR](https://store.steampowered.com/vr/)
+La VR semble aussi adéquate pour les [MMORPG](https://fr.wikipedia.org/wiki/Jeu_de_r%C3%B4le_en_ligne_massivement_multijoueur), bien que pour le moment peu de tentatives sont faites (à cause, entre autre, des problèmes de complexité, de coût et de gestion des déplacements). La VR s'applique aussi très bien au jeu de simulation. Elle va aussi créer de nouveaux genres. Voir [Steam VR](https://store.steampowered.com/vr/)
 
 - [Beat Saber](https://store.steampowered.com/app/620980/Beat_Saber/)
 - [Richie's Plank Experience](https://store.steampowered.com/app/517160/Richies_Plank_Experience/)
@@ -170,15 +163,16 @@ Il existe bien sur d'autres types de contrôleurs plus exotique, mais ceux-ci re
 
 Le tableau ci-dessous présente quelques'un des casques VR les plus récents ainsi que leurs différentes fonctionnalités.
 
-| Casques               | Platforme     | 6DOF | Contrôleurs | Contrôleurs 6DOF | Hand Tracking
-|:--------              |----------:    |:----:|:-----------:|:---------------: | :-----------:
-| HTC Vive Cosmos       | PC            | ✔️    | ✔️        | ✔️               | ✔️
-| Oculus Rift S         | PC            | ✔️    | ✔️        | ✔️               | ⚠
-| Oculus Quest          | Standalone    | ✔️    | ✔️        | ✔️               | ✔️
-| Oculus Go             | Standalone    | ❌    | ✔️        | ❌               | ❌ 
-| Google Cardboard      | Android       | ❌    | ❌        | ❌               | ❌
-| Sony Playstation VR   | Playstation   | ✔️    | ✔️        | ✔️               | ❌
-| Windows Mixed Reality* | PC            | ✔️    | ✔️        | ✔️              | ✔️
+| Casques                | Platforme     | 6DOF | Contrôleurs | Contrôleurs 6DOF | Hand Tracking
+|:--------               |----------:    |:----:|:-----------:|:---------------: | :-----------:
+| HTC Vive Cosmos        | PC            | ✔️    | ✔️        | ✔️               | ✔️
+| Oculus Rift S          | PC            | ✔️    | ✔️        | ✔️               | ⚠
+| Oculus Quest & Quest 2 | Standalone    | ✔️    | ✔️        | ✔️               | ✔️
+| Oculus Go              | Standalone    | ❌    | ✔️        | ❌               | ❌ 
+| Google Cardboard       | Android       | ❌    | ❌        | ❌               | ❌
+| Sony Playstation VR    | Playstation   | ✔️    | ✔️        | ✔️               | ❌
+| Windows Mixed Reality* | PC            | ✔️    | ✔️        | ✔️               | ✔️
+| Valve Index            | PC            | ✔️    | ✔️        | ✔️               | ✔️
 
 - ⚠ = En beta / pas officiellement supporté 
 - ✔️ = Officiellement supporté
