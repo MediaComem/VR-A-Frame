@@ -65,8 +65,6 @@ Pour le cinéma, la VR permet de s'immerger quasiment totalement dans l'univers 
 
 Article: [Cinéma VR – Comment la réalité virtuelle transforme le cinéma](https://www.realite-virtuelle.com/cinema-vr/)
 
-Article: [Films VR : top des meilleurs films sur Oculus Rift, HTC Vive, PSVR et Gear VR](https://www.realite-virtuelle.com/meilleurs-films-oculus-rift-3001/)
-
 Article: [On a testé… la salle de cinéma en réalité virtuelle](https://www.lemonde.fr/pixels/article/2016/05/19/on-a-teste-la-salle-de-cinema-en-realite-virtuelle_4922687_4408996.html)
 
 ### Intelligence artificielle et robotique
