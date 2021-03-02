@@ -207,13 +207,4 @@ Nous allons mettre en place le système de téléportation libre vu dans l’ét
 
  ## Intéraction et animation
 
-Utilisez le composant [cursor](https://github.com/aframevr/aframe/blob/master/docs/components/cursor.md) pour que l'utilisateur puisse interagir sur *desktop*
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgzODMyMDU5MywxNzIxNDkyODE2LC0xNz
-k4MTUwMTE5LDE1NDM2MzIzNTMsMTE5Njg2ODk1NCwtMTkwOTI4
-MTczMiwxNzIzMzgxNDIwLC0yMDQ4MzQyNjEzLC0xNDMzOTkyNj
-YwLC0yNDc4MDc3MDQsLTIxMDczMzUxMTUsMTkwNDk5NTM2Nywt
-OTkzNjk2MzM5LC03MTI5MDMxMDQsMTM0OTUzODU4NSwtODgwOD
-k0MTQ2LDE5NzcyMDM4NzEsMjA1ODMzMjUzMiwxMTQ1MzA0MjE1
-LC0xNTExNTc4NzIxXX0=
--->
+Utilisez le composant [cursor](https://github.com/aframevr/aframe/blob/master/docs/components/cursor.md) pour que l'utilisateur puisse interagir sur *desktop*, est le composant [laser-controls](https://github.com/aframevr/aframe/blob/master/docs/components/laser-controls.md) en VR. Finalement, testez vos intercations sur Desktop, Mobile, casque VR 3DOF et 6DOF si possible.
