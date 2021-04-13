@@ -65,8 +65,6 @@ Pour le cinéma, la VR permet de s'immerger quasiment totalement dans l'univers 
 
 Article: [Cinéma VR – Comment la réalité virtuelle transforme le cinéma](https://www.realite-virtuelle.com/cinema-vr/)
 
-Article: [On a testé… la salle de cinéma en réalité virtuelle](https://www.lemonde.fr/pixels/article/2016/05/19/on-a-teste-la-salle-de-cinema-en-realite-virtuelle_4922687_4408996.html)
-
 ### Intelligence artificielle et robotique
 
 Les systèmes utilisant l'intelligence artificielle (comme entre autre la robotique) doivent tout d'abord  être entraîné avant d'être opérationnel. Souvent, le robot est construit, entraîné et testé, mais il est possible de faire quelques essais en amont grâce à la VR. Il est par exemple possible de tester les interactions d'un robot (virtuel) avec un environnement (virtuel) avant de passer à l'étape de construction. Ou encore d’entraîner le robot directement en  VR. 
