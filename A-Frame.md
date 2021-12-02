@@ -113,7 +113,7 @@ Pour bien comprendre pourquoi la rotation doit s'effectuer autour de l'axe X, je
 
 ### Pavage
 
-Pour le pavage, il va falloir cloner et positionner notre prisme hexagonal de multiple fois. Si vous avez bien lu la documentation sur le pavage hexagonale (lien directe vers les parties qui nous intéresse: [hex to pixel](https://www.redblobgames.com/grids/hexagons/#hex-to-pixel) et [range](https://www.redblobgames.com/grids/hexagons/#range)),  il vous suffit de parcourir les coordonnées axiales **q** et **r** selon la taille du pavage (attribut **size**) , pour chaque tuile:
+Pour le pavage, il va falloir cloner et positionner notre prisme hexagonal de multiple fois. Si vous avez bien lu la documentation sur le pavage hexagonale (lien directe vers les parties qui nous intéresse: [axial coordinate](https://www.redblobgames.com/grids/hexagons/#coordinates-axial), [hex to pixel](https://www.redblobgames.com/grids/hexagons/#hex-to-pixel) et [range](https://www.redblobgames.com/grids/hexagons/#range)),  il vous suffit de parcourir les coordonnées axiales **q** et **r** selon la taille du pavage (attribut **size**) , pour chaque tuile:
 - de cloner votre mesh (avec la méthode [clone()](https://threejs.org/docs/#api/en/objects/Mesh.clone) de three.js) et de l'ajouter à une structure pour le stockage du pavage (un tableau par exemple)
 
 -  de calculer les coordonnées **x** et **z** associées aux coordonnées **q** et **r** et à la tailles des tuiles (attribut **cellsize**), et des les attribuer au mesh cloné grâce au  code suivant:
