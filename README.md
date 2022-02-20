@@ -39,7 +39,7 @@ Article: [Virtual Reality is a big trend in museums, but what are the best examp
 
 ### Prototypage
 
-Dans différents domaines, les prototypes en 3D peuvent être testés et développés en VR ce qui permet un gain de temps (et d'argent!) souvent considérable (par exemple en architecture). Dans l'industrie automobile c'est devenu particulièrement intéressant.
+Dans différents domaines, les prototypes en 3D peuvent être testés et développés en VR ce qui permet un gain de temps (et d'argent!) souvent considérable (par exemple en architecture). Quelques exemples provenant de l'industrie automobile :
 
 Article: [BMW Uses Virtual Reality to Build Prototypes](https://www.thedrive.com/sheetmetal/8619/bmw-uses-virtual-reality-to-build-prototypes)
 
@@ -69,8 +69,6 @@ Article: [Cinéma VR – Comment la réalité virtuelle transforme le cinéma](h
 Les systèmes utilisant l'intelligence artificielle (comme entre autre la robotique) doivent tout d'abord  être entraîné avant d'être opérationnel. Souvent, le robot est construit, entraîné et testé, mais il est possible de faire quelques essais en amont grâce à la VR. Il est par exemple possible de tester les interactions d'un robot (virtuel) avec un environnement (virtuel) avant de passer à l'étape de construction. Ou encore d’entraîner le robot directement en  VR. 
 
 Article: [AI Meets VR When Nvidia Trains Isaac On Holodeck](https://www.tomshardware.com/news/ai-robot-training-isaac-holodeck,35126.html)
-
-Article: [Elon Musk’s OpenAI Is Training Robots In VR](https://uploadvr.com/elon-musks-openai-training-robots-vr/)
 
 ### Autres applications
 
