@@ -27,7 +27,6 @@ La VR permet de faire partie intégrante de l'univers du jeu, ce qui apporte une
 La VR semble aussi adéquate pour les [MMORPG](https://fr.wikipedia.org/wiki/Jeu_de_r%C3%B4le_en_ligne_massivement_multijoueur), bien que pour le moment peu de tentatives sont faites (à cause, entre autre, des problèmes de complexité, de coût et de gestion des déplacements). La VR s'applique aussi très bien au jeu de simulation. Elle va aussi créer de nouveaux genres. Voir [Steam VR](https://store.steampowered.com/vr/)
 
 - [Beat Saber](https://store.steampowered.com/app/620980/Beat_Saber/)
-- [Richie's Plank Experience](https://store.steampowered.com/app/517160/Richies_Plank_Experience/)
 
 ### Musées
 
