@@ -39,7 +39,7 @@ Article: [Virtual Reality is a big trend in museums, but what are the best examp
 
 ### Métavers
 
-Les futurs métavers (metaverses) se veulent immersif. La VR est donc probablement un des outils importants pour leur réalisation. 
+Les futurs métavers (metaverses) se veulent immersifs. La VR est donc probablement un des outils importants pour leur réalisation. 
 
 [Metavers, des origines à aujourd'hui](https://www.twitch.tv/videos/1270126654)
 
