@@ -37,6 +37,12 @@ Les musées ont commencé à utiliser la VR, en l'adaptant à chaque besoin. Ell
 
 Article: [Virtual Reality is a big trend in museums, but what are the best examples of museums using VR?](https://www.museumnext.com/article/how-museums-are-using-virtual-reality/)
 
+### Métavers
+
+Les futurs métavers (metaverses) se veulent immersif. La VR est donc probablement un des outils importants pour leur réalisation. 
+
+[Metavers, des origines à aujourd'hui](https://www.twitch.tv/videos/1270126654)
+
 ### Prototypage
 
 Dans différents domaines, les prototypes en 3D peuvent être testés et développés en VR ce qui permet un gain de temps (et d'argent!) souvent considérable (par exemple en architecture). Quelques exemples provenant de l'industrie automobile :
@@ -124,7 +130,7 @@ XIXe s. - [Stéréoscopes](https://fr.wikipedia.org/wiki/St%C3%A9r%C3%A9oscope)
 
 ![Les six degrés de liberté dans un espace à trois dimensions, @author:GregorDS, Wikipedia](./img/6DOF.png)
 
-Un des points importants à penser lors de la conception d'une expérience VR, est la façon dont le joueur va pouvoir se déplacer et interagir avec le monde autour de lui. Pour ce qui est du point de vue matériel, on parle de **degrés de liberté (Degree of Freedom)**. Il existe aujourd'hui 2 possibilités pour le nombre de degré de liberté. La première est le 3DOF pour "Three Degrees Of Freedom", qui indique que le matériel peut suivre les mouvements de rotation effectués par le joueur (ces trois axes sont *yaw*, *pitch*  et  *roll*). La deuxième est le 6DOF pour "Six Degrees Of Freedom" qui, en plus de pouvoir suivre les mouvements de rotation, le matériel peut également suivre les mouvements de position (*forward/back*, *up/down*, *left/right*).
+Un des points importants à penser lors de la conception d'une expérience VR, est la façon dont le joueur va pouvoir se déplacer et interagir avec le monde autour de lui. Pour ce qui est du point de vue matériel, on parle de **degrés de liberté (Degree of Freedom)**. Il existe aujourd'hui 2 possibilités pour le nombre de degré de liberté. La première est le 3DoF pour "Three Degrees Of Freedom", qui indique que le matériel peut suivre les mouvements de rotation effectués par le joueur (ces trois axes sont *yaw*, *pitch*  et  *roll*). La deuxième est le 6DoF pour "Six Degrees Of Freedom" qui, en plus de pouvoir suivre les mouvements de rotation, le matériel peut également suivre les mouvements de position (*forward/back*, *up/down*, *left/right*).
 
 En général, le nombre de degrés de liberté du casque correspond à celui du contrôleur (quand il y en a un).
 
@@ -134,7 +140,7 @@ Le suivi de position est possible aujourd'hui avec les 2 techniques ci-dessous:
 - Outside-in (Oculus camera ir, Valve lighthouse, ...)
 - Inside-out tracking (simultaneous localization and mapping [SLAM](https://en.wikipedia.org/wiki/Simultaneous_localization_and_mapping))
 
-La première est externe au casque et la seconde est intégrée au casque.
+La première est externe au casque et la seconde est intégrée au casque. Bien que plus interessantes pour sa portabilité, la version Inside-out est souvent moins précise et il semble difficile qu'elle offre un jour un tracking du corps entier.
 
 Pour aller plus loin sur leurs fonctionnements: [How VR Positional Tracking System Work](https://uploadvr.com/how-vr-tracking-works)
 
@@ -142,11 +148,11 @@ Pour aller plus loin sur leurs fonctionnements: [How VR Positional Tracking Syst
 
 La VR se démocratisant, les systèmes permettant d'interagir avec aussi. Voici quelqu'un des systèmes et/ou contrôleurs possibles aujourd'hui:
 
-Pour les casques les moins chers (Google Cardboard), un système d’interaction par rapport au regard peut être mis en place simplement, un bouton ou un minuteur permettant de *cliquer* sur des objets par rapport à la position du regard (un curseur).
+Pour les casques les moins chers (Google Cardboard), un système d’interaction par rapport au regard (gaze interaction) peut être mis en place simplement, un bouton ou un minuteur permettant de *cliquer* sur des objets par rapport à la position du regard (un curseur).
 
-Une autre façon d'interaction peu coûteuse est l'utilisation d'un contrôleur 3DOF (Occulus Go, Google Daydream, Samsung GearVR). Comme celui-ci ne peut suivre que les mouvements de rotation, son usage en VR se limite à pouvoir pointer des objets comme une télécommande, mais également à servir aux déplacements. Toutefois, certains contrôleurs peuvent approximer leurs positions et de ce fait permettent de tenir un objet ([Documentation Unity](https://developers.google.com/vr/develop/unity/controller-support)).
+Une autre façon d'interaction peu coûteuse est l'utilisation d'un contrôleur 3DoF (Occulus Go, Google Daydream, Samsung GearVR). Comme celui-ci ne peut suivre que les mouvements de rotation, son usage en VR se limite à pouvoir pointer des objets comme les télécommandes des TV modernes, mais également à servir aux déplacements. Toutefois, certains contrôleurs peuvent approximer leurs positions et de ce fait permettent de simuler un 6DoF ([Documentation Unity](https://developers.google.com/vr/develop/unity/controller-support)).
 
-Les contrôleurs 6DOF quant à eux permettent de suivre avec précision leurs positions (que celle-ci soit dans la main du joueur ou ailleurs). Cela permet d'avoir une immersion quasiment parfaite, notamment quand un objet est présent dans la main du joueur (épée, pistolet, sabre laser, etc...).
+Les contrôleurs 6DoF quant à eux permettent de suivre avec précision leurs positions (que celle-ci soit dans la main du joueur ou ailleurs). Cela permet d'avoir une immersion quasiment parfaite, notamment quand un objet est présent dans la main du joueur (pinceau, bâton, pistolet, sabre laser, etc...).
 
 Enfin, sur certains casques, ou à l'aide de senseurs supplémentaires (comme le [Leap Motion](https://en.wikipedia.org/wiki/Leap_Motion)), il est possible de suivre la position des mains et des doigts du joueur.
 
@@ -181,7 +187,7 @@ La réalité virtuelle actuelle, bien que meilleure que les essais passés (voir
 
 ### Champ de vue (FOV)
 
-Le [Field of view](https://vr-lens-lab.com/field-of-view-for-virtual-reality-headsets/) (FOV) n'est pas optimal sur les casques actuels. Il est en moyenne entre 90° et  110° alors que le FOV humain est entre  200° et 220°. On a donc une impression de "masque de plongée". Les futurs casques se devront d'atteindre le FOV humain pour une immersion adéquate.
+Le [Field Of View](https://vr-lens-lab.com/field-of-view-for-virtual-reality-headsets/) (FOV) n'est pas optimal sur les casques actuels. Il est en moyenne entre 90° et  110° alors que le FOV humain est entre  200° et 220°. On a donc une impression de "masque de plongée". Les futurs casques se devront d'atteindre le FOV humain pour une immersion adéquate.
 
 ![Field of view](./img/fov.png)
 [*Source*](https://fr.wikipedia.org/wiki/Champ_visuel#/media/Fichier:Champ_vision.svg)
@@ -192,13 +198,13 @@ Le casque lui même pose certains problèmes. Principalement, celui du confort. 
 
 Les casque sont parfois mal adaptés aux porteurs de lunettes. Toutefois, les lentilles peuvent être échangées avec des lentilles de correction, mais cela engendre un surcoût. 
 
-Un autre problème important est le câble des casques reliés. Les casques autonomes n'ont bien sûr pas ce problème, mais leurs performances graphiques sont encore faibles. Toutefois, des solutions de "streaming" haute définition entre l'ordinateur et le casque existent déjà sous la forme de module externe et vont progressivement être intégrées directement aux casques.
+Un autre problème important est le câble des casques reliés. Les casques autonomes n'ont bien sûr pas ce problème, mais leurs performances graphiques sont encore faibles. Toutefois, des solutions de "streaming" haute définition entre l'ordinateur et le casque existent déjà sous la forme de module externe ou directement intégrées aux casques ([Wi-Fi 6](https://fr.m.wikipedia.org/wiki/IEEE_802.11ax))
 
 ### Les  écrans
 
-Les écrans (où l'écran) utilisés par les casques posent aussi quelques problèmes d'immersion. Ces problèmes ne sont pas uniquement liés à la VR. Mais comme les écrans sont très proches des yeux, ils sont beaucoup plus visibles. Voici les plus importants:
+Les écrans (où l'écran) utilisés par les casques posent aussi quelques problèmes d'immersion. Ces problèmes ne sont pas uniquement liés à la VR. Mais comme les écrans sont très proches des yeux et vu au travers de lentilles, ils sont beaucoup plus visibles. Voici les plus importants:
 
-- **Screen Door Effect (SDE)**:   on voit la "grille" de pixels. solutions: des écrans avec de plus haute résolution ( avec un bon agencement  des sous-pixels) ([Screen Door Effect](https://www.howtogeek.com/404491/what-is-the-screen-door-effect-in-vr/)).
+- **Screen Door Effect (SDE)**:   on voit la "grille" de pixels. solutions: des écrans avec de plus haute résolution ( avec un bon agencement des sous-pixels) ([Screen Door Effect](https://www.howtogeek.com/404491/what-is-the-screen-door-effect-in-vr/)).
 
 ![Screen Door Effect](./img/sde.jpg)
 [*Source*](https://en.wikipedia.org/wiki/Screen-door_effect#/media/File:Screen-door_effect.jpg)
@@ -207,7 +213,7 @@ Les écrans (où l'écran) utilisés par les casques posent aussi quelques probl
 
 ![Mura Effect](./img/screendoor.jpg.webp)
 
-- **Aliasing**: les arrondis sont saccadés. Puisque les écrans utilisent des pixels,  les courbes ne sont pas possibles. Cela rend les textes peu lisibles en VR. Il faut utiliser de bonnes techniques d'anti-aliasing (anticrénelage) ou utiliser des écrans à très forte densité de pixels. ([Aliasing](https://fr.wikipedia.org/wiki/Anticr%C3%A9nelage))
+- **Aliasing**: les arrondis sont saccadés. Puisque les écrans utilisent des pixels, les courbes ne sont pas possibles. Cela rend les textes peu lisibles en VR. Il faut utiliser de bonnes techniques d'anti-aliasing (anticrénelage) ou utiliser des écrans à très forte densité de pixels. ([Aliasing](https://fr.wikipedia.org/wiki/Anticr%C3%A9nelage))
 
 ![Aliasing](./img/alias.gif)
 
@@ -218,7 +224,7 @@ Les lentilles déforment (le ou) les écrans à l'intérieur du casque afin d'av
 
 - **Centre optique (sweet spot)** : afin d'avoir une vision claire (avec un bon focus), il faut que la lentille soit correctement placée face à l’œil. Les casques VR actuels sont plus ou moins permissif sur ce sujet. De plus, la [distance pupillaire](https://en.wikipedia.org/wiki/Pupillary_distance) est différente d'un individus à l'autre. Ainsi, les casques se munissent la plupart du temps d'un système de réglage de la distance séparant les deux lentilles, permettant d'obtenir un bon "sweet spot" plus facilement.
 
-- **Glare et "God rays"**:  En cas de scène à fort contraste, les couleurs claires (le blanc principalement) "bavent". On voit des rayons lumineux (God Rays). La cause: les lentilles Fresnel utilisées dans le casque. Pour le moment, il faut donc limiter les forts contrastes dans les scènes VR et attendre que les lentilles fassent mieux sur ce point.
+- **Glare et "God rays"**:  En cas de scène à fort contraste, les couleurs claires (le blanc principalement) "bavent". On voit des rayons lumineux (God Rays). La cause: les lentilles Fresnel utilisées dans la plupart des casques. Pour le moment, il faut donc limiter les forts contrastes dans les scènes VR et attendre que les lentilles fassent mieux sur ce point.
 
 ![Glare](./img/glare.jpg)
 
@@ -256,7 +262,7 @@ Elle ne provoque généralement pas d’inconfort, mais elle peut casser l’imm
  
  ### Simulateurs
  
-Si les déplacements sont fait via un simulateur de véhicule (voitures, avions, vaisseaux spatiaux, etc..), les risques de *cinétose* sont fortement réduits. En effet, le mal du voyage atteint rarement celui qui est maître du véhicule, mais plutôt ses passagers. Un exemple est le jeu [Elite Dangerous](https://www.elitedangerous.com/), ou le joueur reste toujours assis dans son siège (même lors des phases d'exploration de la surface d'une planète, puisque celle-ci se fait aussi dans un véhicule terrestre). L'immersion est encore plus forte si l’utilisateur utilise des contrôleurs adaptés à la simulation (comme un [HOTAS](https://fr.wikipedia.org/wiki/Mains_sur_manche_et_manette) pour Elite Dangerous).  De plus, les simulateurs bénéficient aussi d'une grande possibilité d'immersion (la chaise existant dans le monde physique) et de confort (une séance de jeu prolongée est généralement plus appréciée en position assise :).  
+Si les déplacements sont fait via un simulateur de véhicule (voitures, avions, vaisseaux spatiaux, etc..), les risques de *cinétose* sont fortement réduits. En effet, le mal du voyage atteint rarement celui qui est maître du véhicule, mais plutôt ses passagers. Un exemple est le jeu [Elite Dangerous](https://www.elitedangerous.com/), ou le joueur reste toujours assis dans son siège (même lors des phases d'exploration de la surface d'une planète, puisque celle-ci se fait aussi dans un véhicule terrestre). L'immersion est encore plus forte si l’utilisateur utilise des contrôleurs adaptés à la simulation (comme un [HOTAS](https://fr.wikipedia.org/wiki/Mains_sur_manche_et_manette) pour Elite Dangerous).  De plus, les simulateurs bénéficient aussi d'une grande possibilité d'immersion (la chaise existant dans le monde physique) et de confort (une séance de jeu prolongée est généralement plus appréciée en position assise).  
 
 ### Déplacements libres
 
@@ -347,13 +353,3 @@ Article: [Can we put all 5 senses in VR simulation?](https://4experience.co/vr-s
 - Audrey Huguenin
 - Arthur Verdon
 - Nicolas Chabloz
-
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMjQwNDE3OTAsMTI3NTE2MzkzNywxMD
-E5ODQzMzEyLC02NzQ4NzQ3Niw4NTM4MzI3MjksMjAzMzU3MTA1
-OSwtMTEyNDg1OTI4NiwyMTU4NzY0NzgsLTU3MDQ1OTE3OCwtOT
-M3MTA0NzA2LDQ4OTgwMzczNCwxNzk4MjU3MTAxLC0xODI0OTQ0
-NzcyLC0xNzU3MTQwMjY1LDIwODkyMTU5Niw1OTQxNzA4ODgsMT
-Y2OTM5MTA2OCwxODE5NTIxOTAxLDIxMzQyNTYyMjgsLTE4Nzg3
-MTQ0ODVdfQ==
--->
