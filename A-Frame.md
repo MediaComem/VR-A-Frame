@@ -125,7 +125,7 @@ clone.userData.coordinates = {q, r, s};
 
 ### Ajout des hexagones dans un groupe
 
-Maintenant que nous avons notre pavage, il faut grouper toutes les tuiles en un seul mesh.  Nous pourrions le faire en créant un groupe d'objet 3D avec [THREE.Group](https://threejs.org/docs/#api/en/core/Group) et en ajoutant chaque tuile comme enfant (si **tilemap** est le nom de notre tableau stockant toutes les tuiles du pavage) :
+Maintenant que nous avons notre pavage, il faut grouper toutes les tuiles en un seul mesh.  Nous pourrions le faire en créant un groupe d'objet 3D avec [THREE.Group](https://threejs.org/docs/?q=group#api/en/objects/Group) et en ajoutant chaque tuile comme enfant (si **tilemap** est le nom de notre tableau stockant toutes les tuiles du pavage) :
 
  ```js
 const group = new THREE.Group(); 
