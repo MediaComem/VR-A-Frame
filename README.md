@@ -279,11 +279,7 @@ Bien sûr, pour obtenir de bonnes performances sur les cartes graphiques actuell
 
 # <a name="audio-and-co"></a>Audio, haptique, et autres fioritures
 
-Le son en VR se doit d'être positionnel [VR positional Audio](https://realnewworld.com/vr-positional-audio/).
-
-Si la vision et le son ont été prévus, réfléchis et les devices existent pour tromper les sens de la vue et de l'ouïe. qu'en est-il des 3 autres?
-
-Pour le toucher, des entreprises développent des technologies haptiques (gants et combinaisons).
+Le son en VR est souvent positionnel afin d'augementer de beaucoup l'immersion. On peut facilement tromper les sens de la vue et de l'ouïe, mais qu'en est-il des 3 autres ? Pour le toucher, des entreprises développent des technologies haptiques (gants et combinaisons), ce qui nous permettrait de "toucher" les objets virtuels de manière plus convaincante. Quelques exemples:
 
 - [Technologie haptique](https://en.wikipedia.org/wiki/Haptic_technology)
 
@@ -291,10 +287,11 @@ Pour le toucher, des entreprises développent des technologies haptiques (gants 
 
 - [Une combinaison complète I/O](https://teslasuit.io/)
 
-Qu'en est-il des deux autres sens ? (odorat et goût)
-Article: [Can we put all 5 senses in VR simulation?](https://4experience.co/vr-senses-are-the-future/)
+Pour le moment, les deux sens restants ((odorat et goût) sont le plus souvent mis de coté.
 
 # <a name="fiction"></a>La VR dans la fiction
+
+Quelques reférences parmis tant d'autre 
 
 ### Livres
 - [Ubik](https://fr.wikipedia.org/wiki/Ubik), 1969 (Philip K. Dick)
@@ -313,6 +310,7 @@ Article: [Can we put all 5 senses in VR simulation?](https://4experience.co/vr-s
 - La trilogie [Matrix](https://fr.wikipedia.org/wiki/Matrix_(s%C3%A9rie_de_films)), 1998 (The Wachowskis)
 - [eXistenZ](https://fr.wikipedia.org/wiki/EXistenZ), 1999 (David Cronenberg)
 - [Avalon](https://fr.wikipedia.org/wiki/Avalon_(film,_2001)), 2001 (Oshii Mamoru)
+- [Summer Wars](https://fr.wikipedia.org/wiki/Summer_Wars), 2009 (Mamoru Hosoda)
 - [Ready Player One](https://fr.wikipedia.org/wiki/Ready_Player_One_(film)), 2018 (Steven Spielberg)
 
 ## Sources
