@@ -228,7 +228,7 @@ Les lentilles déforment (le ou) les écrans à l'intérieur du casque afin d'av
 
 ![Glare](./img/glare.jpg)
 
-- **Lentille à focale variable** : les lentilles utilisées dans les casques actuels ne sont pas à focale variable, ainsi il n'est pas possible de recréer exactement le même ressenti qu'en réalité. Les futurs lentilles (comme par exemple celles du prototype [Half Dome](https://www.oculus.com/blog/half-dome-updates-frl-explores-more-comfortable-compact-vr-prototypes-for-work), le seront. Ce système allié à celui du suivit de l’œil (eye tracking) permettra de se rapprocher de l'idéal.
+- **Lentille à focale variable** : les lentilles utilisées dans les casques actuels ne sont pas à focale variable, ainsi il n'est pas possible de recréer exactement le même ressenti qu'en réalité. Les futurs lentilles (comme par exemple celles du prototype le seront peut-être. Ce système allié à celui du suivit de l’œil (eye tracking) permettra de se rapprocher de l'idéal.
 
 ## <a name="movements"></a>Déplacements
 
