@@ -146,7 +146,7 @@ this.el.setObject3D('mesh', group);
 
 **remarque**: Ce code n'est pas très optimisé. En effet tous les hexagones étant quasi les mêmes, l'utilisation de [meshs instanciés](https://threejs.org/docs/#api/en/objects/InstancedMesh) permettrait d'améliorer de beaucoup les performances.  Dans cet exemple [https://vr.chabloz.eu/hexatile_ocean.html](https://vr.chabloz.eu/hexatile_ocean.html), vous pouvez appuyer sur la touche 'O' de votre clavier pour observer la différence entre la version non-optimisée et une autre optimisée grâce au nombre de *calls* dans les statistiques (deux de ces *calls* sont les dessins des deux océans).  Vous pouvez aussi changer la taille du pavage avec les touches '1' à '9'. (la touche 'B' est toujours active si vous voulez tester l'impacte du biseau sur le nombre de triangles lors de pavage de taille importante. Mais n'oubliez pas de soustraire les 10'000 triangles des océans).
 
-** les parties suivantes sont optionnels, vous pouvez continuer directement au point "Caméra et mesh de navigation" si vous le voulez. ** 
+**les parties suivantes sont optionnels, vous pouvez continuer directement au point "Caméra et mesh de navigation" si vous le voulez.** 
 
 ### Mise à jour (*update*)
 
