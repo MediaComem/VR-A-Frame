@@ -173,7 +173,7 @@ A-Frame ajoute une [caméra par défaut](https://aframe.io/docs/master/component
 
 Comme vu dans l'[état de l'art](./README.md#movements), il serait préférable de désactiver le composant **movement-controls** en VR  et d'implémenter un autre système de déplacement comme la téléportation (nous le ferons dans la suite de ce TP).  Pour s’entraîner encore une fois à la création de composant, et pour voir comment gérer les interactions  entre composant, développez un composant nommé **disable-in-vr** qui désactivera un autre composant lorsque la scène est (ou passe) en mode VR. 
 
-Lorsque l'utilisateur explorera la scène avec un casque VR et des contrôleurs VR, la position et rotation des mains seront liées aux contrôleurs. Pour indiquer à A-Frame que vous voulez gérer les contrôleurs VR, il vous faut utiliser le composant [hand-controls](https://aframe.io/docs/master/components/hand-controls.html#sidebar). Enfin, puisque le contrôle au clavier sera désactiver, utiliser le composant [blink controls](https://github.com/jure/aframe-blink-controls) pour gérer la tépéportation de la caméra (du *rig*).
+Lorsque l'utilisateur explorera la scène avec un casque VR et des contrôleurs VR, la position et rotation des mains seront liées aux contrôleurs. Pour indiquer à A-Frame que vous voulez gérer les contrôleurs VR, il vous faut utiliser le composant [hand-controls](https://aframe.io/docs/master/components/hand-controls.html#sidebar). Enfin, puisque le contrôle au clavier sera désactivé, utilisez le composant [blink controls](https://github.com/jure/aframe-blink-controls) pour gérer la tépéportation de la caméra (du *rig*).
 
 ### Mesh de navigation (*nav-mesh*)
 
