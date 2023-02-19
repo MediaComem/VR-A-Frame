@@ -18,11 +18,10 @@ Pour atteindre ces objectifs, nous allons développer un *Hub VR* multi-utilisat
 -  importer des *asset* 3D (*mesh*)
 -  créer des *mesh* avec [three.js](https://threejs.org/) (le framework sous-jacent à A-Frame) 
 - étendre le framework A-Frame via l'architecture ECS
-- synchroniser des entités entres les clients connectés
 
 ## Mise en place
 
-La version 1.0.4 du *framework* [A-Frame](https://aframe.io/docs/1.0.0/introduction/) sera utilisée. Vous pouvez donc simplement la rajouter dans votre code HTML de base (ou utiliser une des autres méthodes proposée dans la documentation officielle).
+La version 1.4.1 du *framework* [A-Frame](https://aframe.io/docs/1.4.0/) sera utilisée. Vous pouvez donc simplement la rajouter dans votre code HTML de base (ou utiliser une des autres méthodes proposée dans la documentation officielle).
 
 Ajoutez aussi [Aframe-Extras](https://github.com/donmccurdy/aframe-extras) à votre projet, puisque nous utiliserons certaines des fonctionnalités offertes par cet ensemble de composants.
 
