@@ -7,17 +7,6 @@
 - S'initier au framework A-Frame et son architecture [Entity–component–system](https://aframe.io/docs/1.0.0/introduction/entity-component-system.html) (ECS).
 - Comprendre les concepts de "mesh", de géométrie et de matérieau de THREE.js. 
 
-## Contenus
-
-Pour atteindre ces objectifs, nous allons développer un *Hub VR* multi-utilisateurs. Ce *hub* servira de porte d'entrée vers les projets individuels que vous développerez durant la dernière partie du cours. Il se présentera  sous la forme d'une mini expérience VR mettant en pratique les concepts de base du framework A-Frame. On y verra (entre autre) comment: 
-- déplacer l'avatar de l'utilisateur (en évitant la *cinétose*)
-- offrir des possibilités d'interaction avec l'environnement
-- animer et déclencher des animations en fonction d'événements
-- gérer les collisions pour la navigation
--  importer des *asset* 3D (*mesh*)
--  créer des *mesh* avec [three.js](https://threejs.org/) (le framework sous-jacent à A-Frame) 
-- étendre le framework A-Frame via l'architecture ECS
-
 ## Mise en place
 
 La version 1.4.1 du *framework* [A-Frame](https://aframe.io/docs/1.4.0/) sera utilisée. Vous pouvez donc simplement la rajouter dans votre code HTML de base, utiliser le [boilerplate du cours pour Vue](https://github.com/Chabloz/a-frame-vite-vue-boilerplate) ou celle plus minimaliste pour [WebPack](https://github.com/Chabloz/a-frame-webpack-boilerplate) .
@@ -136,10 +125,10 @@ clone.userData.coordinates = {q, r, s};
 
 ### Ajout des hexagones dans un groupe
 
-Maintenant que nous avons notre pavage, il faut grouper toutes les tuiles en un seul mesh.  Nous pourrions le faire en créant un objet 3D avec [THREE.Object3D](https://threejs.org/docs/#api/en/core/Object3D) et en ajoutant chaque tuile comme enfant (si **tilemap** est le nom de notre tableau stockant toutes les tuiles du pavage) :
+Maintenant que nous avons notre pavage, il faut grouper toutes les tuiles en un seul mesh.  Nous pourrions le faire en créant un groupe d'objet 3D avec [THREE.Group](https://threejs.org/docs/#api/en/core/Group) et en ajoutant chaque tuile comme enfant (si **tilemap** est le nom de notre tableau stockant toutes les tuiles du pavage) :
 
  ```js
-const group = new THREE.Object3D(); 
+const group = new THREE.Group(); 
 group.add(...this.tilemap);
 this.el.setObject3D('mesh', group);
  ```
