@@ -286,7 +286,7 @@ Pour le moment, les deux sens restants ((odorat et goût) sont le plus souvent m
 
 # <a name="fiction"></a>La VR dans la fiction
 
-Quelques reférences parmis tant d'autre
+Quelques références parmi tant d'autres…
 
 ### Livres
 
