@@ -296,6 +296,9 @@ Pour le moment, les deux sens restants sont le plus souvent mis de côté ou res
 
 # <a name="fiction"></a>VR et fiction
 
+Les interfaces de réalité virtuelle occupent une place de choix dans les œuvres de science-fiction. Leurs représentations, allant des mondes entièrement simulés aux expériences sensorielles immersives, ont non seulement captivé l'audience, mais ont également influencé les directions de la recherche et du développement technologique.  
+La SF a toujours eu ce rôle double : questionner l'avenir technologique et inspirer les innovations. Ce dialogue entre la fiction et la réalité façonne nos attentes et nos aspirations technologiques, poussant les scientifiques et les ingénieurs à transformer ces visions en réalités tangibles. Les ouvrages catalysent et sculptent nos imaginaires technologiques, ils orientent le futur de l'innovation.
+
 Quelques références parmi tant d'autres…
 
 ### Livres
@@ -306,17 +309,19 @@ Quelques références parmi tant d'autres…
 - [La Cité des permutants](https://fr.wikipedia.org/wiki/La_Cit%C3%A9_des_permutants), 1994 (Greg Egan)
 - [Sword Art Online](https://fr.wikipedia.org/wiki/Sword_Art_Online), 2009 (Reki Kawahara)
 - [Ready Player One](<https://fr.wikipedia.org/wiki/Player_One_(roman)>), 2011 (Ernest Cline)
+- [Escapist Dream](https://en.wikipedia.org/wiki/Escapist_Dream), 2020 (Louis Bulaong)
 
-### Films
+### Films et séries
 
 - [Tron](https://fr.wikipedia.org/wiki/Tron "Tron"), 1982 (Steven Lisberger)
 - [The Lawnmower Man](https://fr.wikipedia.org/wiki/Le_Cobaye "Le Cobaye"), 1992 (Brett Leonard)
 - [Strange Days](<https://fr.wikipedia.org/wiki/Strange_Days_(film)>), 1995 (Kathryn Bigelow)
 - [Ghost in the shell](https://fr.wikipedia.org/wiki/Ghost_in_the_shell), 1995 (Oshii Mamoru)
-- La trilogie [Matrix](<https://fr.wikipedia.org/wiki/Matrix_(s%C3%A9rie_de_films)>), 1998 (The Wachowskis)
+- Saga [Matrix](<https://fr.wikipedia.org/wiki/Matrix_(s%C3%A9rie_de_films)>), 1998 (The Wachowskis)
 - [eXistenZ](https://fr.wikipedia.org/wiki/EXistenZ), 1999 (David Cronenberg)
 - [Avalon](<https://fr.wikipedia.org/wiki/Avalon_(film,_2001)>), 2001 (Oshii Mamoru)
 - [Summer Wars](https://fr.wikipedia.org/wiki/Summer_Wars), 2009 (Mamoru Hosoda)
+- [Black Mirror](<https://fr.wikipedia.org/wiki/Black_Mirror_(s%C3%A9rie_t%C3%A9l%C3%A9vis%C3%A9e)>), 2011-… (Charlie Brooker). Plusieurs épisodes de cette série anthologique explorent les implications de la VR sur la société, notamment "Playtest", "San Junipero" ou encore "USS Callister".
 - [Ready Player One](<https://fr.wikipedia.org/wiki/Ready_Player_One_(film)>), 2018 (Steven Spielberg)
 
 ## Sources
