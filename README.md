@@ -1,6 +1,6 @@
 ![VRIM](./img/vrim.png)
 
-<h1 style="text-align: center;">Cours à options VR – Filière IM de COMEM+</p>
+<h1 style="text-align: center;">Cours à options VR – Filière IM de COMEM+</h1>
 
 ## Objectif du cours
 
