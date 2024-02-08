@@ -1,6 +1,6 @@
 ![VRIM](./img/vrim.png)
 
-<h1 align="center">Cours à options VR – Filière IM de COMEM+</h1>
+<h1 align="center">Cours à options VR – Filière IM de COMEM<sup>+</sup></h1>
 
 ## Objectif du cours
 
@@ -11,8 +11,8 @@ Cela sera l'occasion de développer des compétences en matière de programmatio
 
 ### 1. [État de l'art](EtatArt.md)
 
-### 2. [Prise en main de la 3D avec Three.js et A-Frame](A-Frame.md)
+### 2. [Prise en main de la 3D web](A-Frame.md)
 
 ### 3. Exercice d'introduction
 
-### 4. Projet personnel (Évaluation)
+### 4. Projet personnel
