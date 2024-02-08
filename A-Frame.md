@@ -58,13 +58,13 @@ Afin de simplifier la chose, nous allons nous limiter à une carte en forme d’
 
 Suivez la documentation officielle pour rajouter une primitive et le composant associé nécessaire au pavage hexagonal. Pour les attributs, implémentez au minimum les suivants :
 
-- **size**: la taille du pavage. Une taille de 1 signifie un seul hexagone, une taille de 2 signifie un hexagone au centre et les 6 qui l'entourent et ainsi de suite. Voila un exemple pour la taille 4:
+- **size** : la taille du pavage. Une taille de 1 signifie un seul hexagone, une taille de 2 signifie un hexagone au centre et les 6 qui l'entourent et ainsi de suite. Voila un exemple pour la taille 4:
 
 ![Pavage hexagonal de taille 4](./img/practice/hexagone-3.png)
 
-- **color**: la couleur des tuiles hexagonale
-- **cellsize**: la taille des tuiles
-- **height**: la hauteur des tuiles
+- **color** : la couleur des tuiles hexagonale
+- **cellsize** : la taille des tuiles
+- **height** : la hauteur des tuiles
 
 ### Les sommets (_vertices_)
 
@@ -162,7 +162,7 @@ this.el.setObject3D("mesh", group);
 ---
 
 > [!NOTE]  
-> **Les parties suivantes sont optionnelles, vous pouvez continuer directement à la section []"Caméra et mesh de navigation"](#cam-nav-mesh) si vous le voulez.**
+> **Les parties suivantes sont optionnelles, vous pouvez continuer directement à la section ["Caméra et mesh de navigation"](#cam-nav-mesh) si vous le voulez.**
 
 ### Mise à jour (_update_)
 
