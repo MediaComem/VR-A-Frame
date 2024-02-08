@@ -192,10 +192,19 @@ Créez donc une caméra _rig_ comme indiqué dans la documentation. Vous pouvez 
 
 Comme vu dans l'[état de l'art](./EtatArt.md#movements), il serait préférable de désactiver le composant **movement-controls** en VR et d'implémenter un autre système de déplacement comme la téléportation (nous le ferons dans la suite de ce TP). Pour s’entraîner encore une fois à la création de composant, et pour voir comment gérer les interactions entre composant, développez un composant nommé **disable-in-vr** qui désactivera un autre composant lorsque la scène est (ou passe) en mode VR.
 
-Lorsque l'utilisateur explorera la scène avec un casque VR et des contrôleurs VR, la position et rotation des mains seront liées aux contrôleurs. Pour indiquer à A-Frame que vous voulez gérer les contrôleurs VR, il vous faut utiliser le composant [hand-controls](https://aframe.io/docs/master/components/hand-controls.html#sidebar). Enfin, puisque le contrôle au clavier sera désactivé, utilisez le composant [blink controls](https://github.com/jure/aframe-blink-controls) pour gérer la tépéportation de la caméra (du _rig_).
+Lorsque l'utilisateur explorera la scène avec un casque et des contrôleurs VR, la position et rotation des mains seront liées aux contrôleurs. Pour indiquer à A-Frame que vous voulez gérer les contrôleurs VR, il vous faut utiliser le composant [hand-controls](https://aframe.io/docs/master/components/hand-controls.html#sidebar).  
+Enfin, puisque le contrôle au clavier sera désactivé, utilisez le composant [blink controls](https://github.com/jure/aframe-blink-controls) pour gérer la tépéportation de la caméra (du _rig_).
 
 ### <a name="nav-mesh"> Mesh de navigation (_nav-mesh_)
 
-Il reste un problème important, l'utilisateur peut désormais se déplacer dans la scène, mais ce déplacement est beaucoup trop permissif (il peut se balader sur l'eau par exemple !). Il va donc nous falloir la restreindre. Il y a plusieurs possibilités pour le faire. Les deux plus utilisées sont les suivantes: utiliser un moteur physique pour la gestion des collisions, ou utiliser un mesh de navigation. Nous allons implémenter la 2e solution puisqu'elle est beaucoup moins gourmande en performance (et qu'il est difficile de détecter une collision physique avec le bord de notre île). Dans les jeux, c'est souvent une combinaison de ces deux méthodes qui est utilisée pour offrir une méthode de navigation performante via les _nav-mesh_ et des possibilités d'interactions avec l'environnement via le moteur physique.
+Il reste un problème important…  
+L'utilisateur peut désormais se déplacer dans la scène, mais ce déplacement est beaucoup trop permissif (il peut se balader sur l'eau par exemple !). Il va donc nous falloir restreindre les possibilités de déplacement dans la scène.  
+Il y a plusieurs possibilités pour le faire. Les deux plus utilisées sont les suivantes :
 
-L'implémentation d'une _nav-mesh_ va être grandement simplifiée par le composant [simple-navmesh-constraint](https://github.com/AdaRoseCannon/aframe-xr-boilerplate/blob/glitch/simple-navmesh-constraint.js). Le principale problème sera de générer la _nav-mesh_ en accord avec notre scène VR. Vous pouvez le faire avec les primitives de base d'A-Frame, mais il est aussi possible de générer la _nav-mesh_ via [blender](https://www.blender.org/) ou autre logiciel 3D.
+1. Utiliser un **moteur physique pour la gestion des collisions**
+2. Utiliser un **mesh de navigation**
+   Nous allons implémenter la seconde solution puisqu'elle est beaucoup moins gourmande en performance (et qu'il est difficile de détecter une collision physique avec le bord de notre île).  
+   Dans les jeux, c'est souvent une combinaison de ces deux méthodes qui est utilisée pour offrir une méthode de navigation performante via les _**navmesh**_ et des possibilités d'interactions avec l'environnement via le **moteur physique**.
+
+L'implémentation d'une _navmesh_ va être grandement simplifiée par le composant [simple-navmesh-constraint](https://github.com/AdaRoseCannon/aframe-xr-boilerplate/blob/glitch/simple-navmesh-constraint.js).  
+Le principal problème sera de générer la _nav-esh_ en accord avec notre scène VR. Vous pouvez le faire avec les primitives de base d'A-Frame, mais il est aussi possible de générer la _navmesh_ en utilisant [Blender](https://www.blender.org/) ou d'autres logiciels de 3D.
