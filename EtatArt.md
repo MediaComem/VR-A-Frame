@@ -131,7 +131,9 @@ XIXe s. - [Stéréoscopes](https://fr.wikipedia.org/wiki/St%C3%A9r%C3%A9oscope)
 
 ![Les six degrés de liberté dans un espace à trois dimensions, @author:GregorDS, Wikipedia](./img/6DOF.png)
 
-Un des points importants à penser lors de la conception d'une expérience VR, est la façon dont le joueur va pouvoir se déplacer et interagir avec le monde autour de lui. Pour ce qui est du point de vue matériel, on parle de **degrés de liberté (Degree of Freedom)**. Il existe aujourd'hui 2 possibilités pour le nombre de degré de liberté. La première est le 3DoF pour "Three Degrees Of Freedom", qui indique que le matériel peut suivre les mouvements de rotation effectués par l'utilisateur (ces trois axes sont _yaw_, _pitch_ et _roll_). La deuxième est le 6DoF pour "Six Degrees Of Freedom" qui, en plus de pouvoir suivre les mouvements de rotation, le matériel peut également suivre les mouvements de position (_forward/back_, _up/down_, _left/right_).
+Un des points importants à penser lors de la conception d'une expérience VR, est la façon dont le joueur va pouvoir se déplacer et interagir avec le monde autour de lui. Pour ce qui est du point de vue matériel, on parle de **degrés de liberté (Degree of Freedom)**. Il existe différentes possibilités pour le nombre de degrés de liberté.  
+Le **3DoF** pour "Three Degrees Of Freedom", qui indique que le matériel peut suivre les mouvements de rotation effectués par l'utilisateur (ces trois axes sont _yaw_, _pitch_ et _roll_).  
+Le **6DoF** pour "Six Degrees Of Freedom" qui, en plus de pouvoir suivre les mouvements de rotation, peut également suivre les mouvements de translation (_forward/back_, _up/down_, _left/right_).
 
 En général, le nombre de degrés de liberté du casque correspond à celui du contrôleur (quand il y en a un).
 
@@ -142,7 +144,7 @@ Le suivi de position est possible aujourd'hui avec les 2 techniques ci-dessous:
 - Outside-in (Oculus camera ir, Valve lighthouse, ...)
 - Inside-out tracking (simultaneous localization and mapping [SLAM](https://en.wikipedia.org/wiki/Simultaneous_localization_and_mapping))
 
-La première est externe au casque et la seconde est intégrée au casque. Bien que plus interessantes pour sa portabilité, la version Inside-out est souvent moins précise et il semble difficile qu'elle offre un jour un tracking du corps entier.
+La première est externe au casque et la seconde est intégrée au casque. Bien que plus intéressante pour sa portabilité, la version _inside-out_ est souvent moins précise et il semble difficile qu'elle offre un jour un tracking du corps entier.
 
 Pour aller plus loin sur leurs fonctionnements: [How VR Positional Tracking System Work](https://uploadvr.com/how-vr-tracking-works)
 
@@ -158,13 +160,14 @@ Les contrôleurs 6DoF quant à eux permettent de suivre avec précision leurs po
 
 Enfin, sur certains casques, ou à l'aide de senseurs supplémentaires (comme le [Leap Motion](https://en.wikipedia.org/wiki/Leap_Motion)), il est possible de suivre la position des mains et des doigts du joueur.
 
-Il existe bien sur d'autres types de contrôleurs plus exotique, mais ceux-ci reprennent la plupart du temps l'un des principes ci-dessus pour fonctionner.
+Il existe bien sûr d'autres types de contrôleurs plus exotiques, mais ceux-ci reprennent la plupart du temps l'un des principes ci-dessus pour fonctionner.
 
 ## <a name="immersion"></a> Immersion
 
 ### Principales problématiques
 
-La réalité virtuelle actuelle, bien que meilleure que les essais passés (voir [historique](#histo)) possède encore de nombreux freins envers une immersion idéale. Voilà quelques points importants :
+La réalité virtuelle actuelle, bien que meilleure que les essais passés (voir [historique](#histo)), possède encore de nombreux freins pour permettre une immersion idéale.  
+Voilà quelques points importants :
 
 ### Champ de vue (FOV)
 
@@ -175,9 +178,9 @@ Le [Field Of View](https://vr-lens-lab.com/field-of-view-for-virtual-reality-hea
 
 ### Le casque
 
-Le casque lui même pose certains problèmes. Principalement, celui du confort. Bien que s'améliorant grandement à chaque génération, le poids est encore conséquent et provoque un inconfort lors des séances prolongées.
+Le casque lui-même pose certains problèmes. Principalement, celui du confort. Bien que s'améliorant grandement à chaque génération, le poids est encore conséquent et provoque un inconfort lors des séances prolongées.
 
-Les casque sont parfois mal adaptés aux porteurs de lunettes. Toutefois, les lentilles peuvent être échangées avec des lentilles de correction, mais cela engendre un surcoût.
+Les casques sont parfois mal adaptés aux porteurs de lunettes. Toutefois, les lentilles peuvent être échangées avec des lentilles de correction, mais cela engendre un surcoût.
 
 Un autre problème important est le câble des casques reliés. Les casques autonomes n'ont bien sûr pas ce problème, mais leurs performances graphiques sont encore faibles. Toutefois, des solutions de "streaming" haute définition entre l'ordinateur et le casque existent déjà sous la forme de module externe ou directement intégrées aux casques ([Wi-Fi 6](https://fr.m.wikipedia.org/wiki/IEEE_802.11ax))
 
@@ -185,16 +188,17 @@ Un autre problème important est le câble des casques reliés. Les casques auto
 
 Les écrans (où l'écran) utilisés par les casques posent aussi quelques problèmes d'immersion. Ces problèmes ne sont pas uniquement liés à la VR. Mais comme les écrans sont très proches des yeux et vu au travers de lentilles, ils sont beaucoup plus visibles. Voici les plus importants:
 
-- **Screen Door Effect (SDE)**: on voit la "grille" de pixels. solutions: des écrans avec de plus haute résolution ( avec un bon agencement des sous-pixels) ([Screen Door Effect](https://www.howtogeek.com/404491/what-is-the-screen-door-effect-in-vr/)).
+- **Screen Door Effect (SDE)** : On voit la "grille" de pixels.  
+  Solutions : Des écrans avec de plus hautes résolutions (avec un bon agencement des sous-pixels) ([Screen Door Effect](https://www.howtogeek.com/404491/what-is-the-screen-door-effect-in-vr/)).
 
 ![Screen Door Effect](./img/sde.jpg)
 [_Source_](https://en.wikipedia.org/wiki/Screen-door_effect#/media/File:Screen-door_effect.jpg)
 
-- **Mura Effect**: les à-plats de couleurs ne sont pas homogènes à cause de la composition des écrans qui empêche une luminosité tout à fait régulière ([Mura Effect](https://www.roda-computer.com/technology/mura-effect/)).
+- **Mura Effect** : Les à-plats de couleurs ne sont pas homogènes à cause de la composition des écrans qui empêche une luminosité tout à fait régulière ([Mura Effect](https://www.roda-computer.com/technology/mura-effect/)).
 
 ![Mura Effect](./img/screendoor.jpg.webp)
 
-- **Aliasing**: les arrondis sont saccadés. Puisque les écrans utilisent des pixels, les courbes ne sont pas possibles. Cela rend les textes peu lisibles en VR. Il faut utiliser de bonnes techniques d'anti-aliasing (anticrénelage) ou utiliser des écrans à très forte densité de pixels. ([Aliasing](https://fr.wikipedia.org/wiki/Anticr%C3%A9nelage))
+- **Aliasing**: Les arrondis sont saccadés. Puisque les écrans utilisent des pixels, les courbes ne sont pas possibles. Cela rend les textes peu lisibles en VR. Il faut utiliser de bonnes techniques d'antialiasing (anticrénelage) ou utiliser des écrans à très forte densité de pixels. ([Aliasing](https://fr.wikipedia.org/wiki/Anticr%C3%A9nelage))
 
 ![Aliasing](./img/alias.gif)
 
@@ -202,13 +206,13 @@ Les écrans (où l'écran) utilisés par les casques posent aussi quelques probl
 
 Les lentilles déforment (le ou) les écrans à l'intérieur du casque afin d'avoir une mise au point adéquate (qui serait sinon impossible avec un écran si proche des yeux). Mais elles engendrent aussi quelques problématiques d'immersion :
 
-- **Centre optique (sweet spot)** : afin d'avoir une vision claire (avec un bon focus), il faut que la lentille soit correctement placée face à l’œil. Les casques VR actuels sont plus ou moins permissif sur ce sujet. De plus, la [distance pupillaire](https://en.wikipedia.org/wiki/Pupillary_distance) est différente d'un individus à l'autre. Ainsi, les casques se munissent la plupart du temps d'un système de réglage de la distance séparant les deux lentilles, permettant d'obtenir un bon "sweet spot" plus facilement.
+- **Centre optique (sweet spot)** : Afin d'avoir une vision claire (avec un bon focus), il faut que la lentille soit correctement placée face à l’œil. Les casques VR actuels sont plus ou moins permissifs sur ce sujet. De plus, la [distance pupillaire](https://en.wikipedia.org/wiki/Pupillary_distance) est différente d'un individu à l'autre. Ainsi, les casques se munissent la plupart du temps d'un système de réglage de la distance séparant les deux lentilles, permettant d'obtenir un bon "sweet spot" plus facilement.
 
 - **Glare et "God rays"**: En cas de scène à fort contraste, les couleurs claires (le blanc principalement) "bavent". On voit des rayons lumineux (God Rays). La cause: les lentilles Fresnel utilisées dans la plupart des casques. Pour le moment, il faut donc limiter les forts contrastes dans les scènes VR et attendre que les lentilles fassent mieux sur ce point.
 
 ![Glare](./img/glare.jpg)
 
-- **Lentille à focale variable** : les lentilles utilisées dans les casques actuels ne sont pas à focale variable, ainsi il n'est pas possible de recréer exactement le même ressenti qu'en réalité. Les futurs lentilles (comme par exemple celles du prototype le seront peut-être. Ce système allié à celui du suivit de l’œil (eye tracking) permettra de se rapprocher de l'idéal.
+- **Lentille à focale variable** : Les lentilles utilisées dans les casques actuels ne sont pas à focale variable, ainsi il n'est pas possible de recréer exactement le même ressenti qu'en réalité. Les futures lentilles le seront peut-être… Ce système allié à celui du suivit des mouvements oculaires (oculométrie - eye tracking) permettra de se rapprocher de l'idéal.
 
 ## <a name="movements"></a>Déplacements
 
@@ -240,31 +244,31 @@ Elle ne provoque généralement pas d’inconfort, mais elle peut casser l’imm
 
 ### Simulateurs
 
-Si les déplacements sont fait via un simulateur de véhicule (voitures, avions, vaisseaux spatiaux, etc..), les risques de _cinétose_ sont fortement réduits. En effet, le mal du voyage atteint rarement celui qui est maître du véhicule, mais plutôt ses passagers. Un exemple est le jeu [Elite Dangerous](https://www.elitedangerous.com/), ou le joueur reste toujours assis dans son siège (même lors des phases d'exploration de la surface d'une planète, puisque celle-ci se fait aussi dans un véhicule terrestre). L'immersion est encore plus forte si l’utilisateur utilise des contrôleurs adaptés à la simulation (comme un [HOTAS](https://fr.wikipedia.org/wiki/Mains_sur_manche_et_manette) pour Elite Dangerous). De plus, les simulateurs bénéficient aussi d'une grande possibilité d'immersion (la chaise existant dans le monde physique) et de confort (une séance de jeu prolongée est généralement plus appréciée en position assise).
+Si les déplacements sont faits via un simulateur de véhicule (voitures, avions, vaisseaux spatiaux, etc..), les risques de _cinétose_ sont fortement réduits. En effet, le mal du voyage atteint rarement celui qui est maître du véhicule, mais plutôt ses passagers. Un exemple est le jeu [Elite Dangerous](https://www.elitedangerous.com/), ou le joueur reste toujours assis dans son siège (même lors des phases d'exploration de la surface d'une planète, puisque celle-ci se fait aussi dans un véhicule terrestre). L'immersion est encore plus forte si l’utilisateur utilise des contrôleurs adaptés à la simulation (comme un [HOTAS](https://fr.wikipedia.org/wiki/Mains_sur_manche_et_manette) pour Elite Dangerous). De plus, les simulateurs bénéficient aussi d'une grande possibilité d'immersion (la chaise existant dans le monde physique) et de confort (une séance de jeu prolongée est généralement plus appréciée en position assise).
 
 ### Déplacements libres
 
-Si toutefois on opte pour des déplacements libres de la caméra via un contrôleur quelconque (clavier, croix directionnelle, stick analogique, ... ), il faut éviter de faire simplement bouger la caméra sans autre forme d'artifice sous peine de provoquer un inconfort certain pour beaucoup de personnes. Le jeu [Raw Data](https://survios.com/rawdata/) utilise un système de _sprint_ (ou _dash_) très rapide et très proche de la téléportation. L'effet est quasi identique mais brise moins l'immersion. Toutefois, pour que cela ne provoque pas trop la _cinétose_ la vision doit être floutée autour de la zone fovéale. Dans [Google Earth VR](https://arvr.google.com/earth/), la même méthode de _flou fovéale_ est utilisée lors de l'utilisation du mode de déplacement "vol" (_flight mode_).
+Si toutefois on opte pour des déplacements libres de la caméra via un contrôleur quelconque (clavier, croix directionnelle, stick analogique… ), il faut éviter de faire simplement bouger la caméra sans autre forme d'artifice sous peine de provoquer un inconfort certain pour beaucoup de personnes. Le jeu [Raw Data](https://survios.com/rawdata/) utilise un système de _sprint_ (ou _dash_) très rapide et très proche de la téléportation. L'effet est quasi identique, mais brise moins l'immersion. Toutefois, pour que cela ne provoque pas trop la _cinétose_ la vision doit être floutée autour de la zone fovéale. Dans [Google Earth VR](https://arvr.google.com/earth/), la même méthode de _flou fovéal_ est utilisée lors de l'utilisation du mode de déplacement "vol" (_flight mode_).
 
 ### Autres artifices
 
-Si l'espace VR est de taille identique (ou plus petit que l'espace réel), la solution est simple. Il suffit à l'utilisateur de se déplacer dans la réalité pour être déplacé dans la VR de manière identique en utilisant simplement le système de positionnement du casque. Bien sûr, pour que cela soit praticable, il faut que l'application aie connaissance de la taille réelle de l'espace disponible par le joueur. Dans l'expérience immersive [theBlu](https://wevr.com/theblu), la zone d'exploration sous-marine est générée au début de l’expérience pour que sa taille soit identique à la zone réelle de l'utilisateur. L'immersion est alors fortement accrue, encore plus du fait que le casque VR ressemble à un casque de plongée sous-marine (poids, FOV réduit, ...).
+Si l'espace VR est de taille identique (ou plus petit que l'espace réel), la solution est simple. Il suffit à l'utilisateur de se déplacer dans la réalité pour être déplacé dans la VR de manière identique en utilisant simplement le système de positionnement du casque. Bien sûr, pour que cela soit praticable, il faut que l'application aie connaissance de la taille réelle de l'espace disponible par le joueur. Dans l'expérience immersive [theBlu](https://wevr.com/theblu), la zone d'exploration sous-marine est générée au début de l’expérience pour que sa taille soit identique à la zone réelle de l'utilisateur. L'immersion est alors fortement accrue, encore plus du fait que le casque VR ressemble à un casque de plongée sous-marine (poids, FOV réduit…).
 
-Même si l'espace VR est plus grand que l'espace réel, il existe quelques méthodes (_astuces_) pour éviter de devoir déplacer la caméra de l'utilisateur ou d'utiliser des mécanismes de téléportation. En voici quelques-une:
+Même si l'espace VR est plus grand que l'espace réel, il existe quelques méthodes (_astuces_) pour éviter de devoir déplacer la caméra de l'utilisateur ou d'utiliser des mécanismes de téléportation. En voici quelques-une :
 
-- **Marche redirigée**: il s'agit de fausser la perception de l'esprit avec un décalage mouvements réels/virtuels ([Redirect walking](https://www.youtube.com/watch?v=XOxmMurUv3Q)).
+- **Marche redirigée**: il s'agit de fausser la perception de l'esprit avec un décalage des mouvements réels/virtuels ([Redirect walking](https://www.youtube.com/watch?v=XOxmMurUv3Q)).
 
-- **Suites de mouvements adaptées à l'univers**, pensés pour que l'utilisateur revienne sur ses pas, et reste dans un espace restreint (identique à son espace réelle). Ce peut être fait avec l'utilisation d'ascenseurs, des techniques de chevauchement d'espaces (voir image), ou autres astuces (désorientations, distances faussées, etc...). L’expérience [Unseen Diplomacy](https://store.steampowered.com/app/429830/Unseen_Diplomacy/) reprend quelques-unes de ces idées.
+- **Suites de mouvements adaptées à l'univers**, pensés pour que l'utilisateur revienne sur ses pas, et reste dans un espace restreint (identique à son espace réel). Ce peut être fait avec l'utilisation d'ascenseurs, des techniques de chevauchement d'espaces (voir image), ou autres astuces (désorientations, distances faussées, etc.). L’expérience [Unseen Diplomacy](https://store.steampowered.com/app/429830/Unseen_Diplomacy/) reprend quelques-unes de ces idées.
 
 ![Overlapping](./img/overlapping.png)
 
-- **_Drag and drop_** : Dans l'application [Google Earth VR](https://arvr.google.com/earth/), au lieu de téléporter l'utilisateur vers sa destination, on effectue un "drag" de la destination jusqu'à sa position désirée, ainsi l'utilisateur ne bouge pas mais c'est la terre qui bouge sous ses pieds ([Chuck Norris facts !](https://www.youtube.com/watch?v=s8uS2maPAZM)).
+- **_Drag and drop_** : Dans l'application [Google Earth VR](https://arvr.google.com/earth/), au lieu de téléporter l'utilisateur vers sa destination, on effectue un "drag" de la destination jusqu'à sa position désirée, ainsi l'utilisateur ne bouge pas, mais c'est la terre qui bouge sous ses pieds ([Chuck Norris facts !](https://www.youtube.com/watch?v=s8uS2maPAZM)).
 
 Bien sûr, les techniques décrites précédemment peuvent être combinées.
 
 ### Tapis roulant omnidirectionnel
 
-Ce type de tapis permet le déplacement infini. Pour le moment ce sont des solutions coûteuses, encombrantes, et peu sûrs (il faut souvent y associer un système de harnais). Mais ces solutions sont prometteuses. [L'infinadeck](https://www.youtube.com/watch?v=foHmSC-MeGA) est un exemple parmi d'autres.
+Ce type de tapis permet le déplacement infini. Pour le moment ce sont des solutions coûteuses, encombrantes, et peu sûres (il faut souvent y associer un système de harnais). Mais ces solutions sont prometteuses. [L'infinadeck](https://www.youtube.com/watch?v=foHmSC-MeGA) est un exemple parmi d'autres.
 
 # <a name="perf"></a>Performances graphiques
 
