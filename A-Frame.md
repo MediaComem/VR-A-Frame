@@ -7,7 +7,7 @@
 
 ## Mise en place
 
-La version 1.5.0 du _framework_ [A-Frame](https://aframe.io/docs/1.5.0/) sera utilisée. Vous pouvez donc simplement la rajouter dans votre code HTML de base, utiliser le [boilerplate du cours pour Vue](https://github.com/Chabloz/a-frame-vite-vue-boilerplate) ou celle plus minimaliste pour [WebPack](https://github.com/Chabloz/a-frame-webpack-boilerplate) (A-Frame 1.4.1).
+La version `1.5.0` du _framework_ [A-Frame](https://aframe.io/docs/1.5.0/) sera utilisée. Vous pouvez donc simplement la rajouter dans votre code HTML de base, utiliser le [boilerplate du cours pour Vue](https://github.com/Chabloz/a-frame-vite-vue-boilerplate) ou celle plus minimaliste pour [WebPack](https://github.com/Chabloz/a-frame-webpack-boilerplate) (/!\ A-Frame `1.4.1`).
 
 Ajoutez aussi [Aframe-Extras](https://github.com/c-frame/aframe-extras) à votre projet, puisque nous utiliserons certaines des fonctionnalités offertes par cet ensemble de composants.
 
@@ -60,7 +60,7 @@ Suivez la documentation officielle pour rajouter une primitive et le composant a
 
 - **size**: la taille du pavage. Une taille de 1 signifie un seul hexagone, une taille de 2 signifie un hexagone au centre et les 6 qui l'entourent et ainsi de suite. Voila un exemple pour la taille 4:
 
-![Pavage hexagonal de taille 4](./img/hexagone-3.png)
+![Pavage hexagonal de taille 4](./img/practice/hexagone-3.png)
 
 - **color**: la couleur des tuiles hexagonale
 - **cellsize**: la taille des tuiles
@@ -76,15 +76,15 @@ Une fois les sommets créés, il faut les regrouper dans une unique forme et des
 
 ### La géométrie (_geometry_)
 
-Il faut désormais transformer la forme 2D (un hexagone) en mesh 3D (un [prisme hexagonal](https://fr.wikipedia.org/wiki/Prisme_hexagonal)). La classe [THREE.ExtrudeGeometry](https://threejs.org/docs/#api/en/geometries/ExtrudeGeometry) permet justement d'extruder une forme 2D. Il faut lui passer en premier paramètre la forme (créée au point précédent ) et en 2e, une configuration (sous la forme d'un objet). Comme vous pouvez le constater dans la documentation, l'on peut appliquer un biseau (_bevel_) lors de cette opération (pour être précis, il s'agit plutôt d'un [chanfrein](https://fr.wikipedia.org/wiki/Chanfrein)). Vous pouvez soit désactiver le biseau, soit le rendre optionnel grâce à un attribut de votre primitive. Pour le paramètre **depth** des options, il s'agit (comme son nom l'indique) de la profondeur d'extrusion et correspond donc à la hauteur de l'hexagone (le paramètre **height** de votre primitive ).
+Il faut désormais transformer la forme 2D (un hexagone) en mesh 3D (un [prisme hexagonal](https://fr.wikipedia.org/wiki/Prisme_hexagonal)). La classe [THREE.ExtrudeGeometry](https://threejs.org/docs/#api/en/geometries/ExtrudeGeometry) permet justement d'extruder une forme 2D. Il faut lui passer en premier paramètre la forme (créée au point précédent ) et en 2e, une configuration (sous la forme d'un objet). Comme vous pouvez le constater dans la documentation, l'on peut appliquer un biseau (_bevel_) lors de cette opération (pour être précis, il s'agit plutôt d'un [chanfrein](https://fr.wikipedia.org/wiki/Chanfrein)). Vous pouvez soit désactiver le biseau, soit le rendre optionnel grâce à un attribut de votre primitive. Pour le paramètre **depth** des options, il s'agit (comme son nom l'indique) de la profondeur d'extrusion et correspond donc à la hauteur de l'hexagone (le paramètre **height** de votre primitive).
 
 Dans cet exemple [https://vr.chabloz.eu/hexagon.html](https://vr.chabloz.eu/hexagon.html), vous pouvez appuyer sur la touche 'B' de votre clavier pour observer la différence entre un prisme hexagonal sans biseau ou avec biseau. Il est **important** de noter l'impact du biseau sur le nombre de triangles nécessaires à l'affichage du prisme hexagonal ! Il est aussi important de comprendre pourquoi le prisme hexagonal a besoin de 20 triangles pour être affiché (voir l'image suivante).
 
-![Triangles dans un hexagone](./img/hexaInTri.png)
+![Triangles dans un hexagone](./img/practice/hexaInTri.png)
 
 ### Le matériau (_material_)
 
-Avec le framework _three.js_, les textures sont appliquées sous la forme d'un matériau (_material_). Il existe plusieurs types de matériaux dans _three.js_, le moins gourmand en ressource étant [THREE.MeshLambertMaterial](https://threejs.org/docs/#api/en/materials/MeshLambertMaterial), nous allons l'utiliser pour appliquer une simple texture de couleur sur notre hexagone. three.js offre la possibilité de passer directement la couleur au matériau comme ceci :
+Avec le framework _three.js_, les textures sont appliquées sous la forme d'un matériau (_material_). Il existe plusieurs types de matériaux dans _three.js_, le moins gourmand en ressource étant [THREE.MeshLambertMaterial](https://threejs.org/docs/#api/en/materials/MeshLambertMaterial), nous allons l'utiliser pour appliquer une simple texture de couleur sur notre hexagone. Three.js offre la possibilité de passer directement la couleur au matériau comme ceci :
 
 ```js
 const material = new THREE.MeshLambertMaterial({
@@ -102,17 +102,22 @@ this.el.setObject3D("mesh", mesh);
 
 Puis ajouter votre nouvelle primitive dans votre HTML pour que l'hexagone s'affiche au dessus de votre océan.
 
-Comme vous pouvez le remarquer lors de votre test, l'orientation de l'hexagone obtenu permet de paver un mur plutôt qu'un sol. Comme nous allons l'utiliser pour un pavage au sol, vous pouvez appliquer une rotation au mesh obtenu soit via le composant [rotation](https://github.com/aframevr/aframe/blob/master/docs/components/rotation.md) de A-Frame, soit directement avec three.js grâce à la méthode [rotateOnAxis](https://threejs.org/docs/#api/en/core/Object3D.rotateOnAxis) de three.js (plus propre) comme ceci:
+Comme vous pouvez le remarquer lors de votre test, l'orientation de l'hexagone obtenu permet de paver un mur plutôt qu'un sol. Comme nous allons l'utiliser pour un pavage au sol, vous pouvez appliquer une rotation au mesh obtenu soit via le composant [rotation](https://github.com/aframevr/aframe/blob/master/docs/components/rotation.md) de A-Frame, soit directement avec three.js grâce à la méthode [rotateOnAxis](https://threejs.org/docs/#api/en/core/Object3D.rotateOnAxis) de three.js (plus propre) comme ceci :
 
 ```js
 mesh.rotateOnAxis(new THREE.Vector3(-1, 0, 0), Math.PI / 2);
 ```
 
-Pour bien comprendre pourquoi la rotation doit s'effectuer autour de l'axe X, je vous laisse lire la [documentation officielle](https://github.com/aframevr/aframe/blob/master/docs/components/position.md#value) sur le système de coordonnées utilisé par A-Frame. Vous remarquerez aussi que three.js utilise des radians comme unité angulaire alors qu'A-Frame des degrés. Une fois cette rotation effectuée, votre scène devrait ressembler à ça: [https://vr.chabloz.eu/hexagon_ocean.html](https://vr.chabloz.eu/hexagon_ocean.html)
+Pour bien comprendre pourquoi la rotation doit s'effectuer autour de l'axe X, je vous laisse lire la [documentation officielle](https://github.com/aframevr/aframe/blob/master/docs/components/position.md#value) sur le système de coordonnées utilisé par A-Frame. Vous remarquerez aussi que three.js utilise des radians comme unité angulaire alors qu'A-Frame des degrés. Une fois cette rotation effectuée, votre scène devrait ressembler à ça : [https://vr.chabloz.eu/hexagon_ocean.html](https://vr.chabloz.eu/hexagon_ocean.html)
+
+> [!WARNING]
+> Unités angulaires :
+> Three.js = radians  
+> A-Frame = degrés
 
 ### Pavage
 
-Pour le pavage, il va falloir cloner et positionner notre prisme hexagonal de multiple fois. Si vous avez bien lu la documentation sur le pavage hexagonale (lien directe vers les parties qui nous intéresse: [axial coordinate](https://www.redblobgames.com/grids/hexagons/#coordinates-axial), [hex to pixel](https://www.redblobgames.com/grids/hexagons/#hex-to-pixel) et [range](https://www.redblobgames.com/grids/hexagons/#range)), il vous suffit de parcourir les coordonnées axiales **q** et **r** selon la taille du pavage (attribut **size**) , pour chaque tuile :
+Pour le pavage, il va falloir cloner et positionner notre prisme hexagonal de multiple fois. Si vous avez bien lu la documentation sur le pavage hexagonale (lien directe vers les parties qui nous intéresse : [axial coordinate](https://www.redblobgames.com/grids/hexagons/#coordinates-axial), [hex to pixel](https://www.redblobgames.com/grids/hexagons/#hex-to-pixel) et [range](https://www.redblobgames.com/grids/hexagons/#range)), il vous suffit de parcourir les coordonnées axiales **q** et **r** selon la taille du pavage (attribut **size**), pour chaque tuile :
 
 - de cloner votre mesh (avec la méthode [clone()](https://threejs.org/docs/#api/en/objects/Mesh.clone) de three.js) et de l'ajouter à une structure pour le stockage du pavage (un tableau par exemple)
 
@@ -132,7 +137,8 @@ if (this.data.bevel) {
 }
 ```
 
-**Petit ajout** : three.js offre la possibilité de stocker des données dans un mesh (sans impacter le framework) dans la propriété **userData**. Comme nous avons stocké nos tuiles dans un simple tableau, nous n'avons plus à disposition leurs coordonnées cubiques alors qu'elles pourraient être utile par la suite. Sauvegardons donc les coordonnées de chaque clone comme ceci :
+**Petit ajout** : Three.js offre la possibilité de stocker des données dans un mesh (sans impacter le framework) au travers de la propriété **userData**. Comme nous avons stocké nos tuiles dans un simple tableau, nous n'avons plus leurs coordonnées cubiques à disposition, alors qu'elles pourraient être utile par la suite.  
+Sauvegardons donc les coordonnées de chaque clone comme ceci :
 
 ```js
 const s = -q - r;
@@ -153,8 +159,10 @@ this.el.setObject3D("mesh", group);
 > Ce code n'est pas très optimisé. En effet tous les hexagones étant quasi les mêmes, l'utilisation de [meshs instanciés](https://threejs.org/docs/#api/en/objects/InstancedMesh) permettrait d'améliorer de beaucoup les performances. Dans cet exemple [https://vr.chabloz.eu/hexatile_ocean.html](https://vr.chabloz.eu/hexatile_ocean.html), vous pouvez appuyer sur la touche 'O' de votre clavier pour observer la différence entre la version non-optimisée et une autre optimisée grâce au nombre de _calls_ dans les statistiques (deux de ces _calls_ sont les dessins des deux océans).  
 > Vous pouvez aussi changer la taille du pavage avec les touches '1' à '9'. (la touche 'B' est toujours active si vous voulez tester l'impacte du biseau sur le nombre de triangles lors de pavage de taille importante. Mais n'oubliez pas de soustraire les 10'000 triangles des océans).
 
+---
+
 > [!NOTE]  
-> **Les parties suivantes sont optionnelles, vous pouvez continuer directement au point "Caméra et mesh de navigation" si vous le voulez.**
+> **Les parties suivantes sont optionnelles, vous pouvez continuer directement à la section []"Caméra et mesh de navigation"](#cam-nav-mesh) si vous le voulez.**
 
 ### Mise à jour (_update_)
 
@@ -173,7 +181,9 @@ Voila un exemple: [https://vr.chabloz.eu/variation.html](https://vr.chabloz.eu/v
 
 Pour mettre en pratique votre nouvelle primitive. Créez une _ile_ comme zone de départ.
 
-## Caméra et mesh de navigation (_nav-mesh_)
+---
+
+## <a name="cam-nav-mesh"></a> Caméra et mesh de navigation (_navigation mesh_ ou _navmesh_)
 
 ### Contrôle de la caméra
 
