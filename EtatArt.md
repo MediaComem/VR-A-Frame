@@ -272,17 +272,17 @@ Ce type de tapis permet le déplacement infini. Pour le moment ce sont des solut
 
 # <a name="perf"></a>Performances graphiques
 
-Une autre nécessité pour ne pas provoquer de cinétose (ou briser l'immersion) est de maintenir un taux de rafraîchissement élevé des images. Les écrans des casques actuels possèdent des fréquences variées allant de 60 [Hz] (Cardboard) à 144 [Hz] (Valve Index). Toutefois les valeurs en dessous de 90 [Hz] peuvent déjà poser problème à certains utilisateurs. Comme vu dans le chapitre des écrans, il faut aussi que ceux-ci aient une grande résolution. De plus, n’oublions pas que les calculs graphiques doivent être fait pour chaque œil (donc deux fois si vous êtes un humain avec toute ces facultés visuelles actives). Tout ceci est très gourmand en ressources graphiques. Il semble d'ailleurs difficile d'obtenir de bonnes performances avec des cartes graphiques aux coûts abordables. Il existe heureusement quelques techniques permettant de pallier en partie à ces problèmes, comme par exemple :
+Une autre nécessité pour ne pas provoquer de cinétose (ou briser l'immersion) est de maintenir un taux de rafraîchissement élevé des images. Les écrans des casques actuels possèdent des fréquences variées allant de 60 [Hz] (Cardboard) à 144 [Hz] (Valve Index). Toutefois, les valeurs en dessous de 90 [Hz] peuvent déjà poser problème à certains utilisateurs. Comme vu dans le chapitre des écrans, il faut aussi que ceux-ci aient une grande résolution. De plus, n’oublions pas que les calculs graphiques doivent être faits pour chaque œil (donc deux fois si vous êtes un humain avec toutes ces facultés visuelles). Tout ceci est très gourmand en ressources graphiques. Il semble d'ailleurs difficile d'obtenir de bonnes performances avec des cartes graphiques aux coûts abordables. Il existe heureusement quelques techniques permettant de pallier ces problématiques :
 
-- **[Le foveated rendering](https://en.wikipedia.org/wiki/Foveated_rendering)**: seul le centre de l'image est calculé en haute définition. La résolution diminue ensuite de plus en plus en périphérie. Si cette technique est combinée avec du eye-tracking afin d'utiliser la zone où se trouve le focus de la vision de l'utilisateur plutôt que le centre de l'écran, elle peut même être indiscernable.
+- **[Le foveated rendering](https://en.wikipedia.org/wiki/Foveated_rendering)** : Seul le centre de l'image est calculé en haute définition. La résolution diminue ensuite de plus en plus en périphérie. Si cette technique est combinée avec l'eye tracking afin d'utiliser la zone où se trouve le focus de la vision de l'utilisateur plutôt que le centre de l'écran, elle peut même être indiscernable.
 
-- **[Asynchronous interleaved reprojection](https://en.wikipedia.org/wiki/Asynchronous_reprojection)**: des images dernièrement rendues sont adaptées avec les informations de mouvements et de positionnement du casque afin d'obtenir des _frame_ de "secours" en cas de perte de _framerate_.
+- **[Asynchronous interleaved reprojection](https://en.wikipedia.org/wiki/Asynchronous_reprojection)** : Des images dernièrement rendues sont adaptées avec les informations de mouvements et de positionnement du casque afin d'obtenir des _frame_ de "secours" en cas de perte de _framerate_.
 
 Bien sûr, pour obtenir de bonnes performances sur les cartes graphiques actuelles, il faut aussi que l'application VR soit bien optimisée.
 
 # <a name="sensory"></a>Modalités sensorielles
 
-Le son en VR est souvent positionnel afin d'augementer de beaucoup l'immersion. On peut facilement tromper les sens de la vue et de l'ouïe, mais qu'en est-il des 3 autres ? Pour le toucher, des entreprises développent des technologies haptiques (gants et combinaisons), ce qui nous permettrait de "toucher" les objets virtuels de manière plus convaincante.
+Le son en VR est souvent positionnel afin d'augmenter l'immersion. On peut facilement tromper les sens de la vue et de l'ouïe, mais qu'en est-il des 3 autres ? Pour le toucher, des entreprises développent des technologies haptiques (gants et combinaisons), ce qui nous permettrait de "toucher" les objets virtuels de manière plus convaincante.
 
 Quelques exemples:
 
@@ -292,7 +292,7 @@ Quelques exemples:
 
 - [Une combinaison complète I/O](https://teslasuit.io/)
 
-Pour le moment, les deux sens restants ((odorat et goût) sont le plus souvent mis de coté.
+Pour le moment, les deux sens restants sont le plus souvent mis de côté ou reste encore au stade de recherche ([odorat](https://www.technologyreview.com/2023/05/09/1072731/vr-smell/) et [goût](https://www.caesarvr.com/vr-ar-news/immerse-your-senses-coming-soon-virtual-reality-that-engages-taste-and-touch)).
 
 # <a name="fiction"></a>VR et fiction
 
