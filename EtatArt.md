@@ -121,9 +121,21 @@ XIXe s. - [Stéréoscopes](https://fr.wikipedia.org/wiki/St%C3%A9r%C3%A9oscope)
 
 2014 - [Google Cardboard](https://en.wikipedia.org/wiki/Google_Cardboard)
 
-2016-2017 - Lancement des [The Oculus Rift CV1](https://en.wikipedia.org/wiki/Oculus_Rift_CV1) et [HTC Vive](https://en.wikipedia.org/wiki/HTC_Vive)
+2016 – [Google Daydream](https://en.wikipedia.org/wiki/Google_Daydream)
+2016 – [The Oculus Rift](https://en.wikipedia.org/wiki/Oculus_Rift_CV1)
+2016 – [HTC Vive](https://en.wikipedia.org/wiki/HTC_Vive)
 
-2018 - [Standalone VR Headsets (Oculus Go et Quest)](https://veer.tv/blog/6-best-standalone-virtual-reality-vr-headsets-2018/)
+2018 - [Oculus Go](https://en.wikipedia.org/wiki/Oculus_Go)
+
+2019 – [Oculus Quest](https://en.wikipedia.org/wiki/Oculus_Quest)
+
+2022 – [Meta Quest Pro](https://en.wikipedia.org/wiki/Meta_Quest_Pro)
+
+2023 – [Meta Quest 3](https://en.wikipedia.org/wiki/Meta_Quest_3)
+
+2024 – [Apple Vision Pro](https://fr.wikipedia.org/wiki/Apple_Vision_Pro)
+
+_Pour une plus liste plus exhaustive de casques, [cette infographie](https://www.infographicsarchive.com/wp-content/uploads/2022/04/vr-headsets-throughout-history-infographic.jpg) propose une vue chronologique assez complète des différents modèles et constructeurs (jusqu'en 2021)._
 
 ## <a name="hardware"></a>Matériel et technologies VR
 
@@ -335,3 +347,4 @@ Quelques références parmi tant d'autres…
 - Audrey Huguenin
 - Arthur Verdon
 - Nicolas Chabloz
+- Jonathan Favre-Lamarine
