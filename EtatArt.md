@@ -2,17 +2,19 @@
 
 ## Sommaire
 
-- [Les applications actuelles et futures de la VR](#application-vr)
+- [Applications actuelles et futures de la VR](#application-vr)
 - [Historique](#histo)
-- [Le matériel VR](#materiel)
+- [Matériel et technologies VR](#hardware)
 - [Immersion](#immersion)
 - [Déplacements](#movements)
 - [Performances graphiques](#perf)
-- [Audio, haptique et autres fioritures](#audio-and-co)
-- [La VR dans la fiction](#fiction)
+- [Modalités sensorielles](#sensory)
+- [VR et fiction](#fiction)
 - [Sources](#sources)
 
-## <a name="application-vr"></a>Les applications actuelles et futures de la VR
+---
+
+## <a name="application-vr"></a>Applications actuelles et futures de la VR
 
 ### Marketing
 
@@ -22,7 +24,7 @@ La VR est de plus en plus utilisée en marketing. Elle plonge l'utilisateur (et 
 
 La VR permet de faire partie intégrante de l'univers du jeu, ce qui apporte une grande immersion. Des jeux aux univers très développés, principalement à la première personne, cherchant une grande immersion du joueur bénéficient grandement de la VR. Un bon exemple est le jeu [Half-Life: Alyx](https://www.youtube.com/watch?v=O2W0N3uKXmo).
 
-La VR semble aussi adéquate pour les [MMORPG](https://fr.wikipedia.org/wiki/Jeu_de_r%C3%B4le_en_ligne_massivement_multijoueur), bien que pour le moment peu de tentatives sont faites (à cause, entre autre, des problèmes de complexité, de coût et de gestion des déplacements).  
+La VR semble aussi adéquate pour les [MMORPG](https://fr.wikipedia.org/wiki/Jeu_de_r%C3%B4le_en_ligne_massivement_multijoueur), bien que pour le moment peu de tentatives sont faites (à cause, entre autres, des problèmes de complexité, de coût et de gestion des déplacements).
 
 La VR s'applique aussi très bien au jeu de simulation. Elle va aussi créer de nouveaux genres. [Beat Saber](https://store.steampowered.com/app/620980/Beat_Saber/) par exemple, mêlant jeu de rythme et VR dans un univers futuriste.
 
@@ -49,11 +51,11 @@ Article: [BMW Uses Virtual Reality to Build Prototypes](https://www.thedrive.com
 
 Article: [La réalité virtuelle va révolutionner de nombreux secteurs de l’industrie automobile](https://vrgineers.com/fr/la-realite-virtuelle-va-revolutionner-de-nombreux-secteurs-de-lindustrie-automobile/)
 
-### Education/formation
+### Éducation et formation
 
-La VR permet notamment la simulation de situations réelles pour l'entraînement (méditatiton, prise de parole en public, interventions médicales, ...). Elle permet aussi d'engager, de stimuler les utilisateurs pour un meilleur apprentissage et mémorisation. Histoire, biologie, médecine, il existe aujourd'hui de nombreuses expériences pédagogiques.
+La VR permet notamment la simulation de situations réelles pour l'entraînement (méditation, prise de parole en public, interventions médicales…). Elle permet aussi d'engager, de stimuler les utilisateurs pour un meilleur apprentissage et mémorisation. Histoire, biologie, médecine, il existe aujourd'hui de nombreuses expériences pédagogiques.
 
-- [Unimersiv](https://unimersiv.com/): une app réunissant des expériences VR pédagogiques (Histoire, espace, anatomie,...)
+- [Unimersiv](https://unimersiv.com/): une app réunissant des expériences VR pédagogiques (Histoire, espace, anatomie…)
 - [InMind VR](https://play.google.com/store/apps/details?id=com.nivalvr.inmind&hl=en): une app pour découvrir le cerveau humain
 - [Discovery VR](http://www.discoveryvr.com/watch/discovery-vr-an-introduction): propose des sortes de documentaires immersifs, pour découvrir le monde
 
@@ -63,19 +65,21 @@ Article: [How VR In Education Will Change How We Learn And Teach](https://xd.ado
 
 ### Cinéma et art
 
-Pour le cinéma, la VR permet de s'immerger quasiment totalement dans l'univers et les aventures visionnées. La 3D est déjà bien implantée dans les salles aujourd'hui, mais l'immersion VR va plus loin encore. Elle est aussi utilisée par les artistes 3D, qui peuvent créer directement en VR (et s'occuper de l'animation avec des outils comme [PoseVR](https://vrscout.com/news/disneys-posevr-animation-tool/)), ou tout simplement visionner leurs créations via ce média. La VR crée aussi de nouvelle possibilité pour les autres arts, comme par exemple le dessin ou la sculpture en VR (ex: [https://time.com/vr-is-for-artists/](https://time.com/vr-is-for-artists/)).
+Pour le cinéma, la VR permet de s'immerger quasiment totalement dans l'univers et les aventures visionnées. La 3D est déjà bien implantée dans les salles aujourd'hui, mais l'immersion VR va plus loin encore. Elle est aussi utilisée par les artistes 3D, qui peuvent créer directement en VR (et s'occuper de l'animation avec des outils comme [PoseVR](https://vrscout.com/news/disneys-posevr-animation-tool/)), ou tout simplement visionner leurs créations via ce média. La VR crée aussi de nouvelles possibilités pour les autres arts. Par exemple le dessin ou la sculpture en VR (ex. [https://time.com/vr-is-for-artists/](https://time.com/vr-is-for-artists/)).
 
 Article: [Cinéma VR – Comment la réalité virtuelle transforme le cinéma](https://www.realite-virtuelle.com/cinema-vr/)
 
 ### Intelligence artificielle et robotique
 
-Les systèmes utilisant l'intelligence artificielle (comme entre autre la robotique) doivent tout d'abord être entraîné avant d'être opérationnel. Souvent, le robot est construit, entraîné et testé, mais il est possible de faire quelques essais en amont grâce à la VR. Il est par exemple possible de tester les interactions d'un robot (virtuel) avec un environnement (virtuel) avant de passer à l'étape de construction. Ou encore d’entraîner le robot directement en VR.
+Les systèmes utilisant l'intelligence artificielle (comme entre autres la robotique) doivent tout d'abord être entraînés avant d'être opérationnels. Souvent, le robot est construit, entraîné et testé, mais il est possible de faire quelques essais en amont grâce à la VR. Il est par exemple possible de tester les interactions d'un robot (virtuel) avec un environnement virtuel avant de passer à l'étape de construction. Ou encore d’entraîner le robot directement en VR.
 
 Article: [AI Meets VR When Nvidia Trains Isaac On Holodeck](https://www.tomshardware.com/news/ai-robot-training-isaac-holodeck,35126.html)
 
 ### Autres applications
 
-La VR peut être utilisée dans une pléthore d'autres domaines. Par exemple, elle pourrait améliorer le télétravail (article: [VR could help transform remote work](https://www.computerworld.com/article/3174756/vr-could-help-transform-remote-work.html)). Elle est aussi utilisée en médecine, par exemple pour [combattre les phobies](https://www.letemps.ch/sciences/soigner-phobies-grace-realite-virtuelle). Les applications semblent infinies, puisque ce média semble être capable d'englober tous les autres.
+La VR peut être utilisée dans une pléthore d'autres domaines. Par exemple, elle pourrait améliorer le télétravail (article: [VR could help transform remote work](https://www.computerworld.com/article/3174756/vr-could-help-transform-remote-work.html)).  
+Elle est aussi utilisée en médecine, par exemple pour [combattre les phobies](https://www.letemps.ch/sciences/soigner-phobies-grace-realite-virtuelle).  
+Les applications semblent infinies, puisque ce média semble être capable d'englober tous les autres.
 
 ## <a name="histo"></a> Quelques exemples historiques
 
@@ -101,7 +105,7 @@ XIXe s. - [Stéréoscopes](https://fr.wikipedia.org/wiki/St%C3%A9r%C3%A9oscope)
 
 ![The Sword of Damocles](./img/sword.jpg)
 
-1978 - [ASPEN MOVIE MAP](https://en.wikipedia.org/wiki/Aspen_Movie_Map), propotype de cartes interactives, par le MIT
+1978 - [ASPEN MOVIE MAP](https://en.wikipedia.org/wiki/Aspen_Movie_Map), prototype de cartes interactives, par le MIT
 
 ![ASPEN MOVIE MAP](./img/aspen.jpg)
 
@@ -121,7 +125,7 @@ XIXe s. - [Stéréoscopes](https://fr.wikipedia.org/wiki/St%C3%A9r%C3%A9oscope)
 
 2018 - [Standalone VR Headsets (Oculus Go et Quest)](https://veer.tv/blog/6-best-standalone-virtual-reality-vr-headsets-2018/)
 
-## <a name="materiel"></a>Le matériel VR
+## <a name="hardware"></a>Matériel et technologies VR
 
 ### Degrés de liberté (DoF)
 
@@ -272,9 +276,11 @@ Une autre nécessité pour ne pas provoquer de cinétose (ou briser l'immersion)
 
 Bien sûr, pour obtenir de bonnes performances sur les cartes graphiques actuelles, il faut aussi que l'application VR soit bien optimisée.
 
-# <a name="audio-and-co"></a>Audio, haptique, et autres fioritures
+# <a name="sensory"></a>Modalités sensorielles
 
-Le son en VR est souvent positionnel afin d'augementer de beaucoup l'immersion. On peut facilement tromper les sens de la vue et de l'ouïe, mais qu'en est-il des 3 autres ? Pour le toucher, des entreprises développent des technologies haptiques (gants et combinaisons), ce qui nous permettrait de "toucher" les objets virtuels de manière plus convaincante. Quelques exemples:
+Le son en VR est souvent positionnel afin d'augementer de beaucoup l'immersion. On peut facilement tromper les sens de la vue et de l'ouïe, mais qu'en est-il des 3 autres ? Pour le toucher, des entreprises développent des technologies haptiques (gants et combinaisons), ce qui nous permettrait de "toucher" les objets virtuels de manière plus convaincante.
+
+Quelques exemples:
 
 - [Technologie haptique](https://en.wikipedia.org/wiki/Haptic_technology)
 
@@ -284,7 +290,7 @@ Le son en VR est souvent positionnel afin d'augementer de beaucoup l'immersion. 
 
 Pour le moment, les deux sens restants ((odorat et goût) sont le plus souvent mis de coté.
 
-# <a name="fiction"></a>La VR dans la fiction
+# <a name="fiction"></a>VR et fiction
 
 Quelques références parmi tant d'autres…
 
