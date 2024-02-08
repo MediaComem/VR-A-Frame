@@ -21,13 +21,13 @@ L'océan actuel est un peu simple, mais nous pouvons le rendre plus plaisant en 
 
 1. Premièrement, agrandissez sa taille pour qu'il couvre 100 m<sup>2</sup>.  
    Notez que toutes les distances dans A-Frame sont en **mètre** et les angles en **degré**.
-2. Ensuite, la mer est un peu trop agitée pour notre scène. Essayez donc de modifier les attributs nécessaires pour obtenir un océan plus calme (par exemple : vous pouvez réduire l'amplitude des vagues de base à 0 et leur variance à 0.1.
+2. Ensuite, la mer est un peu trop agitée pour notre scène. Essayez donc de modifier les attributs nécessaires pour obtenir un océan plus calme (ex. vous pouvez réduire l'amplitude des vagues de base à 0 et leur variance à 0.1).
    Vous remarquerez ainsi la facilité de paramétrage des composants A-Frame grâce à l'utilisation des attributs HTML.
 3. Pour un effet intéressant, vous pouvez aussi dupliquer votre balise océan et modifier l'amplitude et la variance du second océan. Mais bien sûr la performance sera moins bonne…
 
 Puisque nous voulons que notre scène tourne sur le plus grand nombre de périphériques, il serait utile de pouvoir la _monitorer_. A-Frame l'inclut grâce au composant [stats](https://github.com/aframevr/aframe/blob/master/docs/components/stats.md) (que vous pouvez ajouter dès maintenant).
 
-> **Note**
+> [!TIP]
 > Vous trouverez de bonnes pratiques pour l'optimisation des performances ici : [A-Frame best practices](https://github.com/aframevr/aframe/blob/master/docs/introduction/best-practices.md#performance). Nous allons suivre le plus possible ces recommandations durant le développement.
 
 ### Le ciel
@@ -49,7 +49,7 @@ Voilà un exemple d'environnement obtenu après ces quelques retouches : [https:
 
 Afin de s'initier à **three.js**, le _framework_ utilisé par A-Frame pour la gestion de la 3D, nous allons ajouter un nouvelle [primitive](https://github.com/aframevr/aframe/blob/master/docs/introduction/html-and-primitives.md#registering-a-primitive) pour la création des [mesh](<https://fr.wikipedia.org/wiki/Mesh_(objet)>) nécessaires à un [pavage hexagonal](https://fr.wikipedia.org/wiki/Pavage_hexagonal). Cette partie du TP est inspirée de la bibliothèque de gestion de grille hexagonale [von-grid](https://github.com/vonWolfehaus/von-grid) dont nous n'allons reprendre aucun code existant, puisqu'elle ne couvre pas tous besoins et n'est pas suffisamment optimisée pour tourner correctement sur des casques à faible puissance graphique comme le Quest.
 
-> **Note**
+> [!IMPORTANT]
 > Avant de commencez cette partie, il est fortement recommandé de lire cet excellent support sur l'utilisation du pavage hexagonal : [https://www.redblobgames.com/grids/hexagons/](https://www.redblobgames.com/grids/hexagons/).
 
 Afin de simplifier la chose, nous allons nous limiter à une carte en forme d’hexagone pavé d'hexagones à sommet plat en utilisant le système des coordonnées cubiques/axiales.
@@ -94,7 +94,7 @@ const material = new THREE.MeshLambertMaterial({
 
 ### Le mesh
 
-Finalement, il faut appliquer notre matériau sur notre géométrie pour avoir un mesh final texturé. Utilisez donc la classe [THREE.Mesh](https://threejs.org/docs/#api/en/objects/Mesh) pour le faire. Pour faire un test, utiliser ce mesh _three.js_ en temps que mesh _A-Frame_ grâce au code suivant:
+Finalement, il faut appliquer notre matériau sur notre géométrie pour avoir un mesh final texturé. Utilisez donc la classe [THREE.Mesh](https://threejs.org/docs/#api/en/objects/Mesh) pour le faire. Pour faire un test, utiliser ce mesh _three.js_ en temps que mesh _A-Frame_ grâce au code suivant :
 
 ```js
 this.el.setObject3D("mesh", mesh);
@@ -112,17 +112,17 @@ Pour bien comprendre pourquoi la rotation doit s'effectuer autour de l'axe X, je
 
 ### Pavage
 
-Pour le pavage, il va falloir cloner et positionner notre prisme hexagonal de multiple fois. Si vous avez bien lu la documentation sur le pavage hexagonale (lien directe vers les parties qui nous intéresse: [axial coordinate](https://www.redblobgames.com/grids/hexagons/#coordinates-axial), [hex to pixel](https://www.redblobgames.com/grids/hexagons/#hex-to-pixel) et [range](https://www.redblobgames.com/grids/hexagons/#range)), il vous suffit de parcourir les coordonnées axiales **q** et **r** selon la taille du pavage (attribut **size**) , pour chaque tuile:
+Pour le pavage, il va falloir cloner et positionner notre prisme hexagonal de multiple fois. Si vous avez bien lu la documentation sur le pavage hexagonale (lien directe vers les parties qui nous intéresse: [axial coordinate](https://www.redblobgames.com/grids/hexagons/#coordinates-axial), [hex to pixel](https://www.redblobgames.com/grids/hexagons/#hex-to-pixel) et [range](https://www.redblobgames.com/grids/hexagons/#range)), il vous suffit de parcourir les coordonnées axiales **q** et **r** selon la taille du pavage (attribut **size**) , pour chaque tuile :
 
 - de cloner votre mesh (avec la méthode [clone()](https://threejs.org/docs/#api/en/objects/Mesh.clone) de three.js) et de l'ajouter à une structure pour le stockage du pavage (un tableau par exemple)
 
-- de calculer les coordonnées **x** et **z** associées aux coordonnées **q** et **r** et à la tailles des tuiles (attribut **cellsize**), et des les attribuer au mesh cloné grâce au code suivant:
+- de calculer les coordonnées **x** et **z** associées aux coordonnées **q** et **r** et à la tailles des tuiles (attribut **cellsize**), et des les attribuer au mesh cloné grâce au code suivant :
 
 ```js
 clone.position.set(x, 0, z);
 ```
 
-Afin de donner un pavage plus esthétique, vous pouvez aussi rajouter un écart entre les tuiles. Vous pouvez le faire simplement en réduisant la taille du mesh de l'hexagone de base en three.js comme ceci (avec gestion du biseau):
+Afin de donner un pavage plus esthétique, vous pouvez aussi rajouter un écart entre les tuiles. Vous pouvez le faire simplement en réduisant la taille du mesh de l'hexagone de base en three.js comme ceci (avec gestion du biseau) :
 
 ```js
 if (this.data.bevel) {
@@ -132,7 +132,7 @@ if (this.data.bevel) {
 }
 ```
 
-**Petit ajout**: three.js offre la possibilité de stocker des données dans un mesh (sans impacter le framework) dans la propriété **userData**. Comme nous avons stocké nos tuiles dans un simple tableau, nous n'avons plus à disposition leurs coordonnées cubiques alors qu'elles pourraient être utile par la suite. Sauvegardons donc les coordonnées de chaque clone comme ceci:
+**Petit ajout** : three.js offre la possibilité de stocker des données dans un mesh (sans impacter le framework) dans la propriété **userData**. Comme nous avons stocké nos tuiles dans un simple tableau, nous n'avons plus à disposition leurs coordonnées cubiques alors qu'elles pourraient être utile par la suite. Sauvegardons donc les coordonnées de chaque clone comme ceci :
 
 ```js
 const s = -q - r;
@@ -149,10 +149,12 @@ group.add(...this.tilemap);
 this.el.setObject3D("mesh", group);
 ```
 
-> [!WARNING]
-> Ce code n'est pas très optimisé. En effet tous les hexagones étant quasi les mêmes, l'utilisation de [meshs instanciés](https://threejs.org/docs/#api/en/objects/InstancedMesh) permettrait d'améliorer de beaucoup les performances. Dans cet exemple [https://vr.chabloz.eu/hexatile_ocean.html](https://vr.chabloz.eu/hexatile_ocean.html), vous pouvez appuyer sur la touche 'O' de votre clavier pour observer la différence entre la version non-optimisée et une autre optimisée grâce au nombre de _calls_ dans les statistiques (deux de ces _calls_ sont les dessins des deux océans). Vous pouvez aussi changer la taille du pavage avec les touches '1' à '9'. (la touche 'B' est toujours active si vous voulez tester l'impacte du biseau sur le nombre de triangles lors de pavage de taille importante. Mais n'oubliez pas de soustraire les 10'000 triangles des océans).
+> [!WARNING]  
+> Ce code n'est pas très optimisé. En effet tous les hexagones étant quasi les mêmes, l'utilisation de [meshs instanciés](https://threejs.org/docs/#api/en/objects/InstancedMesh) permettrait d'améliorer de beaucoup les performances. Dans cet exemple [https://vr.chabloz.eu/hexatile_ocean.html](https://vr.chabloz.eu/hexatile_ocean.html), vous pouvez appuyer sur la touche 'O' de votre clavier pour observer la différence entre la version non-optimisée et une autre optimisée grâce au nombre de _calls_ dans les statistiques (deux de ces _calls_ sont les dessins des deux océans).  
+> Vous pouvez aussi changer la taille du pavage avec les touches '1' à '9'. (la touche 'B' est toujours active si vous voulez tester l'impacte du biseau sur le nombre de triangles lors de pavage de taille importante. Mais n'oubliez pas de soustraire les 10'000 triangles des océans).
 
-> [!NOTE] > **Les parties suivantes sont optionnelles, vous pouvez continuer directement au point "Caméra et mesh de navigation" si vous le voulez.**
+> [!NOTE]  
+> **Les parties suivantes sont optionnelles, vous pouvez continuer directement au point "Caméra et mesh de navigation" si vous le voulez.**
 
 ### Mise à jour (_update_)
 
@@ -160,12 +162,12 @@ Ajoutez une méthode [update](https://aframe.io/docs/master/core/component.html#
 
 ### Variation des couleurs
 
-Essayez de rajouter un système de variation de la couleur de base pour chaque tuile du pavage. Afin de le faire proprement, voilà quelques recommandations:
+Essayez de rajouter un système de variation de la couleur de base pour chaque tuile du pavage. Afin de le faire proprement, voilà quelques recommandations :
 
 - Vous pourriez faire que la variation par apport à la couleur de base soit plus ou moins grande selon la valeur d'un attribut (paramétrable).
 - Il faudrait stocker la valeur de la variation affecté à chaque tuile, pour qu'en cas d'animation de changement de couleur par exemple, cette variation reste fixe (sinon cela donnera un effet stroboscopique).
 
-Voila un exemple: [https://vr.chabloz.eu/variation.html](https://vr.chabloz.eu/variation.html). Les touches 'I' et 'K' permettent réciproquement d’augmenter ou de décrémenter la variation de couleur. Les touches 'J' et 'L' permettent réciproquement d’augmenter ou de décrémenter le nombre de variations de couleur. Enfin la touche 'C' permet de changer la couleur de manière aléatoire. (Les touches des exemples précédents restent valables).
+Voila un exemple: [https://vr.chabloz.eu/variation.html](https://vr.chabloz.eu/variation.html). Les touches 'I' et 'K' permettent réciproquement d’augmenter ou de décrémenter la variation de couleur. Les touches 'J' et 'L' permettent réciproquement d’augmenter ou de décrémenter le nombre de variations de couleur. Enfin la touche 'C' permet de changer la couleur de manière aléatoire (Les touches des exemples précédents restent valables).
 
 ### Zone d'aparition (_spawn zone_)
 
