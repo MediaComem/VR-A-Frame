@@ -93,25 +93,25 @@ XIXe s. - [Stéréoscopes](https://fr.wikipedia.org/wiki/St%C3%A9r%C3%A9oscope)
 
 1960 - Telesphere Mask, premier head-mounted display (HMD), Morton Heilig
 
-![Telesphere](./img/telesphere.jpg)
+![Telesphere](./img/sota/telesphere.jpg)
 
 1961 - Headsight, premier HMD avec motion tracking, par Comeau et Bryan
 
-![Headsight](./img/headsight.png)
+![Headsight](./img/sota/headsight.png)
 
 1962 - [Sensorama, Morton Heilig](https://en.wikipedia.org/wiki/Sensorama)
 
 1968 - [The Sword of Damocles](<https://en.wikipedia.org/wiki/The_Sword_of_Damocles_(virtual_reality)>), premier dispositif VR, par Ivan Sutherland
 
-![The Sword of Damocles](./img/sword.jpg)
+![The Sword of Damocles](./img/sota/sword.jpg)
 
 1978 - [ASPEN MOVIE MAP](https://en.wikipedia.org/wiki/Aspen_Movie_Map), prototype de cartes interactives, par le MIT
 
-![ASPEN MOVIE MAP](./img/aspen.jpg)
+![ASPEN MOVIE MAP](./img/sota/aspen.jpg)
 
 1990 - [NASA-VIEW (Virtual Interface Environment Workstation)](https://www.nasa.gov/ames/spinoff/new_continent_of_ideas), casque, gants et combinaison connectés
 
-![NASA-VIEW](./img/nasaview.jpg)
+![NASA-VIEW](./img/sota/nasaview.jpg)
 
 1992 - [SEGA VR/R360](https://oculusnext.com/sega-vr/)
 
@@ -141,7 +141,7 @@ _Pour une plus liste plus exhaustive de casques, [cette infographie](https://www
 
 ### Degrés de liberté (DoF)
 
-![Les six degrés de liberté dans un espace à trois dimensions, @author:GregorDS, Wikipedia](./img/6DOF.png)
+![Les six degrés de liberté dans un espace à trois dimensions, @author:GregorDS, Wikipedia](./img/sota/6DOF.png)
 
 Un des points importants à penser lors de la conception d'une expérience VR, est la façon dont le joueur va pouvoir se déplacer et interagir avec le monde autour de lui. Pour ce qui est du point de vue matériel, on parle de **degrés de liberté (Degree of Freedom)**. Il existe différentes possibilités pour le nombre de degrés de liberté.  
 Le **3DoF** pour "Three Degrees Of Freedom", qui indique que le matériel peut suivre les mouvements de rotation effectués par l'utilisateur (ces trois axes sont _yaw_, _pitch_ et _roll_).  
@@ -185,7 +185,7 @@ Voilà quelques points importants :
 
 Le [Field Of View](https://vr-lens-lab.com/field-of-view-for-virtual-reality-headsets/) (FOV) n'est pas optimal sur les casques actuels. Il est en moyenne entre 90° et 110° alors que le FOV humain est entre 200° et 220°. On a donc une impression de "masque de plongée". Les futurs casques se devront d'atteindre le FOV humain pour une immersion adéquate.
 
-![Field of view](./img/fov.png)
+![Field of view](./img/sota/fov.png)
 [_Source_](https://fr.wikipedia.org/wiki/Champ_visuel#/media/Fichier:Champ_vision.svg)
 
 ### Le casque
@@ -203,16 +203,16 @@ Les écrans (où l'écran) utilisés par les casques posent aussi quelques probl
 - **Screen Door Effect (SDE)** : On voit la "grille" de pixels.  
   Solutions : Des écrans avec de plus hautes résolutions (avec un bon agencement des sous-pixels) ([Screen Door Effect](https://www.howtogeek.com/404491/what-is-the-screen-door-effect-in-vr/)).
 
-![Screen Door Effect](./img/sde.jpg)
+![Screen Door Effect](./img/sota/sde.jpg)
 [_Source_](https://en.wikipedia.org/wiki/Screen-door_effect#/media/File:Screen-door_effect.jpg)
 
 - **Mura Effect** : Les à-plats de couleurs ne sont pas homogènes à cause de la composition des écrans qui empêche une luminosité tout à fait régulière ([Mura Effect](https://www.roda-computer.com/technology/mura-effect/)).
 
-![Mura Effect](./img/screendoor.jpg.webp)
+![Mura Effect](./img/sota/screendoor.jpg.webp)
 
 - **Aliasing**: Les arrondis sont saccadés. Puisque les écrans utilisent des pixels, les courbes ne sont pas possibles. Cela rend les textes peu lisibles en VR. Il faut utiliser de bonnes techniques d'antialiasing (anticrénelage) ou utiliser des écrans à très forte densité de pixels. ([Aliasing](https://fr.wikipedia.org/wiki/Anticr%C3%A9nelage))
 
-![Aliasing](./img/alias.gif)
+![Aliasing](./img/sota/alias.gif)
 
 ### Les lentilles
 
@@ -222,7 +222,7 @@ Les lentilles déforment (le ou) les écrans à l'intérieur du casque afin d'av
 
 - **Glare et "God rays"**: En cas de scène à fort contraste, les couleurs claires (le blanc principalement) "bavent". On voit des rayons lumineux (God Rays). La cause: les lentilles Fresnel utilisées dans la plupart des casques. Pour le moment, il faut donc limiter les forts contrastes dans les scènes VR et attendre que les lentilles fassent mieux sur ce point.
 
-![Glare](./img/glare.jpg)
+![Glare](./img/sota/glare.jpg)
 
 - **Lentille à focale variable** : Les lentilles utilisées dans les casques actuels ne sont pas à focale variable, ainsi il n'est pas possible de recréer exactement le même ressenti qu'en réalité. Les futures lentilles le seront peut-être… Ce système allié à celui du suivit des mouvements oculaires (oculométrie - eye tracking) permettra de se rapprocher de l'idéal.
 
@@ -250,7 +250,7 @@ Elle ne provoque généralement pas d’inconfort, mais elle peut casser l’imm
 
 - **Portails de téléportation** : au lieu de téléporter l'utilisateur, on le fait passer à travers des portails reliant deux zones VR distantes. Ces portails peuvent être soit fixés par les créateurs de l'application, soit par l'utilisateur lui-même (à la manière du jeu [Portal](<https://fr.wikipedia.org/wiki/Portal_(jeu_vid%C3%A9o)>)). Un bon exemple d'utilisation de ce système est le jeu [Budget Cut](https://store.steampowered.com/app/1092430/Budget_Cuts_2_Mission_Insolvency/).
 
-![budget cut](./img/budget_cut.png)
+![budget cut](./img/sota/budget_cut.png)
 
 - **Autres systèmes de téléportation** : On peut imaginer d'autres systèmes de téléportation que ceux précités. Par exemple, le système de téléportation du jeu [The Gallery](<https://en.wikipedia.org/wiki/The_Gallery_(video_game)>), offre au joueur la possibilité d'orienter sa téléportation dans une direction bien précise en faisant apparaître au sol l'espace réel du joueur durant la sélection de la zone de téléportation (système [_blink_](https://www.youtube.com/watch?v=fOFgAfuTtyo&feature=emb_title)).
 
@@ -272,7 +272,7 @@ Même si l'espace VR est plus grand que l'espace réel, il existe quelques méth
 
 - **Suites de mouvements adaptées à l'univers**, pensés pour que l'utilisateur revienne sur ses pas, et reste dans un espace restreint (identique à son espace réel). Ce peut être fait avec l'utilisation d'ascenseurs, des techniques de chevauchement d'espaces (voir image), ou autres astuces (désorientations, distances faussées, etc.). L’expérience [Unseen Diplomacy](https://store.steampowered.com/app/429830/Unseen_Diplomacy/) reprend quelques-unes de ces idées.
 
-![Overlapping](./img/overlapping.png)
+![Overlapping](./img/sota/overlapping.png)
 
 - **_Drag and drop_** : Dans l'application [Google Earth VR](https://arvr.google.com/earth/), au lieu de téléporter l'utilisateur vers sa destination, on effectue un "drag" de la destination jusqu'à sa position désirée, ainsi l'utilisateur ne bouge pas, mais c'est la terre qui bouge sous ses pieds ([Chuck Norris facts !](https://www.youtube.com/watch?v=s8uS2maPAZM)).
 
