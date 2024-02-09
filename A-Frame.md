@@ -80,7 +80,7 @@ Il faut désormais transformer la forme 2D (un hexagone) en mesh 3D (un [prisme 
 
 Dans cet exemple [https://vr.chabloz.eu/hexagon.html](https://vr.chabloz.eu/hexagon.html), vous pouvez appuyer sur la touche 'B' de votre clavier pour observer la différence entre un prisme hexagonal sans biseau ou avec biseau. Il est **important** de noter l'impact du biseau sur le nombre de triangles nécessaires à l'affichage du prisme hexagonal ! Il est aussi important de comprendre pourquoi le prisme hexagonal a besoin de 20 triangles pour être affiché (voir l'image suivante).
 
-![Triangles dans un hexagone](./img/practice/hexaInTri.png)
+![Triangles dans un hexagone](./img/practice/hex-triangles.png)
 
 ### Le matériau (_material_)
 
