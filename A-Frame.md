@@ -7,11 +7,14 @@
 
 ## Mise en place
 
-La version `1.5.0` du _framework_ [A-Frame](https://aframe.io/docs/1.5.0/) sera utilisée. Vous pouvez donc simplement la rajouter dans votre code HTML de base, utiliser le [boilerplate du cours pour Vue](https://github.com/Chabloz/a-frame-vite-vue-boilerplate) ou celle plus minimaliste pour [WebPack](https://github.com/Chabloz/a-frame-webpack-boilerplate) (/!\ A-Frame `1.4.1`).
+La version `1.5.0` du _framework_ [A-Frame](https://aframe.io/docs/1.5.0/) sera utilisée. Vous pouvez donc simplement la rajouter dans votre code HTML de base, utiliser le [boilerplate du cours pour Vue](https://github.com/Chabloz/a-frame-vite-vue-boilerplate) (ou celle plus minimaliste pour [WebPack](https://github.com/Chabloz/a-frame-webpack-boilerplate) – /!\ A-Frame v`1.4.1`).
 
-Ajoutez aussi [Aframe-Extras](https://github.com/c-frame/aframe-extras) à votre projet, puisque nous utiliserons certaines des fonctionnalités offertes par cet ensemble de composants.
+Ajoutez aussi [Aframe-Extras](https://github.com/c-frame/aframe-extras) à votre projet. Nous utiliserons certaines des fonctionnalités offertes par cet ensemble de composants.
 
-Pour vérifier que tout fonctionne, ajoutez les balises HTML nécessaires à l'affichage d'un [océan](https://github.com/c-frame/aframe-extras/tree/master/src/primitives) et testez le tout dans votre browser. Vous devriez obtenir un résultat proche de celui-ci: [https://vr.chabloz.eu/ocean_base.html](https://vr.chabloz.eu/ocean_base.html).
+Pour vérifier que tout fonctionne, ajoutez les balises HTML nécessaires à l'affichage d'un [océan](https://github.com/c-frame/aframe-extras/tree/master/src/primitives) et testez le tout dans votre browser.  
+Vous devriez obtenir un résultat proche de celui-ci : [https://vr.chabloz.eu/ocean_base.html](https://vr.chabloz.eu/ocean_base.html)
+
+![Base océan](./img/practice/ocean-base.png)
 
 ## Environnement
 
@@ -23,22 +26,25 @@ L'océan actuel est un peu simple, mais nous pouvons le rendre plus plaisant en 
    Notez que toutes les distances dans A-Frame sont en **mètre** et les angles en **degré**.
 2. Ensuite, la mer est un peu trop agitée pour notre scène. Essayez donc de modifier les attributs nécessaires pour obtenir un océan plus calme (ex. vous pouvez réduire l'amplitude des vagues de base à 0 et leur variance à 0.1).
    Vous remarquerez ainsi la facilité de paramétrage des composants A-Frame grâce à l'utilisation des attributs HTML.
-3. Pour un effet intéressant, vous pouvez aussi dupliquer votre balise océan et modifier l'amplitude et la variance du second océan. Mais bien sûr la performance sera moins bonne…
+3. Pour un effet intéressant faisant paraître les vagues moins géométrique en se chevauchant, vous pouvez dupliquer votre balise océan, puis modifier l'amplitude et la variance du second océan.
+   Mais bien sûr les performances seront moins bonnes…
 
 Puisque nous voulons que notre scène tourne sur le plus grand nombre de périphériques, il serait utile de pouvoir la _monitorer_. A-Frame l'inclut grâce au composant [stats](https://github.com/aframevr/aframe/blob/master/docs/components/stats.md) (que vous pouvez ajouter dès maintenant).
 
 > [!TIP]
-> Vous trouverez de bonnes pratiques pour l'optimisation des performances ici : [A-Frame best practices](https://github.com/aframevr/aframe/blob/master/docs/introduction/best-practices.md#performance). Nous allons suivre le plus possible ces recommandations durant le développement.
+> Vous trouverez de bonnes pratiques pour l'optimisation des performances ici : [A-Frame best practices](https://github.com/aframevr/aframe/blob/master/docs/introduction/best-practices.md#performance).  
+> Nous allons suivre le plus possible ces recommandations durant le développement.
 
 ### Le ciel
 
 A-Frame offre le composant [background](https://github.com/aframevr/aframe/blob/master/docs/components/background.md) afin de facilement fixer une couleur de base pour la scène.  
-Il existe aussi un composant [a-sky](https://github.com/aframevr/aframe/blob/master/docs/primitives/a-sky.md) qui permet d'utiliser une image [cylindrique équidistante](https://fr.wikipedia.org/wiki/Projection_cylindrique_%C3%A9quidistante) comme texture intérieure pour une sphère englobant la scène. Puisque notre scène est destinée à tourner aussi sur des périphériques de faible puissance graphique, la première solution sera utilisée.
+Il existe aussi un composant [a-sky](https://github.com/aframevr/aframe/blob/master/docs/primitives/a-sky.md) qui permet d'utiliser une image [cylindrique équidistante](https://fr.wikipedia.org/wiki/Projection_cylindrique_%C3%A9quidistante) comme texture intérieure pour une sphère englobant la scène.  
+Puisque notre scène est destinée à tourner aussi sur des périphériques de faible puissance graphique, la première solution sera utilisée.
 
 ### La lumière
 
 A-Frame ajoute par défaut une lumière d'ambiance et une lumière directionnel via le composant [light](https://github.com/aframevr/aframe/blob/master/docs/components/light.md).  
-Vous pourriez vous contenter de ces lumières mais, pour rendre notre scène plus personnalisée, remplacez les par des lumières en accord avec le choix de couleur que vous avez fait pour votre ciel.
+Vous pourriez vous contenter de ces lumières, mais pour rendre notre scène plus personnalisée, remplacez les par des lumières en accord avec le choix de couleur que vous avez fait pour votre ciel.
 
 ### Le brouillard
 
@@ -111,17 +117,17 @@ mesh.rotateOnAxis(new THREE.Vector3(-1, 0, 0), Math.PI / 2);
 Pour bien comprendre pourquoi la rotation doit s'effectuer autour de l'axe X, je vous laisse lire la [documentation officielle](https://github.com/aframevr/aframe/blob/master/docs/components/position.md#value) sur le système de coordonnées utilisé par A-Frame. Vous remarquerez aussi que three.js utilise des radians comme unité angulaire alors qu'A-Frame des degrés. Une fois cette rotation effectuée, votre scène devrait ressembler à ça : [https://vr.chabloz.eu/hexagon_ocean.html](https://vr.chabloz.eu/hexagon_ocean.html)
 
 > [!WARNING]
-> Unités angulaires :
-> Three.js = radians  
-> A-Frame = degrés
+> Unités de mesure pour les angles :  
+> **Three.js = radians**  
+> **A-Frame = degrés**
 
 ### Pavage
 
-Pour le pavage, il va falloir cloner et positionner notre prisme hexagonal de multiple fois. Si vous avez bien lu la documentation sur le pavage hexagonale (lien directe vers les parties qui nous intéresse : [axial coordinate](https://www.redblobgames.com/grids/hexagons/#coordinates-axial), [hex to pixel](https://www.redblobgames.com/grids/hexagons/#hex-to-pixel) et [range](https://www.redblobgames.com/grids/hexagons/#range)), il vous suffit de parcourir les coordonnées axiales **q** et **r** selon la taille du pavage (attribut **size**), pour chaque tuile :
+Pour le pavage, il va falloir cloner et positionner notre prisme hexagonal de multiple fois. Si vous avez bien lu la documentation sur le pavage hexagonale (lien directe vers les parties qui nous intéresse : [axial coordinate](https://www.redblobgames.com/grids/hexagons/#coordinates-axial), [hex to pixel](https://www.redblobgames.com/grids/hexagons/#hex-to-pixel) et [range](https://www.redblobgames.com/grids/hexagons/#range)), il vous suffit de parcourir les coordonnées axiales **q** et **r** selon la taille du pavage (attribut **size**), puis pour chaque tuile de :
 
-- de cloner votre mesh (avec la méthode [clone()](https://threejs.org/docs/#api/en/objects/Mesh.clone) de three.js) et de l'ajouter à une structure pour le stockage du pavage (un tableau par exemple)
+- Cloner votre mesh (avec la méthode [clone()](https://threejs.org/docs/#api/en/objects/Mesh.clone) de three.js) et de l'ajouter à une structure pour le stockage des coordonnées du pavage (un tableau par exemple)
 
-- de calculer les coordonnées **x** et **z** associées aux coordonnées **q** et **r** et à la tailles des tuiles (attribut **cellsize**), et des les attribuer au mesh cloné grâce au code suivant :
+- Calculer les coordonnées **x** et **z** associées aux coordonnées **q** et **r** et à la tailles des tuiles (attribut **cellsize**), et des les attribuer au mesh cloné grâce au code suivant :
 
 ```js
 clone.position.set(x, 0, z);
@@ -156,13 +162,15 @@ this.el.setObject3D("mesh", group);
 ```
 
 > [!WARNING]  
-> Ce code n'est pas très optimisé. En effet tous les hexagones étant quasi les mêmes, l'utilisation de [meshs instanciés](https://threejs.org/docs/#api/en/objects/InstancedMesh) permettrait d'améliorer de beaucoup les performances. Dans cet exemple [https://vr.chabloz.eu/hexatile_ocean.html](https://vr.chabloz.eu/hexatile_ocean.html), vous pouvez appuyer sur la touche 'O' de votre clavier pour observer la différence entre la version non-optimisée et une autre optimisée grâce au nombre de _calls_ dans les statistiques (deux de ces _calls_ sont les dessins des deux océans).  
-> Vous pouvez aussi changer la taille du pavage avec les touches '1' à '9'. (la touche 'B' est toujours active si vous voulez tester l'impacte du biseau sur le nombre de triangles lors de pavage de taille importante. Mais n'oubliez pas de soustraire les 10'000 triangles des océans).
+> Ce code n'est pas très optimisé. En effet tous les hexagones étant quasi les mêmes, l'utilisation de [meshs instanciés](https://threejs.org/docs/#api/en/objects/InstancedMesh) permettrait d'améliorer de beaucoup les performances.
+
+Dans cet exemple [https://vr.chabloz.eu/hexatile_ocean.html](https://vr.chabloz.eu/hexatile_ocean.html), vous pouvez appuyer sur la touche 'O' de votre clavier pour observer la différence entre la version non-optimisée et une autre optimisée grâce au nombre de _calls_ dans les statistiques (deux de ces _calls_ sont les dessins des deux océans).  
+Vous pouvez aussi changer la taille du pavage avec les touches '1' à '9'. La touche 'B' est toujours active si vous voulez tester l'impacte du biseau sur le nombre de triangles lors de pavage de taille importante. Mais n'oubliez pas de soustraire les 10'000 triangles des océans.
 
 ---
 
 > [!NOTE]  
-> **Les parties suivantes sont optionnelles, vous pouvez continuer directement à la section ["Caméra et mesh de navigation"](#cam-nav-mesh) si vous le voulez.**
+> **Les parties suivantes sont optionnelles, vous pouvez continuer directement à la section ["Caméra et mesh de navigation"](#cam-nav-mesh) si vous souhaitez les sursauter.**
 
 ### Mise à jour (_update_)
 
@@ -175,11 +183,11 @@ Essayez de rajouter un système de variation de la couleur de base pour chaque t
 - Vous pourriez faire que la variation par apport à la couleur de base soit plus ou moins grande selon la valeur d'un attribut (paramétrable).
 - Il faudrait stocker la valeur de la variation affecté à chaque tuile, pour qu'en cas d'animation de changement de couleur par exemple, cette variation reste fixe (sinon cela donnera un effet stroboscopique).
 
-Voila un exemple: [https://vr.chabloz.eu/variation.html](https://vr.chabloz.eu/variation.html). Les touches 'I' et 'K' permettent réciproquement d’augmenter ou de décrémenter la variation de couleur. Les touches 'J' et 'L' permettent réciproquement d’augmenter ou de décrémenter le nombre de variations de couleur. Enfin la touche 'C' permet de changer la couleur de manière aléatoire (Les touches des exemples précédents restent valables).
+Voila un exemple : [https://vr.chabloz.eu/variation.html](https://vr.chabloz.eu/variation.html). Les touches 'I' et 'K' permettent réciproquement d’augmenter ou de décrémenter la variation de couleur. Les touches 'J' et 'L' permettent réciproquement d’augmenter ou de décrémenter le nombre de variations de couleur. Enfin la touche 'C' permet de changer la couleur de manière aléatoire (Les touches des exemples précédents restent également valables).
 
 ### Zone d'aparition (_spawn zone_)
 
-Pour mettre en pratique votre nouvelle primitive. Créez une _ile_ comme zone de départ.
+Pour mettre en pratique votre nouvelle primitive, créez une _ile_ comme zone de départ.
 
 ---
 
@@ -198,13 +206,14 @@ Enfin, puisque le contrôle au clavier sera désactivé, utilisez le composant [
 ### <a name="nav-mesh"> Mesh de navigation (_nav-mesh_)
 
 Il reste un problème important…  
-L'utilisateur peut désormais se déplacer dans la scène, mais ce déplacement est beaucoup trop permissif (il peut se balader sur l'eau par exemple !). Il va donc nous falloir restreindre les possibilités de déplacement dans la scène.  
+L'utilisateur peut désormais se déplacer dans la scène, mais ses déplacements sont beaucoup trop permissifs (il peut se [balader sur l'eau](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2xuYjFnaHA2aWdzMTNsdm1wemtyd25jdm41eXk0Nnlqa3JpbGQxMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tHvJYAJKP5lI2CkDVy/giphy.gif) par exemple !). Il va donc nous falloir restreindre les possibilités de déplacement dans la scène.  
 Il y a plusieurs possibilités pour le faire. Les deux plus utilisées sont les suivantes :
 
 1. Utiliser un **moteur physique pour la gestion des collisions**
 2. Utiliser un **mesh de navigation**
-   Nous allons implémenter la seconde solution puisqu'elle est beaucoup moins gourmande en performance (et qu'il est difficile de détecter une collision physique avec le bord de notre île).  
-   Dans les jeux, c'est souvent une combinaison de ces deux méthodes qui est utilisée pour offrir une méthode de navigation performante via les _**navmesh**_ et des possibilités d'interactions avec l'environnement via le **moteur physique**.
+
+Nous allons implémenter la seconde solution puisqu'elle est beaucoup moins gourmande en performance (et qu'il est difficile de détecter une collision physique avec le bord de notre île).  
+Dans les jeux vidéos, c'est souvent une combinaison de ces deux méthodes qui est utilisée pour offrir une méthode de navigation performante via les _**navmesh**_ et des possibilités d'interactions avec l'environnement via le **moteur physique**.
 
 L'implémentation d'une _navmesh_ va être grandement simplifiée par le composant [simple-navmesh-constraint](https://github.com/AdaRoseCannon/aframe-xr-boilerplate/blob/glitch/simple-navmesh-constraint.js).  
 Le principal problème sera de générer la _nav-esh_ en accord avec notre scène VR. Vous pouvez le faire avec les primitives de base d'A-Frame, mais il est aussi possible de générer la _navmesh_ en utilisant [Blender](https://www.blender.org/) ou d'autres logiciels de 3D.
