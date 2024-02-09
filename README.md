@@ -11,7 +11,7 @@ Cela sera l'occasion de développer des compétences en matière de programmatio
 
 ### 1. [État de l'art](EtatArt.md)
 
-### 2. [Prise en main de la 3D web](A-Frame.md)
+### 2. [Prise en main de la 3D/VR web](A-Frame.md)
 
 ### 3. Exercice d'introduction
 
