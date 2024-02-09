@@ -151,28 +151,29 @@ En général, le nombre de degrés de liberté du casque correspond à celui du 
 
 ### Systèmes de suivi de position (_positional tracking_)
 
-Le suivi de position est possible aujourd'hui avec les 2 techniques ci-dessous:
+Le suivi de position est possible aujourd'hui avec les 2 techniques ci-dessous :
 
-- Outside-in (Oculus camera ir, Valve lighthouse, ...)
+- Outside-in (Oculus camera IR, Valve lighthouse…)
 - Inside-out tracking (simultaneous localization and mapping [SLAM](https://en.wikipedia.org/wiki/Simultaneous_localization_and_mapping))
 
 La première est externe au casque et la seconde est intégrée au casque. Bien que plus intéressante pour sa portabilité, la version _inside-out_ est souvent moins précise et il semble difficile qu'elle offre un jour un tracking du corps entier.
 
-Pour aller plus loin sur leurs fonctionnements: [How VR Positional Tracking System Work](https://uploadvr.com/how-vr-tracking-works)
+Pour aller plus loin sur leurs fonctionnements : [How VR Positional Tracking System Work](https://uploadvr.com/how-vr-tracking-works)
 
 ### Contrôleurs et systèmes d'interaction VR
 
-La VR se démocratisant, les systèmes permettant d'interagir avec aussi. Voici quelqu'un des systèmes et/ou contrôleurs possibles aujourd'hui:
+La VR se démocratisant, les systèmes permettant d'interagir avec aussi.  
+Voici quelqu'un des systèmes et/ou contrôleurs possibles aujourd'hui :
 
-Pour les casques les moins chers (Google Cardboard), un système d’interaction par rapport au regard (gaze interaction) peut être mis en place simplement, un bouton ou un minuteur permettant de _cliquer_ sur des objets par rapport à la position du regard (un curseur).
+- Pour les casques les moins chers (Google Cardboard), un système d’interaction par rapport au regard (gaze interaction) peut être mis en place simplement, un bouton ou un minuteur permettant de _cliquer_ sur des objets par rapport à la position du regard (un curseur).
 
-Une autre façon d'interaction peu coûteuse est l'utilisation d'un contrôleur 3DoF (Occulus Go, Google Daydream, Samsung GearVR). Comme celui-ci ne peut suivre que les mouvements de rotation, son usage en VR se limite à pouvoir pointer des objets comme les télécommandes des TV modernes, mais également à servir aux déplacements. Toutefois, certains contrôleurs peuvent approximer leurs positions et de ce fait permettent de simuler un 6DoF ([Documentation Unity](https://developers.google.com/vr/develop/unity/controller-support)).
+- Une autre façon d'interaction peu coûteuse est l'utilisation d'un contrôleur 3DoF (Occulus Go, Google Daydream, Samsung GearVR). Comme celui-ci ne peut suivre que les mouvements de rotation, son usage en VR se limite à pouvoir pointer des objets comme les télécommandes des TV modernes, mais également à servir aux déplacements. Toutefois, certains contrôleurs peuvent approximer leurs positions et de ce fait permettent de simuler un 6DoF ([Documentation Unity](https://developers.google.com/vr/develop/unity/controller-support)).
 
-Les contrôleurs 6DoF quant à eux permettent de suivre avec précision leurs positions (que celle-ci soit dans la main du joueur ou ailleurs). Cela permet d'avoir une immersion quasiment parfaite, notamment quand un objet est présent dans la main du joueur (pinceau, bâton, pistolet, sabre laser, etc...).
+- Les contrôleurs 6DoF quant à eux permettent de suivre avec précision leurs positions (que celle-ci soit dans la main du joueur ou ailleurs). Cela permet d'avoir une immersion quasiment parfaite, notamment quand un objet est présent dans la main du joueur (pinceau, bâton, pistolet, sabre laser, etc.).
 
-Enfin, sur certains casques, ou à l'aide de senseurs supplémentaires (comme le [Leap Motion](https://en.wikipedia.org/wiki/Leap_Motion)), il est possible de suivre la position des mains et des doigts du joueur.
+- Enfin, sur certains casques, ou à l'aide de senseurs supplémentaires (comme le [Leap Motion](https://en.wikipedia.org/wiki/Leap_Motion)), il est possible de suivre la position des mains et des doigts du joueur.
 
-Il existe bien sûr d'autres types de contrôleurs plus exotiques, mais ceux-ci reprennent la plupart du temps l'un des principes ci-dessus pour fonctionner.
+- Il existe bien sûr d'autres types de contrôleurs plus exotiques, mais ceux-ci reprennent la plupart du temps l'un des principes ci-dessus pour fonctionner.
 
 ## <a name="immersion"></a> Immersion
 
@@ -220,7 +221,7 @@ Les lentilles déforment (le ou) les écrans à l'intérieur du casque afin d'av
 
 - **Centre optique (sweet spot)** : Afin d'avoir une vision claire (avec un bon focus), il faut que la lentille soit correctement placée face à l’œil. Les casques VR actuels sont plus ou moins permissifs sur ce sujet. De plus, la [distance pupillaire](https://en.wikipedia.org/wiki/Pupillary_distance) est différente d'un individu à l'autre. Ainsi, les casques se munissent la plupart du temps d'un système de réglage de la distance séparant les deux lentilles, permettant d'obtenir un bon "sweet spot" plus facilement.
 
-- **Glare et "God rays"**: En cas de scène à fort contraste, les couleurs claires (le blanc principalement) "bavent". On voit des rayons lumineux (God Rays). La cause: les lentilles Fresnel utilisées dans la plupart des casques. Pour le moment, il faut donc limiter les forts contrastes dans les scènes VR et attendre que les lentilles fassent mieux sur ce point.
+- **Glare et "God rays"**: En cas de scène à fort contraste, les couleurs claires (le blanc principalement) "bavent". On voit des rayons lumineux (_God Rays_). La cause : les lentilles Fresnel utilisées dans la plupart des casques. Pour le moment, il faut donc limiter les forts contrastes dans les scènes VR et attendre que les lentilles fassent mieux sur ce point.
 
 ![Glare](./img/sota/glare.jpg)
 
@@ -256,7 +257,7 @@ Elle ne provoque généralement pas d’inconfort, mais elle peut casser l’imm
 
 ### Simulateurs
 
-Si les déplacements sont faits via un simulateur de véhicule (voitures, avions, vaisseaux spatiaux, etc..), les risques de _cinétose_ sont fortement réduits. En effet, le mal du voyage atteint rarement celui qui est maître du véhicule, mais plutôt ses passagers. Un exemple est le jeu [Elite Dangerous](https://www.elitedangerous.com/), ou le joueur reste toujours assis dans son siège (même lors des phases d'exploration de la surface d'une planète, puisque celle-ci se fait aussi dans un véhicule terrestre). L'immersion est encore plus forte si l’utilisateur utilise des contrôleurs adaptés à la simulation (comme un [HOTAS](https://fr.wikipedia.org/wiki/Mains_sur_manche_et_manette) pour Elite Dangerous). De plus, les simulateurs bénéficient aussi d'une grande possibilité d'immersion (la chaise existant dans le monde physique) et de confort (une séance de jeu prolongée est généralement plus appréciée en position assise).
+Si les déplacements sont faits via un simulateur de véhicule (voitures, avions, vaisseaux spatiaux, etc.), les risques de _cinétose_ sont fortement réduits. En effet, le mal du voyage atteint rarement celui qui est maître du véhicule, mais plutôt ses passagers. Un exemple est le jeu [Elite Dangerous](https://www.elitedangerous.com/), ou le joueur reste toujours assis dans son siège (même lors des phases d'exploration de la surface d'une planète, puisque celle-ci se fait aussi dans un véhicule terrestre). L'immersion est encore plus forte si l’utilisateur utilise des contrôleurs adaptés à la simulation (comme un [HOTAS](https://fr.wikipedia.org/wiki/Mains_sur_manche_et_manette) pour Elite Dangerous). De plus, les simulateurs bénéficient aussi d'une grande possibilité d'immersion (la chaise existant dans le monde physique) et de confort (une séance de jeu prolongée est généralement plus appréciée en position assise).
 
 ### Déplacements libres
 
@@ -304,14 +305,15 @@ Quelques exemples:
 
 - [Une combinaison complète I/O](https://teslasuit.io/)
 
-Pour le moment, les deux sens restants sont le plus souvent mis de côté ou reste encore au stade de recherche ([odorat](https://www.technologyreview.com/2023/05/09/1072731/vr-smell/) et [goût](https://www.caesarvr.com/vr-ar-news/immerse-your-senses-coming-soon-virtual-reality-that-engages-taste-and-touch)).
+Pour le moment, les deux sens restants sont le plus souvent mis de côté ou restent encore au stade de recherche ([odorat](https://www.technologyreview.com/2023/05/09/1072731/vr-smell/) et [goût](https://www.caesarvr.com/vr-ar-news/immerse-your-senses-coming-soon-virtual-reality-that-engages-taste-and-touch)).
 
 # <a name="fiction"></a>VR et fiction
 
 Les interfaces de réalité virtuelle occupent une place de choix dans les œuvres de science-fiction. Leurs représentations, allant des mondes entièrement simulés aux expériences sensorielles immersives, ont non seulement captivé l'audience, mais ont également influencé les directions de la recherche et du développement technologique.  
-La SF a toujours eu ce rôle double : questionner l'avenir technologique et inspirer les innovations. Ce dialogue entre la fiction et la réalité façonne nos attentes et nos aspirations technologiques, poussant les scientifiques et les ingénieurs à transformer ces visions en réalités tangibles. Les ouvrages catalysent et sculptent nos imaginaires technologiques, ils orientent le futur de l'innovation.
+La SF a toujours eu ce rôle double : questionner l'avenir technologique et inspirer les innovations. Ce dialogue entre la fiction et la réalité façonne nos attentes et nos aspirations technologiques, poussant les scientifiques et les ingénieurs à transformer ces visions en réalités tangibles.  
+Les ouvrages catalysent et sculptent nos imaginaires technologiques, ils orientent le futur de l'innovation.
 
-Quelques références parmi tant d'autres…
+En voici quelques références, parmi tant d'autres…
 
 ### Livres
 
@@ -333,7 +335,7 @@ Quelques références parmi tant d'autres…
 - [eXistenZ](https://fr.wikipedia.org/wiki/EXistenZ), 1999 (David Cronenberg)
 - [Avalon](<https://fr.wikipedia.org/wiki/Avalon_(film,_2001)>), 2001 (Oshii Mamoru)
 - [Summer Wars](https://fr.wikipedia.org/wiki/Summer_Wars), 2009 (Mamoru Hosoda)
-- [Black Mirror](<https://fr.wikipedia.org/wiki/Black_Mirror_(s%C3%A9rie_t%C3%A9l%C3%A9vis%C3%A9e)>), 2011-… (Charlie Brooker). Plusieurs épisodes de cette série anthologique explorent les implications de la VR sur la société, notamment "Playtest", "San Junipero" ou encore "USS Callister".
+- [Black Mirror](<https://fr.wikipedia.org/wiki/Black_Mirror_(s%C3%A9rie_t%C3%A9l%C3%A9vis%C3%A9e)>), 2011-… (Charlie Brooker) – Plusieurs épisodes de cette série anthologique explorent les implications de la VR sur la société, notamment "Playtest", "San Junipero" ou encore "USS Callister".
 - [Ready Player One](<https://fr.wikipedia.org/wiki/Ready_Player_One_(film)>), 2018 (Steven Spielberg)
 
 ## Sources
@@ -342,7 +344,7 @@ Quelques références parmi tant d'autres…
 - [Geek.com](https://www.geek.com/news/the-history-of-virtual-reality-games-1652225/)
 - [Changing the world: DARPA’s top inventions](https://www.extremetech.com/extreme/105117-inventing-our-world-darpas-top-inventions/2)
 
-## Auteurs
+## Auteur·rice·s
 
 - Audrey Huguenin
 - Arthur Verdon
