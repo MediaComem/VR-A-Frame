@@ -108,7 +108,7 @@ Utiliser cette fonction pour changer la position Y de chacune des boîtes de not
 Pour que nos tuiles soient encore plus visibles, implémentez une logique permettant de faire varier la couleur des boîtes afin que le pavage affiche un damier (couleurs noires et blanches, ou autre duo coloré en alternance).  
 Aidez-vous des index parcourant vos dimensiosn de pavage, ainsi que d'un **modulo** pour réaliser l'effet.
 
-### Variation des couleurs
+#### Variation des couleurs
 
 Essayez de rajouter un système de variation de la luminosité (_light_) de la couleur de chaque tuile du pavage.  
 Utilisez le mode HSL (où L spécifie la luminosité) pour adapter aléatoirement la luminosité, tout en préservant une couleur de base unie.
@@ -119,7 +119,7 @@ Afin de s'initier à **three.js**, le _framework_ utilisé par A-Frame pour la g
 Cette partie du TP est inspirée de la bibliothèque de gestion de grille hexagonale [von-grid](https://github.com/vonWolfehaus/von-grid) dont nous n'allons reprendre aucun code existant, puisqu'elle ne couvre pas tous besoins et n'est pas suffisamment optimisée pour tourner correctement sur des casques à faible puissance graphique comme le Quest.
 
 > [!IMPORTANT]
-> Avant de commencez cette partie, il est fortement recommandé de lire cet excellent support sur l'utilisation du pavage hexagonal : [https://www.redblobgames.com/grids/hexagons/](https://www.redblobgames.com/grids/hexagons/).
+> Avant de commencez cette partie, il est fortement recommandé de lire cet **excellent support sur l'utilisation du pavage hexagonal** : [https://www.redblobgames.com/grids/hexagons/](https://www.redblobgames.com/grids/hexagons/).
 
 Afin de simplifier la chose, nous allons nous limiter à une carte en forme d’hexagone pavé d'hexagones à sommet plat en utilisant le système des coordonnées cubiques/axiales.
 
