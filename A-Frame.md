@@ -55,17 +55,17 @@ Voilà un exemple d'environnement obtenu après ces quelques retouches : [https:
 
 ![Paving choice](./img/practice/red-blue-choice.png)
 
-Afin de s'exercer nous allons créer un sol dans notre scène. Il sera constitué de différentes tuiles.  
-Deux options vous sons proposées pour agencer ces tuiles :
+Afin de nous exercer, nous allons créer un sol dans notre scène. Il sera constitué de différentes tuiles.  
+Deux options vous sont proposées pour agencer ces tuiles :
 
 - [Le pavage carré](#paving-square), simple à mettre en place, mais contraignant à des terrains relativement linéaires
-- [Le pavage hexagonal](#paving-hexagon), un peu plus compliqué à mettre en place, masi permetant desagencement de terrains plus intéressants
+- [Le pavage hexagonal](#paving-hexagon), un peu plus compliqué à mettre en place, mais permetant des agencements de terrains plus intéressants
 
-Si vous hésitez, vous pouvez bien sûr vous exercez en implémentant ces deux systèmes de pavage 😉
+Si vous hésitez, vous pouvez bien sûr vous exercer en implémentant ces deux systèmes de pavage 😉
 
 ### <a name="paving-square"></a>Pavage carré
 
-Afin de poursuivre nos implémentation de composant A-Frame, nous allons simplement créer un [pavage carré](https://fr.wikipedia.org/wiki/Pavage_carr%C3%A9) en utilisant des cubes.
+Afin de poursuivre nos implémentations de composant A-Frame, nous allons simplement créer un [pavage carré](https://fr.wikipedia.org/wiki/Pavage_carr%C3%A9) en utilisant des cubes.
 
 #### La boiboîte
 
@@ -95,18 +95,18 @@ Votre composant A-Frame devra permettre de gérer :
 - _rows_ : Le nombre de tuiles disposées sur l'aye X
 - _offset_ : Un paramètre que vous pouvez rajouter en option pour permettre d'ajouter un écart entre les tuiles sur les axes X et Z (utile pour voir que nos tuiles sont "bien là" et qu'il ne s'agit pas d'une seule grosse boîte ou d'un simple plan)
 
-#### Décallage des tuiles
+#### Décalage des tuiles
 
-Étant donné que notre sol pavé est parfaitement plat, nous pouvons apporter un petit effet visuel de décallage entre les tuiles en les bougeant sur l'axe Y.
+Étant donné que notre sol pavé est parfaitement plat, nous pouvons apporter un petit effet visuel de décalage entre les tuiles en les bougeant sur l'axe Y.
 
-Créez une fonction permetant de générer une valeur aléatoire entre une valeur minimum et maximum (afin que les pavés n'est pas non plus de trop grands écarts de position).  
+Créez une fonction permettant de générer une valeur aléatoire entre une valeur minimum et maximum (afin que les pavés n'aient pas non plus de trop grands écarts de position entre eux).  
 Vous pouvez séparer cette méthode dans le dossier `utils`, étant assez générique elle pourrait servir à d'autres endroits de notre application.  
 Utiliser cette fonction pour changer la position Y de chacune des boîtes de notre pavage.
 
 #### Damier
 
 Pour que nos tuiles soient encore plus visibles, implémentez une logique permettant de faire varier la couleur des boîtes afin que le pavage affiche un damier (couleurs noires et blanches, ou autre duo coloré en alternance).  
-Aidez-vous des index parcourant vos dimensiosn de pavage, ainsi que d'un **modulo** pour réaliser l'effet.
+Aidez-vous des index parcourant vos dimensions de pavage, ainsi que d'un **modulo** pour réaliser l'effet.
 
 #### Variation des couleurs
 
