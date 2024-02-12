@@ -84,7 +84,8 @@ Une fois les sommets créés, il faut les regrouper dans une unique forme et des
 
 Il faut désormais transformer la forme 2D (un hexagone) en mesh 3D (un [prisme hexagonal](https://fr.wikipedia.org/wiki/Prisme_hexagonal)). La classe [THREE.ExtrudeGeometry](https://threejs.org/docs/#api/en/geometries/ExtrudeGeometry) permet justement d'extruder une forme 2D. Il faut lui passer en premier paramètre la forme (créée au point précédent ) et en 2e, une configuration (sous la forme d'un objet). Comme vous pouvez le constater dans la documentation, l'on peut appliquer un biseau (_bevel_) lors de cette opération (pour être précis, il s'agit plutôt d'un [chanfrein](https://fr.wikipedia.org/wiki/Chanfrein)). Vous pouvez soit désactiver le biseau, soit le rendre optionnel grâce à un attribut de votre primitive. Pour le paramètre **depth** des options, il s'agit (comme son nom l'indique) de la profondeur d'extrusion et correspond donc à la hauteur de l'hexagone (le paramètre **height** de votre primitive).
 
-Dans cet exemple [https://vr.chabloz.eu/hexagon.html](https://vr.chabloz.eu/hexagon.html), vous pouvez appuyer sur la touche 'B' de votre clavier pour observer la différence entre un prisme hexagonal sans biseau ou avec biseau. Il est **important** de noter l'impact du biseau sur le nombre de triangles nécessaires à l'affichage du prisme hexagonal ! Il est aussi important de comprendre pourquoi le prisme hexagonal a besoin de 20 triangles pour être affiché (voir l'image suivante).
+Dans cet exemple [https://vr.chabloz.eu/hexagon.html](https://vr.chabloz.eu/hexagon.html), vous pouvez appuyer sur la touche 'B' de votre clavier pour observer la différence entre un prisme hexagonal sans biseau ou avec biseau. Il est **important** de noter l'impact du biseau sur le nombre de triangles nécessaires à l'affichage du prisme hexagonal !  
+Il est aussi important de comprendre pourquoi le prisme hexagonal a besoin de 20 triangles pour être affiché.
 
 ![Triangles dans un hexagone](./img/practice/hex-triangles.png)
 
@@ -98,7 +99,7 @@ const material = new THREE.MeshLambertMaterial({
 });
 ```
 
-### Le mesh
+### Le maillage (_mesh_)
 
 Finalement, il faut appliquer notre matériau sur notre géométrie pour avoir un mesh final texturé. Utilisez donc la classe [THREE.Mesh](https://threejs.org/docs/#api/en/objects/Mesh) pour le faire. Pour faire un test, utiliser ce mesh _three.js_ en temps que mesh _A-Frame_ grâce au code suivant :
 
@@ -170,7 +171,7 @@ Vous pouvez aussi changer la taille du pavage avec les touches '1' à '9'. La to
 ---
 
 > [!NOTE]  
-> **Les parties suivantes sont optionnelles, vous pouvez continuer directement à la section ["Caméra et mesh de navigation"](#cam-nav-mesh) si vous souhaitez les sursauter.**
+> **Les parties suivantes sont optionnelles, vous pouvez continuer directement à la section ["Caméra et mesh de navigation"](#cam-nav-mesh) si vous souhaitez les sauter.**
 
 ### Mise à jour (_update_)
 
@@ -201,7 +202,7 @@ Créez donc une caméra _rig_ comme indiqué dans la documentation. Vous pouvez 
 Comme vu dans l'[état de l'art](./EtatArt.md#movements), il serait préférable de désactiver le composant **movement-controls** en VR et d'implémenter un autre système de déplacement comme la téléportation (nous le ferons dans la suite de ce TP). Pour s’entraîner encore une fois à la création de composant, et pour voir comment gérer les interactions entre composant, développez un composant nommé **disable-in-vr** qui désactivera un autre composant lorsque la scène est (ou passe) en mode VR.
 
 Lorsque l'utilisateur explorera la scène avec un casque et des contrôleurs VR, la position et rotation des mains seront liées aux contrôleurs. Pour indiquer à A-Frame que vous voulez gérer les contrôleurs VR, il vous faut utiliser le composant [hand-controls](https://aframe.io/docs/master/components/hand-controls.html#sidebar).  
-Enfin, puisque le contrôle au clavier sera désactivé, utilisez le composant [blink controls](https://github.com/jure/aframe-blink-controls) pour gérer la tépéportation de la caméra (du _rig_).
+Enfin, puisque le contrôle au clavier sera désactivé, utilisez le composant [blink controls](https://github.com/jure/aframe-blink-controls) pour gérer la téléportation de la caméra (du _rig_).
 
 ### <a name="nav-mesh"> Mesh de navigation (_nav-mesh_)
 
@@ -216,4 +217,4 @@ Nous allons implémenter la seconde solution puisqu'elle est beaucoup moins gour
 Dans les jeux vidéos, c'est souvent une combinaison de ces deux méthodes qui est utilisée pour offrir une méthode de navigation performante via les _**navmesh**_ et des possibilités d'interactions avec l'environnement via le **moteur physique**.
 
 L'implémentation d'une _navmesh_ va être grandement simplifiée par le composant [simple-navmesh-constraint](https://github.com/AdaRoseCannon/aframe-xr-boilerplate/blob/glitch/simple-navmesh-constraint.js).  
-Le principal problème sera de générer la _nav-esh_ en accord avec notre scène VR. Vous pouvez le faire avec les primitives de base d'A-Frame, mais il est aussi possible de générer la _navmesh_ en utilisant [Blender](https://www.blender.org/) ou d'autres logiciels de 3D.
+Le principal problème sera de générer la _navmesh_ en accord avec notre scène VR. Vous pouvez le faire avec les primitives de base d'A-Frame, mais il est aussi possible de générer la _navmesh_ en utilisant [Blender](https://www.blender.org/) ou d'autres logiciels de 3D.
