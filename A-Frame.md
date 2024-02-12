@@ -51,16 +51,79 @@ Vous pourriez vous contenter de ces lumières, mais pour rendre notre scène plu
 Afin de camoufler les bords abruptes de l'océan, vous pouvez ajouter un brouillard grâce au composant [fog](https://github.com/aframevr/aframe/blob/master/docs/components/fog.md).  
 Voilà un exemple d'environnement obtenu après ces quelques retouches : [https://vr.chabloz.eu/ocean_quiet.html](https://vr.chabloz.eu/ocean_quiet.html)
 
-## Pavage hexagonal
+## Sol pavé
 
-Afin de s'initier à **three.js**, le _framework_ utilisé par A-Frame pour la gestion de la 3D, nous allons ajouter un nouvelle [primitive](https://github.com/aframevr/aframe/blob/master/docs/introduction/html-and-primitives.md#registering-a-primitive) pour la création des [mesh](<https://fr.wikipedia.org/wiki/Mesh_(objet)>) nécessaires à un [pavage hexagonal](https://fr.wikipedia.org/wiki/Pavage_hexagonal). Cette partie du TP est inspirée de la bibliothèque de gestion de grille hexagonale [von-grid](https://github.com/vonWolfehaus/von-grid) dont nous n'allons reprendre aucun code existant, puisqu'elle ne couvre pas tous besoins et n'est pas suffisamment optimisée pour tourner correctement sur des casques à faible puissance graphique comme le Quest.
+![Paving choice](./img/practice/red-blue-choice.png)
+
+Afin de s'exercer nous allons créer un sol dans notre scène. Il sera constitué de différentes tuiles.  
+Deux options vous sons proposées pour agencer ces tuiles :
+
+- [Le pavage carré](#paving-square), simple à mettre en place, mais contraignant à des terrains relativement linéaires
+- [Le pavage hexagonal](#paving-hexagon), un peu plus compliqué à mettre en place, masi permetant desagencement de terrains plus intéressants
+
+Si vous hésitez, vous pouvez bien sûr vous exercez en implémentant ces deux systèmes de pavage 😉
+
+### <a name="paving-square"></a>Pavage carré
+
+Afin de poursuivre nos implémentation de composant A-Frame, nous allons simplement créer un [pavage carré](https://fr.wikipedia.org/wiki/Pavage_carr%C3%A9) en utilisant des cubes.
+
+#### La boiboîte
+
+Ajouter simplement une boîte dans votre scène (primitive _[a-box](https://aframe.io/docs/master/primitives/a-box.html)_), pour tester son affichage et jouer avec ses attributs.  
+Ajustez notamment la _width_, _height_, _depth_ pour bien comprendre le sens de l'espace 3D d'A-Frame.
+
+> [!NOTE]  
+> Avec la direction par défaut de la caméra : <span style="background: red">l'axe X</span> positif s'étend vers la droite, <span style="background: green">l'axe Y</span> positif s'étend vers le haut, et <span style="background: blue">l'axe Z</span> positif s'étend hors de l'écran vers nous.
+
+#### Pavage
+
+En utilisant cette primitive, il va maintenant s'agir d'implémenter un composant permettant de les multiplier sur deux axes afin d'obtenir un pavage.  
+De simples boucles (utilisées comme celles comme vous ferriez pour parcourir un tableau à deux dimensions) devraient permettre d'effectuer la distribution de boîtes.
+
+```js
+for (let i = 0; i < data.rows; i++) {
+  for (let j = 0; j < data.cols; j++) {
+    // Set box attributes and make it pop
+  }
+}
+```
+
+Votre composant A-Frame devra permettre de gérer :
+
+- _tileSize_ : La taille de base d'une tuile (nous garderons la même pour la _width_ et _height_, la _depth_ sera attribuée au choix, en dur dans le composant)
+- _cols_ : Le nombre de tuiles disposées sur l'aye Z
+- _rows_ : Le nombre de tuiles disposées sur l'aye X
+- _offset_ : Un paramètre que vous pouvez rajouter en option pour permettre d'ajouter un écart entre les tuiles sur les axes X et Z (utile pour voir que nos tuiles sont "bien là" et qu'il ne s'agit pas d'une seule grosse boîte ou d'un simple plan)
+
+#### Décallage des tuiles
+
+Étant donné que notre sol pavé est parfaitement plat, nous pouvons apporter un petit effet visuel de décallage entre les tuiles en les bougeant sur l'axe Y.
+
+Créez une fonction permetant de générer une valeur aléatoire entre une valeur minimum et maximum (afin que les pavés n'est pas non plus de trop grands écarts de position).  
+Vous pouvez séparer cette méthode dans le dossier `utils`, étant assez générique elle pourrait servir à d'autres endroits de notre application.  
+Utiliser cette fonction pour changer la position Y de chacune des boîtes de notre pavage.
+
+#### Damier
+
+Pour que nos tuiles soient encore plus visibles, implémentez une logique permettant de faire varier la couleur des boîtes afin que le pavage affiche un damier (couleurs noires et blanches, ou autre duo coloré en alternance).  
+Aidez-vous des index parcourant vos dimensiosn de pavage, ainsi que d'un **modulo** pour réaliser l'effet.
+
+### Variation des couleurs
+
+Essayez de rajouter un système de variation de la luminosité (_light_) de la couleur de chaque tuile du pavage.  
+Utilisez le mode HSL (où L spécifie la luminosité) pour adapter aléatoirement la luminosité, tout en préservant une couleur de base unie.
+
+### <a name="paving-hexagon"></a> Pavage hexagonal
+
+Afin de s'initier à **three.js**, le _framework_ utilisé par A-Frame pour la gestion de la 3D, nous allons ajouter un nouvelle [primitive](https://github.com/aframevr/aframe/blob/master/docs/introduction/html-and-primitives.md#registering-a-primitive) pour la création des [mesh](<https://fr.wikipedia.org/wiki/Mesh_(objet)>) nécessaires à un [pavage hexagonal](https://fr.wikipedia.org/wiki/Pavage_hexagonal).  
+Cette partie du TP est inspirée de la bibliothèque de gestion de grille hexagonale [von-grid](https://github.com/vonWolfehaus/von-grid) dont nous n'allons reprendre aucun code existant, puisqu'elle ne couvre pas tous besoins et n'est pas suffisamment optimisée pour tourner correctement sur des casques à faible puissance graphique comme le Quest.
 
 > [!IMPORTANT]
 > Avant de commencez cette partie, il est fortement recommandé de lire cet excellent support sur l'utilisation du pavage hexagonal : [https://www.redblobgames.com/grids/hexagons/](https://www.redblobgames.com/grids/hexagons/).
 
 Afin de simplifier la chose, nous allons nous limiter à une carte en forme d’hexagone pavé d'hexagones à sommet plat en utilisant le système des coordonnées cubiques/axiales.
 
-### Enregistrement de la primitive et du composant
+#### Enregistrement de la primitive et du composant
 
 Suivez la documentation officielle pour rajouter une primitive et le composant associé nécessaire au pavage hexagonal. Pour les attributs, implémentez au minimum les suivants :
 
@@ -72,15 +135,15 @@ Suivez la documentation officielle pour rajouter une primitive et le composant a
 - **cellsize** : la taille des tuiles
 - **height** : la hauteur des tuiles
 
-### Les sommets (_vertices_)
+#### Les sommets (_vertices_)
 
 Lors de la phase d'initialisation du [composant](https://github.com/aframevr/aframe/blob/master/docs/introduction/writing-a-component.md), il va falloir générer toutes les pièces utiles à la création du _mesh_ complet. Il semble donc logique de commencer par la génération d'un hexagone en 2D et donc de ses sommets. Un hexagone possédant 6 sommets, un tableau semble adéquat pour les stocker. Créez donc les 6 sommets grâce à la classe [THREE.Vector2](https://threejs.org/docs/#api/en/math/Vector2) et à la formule géométrique pour le calcul de la position des sommets.
 
-### La forme (_shape_)
+#### La forme (_shape_)
 
 Une fois les sommets créés, il faut les regrouper dans une unique forme et dessiner les arrêtes (_edges_). Créez donc une forme avec la classe [THREE.Shape](https://threejs.org/docs/#api/en/extras/core/Shape), déplacez vous sur le premier sommet (avec la méthode [moveTo](https://threejs.org/docs/#api/en/extras/core/Path.moveTo) de _Shape_) , puis tracez des lignes entre chaque sommet (grâce à la méthode [lineTo](https://threejs.org/docs/#api/en/extras/core/Path.lineTo) de _Shape_).
 
-### La géométrie (_geometry_)
+#### La géométrie (_geometry_)
 
 Il faut désormais transformer la forme 2D (un hexagone) en mesh 3D (un [prisme hexagonal](https://fr.wikipedia.org/wiki/Prisme_hexagonal)). La classe [THREE.ExtrudeGeometry](https://threejs.org/docs/#api/en/geometries/ExtrudeGeometry) permet justement d'extruder une forme 2D. Il faut lui passer en premier paramètre la forme (créée au point précédent ) et en 2e, une configuration (sous la forme d'un objet). Comme vous pouvez le constater dans la documentation, l'on peut appliquer un biseau (_bevel_) lors de cette opération (pour être précis, il s'agit plutôt d'un [chanfrein](https://fr.wikipedia.org/wiki/Chanfrein)). Vous pouvez soit désactiver le biseau, soit le rendre optionnel grâce à un attribut de votre primitive. Pour le paramètre **depth** des options, il s'agit (comme son nom l'indique) de la profondeur d'extrusion et correspond donc à la hauteur de l'hexagone (le paramètre **height** de votre primitive).
 
@@ -89,7 +152,7 @@ Il est aussi important de comprendre pourquoi le prisme hexagonal a besoin de 20
 
 ![Triangles dans un hexagone](./img/practice/hex-triangles.png)
 
-### Le matériau (_material_)
+#### Le matériau (_material_)
 
 Avec le framework _three.js_, les textures sont appliquées sous la forme d'un matériau (_material_). Il existe plusieurs types de matériaux dans _three.js_, le moins gourmand en ressource étant [THREE.MeshLambertMaterial](https://threejs.org/docs/#api/en/materials/MeshLambertMaterial), nous allons l'utiliser pour appliquer une simple texture de couleur sur notre hexagone. Three.js offre la possibilité de passer directement la couleur au matériau comme ceci :
 
@@ -99,7 +162,7 @@ const material = new THREE.MeshLambertMaterial({
 });
 ```
 
-### Le maillage (_mesh_)
+#### Le maillage (_mesh_)
 
 Finalement, il faut appliquer notre matériau sur notre géométrie pour avoir un mesh final texturé. Utilisez donc la classe [THREE.Mesh](https://threejs.org/docs/#api/en/objects/Mesh) pour le faire. Pour faire un test, utiliser ce mesh _three.js_ en temps que mesh _A-Frame_ grâce au code suivant :
 
@@ -122,7 +185,7 @@ Pour bien comprendre pourquoi la rotation doit s'effectuer autour de l'axe X, je
 > **Three.js = radians**  
 > **A-Frame = degrés**
 
-### Pavage
+#### Pavage
 
 Pour le pavage, il va falloir cloner et positionner notre prisme hexagonal de multiple fois. Si vous avez bien lu la documentation sur le pavage hexagonale (lien directe vers les parties qui nous intéresse : [axial coordinate](https://www.redblobgames.com/grids/hexagons/#coordinates-axial), [hex to pixel](https://www.redblobgames.com/grids/hexagons/#hex-to-pixel) et [range](https://www.redblobgames.com/grids/hexagons/#range)), il vous suffit de parcourir les coordonnées axiales **q** et **r** selon la taille du pavage (attribut **size**), puis pour chaque tuile de :
 
@@ -152,7 +215,7 @@ const s = -q - r;
 clone.userData.coordinates = { q, r, s };
 ```
 
-### Ajout des hexagones dans un groupe
+#### Ajout des hexagones dans un groupe
 
 Maintenant que nous avons notre pavage, il faut grouper toutes les tuiles en un seul mesh. Nous pourrions le faire en créant un groupe d'objet 3D avec [THREE.Group](https://threejs.org/docs/?q=group#api/en/objects/Group) et en ajoutant chaque tuile comme enfant (si **tilemap** est le nom de notre tableau stockant toutes les tuiles du pavage) :
 
