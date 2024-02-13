@@ -342,6 +342,7 @@ En voici quelques références, parmi tant d'autres…
 - Saga [Matrix](<https://fr.wikipedia.org/wiki/Matrix_(s%C3%A9rie_de_films)>), 1998 (The Wachowskis)
 - [eXistenZ](https://fr.wikipedia.org/wiki/EXistenZ), 1999 (David Cronenberg)
 - [Avalon](<https://fr.wikipedia.org/wiki/Avalon_(film,_2001)>), 2001 (Oshii Mamoru)
+- [.hack//SIGN](https://fr.wikipedia.org/wiki/.hack//SIGN), 2002 (Yoshiyuki Sadamoto)
 - [Summer Wars](https://fr.wikipedia.org/wiki/Summer_Wars), 2009 (Mamoru Hosoda)
 - [Black Mirror](<https://fr.wikipedia.org/wiki/Black_Mirror_(s%C3%A9rie_t%C3%A9l%C3%A9vis%C3%A9e)>), 2011-… (Charlie Brooker) – Plusieurs épisodes de cette série anthologique explorent les implications de la VR sur la société, notamment "Playtest", "San Junipero" ou encore "USS Callister".
 - [Ready Player One](<https://fr.wikipedia.org/wiki/Ready_Player_One_(film)>), 2018 (Steven Spielberg)
