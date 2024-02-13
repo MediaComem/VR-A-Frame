@@ -14,7 +14,7 @@ Ajoutez aussi [Aframe-Extras](https://github.com/c-frame/aframe-extras) à votre
 Pour vérifier que tout fonctionne, ajoutez les balises HTML nécessaires à l'affichage d'un [océan](https://github.com/c-frame/aframe-extras/tree/master/src/primitives) et testez le tout dans votre browser.  
 Vous devriez obtenir un résultat proche de celui-ci : [https://vr.chabloz.eu/ocean_base.html](https://vr.chabloz.eu/ocean_base.html)
 
-![Base océan](./img/practice/ocean-base.png)
+<!-- ![Base océan](./img/practice/ocean-base.png) -->
 
 ## Environnement
 
