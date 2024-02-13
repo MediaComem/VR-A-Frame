@@ -164,10 +164,11 @@ Pour aller plus loin sur leurs fonctionnements : [How VR Positional Tracking Sys
 
 ### Contrôleurs et systèmes d'interaction VR
 
-La VR se démocratisant, les systèmes permettant d'interagir avec aussi.  
+La VR se démocratisant, ne nouveaux systèmes permettant d'interagir émergent ou se répendent également.     
 Voici quelqu'un des systèmes et/ou contrôleurs possibles aujourd'hui :
 
-- Pour les casques les moins chers (Google Cardboard), un système d’interaction par rapport au regard (gaze interaction) peut être mis en place simplement, un bouton ou un minuteur permettant de _cliquer_ sur des objets par rapport à la position du regard (un curseur).
+- Pour les casques les moins chers (Google Cardboard), un système d’interaction par rapport au regard (gaze interaction) peut être mis en place simplement, un bouton ou un minuteur permettant de _cliquer_ sur des objets par rapport à la position du regard (un curseur).     
+D'autres casques utilisent ces interactions oculaires en intégrant directement un système d'eye-tracking (HTC Vive Cosmos, Meta Quest Pro, Apple Vision Pro… pour n'en citer que quelques-uns).
 
 - Une autre façon d'interaction peu coûteuse est l'utilisation d'un contrôleur 3DoF (Occulus Go, Google Daydream, Samsung GearVR). Comme celui-ci ne peut suivre que les mouvements de rotation, son usage en VR se limite à pouvoir pointer des objets comme les télécommandes des TV modernes, mais également à servir aux déplacements. Toutefois, certains contrôleurs peuvent approximer leurs positions et de ce fait permettent de simuler un 6DoF ([Documentation Unity](https://developers.google.com/vr/develop/unity/controller-support)).
 
@@ -235,7 +236,7 @@ Les lentilles déforment (le ou) les écrans à l'intérieur du casque afin d'av
 
 ![Glare](./img/sota/glare.jpg)
 
-- **Lentille à focale variable** : Les lentilles utilisées dans les casques actuels ne sont pas à focale variable, ainsi il n'est pas possible de recréer exactement le même ressenti qu'en réalité. Les futures lentilles le seront peut-être… Ce système allié à celui du suivit des mouvements oculaires (oculométrie - eye tracking) permettra de se rapprocher de l'idéal.
+- **Lentille à focale variable** : Les lentilles utilisées dans les casques actuels ne sont pas à focale variable, ainsi il n'est pas possible de recréer exactement le même ressenti qu'en réalité. Les futures lentilles le seront peut-être… Ce système allié à celui du suivit des mouvements oculaires (oculométrie / _eye tracking_) permettra de se rapprocher de l'idéal.
 
 ## <a name="movements"></a>Déplacements
 
