@@ -73,12 +73,12 @@ Ajouter simplement une boîte dans votre scène (primitive _[a-box](https://afra
 Ajustez notamment la _width_, _height_, _depth_ pour bien comprendre le sens de l'espace 3D d'A-Frame.
 
 > [!NOTE]  
-> Avec la direction par défaut de la caméra : <span style="background: red">l'axe X</span> positif s'étend vers la droite, <span style="background: green">l'axe Y</span> positif s'étend vers le haut, et <span style="background: blue">l'axe Z</span> positif s'étend hors de l'écran vers nous.
+> Avec la direction par défaut de la caméra : <span style="background: red">l'axe X</span> positif s'étend vers la droite, <span style="background: green">l'axe Y</span> positif s'étend vers le haut, <span style="background: blue">l'axe Z</span> positif s'étend hors de l'écran (vers nous).
 
 #### Pavage
 
 En utilisant cette primitive, il va maintenant s'agir d'implémenter un composant permettant de les multiplier sur deux axes afin d'obtenir un pavage.  
-De simples boucles (utilisées comme celles comme vous ferriez pour parcourir un tableau à deux dimensions) devraient permettre d'effectuer la distribution de boîtes.
+De simples boucles (utilisées comme celles que vous ferriez pour parcourir un tableau à deux dimensions) devraient permettre d'effectuer les distributions de boîtes.
 
 ```js
 for (let i = 0; i < data.rows; i++) {
@@ -105,8 +105,10 @@ Utiliser cette fonction pour changer la position Y de chacune des boîtes de not
 
 #### Damier
 
-Pour que nos tuiles soient encore plus visibles, implémentez une logique permettant de faire varier la couleur des boîtes afin que le pavage affiche un damier (couleurs noires et blanches, ou autre duo coloré en alternance).  
-Aidez-vous des index parcourant vos dimensions de pavage, ainsi que d'un **modulo** pour réaliser l'effet.
+Pour que nos tuiles soient encore plus visibles, implémentez une logique permettant de faire varier la couleur des boîtes afin que le pavage affiche un damier (couleurs noires et blanches, ou autre duo coloré en alternance).
+
+> [!TIP]
+> Aidez-vous des index parcourant vos dimensions de pavage, ainsi que d'un **modulo** pour réaliser l'effet.
 
 #### Variation des couleurs
 
