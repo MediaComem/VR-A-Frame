@@ -242,13 +242,13 @@ Les lentilles déforment (le ou) les écrans à l'intérieur du casque afin d'av
 
 ### Principales problématiques
 
-- Le mal des transports ( _cinétose_ ): qui se produit la plupart du temps lorsque le déplacement visualisé est décalé de celui de l'utilisateur.
+- Le "mal des transports" ( _cinétose_ ), qui se produit la plupart du temps lorsque le déplacement visualisé est décalé de celui de l'utilisateur.
 
 - L'espace réel est souvent restreint à une petite partie d'une pièce, souvent entre 1 et 3 [m^2] alors que l'espace virtuel est d'une taille quelconque.
 
 - L'espace réel peut contenir des obstacles qui seront invisibles en VR. Et inversement, une chaise dans la réalité virtuelle ne sera (peut-être) pas physiquement présente dans la réalité. Pour le moment, quasi tous les systèmes VR utilisent un système de **chaperon** qui permet de faire apparaître des murs virtuels dans l'espace VR lorsque l'utilisateur s'approche d'un obstacle dans le monde réel. Toutefois très peu de ces systèmes sont capables de détecter en temps réel des obstacles mobiles comme une autre personne ou un chat ! Ce sont simplement des espaces statiques prédéfinis avant l'entrée en VR.
 
-### Déplacements et "mal des transports" (cinétose)
+### Déplacements et (cyber-)cinétose
 
 Une des principales règles pour éviter ce problème et de ne jamais prendre le contrôle de la caméra (et donc de la laisser être contrôlée par le système de positionnement du casque VR).
 
@@ -272,7 +272,7 @@ Si les déplacements sont faits via un simulateur de véhicule (voitures, avions
 
 ### Déplacements libres
 
-Si toutefois on opte pour des déplacements libres de la caméra via un contrôleur quelconque (clavier, croix directionnelle, stick analogique… ), il faut éviter de faire simplement bouger la caméra sans autre forme d'artifice sous peine de provoquer un inconfort certain pour beaucoup de personnes. Le jeu [Raw Data](https://survios.com/rawdata/) utilise un système de _sprint_ (ou _dash_) très rapide et très proche de la téléportation. L'effet est quasi identique, mais brise moins l'immersion. Toutefois, pour que cela ne provoque pas trop la _cinétose_ la vision doit être floutée autour de la zone fovéale. Dans [Google Earth VR](https://arvr.google.com/earth/), la même méthode de _flou fovéal_ est utilisée lors de l'utilisation du mode de déplacement "vol" (_flight mode_).
+Si toutefois on opte pour des déplacements libres de la caméra via un contrôleur quelconque (clavier, croix directionnelle, stick analogique… ), il faut éviter de faire simplement bouger la caméra sans autre forme d'artifice sous peine de provoquer un inconfort certain pour beaucoup de personnes. Le jeu [Raw Data](https://survios.com/rawdata/) utilise un système de _sprint_ (ou _dash_) très rapide et très proche de la téléportation. L'effet est quasi identique, mais brise moins l'immersion. Toutefois, pour que cela ne provoque pas trop la cinétose, la vision doit être floutée autour de la zone fovéale. Dans [Google Earth VR](https://arvr.google.com/earth/), la même méthode de _flou fovéal_ est utilisée lors de l'utilisation du mode de déplacement "vol" (_flight mode_).
 
 ### Autres artifices
 
