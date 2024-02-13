@@ -164,11 +164,11 @@ Pour aller plus loin sur leurs fonctionnements : [How VR Positional Tracking Sys
 
 ### Contrôleurs et systèmes d'interaction VR
 
-La VR se démocratisant, ne nouveaux systèmes permettant d'interagir émergent ou se répendent également.     
+La VR se démocratisant, ne nouveaux systèmes permettant d'interagir émergent ou se répendent également.  
 Voici quelqu'un des systèmes et/ou contrôleurs possibles aujourd'hui :
 
-- Pour les casques les moins chers (Google Cardboard), un système d’interaction par rapport au regard (gaze interaction) peut être mis en place simplement, un bouton ou un minuteur permettant de _cliquer_ sur des objets par rapport à la position du regard (un curseur).     
-D'autres casques utilisent ces interactions oculaires en intégrant directement un système d'eye-tracking (HTC Vive Cosmos, Meta Quest Pro, Apple Vision Pro… pour n'en citer que quelques-uns).
+- Pour les casques les moins chers (Google Cardboard), un système d’interaction par rapport au regard (gaze interaction) peut être mis en place simplement, un bouton ou un minuteur permettant de _cliquer_ sur des objets par rapport à la position du regard (un curseur).  
+  D'autres casques utilisent ces interactions oculaires en intégrant directement un système d'eye-tracking (HTC Vive Cosmos, Meta Quest Pro, Apple Vision Pro… pour n'en citer que quelques-uns).
 
 - Une autre façon d'interaction peu coûteuse est l'utilisation d'un contrôleur 3DoF (Occulus Go, Google Daydream, Samsung GearVR). Comme celui-ci ne peut suivre que les mouvements de rotation, son usage en VR se limite à pouvoir pointer des objets comme les télécommandes des TV modernes, mais également à servir aux déplacements. Toutefois, certains contrôleurs peuvent approximer leurs positions et de ce fait permettent de simuler un 6DoF ([Documentation Unity](https://developers.google.com/vr/develop/unity/controller-support)).
 
@@ -176,7 +176,7 @@ D'autres casques utilisent ces interactions oculaires en intégrant directement 
 
 - Une grande majorité de casques (en 2024), intégrent directement un système de suivi de la position des mains et des doigts de l'utilisateur·trice. Des modèles plus ancierns utilisaient des capteurs supplémentaires (comme le [Leap Motion](https://en.wikipedia.org/wiki/Leap_Motion)).
 
-- Certains casques VR proposent également des fonctions de suivi du visage (_face tracking_) et de ses sous-parties, comme le suivi de la bouche (_mouth/lip tracking_) en autre (VIVE Facial Tracker, Meta Quest Pro… pour n'en citer que quelques-uns). Des modèles d'avatars ou jumeaux virtuels profitent directement de ce type d'entrées pour refléter les expressions du visage de l'utilisateur·trice. 
+- Certains casques VR proposent également des fonctions de suivi du visage (_face tracking_) et de ses sous-parties, comme le suivi de la bouche (_mouth/lip tracking_) en autre (VIVE Facial Tracker, Meta Quest Pro… pour n'en citer que quelques-uns). Des modèles d'avatars ou jumeaux virtuels profitent directement de ce type d'entrées pour refléter les expressions du visage de l'utilisateur·trice.
 
 Il existe bien sûr d'autres types de contrôleurs et capteurs plus exotiques, mais ceux-ci reprennent la plupart du temps l'un des principes ci-dessus pour fonctionner.
 
@@ -306,7 +306,9 @@ Bien sûr, pour obtenir de bonnes performances sur les cartes graphiques actuell
 
 # <a name="sensory"></a>Modalités sensorielles
 
-Le son en VR est souvent positionnel afin d'augmenter l'immersion. On peut facilement tromper les sens de la vue et de l'ouïe, mais qu'en est-il des 3 autres ? Pour le toucher, des entreprises développent des technologies haptiques (gants et combinaisons), ce qui nous permettrait de "toucher" les objets virtuels de manière plus convaincante.
+Le son en VR est souvent positionnel afin d'augmenter l'immersion. On peut facilement tromper les sens de la vue et de l'ouïe, mais qu'en est-il des 3 autres ? Pour le toucher, des entreprises développent des technologies haptiques (gants et combinaisons), ce qui nous permettrait de "toucher" les objets virtuels de manière plus convaincante.  
+On parle de retour haptique (_Haptic feedback_) pour décrire les système permetant de recrée le sens du toucher en appliquant des forces, des vibrations ou des mouvements à l'utilisateur.  
+L'exemple le plus classique se trouve dans tous vos smartphone lorsque qu'il vibre au travers de ses petits moteurs de vibration. Le même principe est utilisé sur de nombreuses manetets de jeu ou contrôleurs VR, permetant de générer des sensations de grondement et de tapotement.
 
 Quelques exemples:
 
