@@ -199,13 +199,19 @@ Un autre problème important est le câble des casques reliés. Les casques auto
 
 ### Les écrans
 
-Les écrans (où l'écran) utilisés par les casques posent aussi quelques problèmes d'immersion. Ces problèmes ne sont pas uniquement liés à la VR. Mais comme les écrans sont très proches des yeux et vu au travers de lentilles, ils sont beaucoup plus visibles. Voici les plus importants:
+Les écrans (où l'écran) utilisés par les casques posent aussi quelques problèmes d'immersion. Ces problèmes ne sont pas uniquement liés à la VR. Mais comme les écrans sont très proches des yeux et vu au travers de lentilles, ils sont beaucoup plus visibles.
+
+Voici quelques effets liés à ces problèmes d'écran et d'optique :
 
 - **Screen Door Effect (SDE)** : On voit la "grille" de pixels.  
-  Solutions : Des écrans avec de plus hautes résolutions (avec un bon agencement des sous-pixels) ([Screen Door Effect](https://www.howtogeek.com/404491/what-is-the-screen-door-effect-in-vr/)).
+  Des écrans avec de plus hautes résolutions (avec un bon agencement des sous-pixels) sont une solution pour contrer cet effet. ([Screen Door Effect](https://www.howtogeek.com/404491/what-is-the-screen-door-effect-in-vr/)).
 
 ![Screen Door Effect](./img/sota/sde.jpg)
 [_Source_](https://en.wikipedia.org/wiki/Screen-door_effect#/media/File:Screen-door_effect.jpg)
+
+À noter que la course à la résolution dans les casques VR tend à nettement améliorer les qualités de rendus et diminuer cet effet.
+![Resolution VR headsets](./img/sota/Resolution_VR_headsets.png)
+[_Source_](https://en.wikipedia.org/wiki/File:Resolution_VR_headsets.svg)
 
 - **Mura Effect** : Les à-plats de couleurs ne sont pas homogènes à cause de la composition des écrans qui empêche une luminosité tout à fait régulière ([Mura Effect](https://www.roda-computer.com/technology/mura-effect/)).
 
@@ -287,7 +293,7 @@ Ce type de tapis permet le déplacement infini. Pour le moment ce sont des solut
 
 Une autre nécessité pour ne pas provoquer de cinétose (ou briser l'immersion) est de maintenir un taux de rafraîchissement élevé des images. Les écrans des casques actuels possèdent des fréquences variées allant de 60 [Hz] (Cardboard) à 144 [Hz] (Valve Index). Toutefois, les valeurs en dessous de 90 [Hz] peuvent déjà poser problème à certains utilisateurs. Comme vu dans le chapitre des écrans, il faut aussi que ceux-ci aient une grande résolution. De plus, n’oublions pas que les calculs graphiques doivent être faits pour chaque œil (donc deux fois si vous êtes un humain avec toutes ces facultés visuelles). Tout ceci est très gourmand en ressources graphiques. Il semble d'ailleurs difficile d'obtenir de bonnes performances avec des cartes graphiques aux coûts abordables. Il existe heureusement quelques techniques permettant de pallier ces problématiques :
 
-- **[Le foveated rendering](https://en.wikipedia.org/wiki/Foveated_rendering)** : Seul le centre de l'image est calculé en haute définition. La résolution diminue ensuite de plus en plus en périphérie. Si cette technique est combinée avec l'eye tracking afin d'utiliser la zone où se trouve le focus de la vision de l'utilisateur plutôt que le centre de l'écran, elle peut même être indiscernable.
+- **[Foveated rendering](https://en.wikipedia.org/wiki/Foveated_rendering)** : Seul le centre de l'image est calculé en haute définition. La résolution diminue ensuite de plus en plus en périphérie. Si cette technique est combinée avec l'eye tracking afin d'utiliser la zone où se trouve le focus de la vision de l'utilisateur plutôt que le centre de l'écran, elle peut même être indiscernable.
 
 - **[Asynchronous interleaved reprojection](https://en.wikipedia.org/wiki/Asynchronous_reprojection)** : Des images dernièrement rendues sont adaptées avec les informations de mouvements et de positionnement du casque afin d'obtenir des _frame_ de "secours" en cas de perte de _framerate_.
 
