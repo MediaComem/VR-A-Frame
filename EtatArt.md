@@ -173,7 +173,7 @@ Voici quelqu'un des systèmes et/ou contrôleurs possibles aujourd'hui :
 
 - Les contrôleurs 6DoF quant à eux permettent de suivre avec précision leurs positions (que celle-ci soit dans la main du joueur ou ailleurs). Cela permet d'avoir une immersion quasiment parfaite, notamment quand un objet est présent dans la main du joueur (pinceau, bâton, pistolet, sabre laser, etc.).
 
-- Enfin, sur certains casques, ou à l'aide de senseurs supplémentaires (comme le [Leap Motion](https://en.wikipedia.org/wiki/Leap_Motion)), il est possible de suivre la position des mains et des doigts du joueur.
+- Une grande majorité de casques (en 2024), intégrent directement un système de suivi de la position des mains et des doigts de l'utilisateur·trice. Des modèles plus ancierns utilisaient des capteurs supplémentaires (comme le [Leap Motion](https://en.wikipedia.org/wiki/Leap_Motion)).
 
 - Il existe bien sûr d'autres types de contrôleurs plus exotiques, mais ceux-ci reprennent la plupart du temps l'un des principes ci-dessus pour fonctionner.
 
