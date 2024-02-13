@@ -112,7 +112,7 @@ Pour que nos tuiles soient encore plus visibles, implémentez une logique permet
 
 #### Variation des couleurs
 
-Essayez de rajouter un système de variation de la luminosité (_light_) de la couleur de chaque tuile du pavage.  
+À la place du damier, essayez de rajouter un système de variation de la luminosité (_light_) de la couleur de chaque tuile du pavage.  
 Utilisez le mode HSL (où L spécifie la luminosité) pour adapter aléatoirement la luminosité, tout en préservant une couleur de base unie.
 
 ### <a name="paving-hexagon"></a> Pavage hexagonal
