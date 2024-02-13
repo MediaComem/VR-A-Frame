@@ -125,6 +125,8 @@ XIXe s. - [Stéréoscopes](https://fr.wikipedia.org/wiki/St%C3%A9r%C3%A9oscope)
 2016 – [The Oculus Rift](https://en.wikipedia.org/wiki/Oculus_Rift_CV1)
 2016 – [HTC Vive](https://en.wikipedia.org/wiki/HTC_Vive)
 
+2017 – [Microsoft HoloLens](https://en.wikipedia.org/wiki/Microsoft_HoloLens)
+
 2018 - [Oculus Go](https://en.wikipedia.org/wiki/Oculus_Go)
 
 2019 – [Oculus Quest](https://en.wikipedia.org/wiki/Oculus_Quest)
