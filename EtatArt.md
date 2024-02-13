@@ -175,7 +175,9 @@ Voici quelqu'un des systèmes et/ou contrôleurs possibles aujourd'hui :
 
 - Une grande majorité de casques (en 2024), intégrent directement un système de suivi de la position des mains et des doigts de l'utilisateur·trice. Des modèles plus ancierns utilisaient des capteurs supplémentaires (comme le [Leap Motion](https://en.wikipedia.org/wiki/Leap_Motion)).
 
-- Il existe bien sûr d'autres types de contrôleurs plus exotiques, mais ceux-ci reprennent la plupart du temps l'un des principes ci-dessus pour fonctionner.
+- Certains casques VR proposent également des fonctions de suivi du visage (_face tracking_) et de ses sous-parties, comme le suivi de la bouche (_mouth/lip tracking_) en autre (VIVE Facial Tracker, Meta Quest Pro… pour n'en citer que quelques-uns). Des modèles d'avatars ou jumeaux virtuels profitent directement de ce type d'entrées pour refléter les expressions du visage de l'utilisateur·trice. 
+
+Il existe bien sûr d'autres types de contrôleurs et capteurs plus exotiques, mais ceux-ci reprennent la plupart du temps l'un des principes ci-dessus pour fonctionner.
 
 ## <a name="immersion"></a> Immersion
 
