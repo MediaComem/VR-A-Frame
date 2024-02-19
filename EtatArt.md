@@ -1,4 +1,6 @@
-# Cours à options VR - État de l'art
+![VRIM](./img/vrim-sota.png)
+
+<h1 align="center">Cours à options VR - État de l'art</h1>
 
 ## Sommaire
 

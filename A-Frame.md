@@ -1,4 +1,6 @@
-# Cours à options VR - A-Frame
+![VRIM](./img/vrim-practice.png)
+
+<h1 align="center">Cours à options VR - A-Frame</h1>
 
 ## Objectifs
 
