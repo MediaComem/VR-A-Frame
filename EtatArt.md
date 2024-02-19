@@ -292,7 +292,7 @@ Bien sûr, les techniques décrites précédemment peuvent être combinées.
 
 ### Tapis roulant omnidirectionnel
 
-Ce type de tapis permet le déplacement infini. Pour le moment ce sont des solutions coûteuses, encombrantes, et peu sûres (il faut souvent y associer un système de harnais). Mais ces solutions sont prometteuses. [L'infinadeck](https://www.youtube.com/watch?v=foHmSC-MeGA) est un exemple parmi d'autres.
+Ce type de tapis permet le déplacement infini. Pour le moment ce sont des solutions coûteuses, encombrantes, et peu sûres (il faut souvent y associer un système de harnais). Mais ces solutions sont prometteuses. [L'infinadeck](https://www.youtube.com/watch?v=foHmSC-MeGA), ou [HoloTile Floor](https://www.youtube.com/watch?v=m3Sh6mu4zbs) sont des exemples parmi d'autres.
 
 # <a name="perf"></a>Performances graphiques
 
