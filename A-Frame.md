@@ -9,7 +9,7 @@
 
 ## Mise en place
 
-La version `1.5.0` du _framework_ [A-Frame](https://aframe.io/docs/1.5.0/) sera utilisée. Vous pouvez donc simplement la rajouter dans votre code HTML de base, utiliser le [boilerplate du cours pour Vue](https://github.com/Chabloz/a-frame-vite-vue-boilerplate) (ou celle plus minimaliste pour [WebPack](https://github.com/Chabloz/a-frame-webpack-boilerplate) – /!\ A-Frame v`1.4.1`).
+La version `1.5.0` du _framework_ [A-Frame](https://aframe.io/docs/1.5.0/) sera utilisée. Vous pouvez donc simplement la rajouter dans votre code HTML de base, utiliser le [boilerplate du cours pour Vue](https://github.com/Chabloz/a-frame-vite-vue-boilerplate)
 
 Ajoutez aussi [Aframe-Extras](https://github.com/c-frame/aframe-extras) à votre projet. Nous utiliserons certaines des fonctionnalités offertes par cet ensemble de composants.
 
