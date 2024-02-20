@@ -21,10 +21,12 @@ Concepts clés abordés…
 
 ### Mesh de navigation | _Navigation mesh_ / _Navmesh_
 
-### Système de coordonnées 3D | _3D coordinate system_  
+### Système de coordonnées 3D | _3D coordinate system_
+
 Dans A-Frame :
 ![A-Frame coordinates system](./img/cheat/axis-right-hand.png)
 Avec les doigts de la main droite, indiquant les axes positifs dans l'ordre :
+
 - Pouce vers la droite (X+)
 - Index vers le haut (Y+)
 - Majeur vers son visage (Z+)

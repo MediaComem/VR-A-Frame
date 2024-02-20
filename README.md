@@ -14,3 +14,7 @@ Cela sera l'occasion de développer des compétences en matière de programmatio
 ### 2. [Prise en main de la 3D/VR web](A-Frame.md)
 
 ### 3. Projet personnel
+
+---
+
+### [📝 Cheat sheet](CheatSheet.md)
