@@ -6,7 +6,7 @@ Petit regroupement des notions, documentations et références abordées.
 
 ## Documentations officielles
 
-- [Doc A-Frame (latest)](https://aframe.io/docs/)
+- [Doc A-Frame (latest)](https://aframe.io/docs/master/introduction/)
 - [Doc three.js](https://threejs.org/docs/)
 
 ## Notions
