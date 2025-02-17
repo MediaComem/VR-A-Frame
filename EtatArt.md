@@ -34,11 +34,6 @@ La VR s'applique aussi très bien au jeu de simulation. Elle va aussi créer de 
 
 Les musées ont commencé à utiliser la VR, en l'adaptant à chaque besoin. Elle permet de rendre les expositions interactives, personnalisées, de les compléter avec des éléments contextuels, parfois même de déplacer l'expérience de la visite.
 
-- Au Louvre (Paris) : [Mona Lisa: Beyond the Glass](https://www.youtube.com/watch?time_continue=119&v=Au_UpzhzHwk&feature=emb_logo)
-- Au musée national de Finlande (Helsinki) : [Entrez dans une peinture de 1863](https://www.vrfocus.com/2018/02/national-museum-of-finland-offers-virtual-time-travel/)
-
-Article: [Virtual Reality is a big trend in museums, but what are the best examples of museums using VR?](https://www.museumnext.com/article/how-museums-are-using-virtual-reality/)
-
 ### Métavers
 
 Les futurs métavers (metaverses) se veulent immersifs. La VR est donc probablement un des outils importants pour leur réalisation.
@@ -47,40 +42,24 @@ Les futurs métavers (metaverses) se veulent immersifs. La VR est donc probablem
 
 ### Prototypage
 
-Dans différents domaines, les prototypes en 3D peuvent être testés et développés en VR ce qui permet un gain de temps (et d'argent!) souvent considérable (par exemple en architecture). Quelques exemples provenant de l'industrie automobile :
-
-Article: [BMW Uses Virtual Reality to Build Prototypes](https://www.thedrive.com/sheetmetal/8619/bmw-uses-virtual-reality-to-build-prototypes)
-
-Article: [La réalité virtuelle va révolutionner de nombreux secteurs de l’industrie automobile](https://vrgineers.com/fr/la-realite-virtuelle-va-revolutionner-de-nombreux-secteurs-de-lindustrie-automobile/)
+Dans différents domaines, les prototypes en 3D peuvent être testés et développés en VR ce qui permet un gain de temps et d'argent souvent considérable (par exemple en architecture, en construction automobile, aéronautique, ...). 
 
 ### Éducation et formation
 
-La VR permet notamment la simulation de situations réelles pour l'entraînement (méditation, prise de parole en public, interventions médicales…). Elle permet aussi d'engager, de stimuler les utilisateurs pour un meilleur apprentissage et mémorisation. Histoire, biologie, médecine, il existe aujourd'hui de nombreuses expériences pédagogiques.
-
-- [Unimersiv](https://unimersiv.com/): une app réunissant des expériences VR pédagogiques (Histoire, espace, anatomie…)
-- [InMind VR](https://play.google.com/store/apps/details?id=com.nivalvr.inmind&hl=en): une app pour découvrir le cerveau humain
-- [Discovery VR](http://www.discoveryvr.com/watch/discovery-vr-an-introduction): propose des sortes de documentaires immersifs, pour découvrir le monde
-
-Article: [Virtual Reality in Education](https://thinkmobiles.com/blog/virtual-reality-education/)
-
-Article: [How VR In Education Will Change How We Learn And Teach](https://xd.adobe.com/ideas/principles/emerging-technology/virtual-reality-will-change-learn-teach/)
+La VR permet notamment la simulation de situations réelles pour l'entraînement (prise de parole en public, interventions médicales, …). Elle permet aussi d'engager, de stimuler les utilisateurs pour un meilleur apprentissage et mémorisation. Histoire, biologie, médecine, il existe aujourd'hui de nombreuses expériences pédagogiques.
 
 ### Cinéma et art
 
-Pour le cinéma, la VR permet de s'immerger quasiment totalement dans l'univers et les aventures visionnées. La 3D est déjà bien implantée dans les salles aujourd'hui, mais l'immersion VR va plus loin encore. Elle est aussi utilisée par les artistes 3D, qui peuvent créer directement en VR (et s'occuper de l'animation avec des outils comme [PoseVR](https://vrscout.com/news/disneys-posevr-animation-tool/)), ou tout simplement visionner leurs créations via ce média. La VR crée aussi de nouvelles possibilités pour les autres arts. Par exemple le dessin ou la sculpture en VR (ex. [https://time.com/vr-is-for-artists/](https://time.com/vr-is-for-artists/)).
-
-Article: [Cinéma VR – Comment la réalité virtuelle transforme le cinéma](https://www.realite-virtuelle.com/cinema-vr/)
+Pour le cinéma, la VR permet de s'immerger quasiment totalement dans l'univers et les aventures visionnées. La 3D est déjà bien implantée dans les salles aujourd'hui, mais l'immersion VR va plus loin encore. Elle est aussi utilisée par les artistes 3D, qui peuvent créer directement en VR (et s'occuper de l'animation avec des outils comme [PoseVR](https://vrscout.com/news/disneys-posevr-animation-tool/)), ou tout simplement visionner leurs créations via ce média. La VR crée aussi de nouvelles possibilités pour les autres arts. Par exemple le dessin ou la sculpture en VR.
 
 ### Intelligence artificielle et robotique
 
 Les systèmes utilisant l'intelligence artificielle (comme entre autres la robotique) doivent tout d'abord être entraînés avant d'être opérationnels. Souvent, le robot est construit, entraîné et testé, mais il est possible de faire quelques essais en amont grâce à la VR. Il est par exemple possible de tester les interactions d'un robot (virtuel) avec un environnement virtuel avant de passer à l'étape de construction. Ou encore d’entraîner le robot directement en VR.
 
-Article: [AI Meets VR When Nvidia Trains Isaac On Holodeck](https://www.tomshardware.com/news/ai-robot-training-isaac-holodeck,35126.html)
-
 ### Autres applications
 
-La VR peut être utilisée dans une pléthore d'autres domaines. Par exemple, elle pourrait améliorer le télétravail (article: [VR could help transform remote work](https://www.computerworld.com/article/3174756/vr-could-help-transform-remote-work.html)).  
-Elle est aussi utilisée en médecine, par exemple pour [combattre les phobies](https://www.letemps.ch/sciences/soigner-phobies-grace-realite-virtuelle).  
+La VR peut être utilisée dans une pléthore d'autres domaines. Par exemple, elle pourrait améliorer le télétravail. 
+Elle est aussi utilisée en médecine, par exemple pour combattre les phobies.  
 Les applications semblent infinies, puisque ce média semble être capable d'englober tous les autres.
 
 ## <a name="histo"></a> Quelques exemples historiques
@@ -172,13 +151,13 @@ Voici quelqu'un des systèmes et/ou contrôleurs possibles aujourd'hui :
 - Pour les casques les moins chers (Google Cardboard), un système d’interaction par rapport au regard (gaze interaction) peut être mis en place simplement, un bouton ou un minuteur permettant de _cliquer_ sur des objets par rapport à la position du regard (un curseur).  
   D'autres casques utilisent ces interactions oculaires en intégrant directement un système d'eye-tracking (HTC Vive Cosmos, Meta Quest Pro, Apple Vision Pro… pour n'en citer que quelques-uns).
 
-- Une autre façon d'interaction peu coûteuse est l'utilisation d'un contrôleur 3DoF (Occulus Go, Google Daydream, Samsung GearVR). Comme celui-ci ne peut suivre que les mouvements de rotation, son usage en VR se limite à pouvoir pointer des objets comme les télécommandes des TV modernes, mais également à servir aux déplacements. Toutefois, certains contrôleurs peuvent approximer leurs positions et de ce fait permettent de simuler un 6DoF ([Documentation Unity](https://developers.google.com/vr/develop/unity/controller-support)).
+- Une autre façon d'interaction peu coûteuse est l'utilisation d'un contrôleur 3DoF (Occulus Go, Google Daydream, Samsung GearVR). Comme celui-ci ne peut suivre que les mouvements de rotation, son usage en VR se limite à pouvoir pointer des objets comme les télécommandes des TV modernes, mais également à servir aux déplacements. Toutefois, certains contrôleurs peuvent approximer leurs positions et de ce fait permettent de simuler un 6DoF.
 
 - Les contrôleurs 6DoF quant à eux permettent de suivre avec précision leurs positions (que celle-ci soit dans la main du joueur ou ailleurs). Cela permet d'avoir une immersion quasiment parfaite, notamment quand un objet est présent dans la main du joueur (pinceau, bâton, pistolet, sabre laser, etc.).
 
-- Une grande majorité de casques (en 2024), intégrent directement un système de suivi de la position des mains et des doigts de l'utilisateur·trice. Des modèles plus ancierns utilisaient des capteurs supplémentaires (comme le [Leap Motion](https://en.wikipedia.org/wiki/Leap_Motion)).
+- Une grande majorité de casques (depuis 2024), intégrent directement un système de suivi de la position des mains et des doigts de l'utilisateur·trice. Des modèles plus ancierns utilisaient des capteurs supplémentaires (comme le [Leap Motion](https://en.wikipedia.org/wiki/Leap_Motion)).
 
-- Certains casques VR proposent également des fonctions de suivi du visage (_face tracking_) et de ses sous-parties, comme le suivi de la bouche (_mouth/lip tracking_) en autre (VIVE Facial Tracker, Meta Quest Pro… pour n'en citer que quelques-uns). Des modèles d'avatars ou jumeaux virtuels profitent directement de ce type d'entrées pour refléter les expressions du visage de l'utilisateur·trice.
+- Certains casques VR proposent également des fonctions de suivi du visage (_face tracking_) et de ses sous-parties, comme le suivi de la bouche (_mouth/lip tracking_) en autre (VIVE Facial Tracker, Meta Quest Pro, Apple Vision Pro, ...). Des modèles d'avatars ou jumeaux virtuels profitent directement de ce type d'entrées pour refléter les expressions du visage de l'utilisateur·trice.
 
 Il existe bien sûr d'autres types de contrôleurs et capteurs plus exotiques, mais ceux-ci reprennent la plupart du temps l'un des principes ci-dessus pour fonctionner.
 
